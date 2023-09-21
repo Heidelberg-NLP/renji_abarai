@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2b1m5YcjMVzmrcdISD8E6dQL7p6",
+  "object": "chat.completion",
+  "created": 1683104271,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1899,
+    "completion_tokens": 27,
+    "total_tokens": 1926
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is not a text to predict on the quality of the rhetorical argument. It is a list of sources used in a research paper."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

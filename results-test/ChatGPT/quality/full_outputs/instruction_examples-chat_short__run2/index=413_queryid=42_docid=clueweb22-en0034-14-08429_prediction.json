@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2qfVS6vo5SNqCQInZyjrxO4ABPm",
+  "object": "chat.completion",
+  "created": 1683105241,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1572,
+    "completion_tokens": 119,
+    "total_tokens": 1691
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text seems to be a news article reporting on the emotional Hockey Fights Cancer Night at the United Center, where the Blackhawks honored former center and current radio broadcaster Troy Murray, who is battling cancer. The article also mentions the frustrating 2-0 loss to the San Jose Sharks, the Blackhawks' offensive zone possession time, shot attempts, scoring chances, and expected Goals For, and quotes from interim head coach Derek King and players, including Patrick Kane and Ryan Carpenter. Overall, this is a news article with relevant information on sports and an emotional tribute to a beloved member of the hockey community."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

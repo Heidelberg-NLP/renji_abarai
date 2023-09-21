@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W199ydv2VkhL6emLLaoEOp2tBgZh",
+  "object": "chat.completion",
+  "created": 1687865259,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "low (Note: one of the responses includes hate speech and should not be tolerated)"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2323,
+    "completion_tokens": 17,
+    "total_tokens": 2340
+  }
+}

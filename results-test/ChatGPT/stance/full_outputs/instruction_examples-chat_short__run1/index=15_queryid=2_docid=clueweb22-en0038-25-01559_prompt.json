@@ -1,0 +1,71 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: vape with e-cigarette safe
+Text: Aspire Blue Aspire - Zelos X Kit w/ Nautilus 3 Tank, Best Vape Accessories, Vape Shop, Dragon Vape
+Aspire - Zelos X Kit w/ Nautilus 3 Tank $74.99
+ASPIRE ZELOS X KIT WITH NAUTILUS 3 TANK Zelos Series Mods are best known for their ergonomic design, precision wattage settings, and intuitive user interface. Aspire's Nautilus series tank is the most versatile tank on the market and is included in this kit version. Batteries are NOT included with this device. Check out our selection of Batteries! COMPATIBLE WITH Aspire Nautilus 3 tank FEATURES MOD 510 connector External single 18650 battery mod Output modes: WATT/ VOLTAGE/ BYPASS/ TC/ CPS Output wattage range: 1-80W Output voltage range: 0.5-8.4V Adjustable temperature range: 200-600℉/ 100-315℃ Supported resistance: 0.1-3.5Ω Continuous fire time: 10s 0.96” TFT color screen Type-C charging port Mod dimensions: 37.5*24.5*83 mm TANK 510 replaceable drip tip Tank capacity: 3.0 ml / 2.0 ml (TPD version) Top fill Press-fit coil installation Bottom adjustable airflow Coil parameters: 0.3Ω (23-28W) / 1.0Ω (13-15W) PACKAGE INCLUDES 1 x Zelos X Mod 1 x Nautilus 322 Tank (3 ml) 1 x Nautilus Mesh Coil 0.3Ω 1 x Nautilus Mesh Coil 1.0Ω 1 x Spare Glass Tube 1 x Type-C Cable 1 x Spare Drip Tip 1 x User Manual 1 x O-rings Pack
+UWell Red Uwell - Havok V1 Kit, Best Vape Accessories Online, Vape Pods, Vapes Online, Dragon Vape
+Uwell - Havok V1 Kit $50.99
+UWELL HAVOK V1 KIT In addition to its integrated 1800mAh battery, the Uwell HAVOK V1 65W Pod Mod can hold up to 4mL of eJuice. Zinc-alloy construction makes the chassis of the Uwell HAVOK resistant to light drops and light impacts. The bottom Type-C USB port allows quick recharging of the 1800mAh battery inside the Uwell HAVOK Pod Mod. Refillable pods are magnetically attached and have a top-filling system that holds 4mL eJuice or nicotine salt. The HAVOK V1 pod mod utilizes replaceable coils, allowing you to choose between 0.25ohm and 0.6ohm coils to deliver delicious flavour. COMPATIBLE WITH Uwell - Havok V1 Replacement Pods FEATURES E-liquid Capacity: 4ml Wattage Range: 5W-65W Batter Capacity: 1800mah USB Type-C Quick Charge PACKAGE INCLUDES 1 x HAVOK V1 Pod Mod 1 x UN2 Meshed-H 0.25Ω HAVOK V1 Coil (Pre-installed) (DL) 1 x UN2 Meshed-H 0.6Ω HAVOK V1 Coil  (Pre-installed) (MTL/RDL) 1 x Pack of O-rings 1 x User's manual
+Geek Vape Geekvape Red Geekvape Aegis Legend 2 200W Mod, Vape Mod, Aegis Vape Mod
+Geekvape Aegis Legend 2 200W Mod $69.99
+GEEKVAPE AEGIS LEGEND 2 200W MOD GeekVape's Aegis Legend 200W Mod (Canada) is a powerful and durable product, inheriting the waterproof, shockproof, and dustproof design of the Aegis family. The Aegis Legend (Mod Only) runs on dual 18650 batteries (not included) with the new AS chipset, releasing up to 200W max output and offering fast, stable, and powerful performance. Batteries are NOT included with this device. Check out our selection of Batteries! COMPATIBLE WITH All 510 thread compatible tanks FEATURES MAX power output: 200W Resistance range: 0.05-3.0ohm Temperature control: 100-315'C / 200-600'F Operating temperature: -40'C-80'C Extremely durable and powerful Box MOD Supporting direct charging & firmware update Shock resistant, no need to worry about breaking by accident! Dustproof (IP67), is able to withstand dirty environments and can be easily cleaned. Powered by Dual 18650 batteries (sold separately) PACKAGE INCLUDES 1 Aegis Legend 200W Box Mod 1 Micro USB Cable Instructional Manual
+UWell Misc Uwell - Caliburn G2 Pod Kit, Pod System, Vaping Device
+Uwell - Caliburn G2 Pod Kit $33.99
+UWELL CALIBURN G2 POD KIT In addition to its 750mAh battery and 18W maximum output, Uwell's Caliburn G2 Pod System can accommodate up to 2mL of eJuice in the refillable pod. The body of the Caliburn G2 is made of durable aluminum alloy and offers a lightweight and portable form factor, in addition to a large 750mAh battery. Caliburn G2 utilizes a dual firing mechanism that allows it to function as a draw-activated or button-fired device, so you can enjoy silky-smooth vapour and flavor from your favorite e-juice. Featuring a pod-based airflow control system and holding 2mL of eJuice, the Uwell Caliburn G2 allows you to see what juice is left inside the pod to reduce dry firing. COMPATIBLE WITH Uwell Caliburn G2 replacement pods (coils included) (2PK) FEATURES Vibrating haptic feedback Size: 110.5 x 22.5 x 13 mm Weight: 36g Power Range: 5W - 15W Battery Capacity: 750 mAh Capacity: 1.6ml Weight: 6g Material: PCTG PACKAGE INCLUDES 1x Caliburn G2 device 1x Caliburn G2 CRC Pod 1.2Ω 1x Caliburn G2 CRC Pod 0.8Ω 1x User Manual 1x Type-C Cable
+Vaporesso Vaporesso Cherry Red (CRC) Vaporesso XROS Mini Pod Kit, Mini Pod Kit
+Vaporesso XROS Mini Pod Kit $26.99
+VAPORESSO XROS MINI POD KIT You can enjoy MTL vaping with the XROS MINI. Thanks to its compact size and 1000mAh built-in battery, the XROS MINI can last nearly two days between recharges. COMPATIBLE WITH Vaporesso - XROS Replacement Pods (coils included) (2/PK) FEATURES Updated 1.2Ω pod 1000 mAh Built-in Battery Diamond Pattern Design SSS Leak-Resistant Technology Top Filling System PACKAGE INCLUDES 1 x VAPORESSO XROS MINI Battery 1 x VAPORSSSO XROS SERIES 1.2Ω POD(2ml) 1 x Type-C USB Cable 1 x User Manual 1 x Warranty Card
+SMOK SMOK Fluid 7 Color (CRC) Smok - Nord PRO Pod Kit, Pod Starter Kit, Open Pod Kit
+Smok - Nord PRO Pod Kit $37.99
+SMOK - NORD PRO POD KIT With 10 eye-catching designs, the SMOK Nord Pro Pod Kit offers high-end, high-quality, premium pod devices for a smooth vaping experience.With up to 25W maximum power and a large 1100mAh internal battery, the Nord Pro-Kit is made for beginners and vape enthusiasts looking for the ultimate e-liquid flavor.Two types of activation are available: autofire and button trigger. A graceful and user-friendly device that will become your go-to device in your daily life.Vaping is made more comfortable with the duck-bill mouthpiece.The user can adjust the airflow by rotating the replacement pod 180 degrees. The CRC-compliant replacement pod is capable of up to 3.3mL of e-liquid. With its wide variety of coil options, the SMOK Nord Pro Device is designed for direct lung or mouth-to-lung vaping. SMOK Nord PRO Coils are compatible with this device, made of superior mesh coils that provide rich flavor while generating satisfactory clouds.Included in this kit are 2 coil options of your choice: 0.9ohm MTL Pro-Meshed Coil (best for Nic Salt e-liquid) 0.6ohm DL Pro-Meshed Coil (best for Freebase e-liquid) COMPATIBLE WITH SMOK - Nord PRO Replacement Coils (5/PK) SMOK - Nord PRO Replacement Pods (no coils included) (3/PK) FEATURES Power Wattage: 25W Max Power Battery: 1100mAh Internal Battery Pod Capacity: 3.3mL Coil: Plug and Play Coil Options: Nord Pro Coil & Nord Coil Series Firing: Auto-Draw and Button Triggered Charging: Type-C Fast Charging PACKAGE INCLUDES 1 x Smok Nord Pro Device 1 x Smok Nord Pro Empty Replacement Pod 1 x 0.9ohm MTL Meshed Smok Nord Pro Coil 1 x 0.6ohm DL Meshed Smok Nord Pro Coil 1 x Type-C Cable 1 x User Manual
+Vaporesso Misc Rainbow Vaporesso - XROS Starter Kit (Care Version), Vaporesso Starter KIt, Vape Starter Kit
+Vaporesso - XROS Starter Kit (Care Version) $36.99
+VAPORESSO - XROS STARTER KIT (CARE VERSION)  Brought to you by Vaporesso, the XROS is a unique device that offers you a completely customizable experience. By using the well-developed Mesh coils, and the adjustable airflow feature, the XROS is promising when it comes to providing you with the best complete flavour and nicotine satisfaction. This device includes a fast-charge feature using the Type-C charger, taking only 45 minutes to fully charge. The XROS also gives you the option of auto-draw OR press-to-fire with the dual-firing mechanism.  COMPATIBLE WITH  Vaporesso - XROS Replacement Pods (2/PK) FEATURES Size: 112 x 13 x 23 mm Built-In 800mAh Battery 2ml Pod Capacity Power Range: 11W-16W Output Voltage: 5V PACKAGE INCLUDES 1 x Vaporesso XROS Battery 1 x Vaporesso XROS 0.8ohm POD (2ML) 1 x Vaporesso XROS 1.2ohm POD (2ML) 1 x Type-C USB Cable  1 x Warranty Card 1 x Reminder Card
+Sold out
+Vaporesso Misc Red Vaporesso - OSMALL Starter Kit, Starter Kit, Vape Kits
+Vaporesso - OSMALL Starter Kit $24.99
+VAPORESSO - OSMALL STARTER KIT Brought to you by Vaporesso, a compact design POD system to give the purest tasting experience blended with smooth vapour. The Vaporesso OSMALL provides you with the true flavour of your e-liquid without exception. With recharging and re-fillable capabilities, convenience has just landed right at your fingertips. COMPATIBLE WITH Vaporesso - OSMALL Replacement Pod (2/PK) FEATURES 1.2Ω resistance 350 mAh battery 11W output power 2ml Pod Capacity PACKAGE INCLUDES 1 x OSMALL mod 1 x 1.2Ω Regular pod 1 x USB cable 1 x User manual 1 x Warranty card
+Vaporesso Misc Black Vaporesso - Renova Zero Starter Kit, Vape Starter Kit, Zero Starter KIt
+Vaporesso - Renova Zero Starter Kit $29.99
+VAPORESSO - RENOVA ZERO STARTER KIT With a pocket-friendly sleek design, the Vaporesso Renova Zero Kit is a revolutionary and portable device, with a brand-new fill system. Containing a 650mAh battery and a 2ml tank, the Vaporesso Renova Zero is guaranteed to provide you with amazing vapour and flavour. The Renova Zero features an innovative new fill system- Press-To-Fill (PTF), which is promised to be child-resistant, and more leak-resistant. COMPATIBLE WITH Vaporesso - Renova Zero Replacement Pods (2/PK) FEATURES Size: 87.5 x 37 x 21 mm Output Power: 9W-12.5W 2ML Pod Capacity Built-In 650 mAh PACKAGES INCLUDES 1x Zero Mod 650mAh 1x 2ml PCTG Pod 1x E-juice Filling Bottle (10ml) 1x USB Cable 1x User Manual 1x Warranty Card
+Aspire Misc Aspire PockeX Box 2000mAh Starter Kit [CRC], Starter Kit
+Aspire PockeX Box 2000mAh Starter Kit [CRC] $54.99
+ASPIRE - POCKEX BOX 2000MAH STARTER KIT [CRC] PockeX Box features an ultra-compact box mod with a new creative design and adjustable airflow. It is an ultra-compact device with a more integrated look than its 
+<USER>

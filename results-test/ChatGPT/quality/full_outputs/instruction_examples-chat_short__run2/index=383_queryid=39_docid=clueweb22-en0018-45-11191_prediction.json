@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2pZoeHX58h5ftkiXjh7dFP7RNSp",
+  "object": "chat.completion",
+  "created": 1683105173,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1418,
+    "completion_tokens": 54,
+    "total_tokens": 1472
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is not a rhetorical argument, but instead provides information about the new federal minimum wage requirement for government contractors and the steps that contractors need to take to ensure compliance with the new standard. Therefore, it is not applicable to the task of predicting the rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

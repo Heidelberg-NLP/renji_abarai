@@ -1,0 +1,149 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should net neutrality restore
+Text: Net Neutrality – Top 3 Pros and Cons
+
+The net neutrality rules adopted in 2015 under the Obama administration regulated the internet as a common carrier, the same category as telephone service, under Title II of the Telecommunications Act of 1996. The Federal Communications Commission (FCC) rules prevented internet service providers (ISPs) from blocking, slowing, prioritizing, or charging consumers extra money to access certain websites. For example, under net neutrality rules, Verizon could not speed up access to websites it owns, such as Yahoo and AOL, and could not slow down traffic, or charge extra fees, to other major websites like Google or YouTube. [5] [4]
+
+On Dec. 14, 2017, under the Trump administration, the FCC voted (3-2) to overturn those net neutrality rules and reclassified internet service as an information source, rather than a common carrier. [1] [5]
+
+Many state attorneys general filed suit against the FCC decision. The US Senate voted 52-47 to approve a resolution to invalidate the decision, however the legislation fell short by 46 votes in the US House of Representatives. The FCC’s removal of net neutrality rules was officially implemented on June 11, 2018. [6] [25] [26] [34]
+
+In Sep. 2018, California passed a net neutrality law and was immediately sued by the Trump Administration Justice Department. On Feb. 8, 2021, the Biden administration Justice Department withdrew the lawsuit against California, and FCC Acting Chairwoman Jessica Rosenworcel indicated support for reinstating net neutrality rules. [35] [36]
+
+According to the National Law Review, as of Mar. 1, 2021, “seven states have adopted net neutrality laws (California, Colorado, Maine, New Jersey, Oregon, Vermont, and Washington), and several other states have introduced some form of net neutrality legislation in the 2021 legislative session (among them Connecticut, Kentucky, Missouri, New York, and South Carolina).” [37]
+
+Should the US Have Net Neutrality Laws?
+
+Pro 1
+
+Net neutrality preserves free speech on the internet by prohibiting internet service providers from blocking content.
+
+ISPs may slow or block websites that disagree with the companies’ political viewpoints or interfere with their monetary interests. [2][7]
+
+In 2017, then FCC Commissioner Jessica Rosenworcel, JD, stated that the removal of net neutrality rules will give ISPs “extraordinary new power” and allow them “to censor online content.” [8]
+
+According to the 2014 D.C. Circuit court ruling, Verizon v. FCC, the power of ISPs to censor content is not “merely theoretical.” Before net neutrality was in place, instances of content censorship actually occurred, including two separate instances of broadband ISPs blocking access to voice over IP applications, and one instance of an ISP blocking an online payment service. [15]
+
+In 2014, President Obama stated that “an open Internet… has been one of the most significant democratizing influences the world has ever known,” and that if content is legal your ISP should not be allowed to block it. [33]
+
+The Electronic Freedom Foundation has argued that, “the meaningful exercise of our constitutional rights—including the freedoms of speech, assembly, and press—has become dependent on broadband Internet access.” This dependency makes net neutrality rules essential for a free society. [16]
+
+Read More
+
+Pro 2
+
+Net neutrality protects consumers by preventing ISPs from speeding, slowing, or charging higher fees for select online content.
+
+Allowing ISPs to speed or slow certain websites, or charge fees for fast lane access, may eventually trickle down to consumers in the form of higher internet costs. For example, a person who gets their internet service from Comcast could be charged extra fees to stream Netflix or Amazon (companies not owned by Comcast), while not being charged extra to stream NBC or Hulu (two companies that Comcast partially owns). [21]
+
+According to US Representative Anna Eshoo (D-CA), without net neutrality, ISPs could “cabel-ize” the internet, meaning that “instead of paying a flat price for access to use any app or service free of charge, companies could start bundling services into ‘social,’ ‘video,’ and so on,” and consumers will have to pay for it. [23]
+
+On Apr. 27, 2017, one day after then FCC Chairman Ajit Pai, JD, announced the plan to eliminate net neutrality, Comcast (the largest US ISP) removed its pledge to not “prioritize internet traffic or create paid fast lanes” from its corporate website. [20][11]
+
+Read More
+
+Pro 3
+
+Net neutrality promotes competition by providing a level playing field for new companies.
+
+According to former Internet Association President & CEO Michael Beckerman, “without net neutrality protections, startups would face discrimination from ISP owned or preferred content that’s granted a speed advantage through paid prioritization,” thus hurting competition and consumer choice. [18][29]
+
+When the FCC implemented net neutrality rules in 2015, it warned “that broadband providers hold all the tools necessary” to “degrade content, or disfavor the content that they don’t like.” [27]
+
+According to Ryan Singel, Fellow at the the Center for Internet and Society at Stanford Law School, without net neutrality “broadband providers will be allowed to charge all websites and services, including startups, simply to reach an ISP’s subscribers. That’s a huge threat to the low cost of starting a company, and it totally up-ends the economics of the internet.” [17]
+
+A group of over 1,000 startup companies, innovators, and investors signed a petition to the FCC stating that “the success of America’s startup ecosystem depends… on an open Internet—including enforceable net neutrality rules.” [19] Google’s CEO Sundar Pichai, MBA, said net neutrality principles must be protected “for the next set of entrepreneurs, building their services and trying to reach users.” [24]
+
+Read More
+
+Con 1
+
+Net neutrality regulations are unnecessary because the internet developed amazingly well in their absence.
+
+Most large internet companies including Google (1998), Facebook (2004), YouTube (2005), and Twitter (2006) were started and grew to success without net neutrality regulations.
+
+According to former FCC Chairman Ajit Pai, JD, “the internet wasn’t broken in 2015,” when net neutrality was implemented and “it certainly wasn’t heavy-handed government regulation” that was responsible for the “phenomenal development of the internet.” [9]
+
+As former FCC Commissioner Michael O’Rielly stated, “periods without net neutrality rules were times of innovation and investment.” [12]
+
+According to economist John W. Mayo, PhD, the entire rationale for net neutrality ignores the “positive economic outcomes in the provision of internet services that resulted from twenty years of light-touch regulation.” [32]
+
+As economist Gerald R. Faulhaber, PhD, argued: “we have had a decade of experience with broadband ISPs with little evidence of wrongdoing.” [3]
+
+A 2017 statement from the Internet & Television Association, signed by 21 large ISPs, stated they remain “committed to an open internet” and “will not block, throttle or otherwise impair your online activity,” once net neutrality regulations are removed. [14]
+
+Read More
+
+Con 2
+
+Net neutrality created burdensome and overreaching regulations to govern the internet.
+
+According to the bipartisan Telecommunications Act of 1996, “the Internet and other interactive computer services have flourished, to the benefit of all Americans, with a minimum of government regulation,” and it should be the policy of the United States “to preserve the vibrant and competitive free market… for the Internet and other interactive computer services unfettered by Federal or State regulation.” [32]
+
+In 2017, the FCC reported that neutrality rules imposed significant and “unnecessary” reporting burdens on ISPs to prove they were in compliance. For example, the ISP CenturyLink estimated that meeting the net neutrality rules created over 5,000 hours of extra paperwork, costing over $134,000 each year. [10]
+
+In addition to being burdensome for ISPs, net neutrality regulations exceed the FCC’s authority. According to the editors of the National Review, the net neutrality rules exceeded “the agency’s statutory mandate,” and “there is no title or provision in the Federal Communication Act that gives the agency a clear mandate to impose pricing and content-management rules on Internet providers, which is what net neutrality does.” [31]
+
+Read More
+
+Con 3
+
+Net neutrality reduces investment in internet services resulting in less access and higher costs for consumers.
+
+Between 2011 and 2015, when neutrality rules were being debated by the FCC, the mere threat of implementing them reduced ISPs investments in network upgrades by 20-30%, a $150-$200 billion reduction in investment. [13]
+
+During the years that net neutrality rules were in place (2015-2017), investment in broadband fell for the first time ever in a non-recession period. [10][28]
+
+According to AT&T, that “chilled investment in broadband,” threatened “to slow the delivery of broadband services to all Americans… particularly in rural America where broadband investment is needed the most.” [30]
+
+Net neutrality regulations also prevent ISPs from charging large content companies (such as video streaming services) additional fees to cover the costs of the massive bandwidth they use. Preventing such paid prioritization fees places the costs of building the additional capacity necessary to carry the content onto ISPs, and these costs will trickle down to consumers in the form of more expensive internet packages – which are paid by all, even those who don’t use the streaming services. [22]
+
+Read More
+
+Discussion Questions
+
+1. Should the United States have federal net neutrality laws? Why or why not?
+
+2. Do net neutrality regulations protect consumers? Explain your answer(s).
+
+3. Do net neutrality regulations unfairly limit internet companies?
+
+Take Action
+<USER>

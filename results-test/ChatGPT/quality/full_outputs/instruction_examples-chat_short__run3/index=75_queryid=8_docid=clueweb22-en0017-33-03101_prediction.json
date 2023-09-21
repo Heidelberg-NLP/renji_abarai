@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2zLbvs0CTXjzelntzndT2gTSURh",
+  "object": "chat.completion",
+  "created": 1683105779,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1446,
+    "completion_tokens": 48,
+    "total_tokens": 1494
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "It's hard to predict a rhetorical argument quality assessment for this text. The text seems to be an informative one about the background and history of the abortion debate in the US, rather than presenting a clear argument for one side or the other."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

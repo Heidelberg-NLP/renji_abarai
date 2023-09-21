@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2aL5aE3kuJJqu3ufnLOggMYoxJ8",
+  "object": "chat.completion",
+  "created": 1687870789,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "There is no clear stance provided on whether a two-state solution is an acceptable solution to the Israeli-Palestinian conflict, so the text falls under \"none\" label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2491,
+    "completion_tokens": 34,
+    "total_tokens": 2525
+  }
+}

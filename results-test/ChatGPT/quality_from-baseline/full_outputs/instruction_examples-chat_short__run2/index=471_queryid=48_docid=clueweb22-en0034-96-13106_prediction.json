@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1CPDnlRGhyN51h8ZDR9FNORUESM",
+  "object": "chat.completion",
+  "created": 1687865461,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text argues in favor of allowing 16- and 17-year-olds to vote in local elections, citing that government decisions impact young people's lives and that voting is a habit that could be developed early. On the other hand, opponents point out that younger teens may not take the responsibility of voting seriously, and may not be educated enough to understand the issues at hand. The text provides a historical overview of how the rules about voting have evolved over time, to suggest that what may be considered acceptable and permissible changes over time. Overall, the quality of the rhetorical argument is medium."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1435,
+    "completion_tokens": 117,
+    "total_tokens": 1552
+  }
+}

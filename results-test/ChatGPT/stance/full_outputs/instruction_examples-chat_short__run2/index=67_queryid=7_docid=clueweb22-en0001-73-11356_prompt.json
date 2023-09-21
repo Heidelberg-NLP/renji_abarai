@@ -1,0 +1,206 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should felon who have complete they sentence allow vote
+Text: Can A Felon Vote? - What States can you vote with a Felony?
+
+Can A Felon Vote? – Felon voting rights by state
+
+After serving their sentence, felons discover multiple limitations imposed on them. Each offense implies its own limitations, but a common restriction among all felonies is felony disenfranchisement, that is, the suspension of voting rights.
+
+Disenfranchisement is widely used across the United States, though how exactly it is used vastly varies from state to state. And as a felon who has recently finished their sentence, you may be wondering: can a felon vote?
+
+There isn’t a single answer to this question since policies vary from state to state, as we already mentioned. So we’ll try to provide you with information on felon voting right policies for each state.
+
+What is felony disenfranchisement?
+
+felon voting
+
+Felony disenfranchisement is the restriction of an individual’s voting rights due to a conviction in a felony. Felonies are offenses that are punished by incarceration of more than 1 year or/and a fine over $1000.
+
+Felony disenfranchisement is one of the collateral consequences of a conviction. Disenfranchisement is common for felons across the United States. And since the United States is among the most punitive countries in the world when it comes to felonies, its limitations are more restrictive than in many other countries around the world.
+
+In fact, to give you some perspective, here are figures of felony disenfranchisement as of 2016:
+
+* As of 2016, there were 6,1 million Americans disenfranchised due to a felony conviction. This number has risen dramatically over the years. There were around 1,17 million disenfranchised individuals in 1976, 3,34 million in 1996, and 5,85 million in 2010.
+
+* 1 in 40 adults, or the US voting age population’s 2.5% is disenfranchised due to a current or past felony conviction.
+
+* In the 12 states(as of 2016)that disenfranchise people after the sentence, disenfranchised individuals account for over 50% of the US’s entire disenfranchised population.
+
+* Disenfranchisement rates vary vastly across states due to variations in legislation. For example, Florida accounts for 27%of the whole disenfranchised population of the US.
+
+* 1 in 13 African Americans of voting age is disenfranchised. Over 7,4% of the adult African American population of the US is disenfranchised. For the non-African American population, the share is just 1,8%. In four states – Kentucky (26%), Virginia (22%), Florida (21%), and Tennessee (21%) –more than 1 in 5 African Americans are disenfranchised.
+
+At the same time,certain states have repealed or amended disenfranchisement laws in recent years, allowing 840 thousand American citizens to regain their voting rights.
+
+Opinions on felony disenfranchisement vary significantly among experts and the general public. Both proponents and opponents have valid points on the issue, which we will examine a little bit later.
+
+With all that being said, felons may restore their voting rights, but the restoration process varies widely across states. Some states only restore voting rights based on individual petitions, while others don’t restrict voting rights at all, even in prison. Now, let’s find out how voting rights restoration policies vary from state to state.
+
+Read Also: Felon Friendly States
+
+In which states can a felon vote?
+
+felon voting rights
+
+Voting rights never lostVoting rights restored automatically upon release from prisonVoting rights restored automatically upon being released from prison and discharged from paroleVoting rights restored automatically upon the completion of the sentence, parole, and probationVoting rights restoration dependent on the type of conviction or the outcome of an individual petitionVoting rights only restored through an individual petition
+MaineDistrict of ColumbiaCalifornia*AlaskaAlabamaIowa
+VermontHawaiiColoradoArizonaDelawareKentucky
+IllinoisConnecticutArkansasMississippi
+IndianaNew YorkFloridaNevada
+MarylandGeorgiaTennessee
+MassachusettsIdahoWyoming
+MichiganKansas
+MontanaLouisiana
+New HampshireMinnesota
+North DakotaMissouri
+OhioNebraska
+OregonNew Jersey
+PennsylvaniaNew Mexico
+Rhode IslandNorth Carolina
+UtahOklahoma
+South Carolina
+South Dakota
+Texas
+Washington
+West Virginia
+Wisconsin
+Virginia
+*Voting allowed from county jails
+
+Felon Voting Rights by State
+
+can a felon vote
+
+There are certain specifics in each state. Those are described below.
+
+Alabama
+
+In the state of Alabama, some felons have the right to apply for the restoration of their voting right immediately upon completion of their full sentence. Certain felony charges such as murder, manslaughter, and rape make a person ineligible for re-enfranchisement.
+
+Alaska
+
+Felons who are no longer serving a sentence and have been unconditionally discharged from supervision by the Department of Corrections may vote in Alaska. The Alaska Division of Elections requires proof of unconditional discharge from the supervising entity.
+
+Those convicted in crimes involving moral turpitude, as well as individuals on probation or parole for the same crime are ineligible to vote in Alaska.
+
+Arizona
+
+In Arizona, first-time, single-felony offenders receive automatic vote right restoration upon the completion of the sentence and payment of all fines. Two-time or more offenders would need to apply for the restoration of their voting rights with their county.
+
+Arkansas
+
+Those convicted of a felony are ineligible to vote while in prison, parole, or probation. Upon the completion of the supervised release, voting rights are restored automatically.
+
+California
+
+With the passing of the California Assembly Bill No. 2466, felons serving time in county jails received the right to vote from jail.
+
+Read more: Felons Voting Right in California
+
+Colorado
+
+In Colorado, felons may vote while on probation, but not from prison and on parole. Voting rights are restored automatically upon the completion of parole.
+
+Connecticut
+
+In the state of Connecticut, felons are eligible to have their voting rights restored upon paying all fines and being released from imprisonment, as well as the completion of parole.
+
+Delaware
+
+The April 16, 2013, Hazel D. Plant Voter Restoration Act amended the Delaware Constitution, removing the 5-year pending period for regaining voting rights. Now, the voting rights of those convicted of a felony are automatically restored after serving the full sentence.
+
+According to Article V Section 2 of Delaware Constitution, certain felonies such as murder, manslaughter, sexual offense, etc. remain permanently disenfranchised.
+
+District of Columbia
+
+In the District of Columbia, voting rights are restored automatically upon release from prison, even if the individual is on parole or probation.
+
+Florida
+
+The November 8, 2018, Amendment 4 allowed individuals with prior felony convictions (except for sex offenses and murder)to gain their voting rights automatically after completing the terms of their incarceration, including parole and probation. Read more on Florida Felon Voting Rights.
+
+Georgia
+
+In Georgia, it is required that felons fully complete their sentence, including parole, probation, as well as pay legal financial obligations in order to have the right to vote.
+
+Hawaii
+
+In the state of Hawaii, felons may vote while on probation or parole but not from jail.
+
+Idaho
+
+In Idaho, the voting rights of felons are restored upon final discharge, which includes satisfactory completion of the imprisonment, probation, and parole. However, there are felonies to which voting rights restoration is not applied, including rape, kidnapping, robbery, burglary, trafficking, and many others.
+
+Illinois
+
+Felons lose their right to vote until being released from imprisonment. That is, felons are allowed to vote while on parole or probation.
+
+Indiana
+
+In the state of Indiana, felons have the same voting rights as in Illinois, that is, they may vote upon release from imprisonment and while on parole or probation.
+
+Iowa
+
+On January 14, 2011, Terry Branstad, the Republican Governor of Iowa, issued Executive Order 70, rescinding Executive Order 42 signed in 2005 by Democratic Governor Tom Vilsack.
+
+The Executive Order 42 allowed automatic voting restoration after sentence completion. Now, with the order 70, in order to have the right to vote, felons must complete their sentence, including parole and probation, as well as pay all outstanding monetary obligations to the court.
+
+Kansas
+
+In Kansas, the right to vote is automatically restored upon release from prison at the expiration of the sentence. Alternatively, the voting rights are restored upon final discharge from parole or probation.
+
+Kentucky
+
+On December 22, 2015, the newly-elected Kentucky Governor Matthew G. Bevin issued Executive Order 2015-052, rescinding Executive Order 2015-871 signed on November 24, 2015, by the previous Governor.
+
+The rescinded order implied the automatic restoration of voting rights for non-violent felons who have completed their sentence, probation, parole, and have no outstanding monetary obligations to the court.
+
+With the new executive order, those convicted of a felony must apply to the Governor individually for the restoration of their voting rights.
+
+Louisiana
+
+On May 31, 2018, Louisiana Governor John Bel Edwards signed the House Bill 265, which went into effect on March 1, 2019.In accordance with this bill, all individuals who have been convicted of a felony in Louisiana and who have not been incarcerated during the previous 5 years will be allowed to vote. This applies even when serving a term of probation or parole.
+
+Maine
+
+Maine is one of the two US states where voting rights of felons are never taken away. Felons in Maine may vote even while imprisoned. (See how to register to vote in Maine)
+
+Maryland
+<USER>

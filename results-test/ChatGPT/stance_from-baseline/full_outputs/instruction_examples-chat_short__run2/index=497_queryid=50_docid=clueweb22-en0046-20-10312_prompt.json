@@ -1,0 +1,146 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should everyone get a universal basic income?
+Text: A Crypto-Powered Universal Basic Income Experiment
+
+A Crypto-Powered Universal Basic Income Experiment
+
+...
+Alex Lielacher
+
+Learn about the ambitious blockchain-based universal basic income experiment, Circles UBI, and how it plans to bring UBI to everyone.
+
+Universal basic income (UBI) is touted as a possible solution to income inequality. By providing every member of a society with an unconditional basic income to cover their essential living needs, proponents of UBI believe that it could alleviate poverty, reduce income inequality, and increase society’s economic well-being.
+
+Now, universal income has also arrived on the blockchain in the form of Circles UBI. Discover how Circles UBI plans to leverage blockchain technology and cryptocurrency to bring universal basic income to a global audience.
+
+What is Circles UBI?
+
+Circles UBI is a newly-launched blockchain venture that aims to promote economic activity in local communities.
+
+The Berlin-based project aims to achieve that by providing anyone that joins Circles with an unconditional universal basic income — in the form of personalized digital currency — that can be used to transact with other members of the Circles community.
+
+The more people join the Circles UBI community, the more possibilities will exist to spend the personalized currencies. This will create a network effect that will eventually lead to each personal currency being worth the same as all other personal currencies, the project’s whitepaper claims.
+
+The Circles UBI program is the result of a seven-year journey, according to the project’s founder, Martin Köppelmann. He tweeted:
+
+How Does it Work?
+
+The Circles protocol leverages smart contracts to create a new personalized cryptocurrency for each person who joins the community. This digital currency is minted regularly and added to the person’s account to form the basis of Circles’ UBI.
+
+Arguably, the most exciting aspect of Circles’ UBI program is that anyone with an internet connection can join.
+
+To join, you need to sign up via the website with a username and an email address. Then, you need to get three individuals to “trust your profile,” who are already part of the Circles community.
+
+The idea is to create circles of friends or people who know and trust each other, in which value exchanges — using the Circles digital currency — can take place.
+
+Once you qualify as “trustworthy,” you will receive your crypto universal basic income at a rate of 240 Circles (CRC) per month plus 100 CRC upon signup.
+
+You can then use Circles as a medium of exchange within your community of associated individuals you deem trustworthy enough to do business with.
+
+Trust plays an integral role in the Circles network as participants should only transact with individuals they trust. When you trust another Circles community member, you are effectively saying that their Circles are worth as much as yours. Therefore, their personal digital currencies can be exchanged one-to-one with yours.
+
+This system of trust within each Circles community is what should also mitigate the issue of multiple fake accounts trying to get their hands on free money. Simply put, if you don’t trust someone, you shouldn’t transact with them. Additionally, as another defense layer against Sybil attacks, trust can be revoked.
+
+What’s more, to discourage hoarding and encourage economic activity, Circles comes with a built-in annual inflation schedule that increases the number of Circles issued to each individual. Each person that joins as a new member will receive their CRC as the going issuance rate.
+
+An Unpopular Signup Process
+
+Upon announcement of Circles UBI, crypto experts were quick to point out the security flaws in the signup process.
+
+Instead of creating a Circles account using a secure DApp browser, the signup procedure involves entering a private key during an insecure in-browser signup process.
+
+As Uniswap founder Hayden Adams pointed out on Twitter, entering a private key in a web browser is horrible for security, a bad user experience for existing cryptocurrency users, and trains new crypto users in bad habits.
+
+He also added that each identity created on Circles is a Gnosis Safe contract that allows for adding the private key to a DApp browser at a later stage.
+
+Simplicity is an important factor for Circles’ UBI experiment to succeed, but if it means sacrificing security, challenges are poised to arise in the future.
+
+A superior sign-on solution would be the ability to use the Trust Wallet DApp Browser in the same way that crypto collectibles marketplace OpenSea provides.
+
+To connect to OpenSea, crypto users can utilize Trust Wallet’s in-app DApp Browser to seamlessly connect their Ethereum wallet while having complete control over their private keys without exposing them to security risks.
+
+In addition to enhanced security, using a DApp browser trains crypto newcomers on how to correctly manage their private keys. In a situation where Circles UBI takes off and becomes a global phenomenon, users will have to know how to protect themselves from cybercriminals who will be after their digital currency.
+
+Aside from the technical aspect of signing up for a Circles account, the concept of having to find three individuals who are already in the Circles network has also stirred up some criticism from the crypto community.
+
+While the idea behind this is to build a network of trusted participants, it creates a barrier to entry for new users who are excited about the prospect of receiving UBI.
+
+Will Circles UBI Succeed?
+
+Circles’ crypto-powered, global universal basic income program is arguably one of the most exciting UBI experiments to date.
+
+Previously, UBI pilot programs typically focused on small communities located in a particular region or demographic. Conversely, Circles UBI is accessible to anyone across the globe with an internet connection, and a basic understanding of digital money.
+
+However, that does not mean that Circles will be a success.
+
+It All Comes Down to Trust
+
+Trust plays an integral role in the Circles UBI system, and trust is difficult to come by — especially online:
+
+Users have the ability to trust the personal currencies of other users, which requires them to treat this personal currency as identical to any other Circles currencies that they hold. As the social graph becomes more interconnected, these personal currencies converge on one single global monetary system,
+
+the project’s whitepaper explains.
+
+In other words, for Circles to succeed as the base currency of a global UBI program, individuals who take part will need to trust that their currency is worth as much as the currency of the person they are dealing with.
+
+If you are engaging in small-scale economic activity within your circle of friends or in your neighborhood, the level of trust you will have for the people you interact with will be high. However, scaling that to a global level will become challenging, especially when you start to engage in commerce online.
+
+Taking a quick look at the hashtag #circlesUBI on Twitter, you will find scores of individuals asking for existing Circles early adopters to provide them with “trust” so they can join. At first glance, this does not look like the trust-based economy the founders are envisioning.
+
+How Much Are Circles Actually Worth?
+
+Aside from community members trusting that each other’s currency has value, how much is one Circles token actually worth?
+
+Since Circles are a bundle of personal digital currencies and are not freely tradable in any recognized secondary market, how do CRC holders know how much their money is worth? Two people in Berlin could agree on a very different value for 1 CRC than two people in Mumbai, Nairobi, or Seoul:
+
+The goals of [Circles] are to foster local economic interactions, and to value those things which are not seen, are invisible, or are not valued under our current system. Circles is building new networks to acknowledge those fundamental things that in the current system don’t have a euro value,
+
+the project explains.
+
+Essentially, the Circles team wants its digital currency to be used to create micro-economies that are based more on exchanges of intangible value as opposed to a monetary amount per transaction.
+
+While this is a noble intention, it will not change the fact that the majority of Circles holders will want to know how much their digital money is worth in euros, dollars, or bitcoin. And that — as with all currency — will be decided by market forces.
+
+Only at this point, we will see how an open blockchain UBI program that issues a cryptocurrency backed by trust will fare in the real world.
+
+Get the Trust Wallet app now!
+
+The most trusted & secure crypto wallet
+<USER>

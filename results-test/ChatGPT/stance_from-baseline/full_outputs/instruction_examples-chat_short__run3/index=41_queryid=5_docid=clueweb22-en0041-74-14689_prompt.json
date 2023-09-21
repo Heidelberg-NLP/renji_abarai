@@ -1,0 +1,184 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should social security be privatized?
+Text: Should the public sector be privatized? - Group Discussion
+
+Should the public sector be privatized?
+
+
+Group Discussion
+
+Points to remember before you participate in this discussion:
+
+  • Assume, you one of the member of a real group discussion.
+  • Take the initiative to participate and contribute your thoughts.
+  • Express your positive attitude towards providing the solution.
+  • Post your answer now.
+
+Suryakant Raithatha said: (Feb 11, 2022)  
+Yes, by doing privatization of PSU Bank,
+
+The New Management will work and think for the growth of the Banks and will change certain rules and terms of the function of the Banks, with the adoption of new technology and new products for digitization as public desire (particularly next generation) and in result It will definitely for the benefit of the Staff as the new benefits and perquisites will be offered to give best services to the customers for charges may be collected from the customers towards value-added services, further, the new management will take care that the lending of finance to the entrepreneurs will be safe and will not vanish as was happened in past.
+
+The Banks will get funds by way of Bonds, equity and by way of other securities which at present is absent as the people understand that the PSU Bank is not at the level of Private Banks and there is a lot of understanding and misunderstanding.
+
+So at the large point of view, it will be win situation for the staff by way of good facilities and good atmosphere and facilities, public by better services financiers and equity holders.
+
+Rate this: +3 -0
+
+
+Shipra Singh said: (Feb 7, 2022)  
+Should the public sector be privatized.
+
+Yes, public sectors should be privatizee. In our country, we can see lots of unemployment. If the government brings privatisation then we can develop our country in every stream. For instance, we can see various developments in private schools and companies. They are doing their work smoothly without being under pressure from the government. Every person can establish their business and all the responsibility should be public. They can manage their work and they can make their work fruitful.
+
+Rate this: +4 -2
+
+
+Riya Yadav said: (Jan 14, 2022)  
+As per my point of view, privatization is good because
+
+1. As we talk about the education sector private institutes provide better vocational training and skills which are more valuable for the growth of the economy.
+
+2. It should be free from political interference and help in increasing the GDP of a country. It generates more and more employment.
+
+3. I f we take about that private company charging more price for better goods and services so for this I think in privatisation is increasing monopolistic competition as from this any firm or an individual is free to enter in the market and do a business or create more competition by selling there own differential product through this it increases the competition because of the competition is to increase the private sector companies also start providing better services in lower price.
+
+4. In private companies the employees work more efficiently and effectively than in the public sector. Here we get jobs on the basis of technical and managerial skills we had or we are developing not only on the basis of degree or by using our source (jugaad) and all.
+
+So WHEN NOT TO PRIVATIZED?
+
+1. When there are high chances of monopolistic forming.
+2. When profit motive can destroy an industry.
+3. Where is too complex to make regulations.
+
+WENT TO PRIVATIZED?
+
+
+1. When proper regulations are made.
+2. Where to create a pressure they can't increase the price up to the limit. (Gov. ).
+
+Rate this: +9 -1
+
+
+Eon said: (Jan 5, 2022)  
+I think privatisation is right. Because a lot of people presently working for the government don't really deserve their job and they don't work for their full efficiency. Of course, every decision will have negative effects but compared with positives these can be negligible. If the G. O's (government sector/offices) became private they don't work on a caste basis so they can employ the people who really deserve the job.
+
+Also, they make relevant checks often to see the work and efficiency of the employer. A lot of pending work in the g. O's will be cleared. Then the GDP of India will surely increase more than china and also there will be a chance for our future kids to say that India is a developed country.
+
+Rate this: +4 -1
+
+
+Himanshu said: (Sep 13, 2021)  
+So many PSUs are not performing well because of the wrong decision of the government, by giving profit-making tender or manufacturing products to the private sector and if PSU wants to manufacture these products government won't allow and there is a monopoly of private parties and psu not making. The government is making PSU sick.
+
+Rate this: +4 -12
+
+
+Nabarun Ghosh said: (Mar 19, 2021)  
+As per my understanding privatization should be require in all the area of govt sector if we want to grow up our country. Privatization has occurred numerous time around the world especially in former socialist Countries. More relevant in the United Stated would be the period of privatization that occurred in Western Europe and Japan over the thirty year. In India most of the government employees has causual approach towards their job role. They don't paying their efforts like any private organisations employee. However, every month they are getting their salary through public taxes. This is really very unexpected and govt should be screening their employees every quarterly or yearly to evaluate their performance level and redundant non performing role based on their performance level. In order to improve our country's overall prospective, privatization should be mandatory so taht equality would be maintain in the society and everyone would be get benificial.
+
+Rate this: +24 -13
+
+
+Mudit Kumar said: (Feb 25, 2021)  
+Privatisation of PSUs Surely a boon for everyone, but a bane for the lower and middle class as well.
+
+It's like get a subscription to watch ad-free. But, when things are in the government's control, watch it for no to little charge. So, ownership transfer is not an answer. Need to strike a balance between service quality, reach, and cost.
+
+Rate this: +5 -9
+
+
+Sohan said: (Feb 25, 2021)  
+Hello everyone.
+
+I am in favour of the privatization of the public sector because it hinders the growth of the sector. Most of the public sector does not able to work due to political interference it reduces the output from the sector which cause to hinder the national growth and GDP of the country. It should be free from political interference and help in increasing the GDP of the country and due to this, it help in generating more and more employment for the people. For example, the condition of government school is degrading day by day it is just a medium of getting a degree without knowledge while the condition of private school is far and far better than government school and it imparts knowledge to the students.
+
+Thank you.
+
+Rate this: +18 -6
+
+
+Shivam Singh said: (Dec 24, 2020)  
+In my opinion, PSU should not Private, because it is the Very helpful for the in Critical Situation like Covid -19 age. Government should Strict monitoring on Public sector unit. Like Delhi Metro Rail Corporation.
+
+Rate this: +23 -6
+
+
+Shubham said: (Dec 19, 2020)  
+In my point of view,
+
+Public sector should not be privatized because we all know that a private company first motive is to want more money. They can't do anything for the welfare of the people. I know they do their best services but their cost is too high. So, the poor and middle class can't afford this. But in another hand, the public sector first motive is to getting service for all class people in the same rate. And we know that if you get a job in the public sector. You got security to your job but in private sector yo get a job there was no security. If you didn't do the work in perfectly manner they will restrict you. But in the public sector, you have security. In the private sector no timing fix for the employee but in PSU you get a no. Of working hour. In the private sector, you don't get any allowance but in PSU you get these facilities. In the private sector, you don't get any pension facilities but in PSU you get these facilities.
+
+Rate this: +77 -11
+
+
+Lakshay Tomar said: (Dec 14, 2020)  
+Hello, everyone.
+
+My name is Lakshay Tomar and I am from Meerut, UP.
+
+Firstly I tell what is privatization so it means selling more than 50% of the PSU stock and givinģ up ownership to private companies.
+
+And according to me, it is an issue which has many merits and demerits.
+
+If I talk about some merits of privatization that.
+
+It increases the quality of service, they completed work in time, improve the economy of our country, and also reduces corruption, disciplined way of work so these are some merits of privatization.
+
+Now if I talk about some demerits of privatization that in the private sector there is no safety of a job, they dismissed at any time, and it is not a great option in a country like India where prices is very important factor private companies may increase the price at any point in time. And the monopoly of private companies is the main demerits of privatization.
+
+So according to me, the conclusion is that partial privatization of the public sector is the need of the hour.
+
+Rate this: +42 -6
+
+
+Ganesh said: (Nov 3, 2020)  
+Yes, because in India 60% of PSU's employees don't deserve that. Private companies are meant for their service and because of privatisation competition is increases. Higher competition leads to better services at a lower cost.
+
+Rate this: +15 -13
+
+
+Prajnan K S said: (Oct 10, 2020)  
+I have some points:
+
+1) Privatizing PSU is ok only by Improving strong regulatory body like RBI, SEBI, IRDA etc.
+
+2) Proper Labor Security should be provided and it should have proper vigilance from labour department.
+<USER>

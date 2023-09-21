@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3Blt9ELgItdlJCM5nZ7vSMJ6Aeo",
+  "object": "chat.completion",
+  "created": 1683106549,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1895,
+    "completion_tokens": 61,
+    "total_tokens": 1956
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The first speech arguing for an increase in the federal minimum wage is of high quality, presenting clear and well-structured arguments supported by evidence and examples. The second speech arguing against the use of steroids for athletes is also of high quality, presenting clear and well-structured arguments supported by ethical and moral considerations."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

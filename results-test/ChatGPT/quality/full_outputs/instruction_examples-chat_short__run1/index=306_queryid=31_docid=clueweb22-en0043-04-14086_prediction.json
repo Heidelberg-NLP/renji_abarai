@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJR6D5hQSi0NZCj790kwK56Eo4ot",
+  "object": "chat.completion",
+  "created": 1682692348,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1164,
+    "completion_tokens": 23,
+    "total_tokens": 1187
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry but it seems like you have provided a scientific abstract and not a rhetorical argument for me to evaluate."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

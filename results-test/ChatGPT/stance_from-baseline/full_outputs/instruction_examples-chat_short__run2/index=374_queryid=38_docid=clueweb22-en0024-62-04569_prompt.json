@@ -1,0 +1,164 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should marijuana be a medical option?
+Text: Medical Marijuana Renewals: Doctor & Online Renewal Options
+
+Medical Marijuana Renewals: Doctor & Online Renewal Options
+
+
+If you’ve recently received a medical marijuana renewal notice from the state, chances are you have plenty of questions.
+
+Fortunately, you’ve arrived in the right place. In this guide, we’ll outline how to renew your medical marijuana card online and in person with a qualified MMJ doctor.
+
+Why do I need to renew my Medical Marijuana Card?
+
+There are several reasons why medical marijuana renewals exist, although the primary purpose is to protect the health and safety of patients. Each state authority wants to ensure patients are using marijuana in a responsible way that is consistent with their specific medical needs.
+
+To ensure this, the state authority (commonly the Department of Health) requires a qualified physician to assess each patient’s medical condition on a regular basis to ascertain whether cannabis remains an effective and safe treatment option.
+
+How do I renew my Medical Marijuana Card?
+
+Renewing your medical marijuana card is actually quite simple but may vary from state to state. Here’s the general 3-step process:
+
+1. Book a Renewal Appointment
+
+Just like when you applied for medicinal marijuana the first time, you will need to book an appointment with a licensed medical marijuana physician. The physician will evaluate your medical condition to determine whether you still qualify.
+
+If you book an appointment with the physician who issued your original medical marijuana recommendation, your documents might still be on the record, which will save you the hassle of re-organizing your medical history. All you should need to bring is a form of payment and a government-issued ID card to prove you’re a resident of the state.
+
+2. Fill out the Renewal Application
+
+Once you have booked your renewal appointment, you can complete a renewal application. The information provided will be used by a physician to determine whether continuing medical marijuana will be beneficial to you. If you do not get a chance to complete the application before your appointment, you can do so during your appointment. It should take no longer than ten minutes and must be completed before a physician can process your application.
+
+3. Submit a Renewal Application Form.
+
+If the physician determines that your chronic condition meets the state’s requirements for medical marijuana, you will be issued a Medical Marijuana Certification and the physician will send a renewal application form to the state’s medical marijuana authority on your behalf. The state will then issue your Medical Marijuana Card and deliver it to you by mail–typically within ten business days.
+
+Do I have to visit an MMJ doctor to get a renewal?
+
+Yes. In most states, you will need to visit a qualified MMJ physician to renew your medical marijuana card. For example, the Florida Department of Health requires that doctors complete specialized training and register as Medical Marijuana doctors in order to legally certify a patient for medical marijuana and register the patient with the Office of Compassionate Use Registry. In other words, only doctors that are actively licensed, and have completed the required training, can provide a recommendation for medical marijuana and submit an application for renewal.
+
+What is needed to renew my Medical Marijuana Card?
+
+To complete your medical marijuana renewal, you will need to bring the following to your appointment:
+
+  • Medical records, such as prescriptions, X-rays/MRIs, disability reports, etc.
+  • Current, acceptable proof of residency, i.e. government-issued ID card, driver’s license, voter ID, or utility bill with the same name on the application.
+  • Existing Medical Marijuana Card.
+  • Your MMJ online system username and password.
+  • Form of payment.
+
+What happens at my Medical Marijuana Renewal appointment?
+
+At your in-person renewal appointment, a qualified physician will review your medical condition and ask a range of questions to assess your current health status. The physician will try to gain an understanding of whether medical marijuana is still a safe and effective treatment option for your specific medical condition. You should be prepared to answer questions regarding your current symptoms and side effects, in addition to marijuana dosage and delivery methods.
+
+It’s very important to understand that an expired card doesn’t automatically mean you’ll be able to obtain a new one. For example, your medical condition may have substantially improved, and as a result, the physician may determine that you no longer need medical marijuana as part of your treatment program.
+
+However, if the physician approves your medical condition, they will then issue a new medical marijuana certificate and submit an application to the state authority who will issue your new medical marijuana card. You should receive your new card in approximately ten business days. Once your medical marijuana card arrives, you’re legally allowed to possess and use medical marijuana in your state.
+
+Can I renew my Medical Marijuana Card online?
+
+Medical marijuana patients in most states must be re-evaluated in person at an appointment with a licensed Medical Marijuana Doctor. However, once you have received a certification from a licensed doctor, you can complete the application process online yourself.
+
+To do this, navigate to your state’s Medical Marijuana Use Registry and log into your Patient Portal using your username and password. Bear in mind, that you will need copies of your medical records to prove your medical condition.
+
+If you’re MMJ patient registered in Florida, you can access the Medical Marijuana Compassionate Use Registry on the Florida Department of Health website by entering https://mmuregistry.flhealth.gov into your browser.
+
+Your username will be your registered email address. If you have forgotten your password, click Forgot Password and enter your email address. The system will send a temporary password to your registered email address, which can be used to log in. Once logged in, select Your Cardfrom the top menu and click Renew My Application, located under your demographic information. From here, it’s as simple as following the instructions on the screen to renew your registration.
+
+How long does my Medical Marijuana Recommendation last?
+
+In an ideal world, we would never have to worry about medical marijuana renewals. But, unfortunately, it doesn’t quite work like that. Generally, MMJ cards are valid in most states for 12 months. In others, patients must renew their medical recommendations every few months.
+
+When do I need to renew my Medical Marijuana card?
+
+Notifications for Medical Marijuana Renewals are typically sent via mail, 60-90 days before the expiration date on your Patient Certification and ID Card. To prevent any lapse in coverage, it’s recommended that you submit a new application at least 45 days prior to your current medical marijuana card’s expiration date.
+
+Medical Marijuana Renewals VS Re-certifications
+
+Another important aspect to remember about MMJ cards is the distinct difference between renewals and re-certifications. A renewal pertains to the state issuing the card and keeping it active. Re-certification refers to the physician-related visit and their determination that a patient still should be eligible for a card.
+
+In the State of Florida, for example, a renewal relates to the actual card issued by the FL Dept. of Health (FDOH). The card is valid for one year from the date of issue. Patients are required to pay $75 to the FDOH prior to the expiration date on their card in order to receive a new card.
+
+A re-certification relates to the FDOH required face-to-face visit with the physician. This visit must occur within 210 days of the initial visit and will be reoccurring every 210 days as long as the patient remains active. Physicians have the discretion in determining re-certification time frames, i.e., some doctors require patients to re-certify every 90 days, others stick to the 210 days and we require our patients to re-certify every 180 days (6 months).
+
+Renew your Medical Marijuana Card with THC Physicians
+
+If you’re approaching the 12-month mark since you received your medical marijuana card, chances are you’ve received a renewal notice from your MMJ physician or the state. You can start the renewal process by calling us on 800-605-7042 to schedule your appointment or contacting us through our online form.
+
+Howard Seth Meiselman, DO
+
+Medically reviewed by Howard Seth Meiselman, DO — Written by Mark Conklin
+
+Give us a call
+
+Local: 561-665-6090
+
+Toll Free: 800-605-7042
+
+Hours of operation
+
+We’re open from:
+
+Mon-Fri: 9-5
+
+Sat: 9-1
+
+Recent News
+
+
+All patient information obtained by Tierra Healthcare is protected health information and covered under the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+All rights reserved. Copyright © 2021
+
+
+Author
+
+Mark Conklin, RN, MHA
+
+Mark Conklin is the founder and CEO of Tierra Healthcare Concepts and is also part of the medical team. He has over 25 years of experience in the healthcare field working at the executive management level and as a medical professional. Education RN, BS Biology, and Master of Health Administration course curriculum.
+
+Florida & New York Medical
+
+Marijuana Cards
+
+Do I Qualify?
+
+Close menu
+<USER>

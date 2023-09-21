@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0hSNqHG7hrQTV49vEiCQAj1Lyv1",
+  "object": "chat.completion",
+  "created": 1687863542,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is providing a list of pros of attending college, but it is not presenting a specific rhetorical argument, therefore it cannot be labeled as high, medium, or low."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2824,
+    "completion_tokens": 35,
+    "total_tokens": 2859
+  }
+}

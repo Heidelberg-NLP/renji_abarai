@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2cC9gWTKucs1EYxAsztPOv5RKQz",
+  "object": "chat.completion",
+  "created": 1683104344,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2514,
+    "completion_tokens": 162,
+    "total_tokens": 2676
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is an informational passage on the neuroscientific research linking sexual orientation to brain structure, hormonal influences, immune-response in mothers, and birth order. It presents details on the neural correlates of sexual orientation in humans, exploring research on sexual dimorphisms in the brain and prenatal exposure to hormones, including the prenatal androgen model of homosexuality. It also shares findings related to the size and structural differences in various areas of the brain that differ based on sexual orientation. The text suggests possible future research directions, including finding markers for sex steroid levels in the fetus's brain, exploring genetic and developmental factors influencing sexual orientation, and further animal models and population studies to determine the role of maternal immunity. The argumentative quality of the text is low, it doesn't aim to establish a position in any particular argument or debate."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

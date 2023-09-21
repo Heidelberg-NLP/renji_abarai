@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3Gh44j0Ud03o4aho2tVNpEqelXe",
+  "object": "chat.completion",
+  "created": 1683106855,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2806,
+    "completion_tokens": 74,
+    "total_tokens": 2880
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides an informative description of Universal Basic Income (UBI), including its history, related welfare arrangements, current political discussions, and the economic impact of the COVID-19 pandemic. The language used is neutral and technical, without any persuasive or argumentative tone. Therefore, there is no evident rhetorical argument quality to be evaluated, and the text can be considered low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C36PrPzrJ4pdx25FjhCaNn40Kb8E",
+  "object": "chat.completion",
+  "created": 1683106217,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2548,
+    "completion_tokens": 109,
+    "total_tokens": 2657
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides an informative and neutral description of education sciences, including various topics, such as pedagogy, learning, and education policy. It explains that education sciences draw from multiple disciplines, such as history, philosophy, sociology, and psychology, to understand and prescribe education policy and practice. The text also provides examples of different educational theories, philosophies, and curriculum, including feminist educational theory. Overall, the style of speech, sentence structure, and incorporation of information are clear and easy to follow, making this text of high rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should people become vegetarian
+Text: Should all people be vegetarian? | Debate.org
+  • Yesssss we should eat only veg
+
+    As we all know we are also evolved animals .Would we like it if someone killed us and than cooked us ,ate us.We will fell pain and so do the animals.They also have feelings.I am also pure vegetarian and i think everyone should also be a vegetarian plus some animal oil can cause us different types of illness and even kill us by giving a heart attack
+
+  • It should be true.
+
+    There is the oil from animals and oil from vegetables but, animal oil could cause a result of diabetes or a heart-attack. Vegetable oils cause no harm and + it i simply cheaper than animal oil. What about other people who are poor, they could simply grow vegetables but not have the weapons to kill animals. There are no animals probably around them
+
+  • It is healthier.
+
+    Well, a lot of people are fat asses. We need to change that. You know why? Because we don't want the Earth to fall out of the unviverse because of all the fat asses in this world.
+    To all the fat asses here, you should eat a salad.
+    You're welcome, please enjoy that salad (but hold the ranch)
+
+  • Stop ✋ eating meat
+
+    These people all around keep eating meat they need to stop eating meat otherwise the death 💀 will increase by a lot of course let everyone be a vegetarian 🌱 the power of vegetarian ok 👌 so you know why so yeah my final answer is yes good bye 👋
+
+  • All people become vegetarian 🌱
+
+    Ok look vegetarian 🌱 is healthy for you and it decreases heart disease heart burn heart attacks and ok look everyone must become vegetarian 🌱 ok vegetarians are healthy and make you big and strong 💪 ok 👌 you hear me so yeah my final answer is yes good bye 👋
+
+  • I love ❤️ vegetarians 🌱
+
+    We need to become a healthy vegetarian 🌱 also everyone all around the world should become vegetarians 🌱 of course I hate meat meat increases diabetes heart burn heart attacks and of course heart ❤️ disease stop eating meat become vegetarian 🌱 ok 👍 guys and girls good bye 👋
+
+  • Yes please ok
+
+    Everyone should all be vegetarian 🌱 tomorrow of course ok 👍 I love vegetarians so much I’m so sorry :( that I insulted you vegetarian I promise I’ll be good I promise 🙏 ok 👍 I love you vegetarians ok so yeah my final answer is yes good bye 👋
+
+  • Vegetarianism has more to it than meets the eye
+
+    It is cruel and unethical to to kill animals. Some people think animals don't have emotions but it is scientifically proven that warm blooded animals do feel stress pain and fear. Billions of animals die every year to satisfy unnecessary dietary preferences. A vegetarian diet can help alleviate world hunger.
+
+  • Everyone should be vegetarian
+
+    Animals do not deserve to suffer because humans want them for food. Animals are bred and kept in poor conditions and then killed for food. They die painful deaths and their last moments alive are filled with fear and pain. They are bred so they can be fattened up and killed. Animals have feelings too just like humans
+
+  • All people became vegetarian
+
+    Being vegetraian is good
+    because we all cam not allove to eat fish meat chiken and their should be a thing that peole became vegetarian and bot eat fish chicken meat
+    ..................................................
+    ...
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    Ok
+
+  • I say no.
+
+    Number one reason is the amount of toxic sprays used on produce. 37 different ones used on potatoes alone. They have increased the amount since 1972. Plus everyone is different no data as far as I know has proven one type of food is better then the other. We all choose.
+
+  • Eating meat is part of a healthful diet
+
+    Meat is the most convenient protein source available. In one serving, Meat provides all the essential amino acids (the building blocks of protein), As well as essential nutrients such as iron, Zinc, And B vitamins. Most plant foods do not provide adequate levels of all the essential amino acids in a single serving.
+
+  • The Ecosystem Would Not Survive
+
+    Hello,
+    If we all became vegetarians, Then what is stopping the animals from reproducing so much. They would eventually need to be killed, In order to stop them from taking up all the land. If we did not kill ANY animals, Then in only a couple of years, Our cities would be over run with animals in the streets.
+
+    We need to keep our animals balanced. We should still allow people to be Vegan/Vegetarian but we should NOT force anyone.
+
+    Besides, Some people are fussy. I know many people that just would be unable to live of fruit and veg.
+
+  • Environment problems concern me
+
+    I have once tried going vegan when I was young. However, It ended very fast since I found it impossible to be full since there were not much calories in fruits and vegetables. I suffered in hunger and could not fill the calory I need to normally have each day. I burst into tears, Shouting for meat. Today, We are her to discuss the motion [EVERY PEOPLE MUST BE A VEGETARIAN. ] Us, The con team strongly oppose the motion and believe it should not be carried.
+
+    The reason that I believe the motion should stand is that when vegetarians eat only vegetables, It is bad for the environment.
+
+    People think being a vegetarian is benefits the environment. However, Vegetarians are killing the environment since animals are warming the earth.
+
+    According to ASAP SCIENCE, 33million km2 is used for animal’s meadow. This is almost the size of Africa. And this is not even counting the land used to grow crops for food for animals. When this land becomes useless after meat-eaters eat the animals, The land would go back to natural forests, Which would lessen the CO2. Furthermore, Cows and other animals produces a large amount of CH4. Methane has 25 times stronger
+    Earth warming power than CO2. Also, According washingtonpost. Com, A research said most people think vegetarian diets benefits the environment. When Carnegie Mellon University researchers and professor Paul Fischbeck saw this paper, Fischbeck had said“We were very surprised with the result. In fact, We expected the exact opposite. You can’t just assume that a vegetarian diet will reduce your carbon footprint, Which is what people think. ”
+
+  • People will lose their jobs
+
+    The meat industry is a huge part of the human world and there are so many workers that need their jobs to even think about acting for themselves and their families. Of course, There will be people that think vegetarianism should overpower the world, And I respect that, But think of whatbghe people who will be using their jobs would feel like.
+
+  • I do not want all people to be vegetarian
+
+    I really hate vegetables and my teachers force me to eat them so yeah I do not want all people to be vegetarian so yeah I say no Beacuse I know we must save the planet 🌎 but I do not want all people to be vegetarian ok that’s it
+
+  • 1. According to Harvard Medical School, Some partial vegetarians avoid meat but may eat fish or poultry, And they are also one part of vegetarians.
+
+    How can the pro state being vegetarians won't hurt animals then?
+
+    2. People should get more freedom. Let some of them be vegetarians but never ALL. Allow options in the society!
+    3. Health problems occur because people eat TOO MUCH animals products. If they control the amount, It's good for health. So why to be vegetarians?
+
+  • The power to choose is human dignity
+
+    People who eat meat should not be forced to be vegetarians/vegans, and vegetarians/vegans should not be forced to eat meat or animal products. I think it's well-established that too much red meat and a sedentary lifestyle is bad, yet it's also likely that athletes and other people with high metabolic demand lifestyles and/or occupations could become ill if eating animal protein was outlawed. Vegan, vegetarian, flexitarian, or higher carnivory should be a choice. A more important basal issue, with respect to the sustainability of civilization, is slowing human population growth. Respectfully,
+
+  • Vegetarians have less energy and stamina than non-vegetarians.
+
+    In non-vegetarians they have more stamina and strength because the food come from animals and birds etc.They have already feed by many calories,enough proteins and in all aspects these non-veg is helpful. Compared with a vegetarian a non-vegetarian can easily build their body and also get quick relief from injuries and any weakness problems.
+
+  • I think people should choose
+
+    Eating to much meat is unhealthy so people would not eat that much meat so i think it's not that cruel to eat meat . Also i like meat. So i think all people shouldn't be vegetarian . If you want you could just not eat meat. Plus meat give you enegy. But you have your opinion.
+    THANK YOU
+
+
+Leave a comment...
+(Maximum 900 words)
+No comments yet.
+
+By using this site, you agree to our Privacy Policy and our Terms of Use.
+
+ShareThis Copy and Paste
+<USER>

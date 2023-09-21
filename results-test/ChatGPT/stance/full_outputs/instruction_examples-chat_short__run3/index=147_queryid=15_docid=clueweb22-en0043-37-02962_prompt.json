@@ -1,0 +1,73 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should animal use scientific commercial testing
+Text: Should Animals Be Used For Scientific Research Sociology Essay
+
+Disclaimer: This is an example of a student written essay.
+Click here for sample essays written by our professional writers.
+
+Any opinions, findings, conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of UKEssays.com.
+
+Should Animals Be Used For Scientific Research Sociology Essay
+
+Paper Type: Free EssaySubject: Sociology
+Wordcount: 2037 wordsPublished: 1st Jan 2015
+
+Reference this
+
+In the present age, it is inevitable and undeniable to develop scientific research given the high demand for medicine and veterinary health. It is universally acknowledged that animals play an indispensable role in scientific research. The British Royal Society, argues that” virtually every medical achievement in the past century reliant on the use of animals in some way.”(The Royal Society 2004, p.1) including treatment of diabetes, heart surgery transplants and research that aims to increase knowledge about the way organisms behave, develop, and function biologically. Whether animals should be used for testing has become much debatable issue. Some people assert that Animals are necessary of use in product development, while some advocates of animal rights try to prohibit animal use in experiments of scientific research because they are upset by what they see as needless suffering. They believe that everything was created equal; humans do not have the right to deprive animals of their lives. This essay will propose using animals in research is justified. It will argue that animal testing has more positives than negatives.
+
+Get Help With Your Essay
+
+If you need assistance with writing your essay, our professional essay writing service is here to help!
+
+Essay Writing Service
+
+Firstly the definition of rights between humans and animals are different. Animals do not have some rights as humans because there “is no morality for them; animals do no moral wrong,” and the “concepts of wrong, and of right, are totally foreign.” (Cohen 2001 p. 31) Therefore it is impossible to empower the same rights to humans and animals, and animals should not be considered for the same position as humans. For example, the laws of human provide us a guarantee that every person has the right of not being hurt. If the application is also suitable to the animal, of course scientists should not be allowed to use animals in the experiments, but the laws of the animal world cannot offer that, because of the fact that wild animals prey on other animals for their food. It is conceivable that animals do not have a sense of duty like people, so they should not be equated with human beings. However, using animals for scientific experiments should not be argued. “To say of a pig or a rabbit that it has rights is to confuse categories, to apply to its world a moral category that can have content only in the human moral world” (Cohen 2001,p. 30) using animals is not mistreating animals, the use of scientific research has a more meaningful and essential purpose.
+
+Secondly animal testing standards are acceptable as they are controlled by many laws and regulations. In Australia, all research and teaching that involves the use of animals must be according to the “Australian code of Practice for the care and use of animals for scientific purposes.” Each animal testing must be assessed by an” institutional Animal Ethics Committee (AEC)”. The AEC decides whether or not an experiment can be conducted, and can place provisions on the numbers of animals used. The AEC prevents animals from being treated in an inhumane way. Each AEC includes at least one animal welfare member, a doctor or veterinary medicine, a practicing scientist who is experienced in animal research, a nonscientific member, and one member who is not related to the lab except through being a member of their AEC. (Australian Government 2004, p.1) Another way the labs are regulated is by laws such as the Animal Welfare Act. “The Animal Welfare Act… sets standards for the [care] of laboratory animals.” (AustLII 2002) This law maintains that the animals are treated well.
+
+Thirdly animals are necessary for product development. Most animal experiments are conducted for the development of technology and some good medicine has come from it. The Foundation for Biomedical Research says that “animal research has been responsible for every medical breakthrough over the past century, although this position has been disputed.”(Ruesch, Hans, 1989) It was used in the development of penicillin, organ transplants, and was used in the creation of a vaccine for polio. For instance, in the 1880s, Louis Pasteur convincingly demonstrated the germ theory of medicine by inducing anthrax in sheep. (Mock M, Fouet A 2001)Insulin was first isolated from dogs in 1922, and revolutionized the treatment of diabetes. (Gorden P 1997) In the 1970s, antibiotic treatments and vaccines for leprosy were developed using armadillos, then given to humans. (Walgate R 1981). It is also worth mentioning that “Influenza caused an estimated twenty million deaths during the international pandemic of 1918; it was finally brought under control during World War II by vaccines developed using laboratory animals. â€¦… that victory would have been impossible without using animals.” (Cohen 2001 P.78) moreover the reproduction and nutrition is based on findings of animal experiments. By these facts it is no exaggeration to say that it could not have been achieved without the use of animals
+
+Furthermore  there is little chance of finding satisfying substitutions for animals, “even sophisticated computers are unable to model interactions between molecules, cells, tissues, organs, organisms, and the environment, making animal research necessary in many areas.”(National Research Council of the National Academies 2004) animals are used mainly because they are similar to human either in behavior or in cell structure. There is much evidence that people know about themselves, including pain and stress.
+
+Lastly animal testing is a legal requirement to test pharmaceutical drugs on animals before the drugs are distributed to the public for use. That testing proved one of the main approaches to predict the risk when the drug and other products are used on humans. New medications and other products are tested on lab animals to be sure they will not cause problems in humans. Most vaccines are developed from testing medications on animals to see if they become cured. Lab animals are also used to help train doctors and veterinarians to be able to practice doing operations before doing the operation on a person. As the BBC website maintained “No differences between lab animals and humans that can’t be factored into tests.”(BBC 2004) Finally Animal testing is a well regulated method to improve the safety of products and to help develop life saving medicines, for which there are no alternatives. This is currently the only way to test many products and must continue to be used to ensure our safety.
+
+However, when the test product is noxious that Subject animals to pain and torture is truly barbaric. For example “Skin irritancy” and “Eye irritancy” which is put the test product in to rabbit’s eyes to observe for cause irritation and blindness (damaged eye) and signs of redness, swelling, discharge, ulceration and cloudiness. On the other hand, higher-level animals share with us feelings, thoughts and behaviors and so we should look after them and respect them. They may also feel that if we are so unsure about the effects of a drug for example then we should do further chemical testing before doing live and sometimes cruel animal testing. Also scientists are working hard to find more and better ways of applying them. For instance, using tissue cultures (cells kept alive in a test tube) to replace animals in experiment are extensively in current. Particularly in the early testing time when the whole animal first used in testing. In addition the number of animals using required in testing procedures were decreased obviously by employing cautious statistical analysis and substitutes for animals, and ending a noxious testing as soon as the point which human acceptable and then take care with refinement. (ANZCCART 2010,p.13) furthermore Replacing experiments on animals with alternative techniques such as: “experimenting on cell cultures instead of whole animals, using computer models ,Studying human volunteers and using epidemiological studies”
+<USER>

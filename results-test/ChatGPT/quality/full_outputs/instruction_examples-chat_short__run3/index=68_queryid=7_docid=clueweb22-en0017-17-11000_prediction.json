@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2z8PEeokoBEyKuuPPGMGNLcQJew",
+  "object": "chat.completion",
+  "created": 1683105766,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1951,
+    "completion_tokens": 19,
+    "total_tokens": 1970
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is informative and does not contain a rhetorical argument, therefore I cannot provide a label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

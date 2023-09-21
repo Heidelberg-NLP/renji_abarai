@@ -1,0 +1,53 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is golf a sport?
+Text: Is Golf a Sport? – First Tee – Greater Seattle
+
+Is Golf a Sport?
+
+Foreward Lucia Morelli is 12 years old, and has been a member of The First Tee since 2013 when she joined a Girls’ Golf class at Jefferson Park. Along with her weekly classes, she plays PGA Junior League Golf, serves as a volunteer, is a member of the Junior Advisory Board, and is an avid golfer. Lucia wrote this essay for her 7th grade English class and agreed to have it published here. It has not been edited or revised from its original version.
+
+
+Is Golf a Sport?
+
+by Lucia Morelli
+
+Did you know the definition of a sport is an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment? The definition of sport can be found in many different dictionaries, and according to this definition, golf fits 100 percent. Golf has been played for centuries based off the Scottish game of hitting pebbles with sticks. Golf has been played longer than the popular sports; like football, soccer, and basketball. The reason these sports are popular are because they are tests of brutal strength. Golf, although not requiring brutal strength, is a sport. Golf is a legitimate sport because it is highly competitive, requires mental capacity, and demands physical extortion and muscle use. A big part of any sport, especially golf, is being competitive. Golf is seen as just a game, but golfers are highly competitive. In any sport you just have to play one day, but in golf a tournament may be up to four days that you have to play. One piece to show how competitive golfers are is they get injured often. For instance, in “2008, when Tiger Woods won the U.S. Open despite playing with his left knee missing an ACL and two stress fractures in his left tibia.” (Harmer). This shows that golfers will stop at nothing to win. Golfers, like other sport players, have to deal with injuries. Some athletes sit out and rest, but golfers only have certain chances for tournaments. Golf also is an individual sport, no one else can ensure the win. Independent sports also require the ability to count on yourself and no one else. I, too, have dealt with injuries in golf; I hurt my wrist and was in brace for two month and I still played in four competitions. Golfers have “no quit”, that is why the competitiveness of golfers show that golf is a sport. One of the most essential part of any sport is the mental game. Mental game is almost as important as being physically strong. In football and soccer, the mental part is knowing the play, but in golf, it is knowing how to do the shot, doing what lays ahead, and blocking out what others have done. Famous golfer, Jack Nicklaus, once said, “You can win tournaments when you’re mechanical, but golf is a game of emotion and adjustment. If you’re not aware of what’s happening to your mind and your body when you’re playing, you’ll never be able to be the very best you can be.”(Evers). This quote is showing if you are the slightest bit off, you will not be able to play your best game. In golf, you have to be so precise because, if you miss the ball slightly, it will throw off your whole shot. In other sports, if you miss slightly you have someone to help, but not in golf. Golf is not only a physical sport but it is also a sport of the mind, and without that aspect you would not be able to play. The mental part of golf shows that it is a sport. Some people will say that golf is not a sport because, “An hour of golf without a cart or caddie burns, on average, 360 calories. By comparison, an hour of basketball burns 727 calories, soccer over 900.” (Is Golf a Sport?). This has some fact behind, it but not all. Basketball and soccer are both anaerobic sports, but you do not play the whole game. Basketball and soccer games are on average 90 to 150 minutes, compared to golf which is on average 270 minutes. Also, a round of 9 holes when you carry your bag, burns, “721 calories burned for nine holes.” If you do the math, that would be about 1500 calories in a round of 18 holes. Not only that, but an hour of golf is a better workout then gymnastics. Golfing without a cart burns an average of 360 calories per hour, compared to about 345 calories doing gymnastics. Golf also requires high muscle coordination because, “The golf swing uses at least 17 muscle groups in the coordinated movement of the hands, wrists, arms, abdomen, and legs.” (Is Golf a Sport?). When it is compared to basketball which uses only about 4 different muscles. In golf you have to build up strength in lots of different muscles but in other sports there only a few you have to build up. The amount of physical extortion and muscle uses shows that golf really is a sport. Golf is a sport because it has been accredited by the International Olympic Committee. This shows that world knows that golf is a sport, that high level athletes want to represent their country with this sport. For a sport to be recognized by the Olympics, “a sport must be widely practiced by men in at least 75 countries and on four continents and by women in no fewer than 40 countries and on three continents.” (Britannica). This shows that golf is widely played across the world, and the International Olympic Committee sees golf as a sport that can, and should, be played in the Olympics. Since golf passes the player rule and the other credentials, it shows that if the Olympics sees it as a sport, then golf is definitely a legitimate sport. To be a sport, a sport must include physical extortion, skill, entertain, and be somewhat competitive. Golf is a sport because it fits the definition. Golf is competitive, has a mental part and requires physical extortion. Not only does it fit this definition found in many dictionaries, but golf is in the Olympics. To be in the Olympics the sport has to be recognized and fits the credentials. Golf fits the credentials of the Olympics which shows that golf is a sport. If you still do not believe that golf is a sport, I will leave you with this. In soccer you kick a ball into a goal, and pretty much anyone can do that. In golf, you have to select the right club, and accurately hit the ball using a coordinated swing. Soccer is using your legs where golf is full body. Yet soccer is considered more a sport than golf. You try swinging a club and hit the ball perfectly. It may make you rethink, because golf is 100 percent a sport.
+Works Cited “A History of Golf since 1497.” GolfEurope.com, www.golfeurope.com/almanac/history/history1.htm. Britannica, The Editors of Encyclopaedia. “How Are Sports Chosen for the Olympics?” Encyclopædia Britannica, Encyclopædia Britannica, Inc., www.britannica.com/story/how-are-sports-chosen-for-the-olympics. Evers, Derek. “Golf Quotes: 18 Great Mental Tips.” Golf Digest, Golf Digest, 29 Oct. 2015, www.golfdigest.com/gallery/golf-mental-quotes#14. Harmer, Alfie Potts. “Top 10 Reasons Golf Is NOT A Sport.” TheSportster, TheSportster, 8 Sept. 2015, www.thesportster.com/entertainment/top-10-reasons-golf-is-not-a-sport/. Pennington, Bill. “A Little Scientific Research for All Those 19th-Hole Debates.” The New York Times, The New York Times, 1 Aug. 2010, onpar.blogs.nytimes.com/2010/08/01/a-little-scientific-research-for-all-those-19th-hole-debates/. “Sport | Definition of Sport in English by Oxford Dictionaries.” Oxford Dictionaries | English, Oxford Dictionaries, en.oxforddictionaries.com/definition/sport. “ProCon.org.” Is Golf a Sport?, golf.procon.org/.
+<USER>

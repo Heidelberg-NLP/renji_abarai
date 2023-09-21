@@ -1,0 +1,114 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is golf a sport?
+Text: Is golf a sport? Absolutely, and here's why Facebook Google Plus Bookmark Instagram Mail To LinkedIn Pinterest Tumblr Twitter Youtube magnify Bookmark Favorite greater than Quote Download Close Facebook Pinterest Google Plus Mail To LinkedIn Twitter Burger Menu Icon GP-badge-mobile
+
+Why golf absolutely is a sport: Nine legitimate reasons
+
+They wind up like a discus thrower, let out a loud grunt, then explode with ferocity unfamiliar to mortals. If you've seen a long-drive contest lately, like the Volvik World Long Driving Championship (Aug. 31-Sept. 6 at Winstar Resort & Casino in Oklahoma, on Golf Channel last two days), you know of what we speak. These guys are beasts.
+
+They train like weight-lifters and gymnasts, combining power with flexibility to hit drives that go 450 yards or more. They have clubhead speed approaching 150 mph and they do have to be somewhat accurate for their shots to count. There's no doubt that the modern long-drive competitor is an athlete.
+
+Yet, there's still discussion that golf isn't a sport. Yes, I realize that golfers who can barely get the ball off the ground aren't exactly performing elite athletic feats. But then again, just moving a little white golf ball with a crooked stick (like Robin Williams says) takes a good bit of coordination and athletic ability, even if you're not playing at an elite level.
+
+Golf is really hard, in case you haven’t heard.
+
+So the argument that golf isn't a sport, at least not one on par with baseball, football, hockey and baseball, or even individual sports like tennis, for that matter, is worn out. Just take a look at any professional tour event, whether it be on the PGA Tour, PGA Tour Champions or LPGA Tour, and these competitors not only look like athletes (more so than ever as brands like Nike, Adidas and Under Armour continually design their golf apparel to resemble activewear over resort garb), but are serious about their fitness. Many male and female pros have felt obliged to document their intensive workouts on social media.
+
+Okay, I'll admit that golf's reputation isn't helped by the fact that many players smoke and drink as they're playing it (performed that way, golf can feel more like a hobby or pastime). But I know tennis players who do the same and bowlers certainly do. (Yes, I know the same that argue golf isn't a sport would argue the same for bowling.) There are beer leagues in softball, too, but I doubt many would argue that baseball and softball aren't sports.
+
+But back to golf: here is a front nine of reasons why it is is unquestionably a sport, even if it doesn't require the agility of soccer or the endurance of a triathlete.
+
+1. Golf fulfills the definition of a sport
+
+According to Merriam-Webster, a sport is "a contest or game in which people do certain physical activities according to a specific set of rules and compete against each other." There's no doubt golf fulfills that definition, especially the part about the rules. There are lots of those in golf. Billiards? Darts? Now that's up for debate.
+
+2. Golf is back in the Olympics
+
+The Olympics is considered by many as the greatest sporting event on the planet. Therefore, golf, which returned to the Olympics in 2016 after more than a century absence, is aces. And I can certainly argue that it's more sporty than longtime Olympic events like archery or curling. But even archery and curling take athleticism, great eye-hand coordination and even strategy. Golf has all of that in droves, plus you can argue that performing on a high level is more exacting and difficult than most Olympic sports.
+
+3. Tiger Woods solidified golf's sporting status
+
+The way Tiger Woods played golf could be compared to the way Michael Jordan, Tom Brady or Derek Jeter defined their sports. That 6-iron Woods hit out of the bunker from 200 yards out over water at the 2000 Canadian Open at Glen Abbey was as sporty as it gets. It took clarity, athleticism and precision in a moment of extreme pressure. Everything Woods did on the golf course, including the way he intimidated and celebrated, not only made golf appear to be a sport, but to the TV viewer, practically a contact sport.
+
+And the best part, he's inspired a brand new generation of fearless, athletic golfers who hit the ball harder than ever.
+
+4. Training is vigorous for those who want to play well
+
+Forget the long-drive guys and gals, golfers on the professional tours train like never before. You might argue that they didn't do that in the old days, but I don't think Babe Ruth was hitting the gym all that hard either. Take a look at Justin Thomas, (recent winner of the Dell Technologies Championship tournament in Massachusetts) who weighs 150 pounds and hits the driver about 350 yards or so off the tee. He's more flexible than most baseball or football players or even tennis players because he's not only got skills, but his workouts are intense. Or how about Dustin Johnson, who can dunk a basketball with ease and can dead-lift more than 300 pounds? You could argue that he's just an athlete playing golf, but consider this: He does this so he can compete against the best in the world, and all the top players in the world (perhaps with the exception of John Daly on the PGA Tour Champions), train as hard as any athlete in any other sport for the most part.
+
+Video: Ginella trains with Dustin Johnson and trainer Joey D
+
+
+5. Precision in golf is unsurpassed
+
+The legend goes something like this: Baseball great Ted Williams once argued that there was no skill more difficult than hitting a moving baseball. Sam Snead countered, "But you don't have to go up in the stands and play your foul balls. I do."
+
+In other words, mistakes in golf cost you dearly, more than most team sports. They are both immediately penalizing and cumulative in stroke play. Think about this: When professional golfers have a 120-yard shot to the green, they are expected to propel a tiny white ball into the air to within an area just 20- or 30-feet wide. In fact, if they don't put it within 10 feet of the hole, they are most likely disappointed. The area covered is close to the distance from home plate to the centerfield wall in baseball. You're in trouble if you hit it to right-center of left-center and left field or right field shots are devastating. Then consider golfers who routinely drive the ball 300 yards (900 feet) with pinpoint accuracy. That's almost the size of three ballparks. It's astounding, and we haven't begun to talk about the precision required for the short game.
+
+6. Technically speaking, golf is very difficult
+
+NBA MVP Steph Curry speaks highly of the athleticism required to play golf.
+
+
+Most athletes from other sports who take up golf find that our "non-sport" or "pastime" is a lot more difficult than they initially thought. Just ask former basketball great Charles Barkley, who has one of the most contorted golf swings you'll ever witness. I've played with many great athletes from other sports who have tried golf and are just plain lousy at it. And they're trying really hard as many grow addicted to the game in retirement. Just turn on the American Century Celebrity Classic at Edgewood Tahoe each summer, and you'll see what I mean.
+
+Some, of course, are able to transmit their great athleticism into golf. But even the great basketball player Steph Curry, who plays to near-scratch and devotes much of his offseason to playing golf, couldn't make the cut in a recent Web.com tournament. His performance at the Ellie Mae Classic in California was certainly respectable with a pair of 74s, but only four golfers in the event were worse.
+
+"I'm very sensitive to the experience of the PGA Tour guys out there who have dedicated their lives to what they do, just like I have basketball," Curry told David Feherty recently. "I don't think I could just jump out there. It'd be a lot of work."
+
+Maybe Curry can compete at that level after his basketball career, maybe not. If he does, he'd be in rare company.
+
+7. Golfers walk six miles or more each round
+
+In professional golf and many high-level amateur events, golfers are usually required to walk. Depending on weather conditions and terrain, walking can be pretty strenuous and golfers have to be in shape to not let fatigue affect their shot making. We're talking six or seven miles of walking here, which can approach a thousand calories burned with your heart rate above 90 if you're in decent shape. And while the tour players have caddies, college players, for example, do not and have to carry their own bags. It's one of the reasons serious golfers put a lot of cardio work in their training regimes as well as strength and flexibility work.
+
+Oh, and if you think taking a golf cart isn't taxing, think again. Even with a cart, you're likely to walk three or four miles to tee boxes, greens and to your ball in the fairway or the rough or woods. This goes on for hours. It's draining. So golf takes a toll physically no matter what.
+
+Golf's mental game is more difficult than most other sports
+
+Famed golf and sports psychologist Bob Rotella speaks with Henrik Stenson prior to the 2009 U.S. Open at Bethpage Black.
+
+Legendary sports psychologist Bob Rotella coaches Henrik Stenson at the 2009 U.S. Open.
+
+
+If there's a sport that requires more focus and a quieter mind, I'm not aware of it. In team sports, teammates can pick you up; not so in golf. Most are also reaction sports, making it perhaps a little easier to focus. At the Omni La Costa Resort & Spa, for example, Deepak Chopra and his team have developed a comprehensive golf program that stresses how the mind has to work in concert with the body to produce good results. In fact, it's about not focusing on results, but staying in the moment that makes golf so difficult. It's a balance that's extremely difficult to achieve.
+
+9. Not enough of a sport for you? Try speed golf
+<USER>

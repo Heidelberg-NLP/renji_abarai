@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJSBbTZWiwiQXDtewM8Dc2CItEOy",
+  "object": "chat.completion",
+  "created": 1682692415,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2682,
+    "completion_tokens": 30,
+    "total_tokens": 2712
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text contains factual information and does not present any argument or claim, therefore, it is not possible to assign a rhetoric argument quality label to it."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

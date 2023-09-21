@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ7CsIgPtxkFGOi2sj6pJY9jA1NA",
+  "object": "chat.completion",
+  "created": 1682691114,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2605,
+    "completion_tokens": 140,
+    "total_tokens": 2745
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The article provides an assessment of President Biden's tax plan, which proposes to increase the corporate tax rate to 28 percent and raises the top federal marginal tax rate on capital gains and dividends to 43.4 percent. These proposals would produce a top combined integrated tax rate on corporate income of 65.1 percent, which is higher than the current top rates in the OECD. The article warns that a higher marginal tax rate on corporate income increases the cost of investment and could lead to lower productivity, wages, and economic output. The article presents data on the combined integrated tax rate for each state under the proposed tax plan. Overall, the article takes a critical view of President Biden's tax plan."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1N20ZV3cnPXh9SSPj8yyXzo0B1K",
+  "object": "chat.completion",
+  "created": 1687866120,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text provides a neutral, informative description of standardized testing and the related debates. Therefore, it is not possible to assign a rhetorical argument quality label to it."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2407,
+    "completion_tokens": 32,
+    "total_tokens": 2439
+  }
+}

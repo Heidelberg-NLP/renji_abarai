@@ -1,0 +1,49 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should bottled water be banned?
+Text: Should Bottled Water Be Banned? - 1537 Words | Bartleby
+preview
+
+Should Bottled Water Be Banned?
+
+Decent Essays
+Should bottled water be banned? Have you ever had any concerns about bottled water? Do you think that bottled water consumption should be banned? Bottled water is water packed in plastic containers and sold for human consumption (Health Canada, 2013). Currently, the amount of bottled water consumed has increased considerably since many people feel it is safer drinking bottled water than tap water (Parent and Wrong, 2014). According to The Statistics Portal, the global sale of bottled water took a leap from 161, 589 to 181, 608 liters from 2009 to 2011. Only in the United States, each American citizen consumed around 32 gallons of bottled water in 2013, thus meaning an equivalent growth of 15, 94% over 2009 (The Statistics Portal, 2014). In fact, due to good portability, bottled water has been helpful in both simple and complex situations such as daily exercises and natural disasters. Even though having those few considerable advantages, bottled water still have been less beneficial; especially due to the negative impacts in the socio-economic, health and environmental fields.
+In contemporary society, bottled water consumption has become more attractive and popular. While in 2009 were only sold 161,589 million liters of bottled water, in 2011 approximately 181.61 million liters were sold all over the world (The Statistics Portal, 2014). In this context, attributing that significant growth of bottled water commercialization is consequence of a successful marketing should
+Get Access
+<USER>

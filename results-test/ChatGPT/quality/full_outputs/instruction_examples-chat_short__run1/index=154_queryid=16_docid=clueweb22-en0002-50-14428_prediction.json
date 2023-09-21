@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ5DoqJyATuzJ4UdVOMc2tAgTZ6x",
+  "object": "chat.completion",
+  "created": 1682690991,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2600,
+    "completion_tokens": 48,
+    "total_tokens": 2648
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This passage appears to be a research article discussing drug classification systems in different countries, with a focus on Thailand. There is no explicit rhetorical argument being made, so it is not suitable to assign a \"well-writtenness\" label to it."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

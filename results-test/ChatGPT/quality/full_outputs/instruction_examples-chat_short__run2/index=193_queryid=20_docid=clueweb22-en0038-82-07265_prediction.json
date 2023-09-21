@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2dgv3dBwkYgBL5rGNTEvs91HYVj",
+  "object": "chat.completion",
+  "created": 1683104436,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2953,
+    "completion_tokens": 36,
+    "total_tokens": 2989
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a clear argument for or against the statement \"Is Drinking Milk Healthy for Humans?\". Therefore, it does not provide the basis for an argument quality prediction."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

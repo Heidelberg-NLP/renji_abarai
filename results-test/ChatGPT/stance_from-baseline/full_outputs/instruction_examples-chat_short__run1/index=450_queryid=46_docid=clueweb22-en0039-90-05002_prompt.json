@@ -1,0 +1,90 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should net neutrality be restored?
+Text: Net neutrality may be restored under Biden FCC pick Jessica Rosenworcel | Fortune
+Skip to Content
+
+Biden’s new FCC chair may signal a return to net neutrality, but it could take a while
+
+Subscribe to Fortune Daily to get essential business stories straight to your inbox each morning.
+
+The Senate Commerce Committee is expected to confirm Jessica Rosenworcel to become chair of the Federal Communications Commission on Wednesday, a role she has held in an acting capacity since January. Rosenworcel, who has been a commissioner since 2012, would become the first woman to lead the agency. 
+
+Rosenworcel is expected to better align the FCC with the pro-consumer ethos President Joe Biden outlined in a July executive order, which chastised corporations for consolidating their power and making Americans “pay too much for broadband, cable television, and other communications services.”
+
+Rosenworcel’s ascent, along with that of Biden’s other FCC nominee, Gigi Sohn (whose hearing has yet to be scheduled), would break the 2–2 deadlock the FCC has been mired in since 2020 when it was left with four commissioners. 
+
+“I'm excited to get back to a world where we can at least call on the FCC to do things,” said Evan Greer, director of internet rights group Fight for the Future.
+
+A Rosenworcel-led FCC could also signal the return of net neutrality, an Obama-era rule that Trump’s FCC repealed in 2018. And its reinstatement couldn’t be more welcomed by internet activists. 
+
+Never miss a story about The Biden administration
+FOLLOW THE AUTHOR:
+MORE TOPICS:
+VIEW MORE
+
+“Restoring net neutrality is the floor,” said Greer. “That should be a given.”
+
+Passed in 2015, net neutrality essentially forces internet service providers (ISPs)  like Comcast and Verizon to treat all internet traffic equally. Under net neutrality rules, ISPs can’t offer “fast lanes” to some data, nor can they block or discriminate against other content. Net neutrality prevents ISPs from charging customers more money to access certain websites, or from changing internet speeds depending on a user’s location.
+
+Without net neutrality, pro-regulation advocates argue, a handful of telecommunications giants can decide who has access to their “fast lanes”—and it’s not hard to imagine a future in which ISPs charge companies for that access. Although most ISPs say they would never block access to content, four major mobile providers were caught doing just that in 2019. More recently, Verizon was accused of suppressing a California county fire department’s data during the height of wildfire season.
+
+“In a world without net neutrality protections, I think we would very likely in the next few years see companies like Facebook and Google cut deals with telecom providers like AT&T and Verizon, to either make it so their apps don't use up any of your data, or they're prioritized in some way,” Greer said.
+
+Rosenworcel has long been a vocal supporter of net neutrality. 
+
+"The internet should be open and available for all. That’s what net neutrality is about," she wrote in an October 2020 statement. "It’s why people from across this country rose up to voice their frustration and anger with the Federal Communications Commission when it decided to ignore their wishes and roll back net neutrality."
+
+In order to restore net neutrality, the FCC will have to renew ISPs’ classification as a Title II service—a wonky designation that would categorize providers as a utility (like a phone network) and would open them up to stricter oversight. 
+
+Unfortunately for net neutrality advocates, the process of restoring Title II could take quite a while between the legislative process and the lawsuits that are almost sure to follow.
+
+“You go through a rulemaking process, and there will be the opportunity for public comment,” said Harold Feld, the senior vice president of Public Knowledge, a consumer advocacy group.
+
+Net neutrality is far from Rosenworcel’s only priority. So far, as acting chair, she has focused much of her energy on closing the digital divide between those who have access to high-speed internet, and those who don’t—often Americans in rural areas, working-class people, and people of color. This has been especially important in the COVID era, when so many people are working remotely and attending school virtually. 
+
+Rosenworcel has also previously spoken at length about broadband inequity as a gender issue, writing in a July op-ed that mothers faced harrowing challenges when schools closed down for in-person learning. And in August she pushed for a $5 million fine for companies that engage in unlawful robocalls. Feld said he also expects that under Rosenworcel, the exclusive wiring deals that exist between ISPs and property managers will come under the FCC’s microscope.
+
+“I mean this as the ultimate compliment: Jessica Rosenworcel is the nerdiest, wonkiest person to chair the FCC,” Feld said. “And that's what you want for a specialized agency.”
+
+More politics coverage from Fortune:
+
+:)
+search by queryly Advanced Search
+<USER>

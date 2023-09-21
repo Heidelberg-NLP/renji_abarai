@@ -1,0 +1,110 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should felons who have completed their sentence be allowed to vote?
+Text: As November’s general election approaches, the perennial conversation around who can vote reignites. In Pennsylvania and New Jersey, there continues to be hearty debate over approaches like automatic voter registration, same-day voter registration and vote-by-mail.
+
+One voting-related topic that continues to be controversial is whether people in prison should be allowed to vote while serving their sentences. Many other countries allow prisoners to vote. Earlier this year, Sen. Bernie Sanders, a 2020 presidential candidate, drew both praise and criticism when, in response to a question posed during a townhall, he declared that he believe inmates, including convicted Boston Marathon bomber Dzhokhar Tsarnaev, should be allowed to vote. Other 2020 Democratic candidates, including Mayor Pete Buttigieg of South Bend, Indiana, disagree. Sanders’ home state of Vermont is one of two states that allow prison inmates to vote. (The other is Maine.)
+
+To explore this issue further, the Inquirer reached out to legal experts on each side to debate: Should prison inmates be allowed to vote?
+
+
+Banning prisoners from voting disenfranchises them as citizens
+
+As an Iowa native, it never occurred to me that people in prison could possibly have the right the vote. That’s because in Iowa, and most other states, that’s just the way we’ve designed the system. Then, I moved to Vermont, where I learned that things could be different.
+
+Banning people from voting disenfranchises them as citizens. Nearly 70,000 members of the voting-age population in Iowa have a felony, and therefore, are unfairly silenced because they are banned from voting. In Vermont, individuals are never disenfranchised when it comes to casting a ballot — people in prison are allowed to vote. The approach of most other states falls in the middle of the disenfranchisement spectrum, though many states eventually restore the voting rights of most individuals once their time has been served. The issue with these varying approaches is that any disenfranchisement, even while serving a prison sentence, violates an individual’s First Amendment rights and disconnects individuals from their community. By disenfranchising these potential voters, the approach to justice is more punitive than rehabilitative.
+
+To vote is to have a voice in elections, which is fundamental to our democracy.
+
+Kassie Tibbott
+
+To vote is to have a voice in elections, which is fundamental to our democracy. To vote is to choose to participate in our democratic system to express civic pride, express opinions, and express points of view, which makes the act of voting a form of speech that should be classified as speech protected by the First Amendment.
+
+At an April town hall, Vermont Senator and 2020 Presidential candidate Bernie Sanders said that all people should have the right to vote, calling it “un-democratic and un-American” to ban prisoners from casting a ballot.
+
+In the past 12 months, I have driven more than 3,000 miles to visit six correctional facilities – five in Vermont and one in Mississippi – to assist more than 100 incarcerated Vermonters with the voter registration process. Incarcerated Vermonters vote by early voter absentee ballot in the election at the individual’s place of residence prior to incarceration, the community where the individual expects to return after their sentence is served. The incarcerated individuals I assisted, who represent 45 Vermont towns, expressed gratitude for the opportunity to remain involved in local and state-level matters. I often heard the phrase “my voice does matter,” sometimes posed as a reassuring statement and sometimes in the form of a question. And all I interacted with, both those who registered and those who declined to register, provided a heartfelt “thank you.”
+
+An incarcerated individual is still a community member who is affected by our laws and deserves representation. While we choose incarceration to punish individuals, to deter others, and to keep our communities (and sometimes the incarcerated individual) safe from harm, an act of voting by a prisoner does not harm the community. Rather, it may heal.
+
+» READ MORE: Would opening a supervised injection site violate existing federal law? Pro/Con | Opinion
+
+» READ MORE: Debating Philly’s iconic trolley system: Time for an expansion? Pro/Con | Opinion
+
+As recognized by the Vermont Department of Corrections, correctional recidivism is influenced by an individual’s reintegration into the community and the community’s willingness to support people in their rehabilitation, among other factors. When an individual feels that the larger community sees them as more than the offense they committed, a new sense of connection is created. While seemingly minor, each small connection creates a larger sense of community, which all individuals need to thrive. Especially those in a vulnerable and often singled-out class like prisoners.
+
+Kassie Tibbott volunteers with incarcerated men and women in Vermont. In addition to voter registration drives, she hosts writing workshops and discussion groups. Her most recent project was as co-editor of a collection of poetry written by Vermont’s incarcerated women, titled Life Lines: Re-Writing Lives From Inside Out (Green Writers Press, 2019).
+
+
+Allowing felons to vote while incarcerated is reckless
+
+The idea that felons should be allowed to vote while incarcerated is not just an unwise policy, it is a reckless one.
+
+Section 2 of the Fourteenth Amendment specifically provides that states may abridge the right to vote of citizens “for participation in rebellion, or other crime” — a tradition that goes back to ancient Greece and Rome. Any claim that state laws that prevent incarcerated felons from voting are all rooted in racial discrimination is simply historically inaccurate. Even before the Civil War, when many black Americans were slaves and could not vote, most states took away the right to vote of those convicted of serious crimes.
+
+All but two states, Maine and Vermont, take away the right of felons to vote when they are convicted and are serving their sentences. Such a policy makes perfect sense and is in the best interests of our society and local communities. As a federal judge said in 2002 in an unsuccessful case challenging Florida’s disenfranchisement law, felons are deprived of their ability to vote because of “their own decision to commit an act for which they assume the risks of detection and punishment.”
+
+In other words, felons are individuals who have chosen to violate the rules and norms of our society, rules and norms that are incorporated in our laws and that are intended to protect all of us and provide for the safety of our communities. Those who are not willing to follow the law cannot claim a right to choose those who will make and enforce the laws for everyone else.
+
+That is what you, as a citizen, are doing when you enter a polling place to vote. As a voter, you are either making the law directly through ballot initiatives and referenda or indirectly by choosing not only lawmakers, but the local sheriffs, prosecutors, and judges who enforce the law.
+
+» READ MORE: Pa. has lowest minimum wage allowed in U.S. Should it be raised to $15/hour? Pro/Con | Opinion
+
+» READ MORE: Dîner en Blanc: A fun party, or insult to Philly’s gritty reputation? Pro/con | Opinion
+
+Why would you want to allow those who have committed serious crimes against their fellow citizens to vote while they are still incarcerated? They have demonstrated by their action that they do not have the responsibility and commitment to our laws to make them trustworthy enough to vote.
+
+Does anyone really think that someone like Richard Poplawski, who was convicted of the ambush-style killing of three Pittsburgh police officers, should be able to vote while he is sitting on death row?
+
+And who will be hurt the most by allowing incarcerated felons to vote? It is law-abiding citizens in high-crime areas where people are often disproportionately poor and minority. It is hardly in their best interests to allow the criminals who victimize them to stand next to them in the ballot box, figuratively speaking.
+
+Those who are not willing to follow the law cannot claim a right to choose those who will make and enforce the laws for everyone else.
+
+Hans A. von Spakovsky
+
+Most states restore the right to vote once the felon is out of prison and has completed any required parole or probation, although some states also have a waiting period beyond that because of high recidivism rates. This makes sense.
+
+The right to vote should not be restored until felons have been released and shown that they really have learned their lesson, turned over a new leaf, and are now willing to abide by the rules under which we all live.
+
+Letting them vote from prison, cancelling out the votes of their victims, is an unfair and imprudent proposal.
+
+Hans A. von Spakovsky is a Senior Legal Fellow and Manager of the Election Law Reform Initiative at The Heritage Foundation. He is the coauthor of “Who’s Counting? How Fraudsters and Bureaucrats Put Your Vote at Risk” and “Obama’s Enforcer: Eric Holder’s Justice Department.”
+
+
+Read more Inquirer Pro/Cons:
+<USER>

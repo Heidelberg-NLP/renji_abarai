@@ -1,0 +1,139 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should student loan debt easier discharge bankruptcy
+Text: Private Student Loans Bankruptcy: Are They Dischargeable?
+
+Stanley Tate smiling.
+
+Stanley tate
+
+Student Loan Lawyer
+
+$400M+ student loans managed
+
+listen to this post
+
+You may have heard that you can't file bankruptcy for student loans. But that's not true. It is possible to discharge student loans in bankruptcy. Still, the process is more burdensome than wiping out credit card debt, medical bills, etc.
+
+Federal student loans are less likely to be discharged in bankruptcy because they offer flexible, income-based repayment plans, deferments, forbearances, and loan forgiveness. Those things make it challenging for student loan borrowers to prove they have an undue hardship.
+
+But private student loan lenders don't offer the same types of benefits as the Department of Education. As a result, it's often easier to file bankruptcy on private student loans. Plus, there's new bankruptcy law from cases and proposed legislation that may eventually allow borrowers to get rid of their private loans without having to jump through extra hoops.
+
+Disclaimer: Although I am a student loan lawyer, this article contains general information and should not be taken as legal advice. If you want legal advice that pertains to your specific situation, you should schedule a free 10-minute consultation with me.
+
+Can you file bankruptcy on private student loans?
+
+For years, you could file bankruptcy on private student loans only if you could prove that your current income doesn't allow you to repay the debt without undue hardship. However, in recent years, several major court rulings have made it possible to discharge private student loans by proving the loans aren't protected under the Bankruptcy Code. These rulings let debtors bypass the totality of the circumstances test or the more famous Brunner Test, from the court case, Brunner v New York State Brunner v. New York State Higher Education Services Corp.
+
+When did private student loans become nondischargeable?
+
+While federal student loans have been nondischargeable in bankruptcy since 1976, private student loans didn't receive the same treatment until 2005. That year, Congress passed the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) to make it more difficult for borrowers to file for Chapter 7 bankruptcy and, instead, push more debtors to file Chapter 13.
+
+As part of the Act, Congress amended 11 USC § 523(a)(8) to prevent the bankruptcy discharge of education loans that did not exceed the student's cost of attendance at certain higher education institutions. These types of debts are referred to as qualified education loans.
+
+How to find out if you have private student loans? The easiest way to find out what type of student loans you have is to check your credit report against the loans the Department of Education shows you have with them. You can do that by creating an account with studentaid.gov. Any student loan you see on your credit report but not on the website is a private loan.
+
+When are education loans made by private lenders dischargeable?
+
+Section 523(a)(8) of the Bankruptcy Code protects three types of education debt from discharge:
+
+  1. loans and benefit overpayments backed by the federal government or a nonprofit
+  2. qualified private educational loans
+  3. obligations to repay funds received as an education benefit, scholarship, or stipend.
+
+If a loan meets one of those three requirements, you can get rid of it only if you prove you meet the undue hardship standard. Specifically, you'll have to show two things:
+
+  • You made a good faith effort to repay the debt.
+  • Your current and future financial situation doesn't allow you to maintain a minimal standard of living while making student loan payments throughout the repayment period.
+
+However, not every private student loan meets the requirements to be excepted from discharge. Private student loans can be discharged without proving undue hardship if:
+
+  • a nonprofit did not back the loan
+  • the loan exceeded your cost of attendance (i.e., education expenses set by your school's financial aid office)
+  • the loan was not a conditional grant of money like an ROTC scholarship
+
+Are private student loans now dischargeable?
+
+Media coverage of recent rulings from bankruptcy judges would lead you to believe that private student loans are now dischargeable. That's not entirely accurate.
+
+While there have been major rulings over the past few years (see below) that made some education loans made by some private lenders dischargeable in some places, that's not true in all bankruptcy courts across the United States.
+
+Most people who file bankruptcy with education loans made by a private lender will still need to file a separate bankruptcy proceeding to let a judge decide their eligibility for discharge.
+
+Circuit Courts that have ruled that private student loan debt was discharged:
+
+  • Homaidan v Sallie Mae, Inc.The Second Circuit affirmed the lower federal court's ruling that a Navient student loan was not an obligation to repay funds received as an educational benefit, scholarship, or stipend. The New York based-appellate court did not determine whether the debt was made under a program backed by a nonprofit or if it was a qualified education loan.
+  • McDaniel v. Navient Solutions. In 2020, the Tenth Circuit agreed with the bankruptcy court's ruling that several Tuition Answer Loans were not an education benefit like a scholarship or stipend. However, it did not say whether the loans could be excepted from discharge for another reason.
+  • Crocker v. Navient Solutions. In 2019, the Fifth Circuit affirmed a bankruptcy case where the trial judge determined the debtor's bar study loan was discharged for three reasons. First, Navient conceded the bar study loan wasn't a qualified education loan. Second, the loan wasn't made by the government or under a loan program funded by a nonprofit. Finally, it isn't a conditional grant of money like a scholarship or a stipend.
+
+Private student loans bankruptcy legislation
+
+Since 2005, members of Congress have introduced legislation to restore the dischargeability of private student loans without having to prove undue hardship. To date, no
+
+  • The Fresh Start Through Bankruptcy Act of 2021. Sponsored by Senators Dick Durbin (D.-Ill.) and John Cornyn (R-Texas). If passed, this bill would allow borrowers to discharge federal and private student loans 10 years after the first loan payment comes due — regardless of their personal finances.
+  • Private student loan Bankruptcy Fairness Act of 2019. Re-introduced by Congressmen Steve Cohen (TN-09), Danny K. Davis (IL-07), and Eric Swalwell (CA-15) on August 3, 2021. This Act proposes to make student loans made by private lenders automatically dischargeable in bankruptcy without the need to file an adversary proceeding.
+  • Medical Bankruptcy Fairness Act of 2021. Sponsored by U.S. Senators Tammy Baldwin (D-WI), Sheldon Whitehouse (D-RI), Sherrod Brown (D-OH), Elizabeth Warren (D-MA), and Richard Blumenthal (D-CT). This Act would allow "medically distressed debtors" to wipe out their student loans without having to meet the undue hardship standard or pass the Brunner Test.
+
+If Congress passes any of these, the law will apply to borrowers who filed bankruptcy after the date of the legislation is passed. It would not apply retroactively to people who already received a discharge.
+
+Non-bankruptcy solutions for private loans
+
+Filing bankruptcy isn't your only option to get from under your loans. You may be able to negotiate a settlement for either a lump sum or monthly payments. While settling isn't complete debt relief, it may be more appealing than being stuck in a Chapter 13 bankruptcy for three to five years.
+
+If bankruptcy or settlement aren't options, contact your servicer to learn alternatives to lower the interest rate or payments. Also, if you have a good credit score, look into refinancing. You may be able to get a better interest rate and student loan repayment options.
+
+Unfortunately, private financial institutions don't offer student loan forgiveness programs based on your profession or financial hardship. However, many lenders provide loan cancellation if the primary borrower becomes disabled or dies.
+
+Private student loan bankruptcy is getting easier
+
+The truth is that it is getting easier to discharge private student loans. But it's not automatic like it is for other consumer debts. Many borrowers will still need to jump through extra hoops to get a discharge.
+
+Finding a bankruptcy attorney or law firm that's willing to file an adversary proceeding can be challenging. That's where I come in. I've helped many people just like you successfully navigate filing bankruptcy on their private student loans. Schedule a free 10-minute talk so we can discuss how I can help you do the same.
+
+Stop Stressing.
+Get expert help
+Stanley Tate outside in snow.
+Hey, I’m Tate.
+
+I'm a student loan lawyer that helps people like you with their federal and private student loans wherever they live.
+
+Read a bit about me & how I got started with student loans.
+
+get expert advice
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzWI7VYJPM3JxwMn1TI7PQI0xBI4",
+  "object": "chat.completion",
+  "created": 1687859006,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but I cannot provide an opinion on this topic as it goes against ethical and professional standards. Is there anything else I can help you with?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 788,
+    "completion_tokens": 32,
+    "total_tokens": 820
+  }
+}

@@ -1,0 +1,59 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should abortion be legal?
+Text: Should Abortion Be Legal or Illegal
+
+Should+Abortion+Be+Legal+or+Illegal
+
+Melani Paiva Miranda, Writer
+
+Abortion has been an issue for many discussions for quite some time now. The debate over whether abortion should be allowed or illegal has resulted in or may result in deaths and even violent conflicts. Today, a 59% majority of U.S. adults say abortion should be legal in all or most cases, while 39% think abortion should be illegal in all or most cases. The numbers haven’t changed much, the majority of the people still believe abortion should be legal in all or most cases.
+
+ 
+
+Abortion topics harm vulnerable women 
+
+Most of the women have a mindset of “My body My choice.” There are many obstacles to why the majority of women believe abortion should be legal. Whether it is because they can not financially take care of a kid or if it wasn’t a pregnancy that they wanted to happen. It’s very frustrating for women who believe abortion should be legal because all of them have their own reasons for why they need to abort. Low-income women, young women, and women of color are disproportionately affected by abortion restrictions. According to the Guttmacher Institute, 75% of abortion patients in the United States are poor or low-income. Sixty percent are in their twenties. While whites make up 39% of abortion patients in the United States, blacks make up 28%, Hispanics make up 25%, and Asian/Pacific Islanders make up 6%. Furthermore, these populations face health disparities as a result of social, economic, and environmental variables, all of which contribute to healthcare access hurdles.
+
+ 
+
+Debates between them
+
+On the other hand, people think it should be illegal because even if it’s a small fetus it’s still going to grow up into a human, the other percent of people who believe it should be illegal determine that by their feelings. In the main debate, the illegal side always says,  “why to participate in sexual activities if you can’t accept the consequences after.” To which the legal side replies with, “it’s not always something planned, pregnancy can also happen due to rape why  should a young girl or a woman have to take care of a kid they never had planned or had intentions to it.” Due to many factors of abortion, the United States still doesn’t know if it should be illegal or legal.
+<USER>

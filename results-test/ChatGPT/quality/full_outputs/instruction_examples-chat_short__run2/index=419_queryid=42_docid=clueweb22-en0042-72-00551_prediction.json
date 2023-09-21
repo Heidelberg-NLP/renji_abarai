@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2qxQJ4z7bOTjEHliwZcIjhBu0Py",
+  "object": "chat.completion",
+  "created": 1683105259,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1935,
+    "completion_tokens": 13,
+    "total_tokens": 1948
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a clear rhetorical argument to be evaluated."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

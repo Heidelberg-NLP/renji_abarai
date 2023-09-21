@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2dFgCc468pQ5dpkptewWMmCOE9x",
+  "object": "chat.completion",
+  "created": 1683104409,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2727,
+    "completion_tokens": 97,
+    "total_tokens": 2824
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides instructions and information on various aspects related to tax exemption for non-profit organizations, including how to obtain a tax exempt number, how to check tax exempt status, and the difference between a federal tax ID and a tax-exempt number. It also includes information on how to apply for tax-exempt status and how to check if an organization is currently tax-exempt. Overall, the style of speech is straightforward and easy to follow, so the rhetorical argument quality would be medium."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

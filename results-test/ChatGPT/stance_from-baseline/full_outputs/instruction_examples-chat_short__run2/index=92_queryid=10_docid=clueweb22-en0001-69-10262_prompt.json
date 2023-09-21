@@ -1,0 +1,68 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should any vaccines be required for children?
+Text: Should COVID-19 vaccines be required for students? | king5.com
+x
+Breaking News
+More (-1) »
+
+Seattle school board recommends state reviews COVID-19 vaccine requirement for students
+
+Board members recommended that the Washington State Board of Health begin reviewing the COVID-19 vaccine for inclusion on the list of required immunizations.
+
+SEATTLE — The Seattle Public Schools board of directors approved a resolution Wednesday that asks the Washington State Board of Health to review the COVID-19 vaccine for inclusion on the list of required immunizations for students prior to attending school. 
+
+The resolution clarifies that the school board is only asking the Washington State Board of Health (BOH) to begin its review once the vaccine is fully approved by the Food and Drug Administration (FDA) and recommended by the Advisory Committee on Immunization Practices.
+
+>> Download KING 5's Roku and Amazon Fire apps to watch live newscasts and video on demand
+
+The vote, which was postponed from Oct. 13, comes just weeks after Pfizer’s COVID-19 vaccine for children ages 5-11 was given emergency authorization by the FDA and Centers for Disease Control and Prevention (CDC).
+
+According to a KING 5 News poll, 41% of Washingtonians strongly support the requirement and 20% somewhat support it. Meanwhile, the same poll shows 27% of Washingtonians strongly oppose the requirement while 9% somewhat oppose it.
+
+Data on COVID-19 vaccinations for children ages 5-11 has yet to be released, as of Wednesday morning, but children ages 12-17 continue to lag behind other age groups who were able to get the vaccine sooner.
+
+Still, about 57% of children ages 16 and 17 are considered fully vaccinated and about 50% of children ages 12-15 are fully vaccinated, as of Nov. 13, according to data from the Washington State Department of Health (DOH).
+
+Those numbers are expected to go up, and the DOH said prior to its approval that about 30% of children ages 5-11 throughout the state would initially get the pediatric COVID-19 vaccine.
+
+Any decision on vaccine requirements for children attending school in Washington state is made by the BOH.
+
+The DOH released a report on Oct. 29 covering the state’s COVID-19 outbreaks in schools, which are defined by either three or more probable or confirmed cases within a group or probable or confirmed cases in at least 10% of students and staff. The latest report shows that between Aug. 1 and Sept. 30, there were 189 outbreaks across Washington’s K-12 schools. About 1,280 COVID-19 cases were associated with these outbreaks, and nearly 90% of those cases were among those ages 19 and under.
+<USER>

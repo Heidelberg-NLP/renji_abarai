@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2r7ito5niLzvNLsqHmiVtM7JHKd",
+  "object": "chat.completion",
+  "created": 1683105269,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1718,
+    "completion_tokens": 41,
+    "total_tokens": 1759
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but there doesn't seem to be a clear argumentative stance presented in this text, therefore it's not possible to give a \"high\", \"medium\", or \"low\" rating."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

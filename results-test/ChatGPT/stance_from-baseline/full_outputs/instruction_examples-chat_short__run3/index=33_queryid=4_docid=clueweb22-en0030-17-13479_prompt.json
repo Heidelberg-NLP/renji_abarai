@@ -1,0 +1,175 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should corporal punishment be used in schools?
+Text: Debate Topic: Corporal Punishment Should be Enforced in Schools | Debate.org
+The Instigator
+Putt-Putt
+Pro (for)
+Losing
+0 Points
+The Contender
+QandA
+Con (against)
+Winning
+3 Points
+
+Corporal Punishment Should be Enforced in Schools
+
+Do you like this debate?NoYes+1
+Add this debate to Google Add this debate to Delicious Add this debate to FaceBook Add this debate to Digg  
+Post Voting Period
+The voting period for this debate has ended.
+after 1 vote the winner is...
+QandA
+Voting Style:OpenPoint System:7 Point
+Started:11/7/2013Category:Education
+Updated:8 years agoStatus:Post Voting Period
+Viewed:8,800 timesDebate No:40115
+Debate Rounds (4)
+Comments (0)
+Votes (1)
+
+ 
+
+Putt-Putt
+
+Pro
+
+Round One: Acceptance
+Round Two: Arguments
+Round Three: Rebuttals/New Arguments
+Round Four: Rebuttals, No Further Arguments
+QandA
+
+Con
+
+I graciously accept.
+Debate Round No. 1
+Putt-Putt
+
+Pro
+
+I thank the Con for accepting the debate and look forward to a fun and interesting debate with him!
+
+I would like to start off with the definition of corporal punishment, acquired from [1].
+"Corporal punishment, physical chastisement of an offender. At one extreme it includes the death penalty (see capital punishment), but the term usually refers to punishments like flogging, caning, mutilation, and branding. Until c.1800, in many parts of the world, most crimes were punished thus, or by such practices as confinement in the pillory or stocks, which combined physical chastisement with the humiliation of an individual possible in a relatively small, cohesive society. Flogging was especially prevalent, being used also to keep order among the institutionalized insane and in schools and the armed forces."
+
+I would like to remind the voters that this argument is based on corporal punishment in schools, not military, law enforcement, insane institutions, etc.
+
+I begin my argument with a list of the pros of corporal punishment in schools, which is what I will base my argument on. These are found on [2].
+Teaches students discipline
+Deters bad behavior
+No suspensions
+Limits amount of educational disruptions
+
+These are several pros that can be justified in any modern day school system. With students today becoming more rowdy and rude towards teachers, less time is used for teaching, and more is used for issuing detentions, write ups, scolding in class, or other forms of punishment. This naturally would hardly deter any common misbehavior, as they would soon go back to their usual antics. Looking at the graph on [3], this illustrates how education in The United States has dropped from 1900 to present day. Keep in mind, the beginning of the 1900's to the late 1970's, corporal punishment was a widely used form of punishment in all schools across America. The message sent was clear. You go to school to learn, and you respect the teachers who give you this information. If the respect is not given, then you were punished. This undoubtedly kept students in line, a reason for the higher test scores.
+
+[4] shows the states who still use the method of corporal punishment, rarely, yet still in effect.
+
+For those who think corporal punishment allows for students to be physically "beat" I would like to use this next topic to show what forms of corporal punishment there are, and the restrictions. [5] lists the types of corporal punishment, and although many seems harsh, the most commonly used forms are that of canning, paddling, flogging and saucing. There are, however, restrictions set on corporal punishment, as seen in [6]. Such restrictions include male teachers not being permitted to use this punishment on female students, and vice versa with female teachers to male students.
+
+I end my debate here, as I still would like to include more arguments in my next round.
+
+I again thank Con for his acceptance to the debate, and hope for a fun clean interesting debate.
+
+I would like to remind voters that I am simply playing the devil's advocate and minority voice, and that the arguments may not reflect my personal opinion. I ask that you vote based on content and not beliefs, as these may not directly resemble my values.
+
+1. http://www.infoplease.com...
+2. http://www.ehow.com...
+3. http://www.google.com...
+4. http://www.infoplease.com...
+5. http://privateschool.about.com...
+6. http://www.educationrightscenter.org...
+QandA
+
+Con
+
+I thank my opponent for his argument. I will now present my argument as defined.
+
+Arguments Against Corporal Punishment being enforced in school.
+
+1). The more "spankings children" experience, the greater the chance that they will become aggressive and engage in other anti-social behavior.
+Source: (Study reported in Archives of Paediatrics and Adolescent Medicine, August 1997 by Murray A. Straus, David B. Sugarman, and Jean Giles-Sims)
+
+2). Poor children, minorities and children with disabilities are hit more regularly in schools, sometimes at 2-5 times the rate of other children.
+Source: (U.S. Department of Education, Office of Civil Rights, Surveys from 1976-2003, Center for Effective Discipline.)
+
+3). Corporal punishment teaches children that violence is a way to solve problems. Research shows that this is indeed the message that kids receive whether it's inflicting, receiving or witnessing .
+Source: (Eron, Walder & Lefkowitz, 1971; Hyman & Snook, 1999; Lahey, Moffit & Caspi, 2003, Reid, Patterson & Snyder, 2002.)
+
+4). Studies have shown that corporal punishment of children is related to decreased morality, increased aggression, more antisocial behavior, increased criminality, decreased mental health outcomes, increased adult abusive behaviors, and increased risk of being victimized by abusive relationships in adulthood.
+Source: (Meta-Analysis of 88 corporal punishment studies (Gershoff, E.T. 2002).)
+
+5). Some statistics here:
+78% of corporal punishment states achieved below the national average at the fourth grade level in reading. 75% of the corporal punishment states achieved below the national average in eighth grade level reading (Center for Effective Discipline, year: 2004). Sixty-seven percent of Ohio corporal punishment schools fell in the lowest 25% of schools on state school report cards in the 99-00 school year (Center for Effective Discipline, year: 2001).
+
+6). Injuries often occur e.g bruises, broken bones. Children's deaths have occurred in the U.S. due to school corporal punishment.
+(hearing before the Juvenile Justice Committee on the Judiciary, U.S. Senate. October 17, 1984)
+
+7). Corporal punishment enforces physical aggression as an acceptable and good means of getting rid of unwanted behavior in our society. (Position paper opposing school corporal punishment by the Society for Adolescent Medicine (Greydanus, DE. et al, 2003).)
+
+8). More school shooting deaths were found in states allowing school corporal punishment than those who do not.
+(D. Arcus, 2002.)
+
+9). There is evidence that harsh physical punishments are damaging to children, emotionally as well as physically. (Mohr, WK and Anderson, J.A. 2002.)
+
+Facts:
+10). Schools are the only institutions in America in which striking another person is legally sanctioned. It is not allowed in prisons, in the military or in mental hospitals.
+
+11). Many alternatives to corporal punishment have proven their worth. Alternatives teach children to be self-disciplined rather than cooperative only because of fear. (No source here, just kind of general knowledge).
+
+These are the main reasons why I believe that corporal punishment should not be enforced in schools. I look forward to the next round.
+
+Further online source:
+(http://www.neverhitachild.org...)
+Debate Round No. 2
+Putt-Putt
+
+Pro
+
+Thank you Con for the swift response. I apologize it took so long for my answer, as weekends can be a bit hectic.
+
+Con states in his argument for number one that "The more "spankings children" experience, the greater the chance that they will become aggressive and engage in other anti-social behavior." Con supplies this quote with a source that includes a study done. I would like to point out to the voters that this study may be misleading, as the point of corporal punishment is to enforce order in the classroom. This sense of order may include students not talking, or being "anti-social" as Con states.
+
+Con's second argument states that children with disabilities get punished more than other children. This, my friend, is against the law. This is considered assaulting a cripple, or simply put Assault and Battery, "Two separate offenses against the person that when used in one expression may be defined as any unlawful and unpermitted touching of another. Assault is an act that creates an apprehension in another of an imminent, harmful, or offensive contact. The act consists of a threat of harm accompanied by an apparent, present ability to carry out the threat. Battery is a harmful or offensive touching of another." [1]
+
+Con's third argument is solid, and without flaw. Or one thinks when first reading it. For this argument, he states that students find the message that violence is the answer. This is almost comparing the case of violent video games increasing the chance of violent children. This has been debunked on more than one occasion, and whether or not you agree with the statement, in the analogy of video games, if a parent does not agree with the "rating" of the game, they remove the child from the situation. This can be done with schools as well. If a parent feels that their child is not going to develop well in a school, they remove their child from the situation.
+
+As for Con's arguments in 4 and 5, if the voters will note all sources listed, they have dates of more than a decade ago. These are not entirely reliable sources, as science has made and will continue to make new discoveries, therefore changing the statistics shown and stated by Con.
+<USER>

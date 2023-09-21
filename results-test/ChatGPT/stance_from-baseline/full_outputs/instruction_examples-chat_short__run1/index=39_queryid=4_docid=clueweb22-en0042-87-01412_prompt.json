@@ -1,0 +1,150 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should corporal punishment be used in schools?
+Text: Why should corporal punishment be banned? – Colors-NewYork.com
+Close
+
+08/11/2019
+
+Why should corporal punishment be banned?
+
+Why should corporal punishment be banned?
+
+Why Should Corporal Punishment Be Banned? Research has shown that corporal punishment in the classroom is not an effective practice, and can cause more harm than good. The research shows that children who are beaten and abused are more likely to be prone to depression, low self-esteem and suicide.
+
+Why corporal punishment is not good for students?
+
+Corporal punishment leads to adverse physical, psychological and educational outcomes – including increased aggressive and destructive behaviour, increased disruptive behaviour in the classroom, vandalism, poor school achievement, poor attention span, increased drop-out rate, school avoidance and school phobia, low …
+
+When did it become illegal to hit a child in school?
+
+Corporal punishment in public schools was banned in 1914, but remained de facto commonplace until 1984, when a law banning all corporal punishment of minors, whether in schools or in the home, was introduced.
+
+Is hitting a child abusive?
+
+Not only does hitting kids do little good; it can worsen their long-term behavior. “Children who experience repeated use of corporal punishment tend to develop more aggressive behaviors, increased aggression in school, and an increased risk of mental health disorders and cognitive problems,” Sege said in a statement.
+
+Is it OK to slap a child’s hand?
+
+Smacking is a physical punishment. Smacking looks like it works because children stop what they’re doing when they get a smack. But smacking isn’t a good choice for discipline. That’s because it doesn’t help children learn about self-control or appropriate behaviour.
+
+Is it illegal to beat your child with a belt?
+
+The act of hitting someone else, with a belt, hand or other instrument is frowned upon and only allowed in limited circumstances. In this instance, it sounds as though the hitting does constitute child abuse and/or assault.
+
+Do schools still use corporal punishment?
+
+As of 2018, corporal punishment is still legal in private schools in every U.S. state except New Jersey and Iowa, legal in public schools in nineteen states and practiced in fifteen.
+
+What is the most common form of punishment?
+
+Prison
+
+Is scolding a punishment?
+
+Positive punishment can simply be a natural consequence of a certain action. For example, if your child eats whipped cream that has spoiled because they hid it under their bed, they’ll get a stomachache. With that in mind, here are some examples of common positive punishments: Scolding.
+
+What are the four goals of punishment?
+
+Four major goals are usually attributed to the sentencing process: retribution, rehabilitation, deterrence, and incapacitation. Retribution refers to just deserts: people who break the law deserve to be punished.
+
+What is the biggest problem in corrections today?
+
+Some major contemporary issues resulting from these social, economic and environmental changes facing correctional administrators include the changing trend in prison population, overcrowding in correctional facilities, improvement of prison conditions, increase of drug-related offenders, shortage of effective …
+
+How many types of punishment are there?
+
+Kinds Of Punishments | Overview There are five different kinds of punishments awarded by the Indian Penal Code, 1860 under Section 53, and they are Death, Life imprisonment, Simple or rigorous imprisonment, Fine and Forfeiture of property.
+
+What is legal punishment?
+
+Under the sanction of the law, punishment is retribution on the offender to the suffering in person or property which is inflicted by the offender. Punishment is the way through which an offender can be stopped from doing offences against person, property, and government.
+
+What are the three types of punishment?
+
+This chapter discusses different types of punishment in the context of criminal law. It begins by considering the four most common theories of punishment: retribution, deterrence, rehabilitation, and incapacitation.
+
+Who created punishment?
+
+Code of King Hammurabi of Babylon
+
+What was punishment before prisons?
+
+Before there were prisons, serious crimes were almost always redressed by corporal or capital punishment. Institutions like the Bastille and the Tower of London mainly held political prisoners, not ordinary criminals. Jails existed, but primarily for pretrial detention.
+
+Why is the death penalty wrong?
+
+It is the ultimate cruel, inhuman and degrading punishment. The death penalty is discriminatory. It is often used against the most vulnerable in society, including the poor, ethnic and religious minorities, and people with mental disabilities. Some governments use it to silence their opponents.
+
+How many people have died from the death penalty?
+
+Since then, more than 7,800 defendants have been sentenced to death; of these, more than 1,500 have been executed. A total of at least 185 people who were sentenced to death since 1972 have since been exonerated.
+
+Has anyone survived the death penalty?
+
+At the time of the 2009 procedure, condemned prisoner Romell Broom was only the second inmate nationally to survive an execution after they began in modern times. Broom, 64, has been placed on the “COVID probable list” maintained by the Department of Rehabilitation and Correction, spokesperson Sara French said Tuesday.
+
+Why does death row get a last meal?
+
+And as a ritual, the last meal is intended not to comfort the condemned but to soften for society the harsh fact that a human is about to be killed with the law’s full sanction, says Jon Sheldon, a Virginia death penalty lawyer.
+
+Who was executed in 2020?
+
+List of offenders executed in the United States in 2020
+
+NumberDate of executionName
+12August 28, 2020Keith Dwayne Nelson
+13September 22, 2020William Emmett LeCroy, Jr.
+14September 24, 2020Christopher Andre Vialva
+
+Who is the youngest person on death row?
+
+George Junius Stinney Jr.
+
+Who got executed in 2021?
+
+List of offenders executed in the United States in 2021
+
+NumberDate of executionName
+1January 13, 2021Lisa Marie Montgomery
+2January 14, 2021Corey Johnson
+3January 16, 2021Dustin John Higgs
+EmailFacebookRedditTwitterWhatsAppTelegramShare
+EmailFacebookRedditTwitterWhatsAppTelegramShare
+<USER>

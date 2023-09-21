@@ -1,0 +1,230 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a college education worth it?
+Text: Is College Worth It? 43 Pros & Cons Of College Education - E&C
+
+“If you want to get laid, go to college. If you want an education, go to the library.”
+
+Frank Zappa, Musician
+
+Should You Go To College? All Pros & Cons Of College Education You Need To Know
+
+advantages and disadvantages of college
+
+Many young people in the US and all over the world plan to go to college.
+
+However, many of them also have concerns that college might not be the right way to go for them. Note that I was in a similar situation.
+
+I got a Master’s degree in Economics from university myself and therefore know what I’m talking about.
+
+  1. Now Playing
+    Up NextStop Food Speculation!
+  2. Now Playing
+    Up NextRenewable Energies are the Future!
+  3. Now Playing
+    Up NextAppreciate our Planet!
+  4. Now Playing
+    Up NextProtect our Oceans!
+  5. Now Playing
+    Up NextProtect our Rainforests!
+  6. Now Playing
+    Up NextReduce Waste!
+Renewable Energies are the Future! video
+
+In the following, I give you all the pros and cons of college education so that you get a better impression of whether going to college is worth it for you or not.
+
+Audio Lesson
+
+Advantages of College Education
+
+  1. College education may lead to better job opportunities
+  2. Lower unemployment rates
+  3. Higher average salaries
+  4. Prerequisite for most management jobs
+  5. You may be able to avoid physically demanding work afterward
+  6. You will be more flexible regarding where and how to work
+  7. You may be able to afford better health insurance
+  8. Lower risk to slide into poverty
+  9. Risk for old-age poverty may be lower
+  10. You can learn how to deal with pressure
+  11. Many people think back to their college years as best time of their lives
+  12. You can meet many new people
+  13. College gives you the opportunity to build a strong network
+  14. You can learn persistence
+  15. You may get to know foreign exchange students
+  16. College education gives you the opportunity to expand your horizon
+  17. You can choose from a variety of different courses
+  18. College education is still considered to be the standard of good education
+  19. You may want to stay on the research track
+  20. You can spend a semester abroad
+  21. You will have plenty of leisure
+  22. Higher average life expectancy for people with college education
+  23. High level of education is crucial for a working society
+  24. Companies have it easier to find qualified employees
+
+College education may lead to better job opportunities
+
+One important advantage of college education is that you will get better job opportunities on average.
+
+In our nowadays state of the world, employers often require college degrees, even for many entry positions in companies.
+
+Hence, you can consider a college degree as a sort of entry ticket for many jobs and if you don’t have this ticket, it will be hard to get into many highly reputable companies.
+
+However, also note that a college degree is only an entry ticket, no guarantee that you will get a good job afterward.
+
+Lower unemployment rates
+
+College graduates also have much lower unemployment rates compared to the average person in many countries all over the world.
+
+In fact, the higher the qualification level, the lower the chances for unemployment since people will have the opportunity to choose from a variety of different jobs and don’t have to rely on a rather small niche.
+
+Thus, if you want to maximize your chances to get a job and minimize the risk of unemployment in our nowadays age, college education may be the right way to go for you.
+
+Higher average salaries
+
+Another benefit of college education is that college graduates also earn significantly more money on average.
+
+In fact, if you want to make a six-figure income or even more, chances are that you should go to college and get a degree since it will be quite hard to reach this goal without having graduated from college.
+
+Consequently, if you aspire to a fancy lifestyle and want to make really good money, college will maximize your chances of reaching these goals.
+
+Prerequisite for most management jobs
+
+Especially if you aspire after a demanding management career in a renowned company, college degrees are almost a must-have and you may even want to get a doctor’s degree for this goal.
+
+In fact, many members of the board of directors of big companies have college education or even a doctor’s degree and it will be almost impossible to get into these positions without graduating from college.
+
+Therefore, if you have these big goals, college education is definitely the way to go for you.
+
+You may be able to avoid physically demanding work afterward
+
+College education can also help you to avoid having to work in a physically demanding job.
+
+In fact, college prepares you for office jobs instead of blue-collar work.
+
+Those office jobs can be quite demanding on a mental level, yet they do not require you to work in a physical manner.
+
+You can also conveniently work inside instead of having to work outside when it rains or snows.
+
+Hence, getting a college degree may also help you to avoid poor working conditions.
+
+You will be more flexible regarding where and how to work
+
+Another upside of going to college is that you can work in a more flexible manner.
+
+In fact, for most office jobs that college graduates carry out, employees do not even have to be in the company in person.
+
+Instead, people can often work from home since most of the work is carried out via computer.
+
+Even video calls are possible in our current age.
+
+Therefore, if you want to maximize your level of flexibility, going for college education and getting an office job where you can work from remote could be the best way to go for you.
+
+You may be able to afford better health insurance
+
+Since your salary will likely be significantly higher with proper college education, you will also be able to afford much better health insurance compared to the average person in our society.
+
+In fact, lack of health insurance is still a pretty big problem in our society and in case of emergency, many people will not be able to afford complex surgeries.
+
+In turn, those people may suffer from serious long-term health issues or may even die from their health conditions since they will not be able to afford proper treatment.
+
+Lower risk to slide into poverty
+
+College graduates also have a significantly lower risk to get into poverty.
+
+This is due to the fact that the salaries of people with college degrees are much higher and also due to lower unemployment rates.
+
+Both factors are closely connected to poverty and therefore, getting a college degree may also minimize your risk to slide into poverty.
+
+Risk for old-age poverty may be lower
+
+Especially old-age poverty has become a big problem in our nowadays society.
+
+Many people greatly underestimate this problem.
+
+Especially if people don’t earn too much money from their jobs, they will often not be able to save enough money for their retirement since they simply have to spend most of their money on basic things like rent and food.
+
+College education can also help you out in this regard since due to higher average salaries, you can save more money and make proper retirement plans, which in turn implies a much lower risk to get trapped in old-age poverty.
+
+You can learn how to deal with pressure
+
+Another advantage of going to college is that you can learn to deal with pressure.
+
+Especially in periods where many exams take place in a rather short timeframe, you will have to manage your time in a quite efficient manner.
+
+Those periods can be quite stressful and you may feel overwhelmed from time to time.
+
+However, it is quite important that you learn to deal with this kind of pressure since you will face many challenges later on in your life and if you are not able to deal with pressure, you will likely not be able to succeed.
+
+Many people think back to their college years as best time of their lives
+
+In general, many people also describe their college years as one of the best times of their lives.
+
+In fact, college is a unique experience that will not be comparable to anything that comes along in the future.
+
+I personally really enjoyed college life and it also gave me the opportunity to really grow in character.
+
+I love to remember back to all those experiences I made during my college years and I definitely don’t want to miss this period in my life.
+
+You can meet many new people
+
+Since you will have many different courses in college, you can also meet many new people over time.
+
+In the long run, you can also make really good friends and you will stay connected with many of them over the course of many years or even for a lifetime.
+
+Hence, if you are a person who loves to connect and to talk to other people, college can also give you a great opportunity to do so.
+
+College gives you the opportunity to build a strong network
+
+Another benefit of college is that it gives you the opportunity to build a strong network.
+
+Especially if you attend a pretty renowned university, you can get in touch with many students who have influential parents and who will also work in demanding management jobs sooner or later.
+
+If you connect with those people and spend plenty of time together, chances are that you will also stay connected after you graduated and you will also have many different contacts to companies those people will work in afterward.
+
+Therefore, through this strong network, you will also have much better chances to get a demanding job in one of those companies.
+
+You can learn persistence
+
+In order to succeed in various parts of life, it is also crucial that you stay persistent and be the best version of yourself.
+
+College education can also help you in this regard since you will have to stay focused over a couple of years in order to reach your goal.
+
+In fact, you may have to push through difficult periods where you may be quite unmotivated.
+<USER>

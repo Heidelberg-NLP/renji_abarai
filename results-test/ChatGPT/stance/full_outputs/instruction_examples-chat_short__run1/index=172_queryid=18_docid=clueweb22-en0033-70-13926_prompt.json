@@ -1,0 +1,89 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should church remain tax - exempt
+Text: Must a Church Apply for Tax-exempt Status - Bushore Church Real Estate
+
+Must a Church Apply for Tax-exempt Status
+
+Does a Church need to be a registered 501 (c)(3) Tax-exempt Organization?
+
+Although not all non-profit organizations fall within section 501(c)(3) of the Internal Revenue Code, religious organization do. As such, this article focuses only on those 501(c)(3) organizations and whether or not a church must apply for tax-exempt status.
+
+ 
+
+Defined:
+
+According to the IRS, to be tax-exempt religious organization, an organization must be organized and operated exclusively for exempt purposes set forth in section 501(c)(3), and none of its earnings may inure to any private shareholder or individual. In addition, it may not attempt to influence legislation as a substantial part of its activities, and it may not participate in any campaign activity for or against political candidates.
+
+Organizations described in section 501(c)(3) are commonly referred to as charitable organizations. Organizations described in section 501(c)(3), other than testing for public safety organizations, are eligible to receive tax-deductible contributions in accordance with Code section 170.
+
+IRS:
+
+Churches that meet the requirements of IRC Section 501(c)(3) are automatically considered tax exempt and are not required to apply for and obtain recognition of tax-exempt status from the IRS.
+
+However, many churches will obtain tax-exempt status from the IRS. This is because in doing so, the church, as well as its members and contributors will qualify for related tax benefits. The primary benefit for contributors being that their donations are tax deductible on their income tax returns.
+
+Churches that are part of a denomination or parent organization, may qualify under a group ruling given by the IRS. In such instances, the parent organization is the holder of a group ruling that identifies other affiliated churches as exempt. A church is recognized as tax exempt if it is included in a list provided by the parent organization and no further action to obtain recognition of tax-exempt status is necessary.
+
+So depending on the situation, a church may not need to apply for and receive tax exempt status from the IRS. This is not the case in California.
+
+California:
+
+Most charities and nonprofit organizations operating in California must apply for and receive a determination or acknowledgement letter from the State Franchise Tax Board in order to be recognized as tax-exempt in the State. Unlike the automatic qualification under the IRS Code, churches and other religious organizations that desire tax-exempt status in California must apply for and be recolonized as such.
+
+As per the State Franchise Tax Board, although most California laws deal with tax exemption patterned after the Internal Revenue Code, obtaining state tax-exempt status is a separate process from obtaining federal tax exemption. If a religious organization fails to apply for a receive tax-exempt status, it remains subject to the California Revenue and Taxation Code (R&TC) as a taxable entity.
+
+Please note that churches and religious organizations may be legally organized in a variety of ways under state law, such as unincorporated associations, nonprofit corporations, corporations sole and chari­table trusts.
+
+Please see our other related articles
+
+Choosing the Right Entity
+Deductible Donations For Congregation Members
+Churches and Property Tax Exemptions
+
+Disclaimer: Every situation is different and particular facts may vary thereby changing or altering a possible course of action or conclusion. The information contained herein is intended to be general in nature as laws vary between federal, state, counties, and municipalities and therefore may not apply to any given matter. This information is not intended to be legal advice or relied upon as a legal opinion, course of action, accounting, tax or other professional service. You should consult the proper legal or professional advisor knowledgeable in the area that pertains to your particular situation.
+
+ 
+
+Spread the word. Share this post!
+
+Leave A Reply
+
+Your email address will not be published.
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0sI3zMsm8joXzUms2v2AruBCu21",
+  "object": "chat.completion",
+  "created": 1687864214,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is an informative and factual article about the neuroscience of sexual orientation, with no clear rhetorical argument made. Therefore, it cannot be assigned a \"rhetorical argument quality\" label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2514,
+    "completion_tokens": 38,
+    "total_tokens": 2552
+  }
+}

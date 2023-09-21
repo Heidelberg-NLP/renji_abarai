@@ -1,0 +1,125 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a college education worth it?
+Text: <style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style>Is College Worth it? 6 Reasons Why College is Important - Crimson Education US
+background image
+
+Is College Worth It? 6 Reasons Why You Should Consider College
+
+29 OCT 2021
+
+Graduating from high school is a significant milestone on your path to adulthood and a future career. You’ve spent years getting to this point and should feel a sense of profound accomplishment. But now, you’re faced with a new set of questions, challenges, and decisions. It seems the natural progression from high school is college, but is college important and really worth it?
+
+College is expensive. Will your salary after graduation be worth the investment? Do you need a college degree to be successful? Is college even important these days? These are questions you must answer in order to move to the next milestone and arguably the rest of your life. While college isn’t a prerequisite to all careers, a degree from a respected college will open more doors than you can even imagine. Let’s take a look at six reasons why a college education is worth it.
+
+
+Ready to start your journey to college? Crimson Education is the world’s leading College Admissions Consulting company helping student gain admissions into top universities in the US & UK. Speak to our expert advisors to learn more about our Admissions Support Program!
+
+6 Reasons Why College is Worth it
+
+There are many reasons you should go to college, but some are more compelling than others. (Feeling like you should go or pressure from family and friends are not good reasons.) Here are the top reasons why you should consider college.
+
+1. Higher Salary and Lower Unemployment Rate
+
+College is worth it because research has found that college graduates typically land a secure job and earn a higher salary than high school graduates
+
+Research has found that college graduates typically land a secure job and earn a higher salary than high school graduates. According to the U.S. Bureau of Labor Statistics, “workers with a bachelor’s degree had median weekly earnings of $1,305 in 2020, compared with $781 for workers with a high school diploma.”
+
+Additionally, they also report that in May 2021, people 25 and older with at least a bachelor’s degree only had a 3.2% unemployment rate. The rate for high school graduates with no college degree was 6.8%. On average, the unemployment rate for those with a bachelor’s degree is half of the unemployment rate for those with a high school diploma.
+
+2. Safe Place to Explore Career Options
+
+lege offers a safe environment to explore your interests, test out multiple career paths, and take classes just for fun!
+
+Maybe you know you want to go to college but aren’t sure what career to pursue. College offers a safe environment to explore your interests, test out multiple career paths, and take classes just for fun! Some colleges even encourage a diverse course load because they know a variety of classes will help you become a more well-rounded individual.
+
+As a college student, you can join clubs and organizations related to your interests and those that pique your curiosity. You may even start college with one major and graduate with a completely different one. That’s ok! College gives you the freedom to discover your path even if you have to try a few others first.
+
+3. Valuable Networking Connections
+
+If you attend a school that specializes in your particular field, you’re going to find even more opportunities to connect with people in your potential career field
+
+They say it’s all about who you know. This statement is never more true than in the collegiate environment. Brilliant students and teachers, people from diverse backgrounds, and those with connections to every possible job industry all congregate on college campuses. If you attend a school that specializes in your particular field, you’re going to find even more opportunities to connect with people in your potential career field.
+
+Creating a professional network could start with a simple conversation with a professor or student. It could be all it takes to land the job of your dreams. But, you can increase your chances of connecting with the “right” person by joining clubs that align with your career interests, volunteering, joining a fraternity or sorority, or even playing on a sports team. Many top universities offer internships that not only look good on your resume but connect you with resources, experts in your field, and possibly that person who will offer you your dream job.
+
+While you never know when a connection will ultimately change your life, your chances of connecting on a college campus are incredibly high.
+
+4. Increased Knowledge and Expanded Worldview
+
+College is a massive pool of knowledge just waiting for eager students to dive in
+
+College is a massive pool of knowledge just waiting for eager students to dive in. Professors design courses to promote critical thinking and exploration. You’ll dig deep into subjects that make you question your beliefs and help you see how you, and those around you, can learn, grow, and contribute to the world. You’ll read challenging books that you may disagree with, engage with people who have differing beliefs, and try new experiences that you’d never consider outside of the college environment.
+
+These unique experiences only happen when you are free and even encouraged to think outside the box, expand your worldview, and embrace new ways of thinking.
+
+5. Personal Growth
+
+College gives you a challenging but safe environment to practice these responsibilities and grow as a person
+
+There’s a good chance college is your first time away from home. You’re making your own decisions, studying for your future career, finding new friends, learning how to live on a budget, and managing your time. College gives you a challenging but safe environment to practice these responsibilities and grow as a person.
+
+If you choose to go to college, you’ll also learn how to overcome different types of challenges and adversity. You’re responsible for navigating your courses, tests, and homework deadlines. These tasks can be especially challenging if you’re taking a full course load. The skills you learn in college will not only help you in your career, they’ll help you deal with the duties and responsibilities of everyday life.
+
+6. Increased Job Opportunities
+
+While there are plenty of job opportunities for high school graduates, you’ll have even more promising job prospects as a college graduate
+
+While there are plenty of job opportunities for high school graduates, you’ll have even more promising job prospects as a college graduate. Through internships, on-campus recruiters, and personal connections, you may even land a job before you graduate! Our economy has shifted to a knowledge-based economy, and many businesses are looking for college graduates to fill these roles. Even if the career you want to pursue doesn’t require a degree, having that degree could place your application above the rest and result in a job offer and a higher salary.
+
+Do you need a college degree to be successful?
+
+If the answer to this question were a simple “yes,” then the decision to go to college would be easy. Many factors help make someone successful. But, for most successful people, college is one of those factors.
+
+Is college necessary for a successful career?
+
+Yes and no. College opens up opportunities both intellectually and socially that you wouldn’t have otherwise. You’re surrounded by a network of students and professionals from all walks of life. There’s a good chance one might be your connection to your future career.
+
+As a college graduate, you’ll likely have better career prospects, higher pay, and a higher-skilled job. These factors often contribute to stability, success, and overall happiness.
+
+Final Thoughts: Is college worth it?
+
+Based on current evidence, trends, and statistics, yes, college is worth it. If you have a college degree, you should have an easier time finding, keeping, and enjoying your career. But, the ultimate decision is still up to you. If you’re still unsure if college is for you, consider contacting one of Crimson’s advisors. They can answer your questions, help you determine which college might be right for you, and guide you towards a path that will lead you to the career of your dreams.
+
+Ready to start your education journey? Book a free consultation with our advisors to learn more about how Crimson can help you!
+
+READY TO JUMPSTART YOUR JOURNEY TO COLLEGE?
+
+Crimson helps students like you gain admission into top universities in the US and UK. Book a free consultation to learn more!
+<USER>

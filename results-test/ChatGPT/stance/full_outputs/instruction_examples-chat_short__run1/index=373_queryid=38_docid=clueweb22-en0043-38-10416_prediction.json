@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C5lil2EJzeoJWKRpy6ioSLMmIttj",
+  "object": "chat.completion",
+  "created": 1683116466,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1195,
+    "completion_tokens": 27,
+    "total_tokens": 1222
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "none. \n\nThe text does not argue for or against marijuana being a medical option, it is an advertisement for a cannabis dispensary."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

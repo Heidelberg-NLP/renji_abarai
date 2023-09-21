@@ -1,0 +1,181 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Are social networking sites good for our society?
+Text: The Best Social Networking Sites for Students - UniAcco
+
+The Best Social Networking Sites for Students
+
+best social networking sites for students
+
+Written by Shreya Berry
+
+Her foray into blogging was not planned; it was accidental. Started as a writer at the age of 15, Shreya has expertise in writing engaging content for the readers and has a deep interest in unique applications of technology in various domains.
+
+April 6, 2021
+
+Nowadays, everybody is engulfed in social media – you, me, the young, the old. One critical approach to render learning is to reach students where they are, which includes locating social networking outlets that can be used in the classroom. While social media inherently combines with subjects such as language arts and social studies, tech-savvy teachers should realise that teamwork can function in any classroom. If you are thinking that social networking sites for students are like the regular Facebook, Instagram let me burst the bubble because the best social networking sites for students are certainly not limited to just Facebook or Twitter. 
+
+The Best Social Networking Sites for Students
+
+Twiducate
+
+Defined as a “walled garden,” this platform is advertised as a protected place for teachers and students to collaborate. It is simple to use and helps teachers to build an online class environment using a class code rather than an email address. It also provides teachers full power over who enters and what is written. It’s also absolutely secure.
+
+TweenTribune
+
+Want to collaborate with a platform that brings kids up to date with current events? TweenTribune brings students up to date with social affairs, such as the Easthampton teen whose tongue froze to a metal pole and New Jersey Governor Chris Christie’s plan to lengthen the school day and the school year. It brings students into the habit of reading the news and helps them to focus on the activities of the day. Unfortunately, it contains ads (but which website doesn’t?). It just covers the good news of the day– just don’t come expecting the latest on the Syrian crisis.
+
+30hands Learning Network
+
+The 30hands Learning Community is an outstanding cloud-based solution for educators who want to communicate with others, track/manage students, plan activities, and more. It is one of the best social networking sites for students.
+
+Brainly
+
+It is a cool social network where students can ask questions and other students from all around the world can address them.
+
+ClassHook
+
+A perfect resource for finding instructional videos/clips that can be “skipped” to avoid objectionable material.
+
+Classloom
+
+It is a friendly social network that helps students and educators to connect and access resources on every mobile device. Classloom is a top-performing and one of the best social networking sites for students.
+
+Blackboard
+
+It is the world’s pioneer in course management applications. The choice to use Blackboard is normally taken at the district level, while individual schools can do so on occasion. Blackboard is an extremely strong, safe, one of the best social networking sites for students, and an all-encompassing forum. Many younger teachers would be comfortable with it as a product of their teacher preparation programmes. The disadvantage is the expense. This is a really pricey network, but you get what you pay for. However, it would miss any versatility for the most technologically savvy teachers.
+
+EDU2.0
+
+This is about instructors who wish to incorporate course management programmes such as Blackboard without incurring extra costs. Edu2.0 begins by including a free trial of all of its premium services. After the trial period expires, certain functions are disabled, however, you can continue to use the standard platform for free. These features would be sufficient for the normal consumer, but might not be sufficient for “control users.” Edu2.0 is cloud-based which would not necessitate a large expenditure in computing space.
+
+Wikispaces Classroom
+
+Wikispaces Classroom demonstrates that collaboration is second nature to Wiki participants. Wiki Classrooms are private media networks that provide news feeds and networking resources. It’s secure when you pick who gets invited — teachers, parents, and administrators. Within the web, you can delegate, work on, discuss, and evaluate projects. It is also capable of handling multimedia. The best thing is that Wikispaces Classroom is completely online.
+
+Edmodo
+
+It is one of the best social networking sites for students. Here’s just another fantastic free classroom management device. It has news feeds, evaluation software, networking functions, and protection features.
+
+Read: Here Are Some Of The Best Paid Survey Sites
+
+Skype
+
+Many too many educators underestimate Skype’s potential in the classroom. It is the one website that has the ability to practically carry the outer world into your school. You may host writers, visit science laboratories, and correspond with pen pals from all over the world.
+
+Person Holding White Android Smartphone
+
+MinecraftEdu
+
+MinecraftEdu’s hidden weapon is the ability to leverage the influence of video games to educate students. This game helps students to collaborate together, discover, and solve challenges while learning about history, finance, technology, and math. Teachers can tailor it to their own needs. MinecraftEdu is the most popular social media for students.
+
+Sumdog
+
+This gaming platform is like flashcards on crack. This website is common among elementary school-aged children. The opportunity to connect contacts to their profiles is the networking element. Kids will rush home from school to play them on the internet. It has entertaining degrees and clever characters.
+
+ISTE Community
+
+International Society for Technology & Education is a fantastic place for educators to engage in technical challenges and develop their personal learning network.
+
+IT Peer Network Education
+
+A friendly online group aimed at promoting online communication and increasing teachers’ technical literacy.
+
+Otus
+
+Puts the whole school group (parents, staff, students) together through a shared technology forum, thus presenting school leaders with actionable feedback. Otus belongs to the list of the top social media sites for students.
+
+Plurk
+
+A social network (micro-blogging) close to Twitter, with a timeline view and a friendly karma-based site.
+
+Skooville
+
+It is a great network for kids to learn about cyber protection and is one of the best social networking sites for students.
+
+Skype in the Classroom
+
+One of the best ways to introduce real-time video communication to the classroom through virtual field trips, “mystery” visitors, and other means.
+
+Teamie
+
+It is an outstanding social learning network for smartphone applications that facilitates “flipped” learning effectively.
+
+TED-Ed
+
+The easiest location to find instructional videos and tutorials on the internet.
+
+Twitter
+
+It is by far one of the most successful and one of the best social networking sites for students. This micro-tweeting platform is popular around the world, particularly in education (search hashtags #edchat, #edtech, #flipclass, and so on). Furthermore, with the upcoming parental controls, Twitter is becoming a more realistic choice for educators on a daily basis.
+
+WhoTeaches
+
+It is a popular social media for students network that links teachers, caregivers, and educators. This is accomplished by teamwork, which includes the opportunity to exchange documents and form communities. In addition, this website provides high-level education for students searching for tutors online or to read.
+
+
+If you need any assistance with your student accommodation search, call us on 000 800 040 3523 or simply write to us at contact@uniacco.com, to get in touch with one of our property consultants. Visit UniAcco today!
+
+Looking for your perfect student accommodation?
+
+Looking to study abroad? Searching for the perfect student affordable accommodation? Choosing the right accommodation for a university that’s thousands of miles away can be, say the least, a difficult experience. We can help.
+
+Looking for student accommodation abroad?
+
+Your enquiry has been successfully received. We'll get in touch within 24 hours via email/phone.
+
+Don’t let your friends miss out on all the fun! Simply refer your friend to book a room with us and get upto £100 Amazon gift voucher.
+
+You might also like
+
+0 Comments
+
+Submit a Comment
+
+Your email address will not be published.
+
+Pin It on Pinterest
+
+best social networking sites for students
+Person Holding White Android Smartphone
+undefined
+undefined
+undefined
+Share This
+<USER>

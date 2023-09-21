@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ6woDfvpQc35zVt5j8EgfctP3hx",
+  "object": "chat.completion",
+  "created": 1682691098,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2306,
+    "completion_tokens": 77,
+    "total_tokens": 2383
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The argument presented in the text has a clear structure and presents a fair overview of the topic. The language used is formal and appropriate. The writer considers both moral and practical aspects of physician-assisted euthanasia/suicide and applies the ethical theory of utilitarianism to the argument. Based on these qualities, the well-writtennness of the text can be labeled as high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C5ayC73MZpNE1xHqF2GIsc8Kfp50",
+  "object": "chat.completion",
+  "created": 1683115800,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2645,
+    "completion_tokens": 39,
+    "total_tokens": 2684
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text contains arguments both for and against insider trading and does not take a clear stance on whether insider trading should be allowed or not. Thus, the label for this text would be \"neutral\"."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

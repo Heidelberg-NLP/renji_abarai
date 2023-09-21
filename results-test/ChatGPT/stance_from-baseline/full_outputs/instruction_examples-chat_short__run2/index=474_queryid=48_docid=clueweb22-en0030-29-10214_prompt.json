@@ -1,0 +1,126 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the voting age be lowered?
+Text: Should the voting age be lowered to 16? | Debate.org
+  • Maturity in teens
+
+    I think that 16 year old should be able to vote because some kids at my school are the most smart peaple i no. Some kids that i now will make the best choices that anyone will make because sometimes older peaple sometimes dont no what voting is about. And some kids no what is voting, president and secritary
+
+  • They should be able to vote
+
+    In America there’s always a lot of talk about how 16 years olds are too young and immature to vote. “Since the national voting age was lowered to 18 in 1971, the voting rate among 18-to-24 years old has dropped fairly steadily . In the 200 election, 42 percent of young adults voted, compared with 70 percent of those older than 25”.This was said by Shin, Annys. Seeing how a vast majority of 16 year olds are, or have been enrolled in a government class, I would say they are knowledgeable in the field of politics. According to surveys, voting age adults between the ages of 30-45 have less of an understanding of our political system than an immigrant taking the naturalization test. Allowing teens to vote allows them to have say in their future. Also, doesn't the charter of freedom and rights state that no one should be judged because of their age. Teens have better access to media, internet and television than most elders which can help them make the right choice. Teens have the civic duties as older voters. They pay taxes, and they have to abide by the laws.Being a teenager doesn't mean you are less intelligent than an old person. In fact, the human brain actually starts to shrink in old age
+
+  • EH, These teenagers are mature asf.
+
+    My name is jack and i`m 26, I strongly believe that the voting age should be reduced to 16. The maturity level in teenagers are slowly rising and i think that they should be able to vote. I have a son who is 15 and i think he is pretty mature for his age, i wouldent mind him voting next year
+
+  • Over The Years & Ages
+
+    Letting a 16 year old vote is a very wise idea. We had to go through so many things to let African Americans vote & Women vote. It even took awhile for 18-year-old people to vote. Let's not waste anymore time & lower it! Heck, it should be lowered to 14-year-old people can.
+    Age 13: Become a teenager
+    Age 14: Able to vote
+    Age 16: Able to drive with parent in passenger seat
+    Age 18: Able to drive alone
+    Age 21: Able to drink
+    OR-----------------------------------------------------------------------------------------------
+    Age 16: Able to vote & Able to drive with parent in passenger seat
+    Age 18: Able to drive alone
+    Age 21: Able to drink
+
+  • They should because
+
+    Dropout rates of students have decreased since the 90's, teenagers are responsible for a lot more than past generations, not to mention that at age 17, they, with parental consent can join military forces, they have jobs, donate blood, can drive a car with a license and pay state taxes, federal taxes, and more. Its a bias, naïve statement to classify an age of kids as unprepared for something. Of course you have ups and downs to everything in life, same for but you can't generalize all of them. Trust me, I debate
+
+  • Teens are the FUTURE and they should have a say in theirs!
+
+    Teens are the future, they are directly in the line of fire for things like paying taxes etc. Teens are able to drive at 16, (that decision puts more people are risk than who and what they vote for) so they should be able to vote, especially if it something that is going to affect them directly.
+
+  • Most dont Care
+
+    Most 16 year olds dont really care about voting. And the ones that do are either mature or know there stuff about politics. We are not imature stupid idiots roaming around the streets looking for another shot of beer... Some of us actually care, and should anyway be allowed to vote.
+
+  • I have counter-arguments
+
+    Everyone on that side -> is saying how teenagers don't care about politics; that isn't quite relevant. Really the only reason that today's teens aren't interested in the nation's government (assuming that they are, in fact, disinterested) is because they have no reason to be: We don't let them vote, so they don't bother to think about who they would vote for. As far as the 5% figure goes, this is completely wrong. Look at Scotland. In their recent Independence vote, 16 year-olds were allowed to vote; they had one of the higher voter turnouts for the whole country. As to the assertion by many that teens would only vote for whomever their friends were voting for, and thus turn the presidency into a popularity contest, what do you think it is now? You can't sidestep the fact that society will always influence everyone involved in it. I personally believe that due to their stubbornness and drive for independence, teens would be even more likely to decide for themselves than many 40 year-olds.
+
+  • Yes! Teens are awesome!
+
+    All the other comments on the no side are very offensive. They make teens look like they don't know what they are doing but many forget that they were teenagers too. Not all of us are idiots, some of us actually care about our country and want things to progress.
+
+  • Social Media has
+
+    Caused a lot of teens to become interested in politics and civics. According to Business Insider, 61% of teenagers with political blogs or accounts are of the ages 14 to 16. These teenagers all have strong ideas and arguments as to why they believe what they do. They keep it professional and mature.
+    Social media creates a fun, interactive environment for these teenagers too. There are articles online stating that teenagers are taking charge of the online political world (Huffington Post) and that social media is running politics (Politico Magazine). Put these together and, bam! Teenagers on social media are running the political world. They should be able to do it in real life if they want to.
+
+  • Teenagers Are idiots
+
+    Guess how many parents made their children go and vote last election? Hope you weren't one of them. Teenagers are way too simple minded to have any sort of power in this country. Not to mention how self-absorbed they are, they're more worried about their little high school education. But then again how many of them would actually vote? 5% is my guess. So bringing down the voting age is pointless and not worth it. Because next thing you know Lady Gaga is president with Niki as Vice. So should the voting age be lowered to 16? My answer is; HELL NO!
+
+  • No, we don't need
+
+    Even more clueless people voting. The brain is not fully developed until the age of 25. 16 is far too young for people to fully understand their actions and consequences. Yes, admittedly, age is not everything, but it's a good place to start putting restrictions. The voting age used to be 21, then got dropped down to 18 only because 18 was the military service age.
+
+  • If anything it should be raised.
+
+    Its obvious- teens today are oblivious and ignorant. They know nothing about decision making or politics. They will just elect whoever their friends are electing without any thought put into their decision. As a high school student myself, many of my fellow peers don't know a clue about what is happening in our world right now.
+
+  • We teenagers aren't mature or intelligent
+
+    We teenagers aren't mature enough. We are still living in a house with our parents if we aren't living on the side of the rode. Majority of the teenagers in the world are still at home with your parents or an relative. Teenagers half way don't even know what the politics is.
+
+  • No no no
+
+    Teens do not fallow politics. All they would do is ask there best friend who they are voting for. Most of the time there votes would be for who looks better, or is more popular. Teens are not capable of making the correct and smart decision like a voter who has to pay bills, taxes, insurance, and other expenses that a grown adult would. People under the age of 18 should not vote for the simple reason of YOU DON'T KNOW! Maybe if you payed taxes.
+
+  • I strongly disagree
+
+    Teenagers are very immature and will probably support bad politicians because they don't know any better. In 2012 17% of 10th graders said that they abused marijuana, and many probably lied just so that they could cover up their addiction. So would we really want immature pot heads voting for politicians?
+
+  • No it should not.
+
+    If we allowed immature people to vote, the elections would be swayed by the minds of UN-experienced people, thus giving the elections a portion of opinions given by people who don't really care about the subject. The only good that could come from it would be giving them experience with economics, even though they require more experience to involve themselves at all.
+
+  • Teens Don't Know What They're Doing
+
+    Do you really want to put the politics future in the hands of immature, juvenile teens? Some of you might say, well teens aren't the only ones voting. Well they're still a part of it and their votes do count. From the perspective of being a teen, I know how the youth today think about politics. They want a leader who looks good instead of the promises they make. They want someone who will benefit them and them only. Re-think this issue and ask yourself, is it really worth it, I mean I'm talking crap about my own generation, that should mean something right? Obviously not all teens are like that, but majority are.
+
+  • Teens are Stupid
+
+    Do you really want to put the politics future in the hands of immature, juvenile teens? From the perspective of being a teen, I know how youth thinks about politics. They want a leader who looks good instead of the promises they make. They want someone who will only benefit them and them only. Re-think this issue and ask yourself is it really worth it. I mean I'm talking crap about my generation, that should mean something right?
+<USER>

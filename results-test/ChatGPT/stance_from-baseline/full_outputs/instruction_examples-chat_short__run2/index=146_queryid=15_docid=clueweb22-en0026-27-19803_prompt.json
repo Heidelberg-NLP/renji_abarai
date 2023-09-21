@@ -1,0 +1,49 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should animals be used for scientific or commercial testing?
+Text: Should Animals Be Used for Research? Essay - 740 Words | Bartleby
+preview
+
+Should Animals Be Used for Research? Essay
+
+Decent Essays
+There are several types of animals being used for research, but not surviving the test. Animals are similar to human beings; they have hearts just like human beings. Researchers have absolutely no sympathy for these animals, including the vicious ones. All animals need some type of affection from humans, or else there is a high possibility the animals will not survive. Personally, animal researching should be banned, but doing so, the researchers would have to find something else or someone else to test the products on to make sure the products are useable to humans. The reasons for animal researching are understandable and could change a person’s decision whether or not they would want to ban animal testing. Scientific knowledge is…show more content…
+N.p.. Web. 29 Jan 2014. <http://www.animalresearch.info/en/designing-research/why-animals-are-used/>.) Several pros say that animal researching is acceptable, but that side of the situation does not provide any decent reasoning or proof. The cons have good reasoning and proof. Animal researching has not saved many lives like one of the comments say. Animals are very different from humans, so they make poor testing subjects. One of the cons on the website states “Animal testing is cruel and inhumane.” Below the comment they explain that most animals are tested while being awake, without any anesthesia for relief. Testing animals might would be bearable if they put them asleep before putting them in pain. Testing drugs on animals can result in false test results. “The 1950s sleeping pill thalidomide, which caused 10,000 babies to be born with severe deformities, was tested on animals prior to its commercial release. Later tests on pregnant mice, rats, guinea pigs, cats, and hamsters did not result in birth defects unless the drug was administered at extremely high doses.” The comment above is proof that all tests that are tested on animals may not be accurate results, and could be harmful to many human.("Animal Testing." ProCon.org. N.p., 1 20 2014. Web. 29 Jan 2014. <http://animal-testing.procon.org/>.) Millions of animals are still being used in a wide variety of researches. “Purpose-bred birds, rats, and mice, as well as fish and other cold-blooded
+Get Access
+<USER>

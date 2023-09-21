@@ -1,0 +1,93 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should adult have right carry conceal handgun
+Text: WHY Martial Arts?
+
+Can you physically defend yourself? Are you capable of defending a loved one if they were being physically assaulted? Most people can’t, or falsely believe they can. In most attacks, a person doesn’t have enough time to draw a weapon – if they’re even carrying. Quickly an attack can become a life or death situation if your attacker realizes you are armed and they start trying to access your weapon. Unless you know how to use your hands and body, you can quickly become a statistic. Toe 2 Toe is the premier martial arts school in Conway Arkansas. Our focus is on guiding you through your journey of building skills and confidence that will transform your life.
+
+MORE THAN SELF-DEFENSE
+
+At its core, martial arts is a self-defense art. But more than that it promotes a total transformation of mind and body. Practicing martial arts strengthens your mind and body. Your strength and conditioning improve. Your mind becomes sharp. You gain discipline that influences other areas in your life where you’re lacking. In the process, you discover a level of confidence you never imagined possible, and form friendships that last a lifetime.
+
+Is Toe 2 Toe Right For You?
+
+People recognized Toe 2 Toe as the go-to place for martial arts in Conway, AR. Whether you’re looking for self-defense classes in Conway, AR, Kickboxing classes in Conway, AR, or just looking to get in shape and make new friends in a fun environment Toe 2 Toe is for you.
+
+I was amazed with knowledge and the education I received. My friend recommended me the class. I drove down from Jonesboro Arkansas and took the course. I was 100% satisfied. I recommen anyone to take his concealed weapon class. I promise you won’t be disappointed, awesome teacher and great staff workers.
+Art Polio
+All of my children attend the kickboxing and BJJ at Toe2Toe. My kids ages range from 8years of age - 21 years of age. The staff treat everyone with dignity and respect. Curtis is a great leader and teacher. Our family loves Conway Toe2Toe.
+Whole Other Level Outdoors
+Kinda of pricey but the people that work here are nice!
+kelly wilson
+Great environment for kids and adults. Safe but knowledgeable place to learn kickboxing, jujitsu and tactical self defense. I took one of there jujitsu classes and learned a lot and got a good workout from it as well. Staff is very inviting and wants to see all there members succeed inside and outside of the gym.
+5 Star Nutrition Conway
+They staff was very knowledgeable and competent. They were great with our kids! Very patient and engaging. I feel like it something were to happen to my daughter she would know how to respond in that situation. Job well done!!
+ISAAC DEGROFF
+Excellent training facility experience staff highly recommended
+Johnny Hooper, GRI
+This is such a great place! My girls are learning self defense skills through jiu-jitsu and kick boxing! How cool is that for kids!?! Everyone is amazing as is their back story and mission! I am so glad we chose Toe-2-Toe!
+Kimberly Howey
+Jennifer is a great instructor, I’ve been taking weight loss class and after four weeks Im already seeing results and getting stronger, I couldn’t do it without her encouragement, her testimony is amazing! Thank You Jennifer and the whole team at Toe2Toe!
+Jana Thomas
+Mr Curtis is a true gem. Thank you for making this class fun, exciting & easy.
+Elonda King
+Toe 2 Toe is absolutely great! From the minute you walk through the door, you receive a warm welcome. Having zero experience in martial arts, Curtiss, his team, and other students made me feel right at home. I can already feel my confidence building after just a couple of lessons. If you’re looking for practical martial arts, self defense, and the feeling of being welcome, Toe 2 Toe is the way to go!
+Cody Arnold
+I was amazed with knowledge and the education I received. My friend recommended me the class. I drove down from Jonesboro Arkansas and took the course. I was 100% satisfied. I recommen anyone to take his concealed weapon class. I promise you won’t be disappointed, awesome teacher and great staff workers.
+Art Polio
+All of my children attend the kickboxing and BJJ at Toe2Toe. My kids ages range from 8years of age - 21 years of age. The staff treat everyone with dignity and respect. Curtis is a great leader and teacher. Our family loves Conway Toe2Toe.
+Whole Other Level Outdoors
+Home 1
+
+Contact Us TODAY
+
+  • This field is for validation purposes and should be left unchanged.
+
+CONFIDENCE
+
+The feeling of self-assurance arising from one’s appreciation of one’s own abilities or skills. In Martial Arts this is knowing what to do, when to do it, and how to utilize self-defense. It also translates into self-esteem at work, in relationships, and in the presence of strangers. It is the core advantage every student gains with hard work and discipline.
+
+SELF-DEFENSE
+
+The act of using any available means to reduce or escape harm. In Martial Arts this includes, but is not limited to, leaving the area, talking your way out of bad situations, using “stun and run” tactics, employing improvised or modern weapons, and lastly engaging in physical confrontation until help arrives, the enemy is incapacitated, or escape is possible. At Toe2Toe in Conway, AR our students have options and make good choices to avoid conflict. They also have the ability to resolve conflict using techniques and skills learned under our guidance.
+
+FRIENDSHIPS
+
+Conway’s Toe2Toe Martial Arts isn’t just a place to work out like the local gym. It is a place to make lifelong friendships with other good natured people like you. There is a true brotherhood here where we can show trust and respect without fear of rejection. We help each other, have fun together, and even watch out for one another.
+<USER>

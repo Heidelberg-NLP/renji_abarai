@@ -1,0 +1,72 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+The following is the transcript of an interview I did with Jeremy R. Hammond, founding editor of Foreign Policy Journal, on his forthcoming book about the US role in the Israeli-Palestinian conflict.
+
+What led you to write this book and is it a follow-up to your book The Rejection of Palestinian Self-Determination?
+
+It’s funny you should ask! The new book will be the final result of a process that began in earnest during Israel’s ’08-’09 military assault on Gaza, dubbed “Operation Cast Lead”. That event prompted me to want to write a book about the Israeli-Palestinian conflict, but I knew I couldn’t write about contemporary events such as that without also providing historical background as context. So I had a grand ambition to provide an overview of the conflict going back to its roots and up through the present day. That idea proved overly ambitious for me at the time, but it did result in The Rejection of Palestinian Self-Determination.
+
+I continued to keep in mind the book I’d wanted to do on Operation Cast Lead and the U.S.-led so-called “peace process”, however. What prompted me to begin this project in earnest again was President Obama’s May 2011 speech in which he referred to the “1967 lines” as the starting point for negotiations, and the media’s inane response to it as representing some kind of dramatic “shift” in U.S. policy. It was no such thing, as I explain in the forthcoming book.
+
+So it is in some ways a follow-up to my other book, which focuses more on the contemporary history of the conflict while jumping back to provide crucial historical context as necessary to properly understand events. For example, to understand the so-called “peace process”, one needs to understand the roots of the conflict and how Israel came into existence through the ethnic cleansing of three-quarters of a million Arabs from Palestine. A look back at the June 1967 war and its aftermath is necessary to understand events today, and so on.
+
+With regards to the US’ initial sup
+<USER>

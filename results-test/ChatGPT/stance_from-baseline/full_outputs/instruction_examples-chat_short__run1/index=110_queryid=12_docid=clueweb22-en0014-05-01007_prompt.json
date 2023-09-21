@@ -1,0 +1,153 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should birth control pills be available over the counter?
+Text: Last updated on: 3/15/2022 | Author: ProCon.org
+
+Pro & Con Quotes: Should birth control pills be available over the counter?
+
+ 
+
+PRO (yes)
+
+Pro 1
+
+Malcolm Potts, doctor and Co-Founder of Cadence Health, and Nap Hosang, retired obstetrician and Co-Chief Executive of Cadence Health, stated:
+
+“One of the greatest innovations in human history is oral contraceptives, commonly known as the Pill. With access to the Pill, every woman can exercise her right to decide when to be pregnant and when not to be pregnant, something which is an unambiguous human right. Not only that, but the Pill is the only medicine that a doctor can prescribe which significantly reduces the likelihood of three different cancers by as much as 50 percent. On its cancer fighting ability alone, the Pill is a unique and powerful medical intervention.
+
+This seemingly miraculous drug has been on the market since the 1960s, and its safety and efficacy at preventing both pregnancies and cancers is well documented. One study followed 23,000 women using the Pill and 23,000 matched controls for over 30 years. Nevertheless, millions of women in the United States lack access to it…
+
+The long-term benefits of over the counter access to the Pill are enormous when aggregated over the lives of millions of women each year. These benefits include everything from reducing the burden of an unintended pregnancy, reduced risk of life-threatening cancers, fewer maternal deaths during childbirth for young mothers, and economic improvements as a result of more women completing their education and having the opportunity to pursue careers before having children. One small regulatory change to how a tried-and-true drug is sold can help millions flourish. It’s an easy decision.”
+
+-
+
+Malcolm Potts and Nap Hosang, “Why It’s Time to Make the Pill Available Over the Counter,” templetonworldcharity.org, Mar. 7, 2022
+
+Pro 2
+
+Raegan McDonald-Mosley, obstetrician-gynecologist (OB-GYN), stated:
+
+“As an ob-gyn who specializes in family planning, I am grateful for the advancements in contraception and delivery options. However, there is still so much we can do to make contraception more accessible so people can achieve their reproductive desires. Presently, contraceptive pills are not available over-the-counter and require a prescription from a licensed medical provider. The prescription requirement is an unnecessary barrier that lies in contradiction to research that confirms contraceptive pills meet the safety requirements to be dispensed over-the-counter.
+
+Contraception is basic health care that all people—including people of color, people with low incomes and people from rural areas—should be able to access without unnecessary barriers to stay healthy and achieve their reproductive desires. Contraceptive pills are the most common method of non-permanent contraception in the U.S. Every month, over 10 million people in the U.S take contraceptive pills to avoid an unplanned pregnancy and treat health concerns such as painful periods, acne, ovarian cysts and menstrual migraines. The pill’s record of safety is underscored by the low rate of complications reported over the 40 plus years that the pill has been on the market.”
+
+-
+
+Raegan McDonald-Mosley, “The Birth Control Pill Is Safe, Effective and Should Be Available Over-the-Counter,” msmagazine.com, May 17, 2021
+
+Pro 3
+
+The American College of Obstetricians and Gynecologists stated:
+
+“Barriers to access are one reason for inconsistent or nonuse of contraception. The requirement for a prescription can be an obstacle for some contraceptive users. Several studies have demonstrated that women are capable of using self-screening tools to determine their eligibility for hormonal contraceptive use. Pelvic and breast examinations, cervical cancer screening, and sexually transmitted infection screening are not required before initiating hormonal contraception and should not be used as reasons to deny access to hormonal contraception. Also, a plan to improve access to hormonal contraception should address cost issues. Pharmacist-provided contraception may be a necessary intermediate step to increase access to contraception, but over-the-counter access to hormonal contraception should be the ultimate goal. The American College of Obstetricians and Gynecologists supports over-the-counter access to hormonal contraception without age restrictions. This Committee Opinion has been updated to expand the focus of over-the-counter contraception to include oral contraceptive pills, vaginal rings, the contraceptive patch, and depot medroxyprogesterone acetate, to address the role of pharmacist-provided contraception, and to provide recommendations for individuals younger than 18 years.”
+
+-
+
+American College of Obstetricians and Gynecologists “Over-the-Counter Access to Hormonal Contraception,” acog.org, 2021
+
+Pro 4
+
+Natalie Willis, National Councillor, for Australia’s Pharmacy Guild, stated:
+
+“Allowing pharmacies to sell the pill in certain situations would take the pressure off GPs [general practitioner] and increase its accessibility for women. It’s merely improving convenience for women to the same level as men, who can pop down to the shops and take care of their contraceptive needs very easily, whereas women have to jump through all these hoops. Rather than making a sensible and progressive decision in the interests of women, this interim decision is a retreat into the safety of the status quo.”
+
+-
+
+Melissa Davey, “Not a Clearcut Case’: Why a Debate about the Contraceptive Pill Is Dividing the Medical Community,” theguardian.com, Nov. 11, 2021
+
+Pro 5
+
+Michael F. Cannon, Director of Health Policy Studies, and Jeffrey A. Singer, Senior Fellow, both at Cato Institute, stated:
+
+“Congress should revoke the Food and Drug Administration’s power to require women to obtain prescriptions to purchase hormonal contraceptives, a change that would reduce the price of birth control pills and finally allow consumers to buy them over the counter. Congress should make this move without requiring insurers to cover over‐​the‐​counter contraceptives, which would cause prices to increase.
+
+Women have a right to purchase contraceptives without government either forcing them to obtain a doctor’s permission or increasing the price of their birth control… Birth control should be affordable and so easy to access that women can simply send the men in their lives to the store to buy it.”
+
+-
+
+Michael F. Cannon and Jeffrey A. Singer, “Birth Control Should Be Available Over the Counter. How Congress Can Make That Happen,” cato.org, Jan. 27, 2020
+
+Pro 6
+
+Sally Rafie, Assistant Clinical Professor at the Skaggs School of Pharmacy and Pharmaceutical Sciences at the University of California at San Diego, stated:
+
+“Over-the-counter access to the pill might sound revolutionary, but it is already available without a prescription in more than 100 countries. Women don’t need the oversight of healthcare providers to determine if and when they want to have children and they should have convenient access to the tools to help them make decisions about pregnancy effectively.”
+
+-
+
+Sally Rafie, “Opinion: California’s No-Prescription Birth Control Expands Access for Women,” timesofsandiego.com, June 20, 2018
+
+Pro 7
+
+Hadley Heath Manning, Policy Director at the Independent Women’s Forum, stated:
+
+“Making birth-control pills available over the counter would greatly increase convenience and access for many women, ultimately leading to fewer unintended pregnancies. There is no reason women should have to obtain a prescription for this common, safe and effective drug that has been around since the 1960s…
+
+[I]ronically, the morning-after pill or ‘Plan B’ — which includes a much higher dose of the same hormones as regular birth-control pills — is available without a prescription. It makes no sense from public health standpoint that ‘Plan A’ is harder to get.”
+
+-
+
+Hadley Heath Manning, “Yes, Birth Control Pills Should Be Available Over the Counter,” newsday.com, July 13, 2017
+
+Pro 8
+
+The Center for Reproductive Rights, stated:
+
+“[T]he truth is that the most common form of hormonal contraception—the pill—could be even more accessible if it became available over the counter (OTC) to all women. Whether someone needs birth control after office hours, over the weekend, while on vacation, or simply does not have the time or resources for a separate appointment, an OTC pill would offer accessibility and convenience for those unable or unwilling to visit a health care provider for a prescription.
+
+Access to contraception is grounded in international human rights and is critical to an individuals’ [sic] ability to control his or her own life and reproduction. Moreover, making the pill more accessible is an important public health goal because more than half of all pregnancies in the United States each year are unintended.”
+
+-
+
+The Center for Reproductive Rights  “Over the Counter: The Next Big Step for Birth Control,” reproductiverights.org, Feb. 2016
+
+Pro 9
+
+Colleen Krajewski, obstetrician and gynecologist (OB-GYN), stated:
+
+“OTC access for oral contraceptive pills has been supported by American Congress of Obstetricians and Gynecologists since 2012. There are several benefits to this. Pills are one of the most commonly used contraceptives, and over-the-counter access removes many barriers to pill use and continuation. I have had many patients who have had interrupted pill use because of the logistics of getting to the doctor’s office for a prescription or the inability to get back to the pharmacy for a refill. Since fertility can return almost immediately after stopping the Pill, I have seen interrupted access to the pill lead to unplanned pregnancy.”
+
+-
+
+Christina Heiser, “Here’s What Gynecologists Think about ‘Over-the-Counter’ Birth Control Pills,” womenshealthmag.com, Jan. 11, 2016
+
+Pro 10
+
+Eve Espey, Professor in the Department of Obstetrics and Gynecology at the University of New Mexico, stated:
+<USER>

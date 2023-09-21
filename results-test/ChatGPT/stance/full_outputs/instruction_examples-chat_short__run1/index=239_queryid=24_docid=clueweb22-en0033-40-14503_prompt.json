@@ -1,0 +1,199 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: lower federal corporate income tax rate create job
+Text: Federal Income Tax Brackets and Rates for the 2021 Tax Year
+
+Tax Brackets and Rates for 2021 Taxes Filed in 2022
+
+Young woman sitting and finishing work in her Downtown Los Angeles apartment
+•••
+
+lechatnoir / Getty Images
+
+The U.S. government taxes personal income on a progressive graduated scale—the more you earn, the higher the percentage you'll pay in taxes. Personal income tax rates begin at 10% for the tax year 2021—the return due in 2022—then gradually increase to 12%, 22%, 24%, 32%, and 35% before reaching a top rate of 37%.1 These tax rates are the same for 2022, but they apply to different income levels than in 2021.2
+
+Each tax rate applies to a specific range of income referred to as a “tax bracket.” Where each tax bracket begins and ends depends on your filing status. Charts below show which tax rates apply to which filing status and taxable income amount. Remember: Taxable income is what's left after you claim various deductions.
+
+Key Takeaways
+
+  • The tax rate you pay varies according to your filing status and income.
+  • Your marginal tax rate is different from your average tax rate.
+  • You’re required to pay capital gains tax on property and investments that you sell, and the amount of capital gains tax you pay depends on your filing status and income.
+  • Social Security and Medicare are additional taxes you’re likely required to pay.
+
+How Tax Brackets Work
+
+The circumstances of your life determine your filing status, such as whether you're married, single, or have children or other dependents. Tax rates can also vary, depending on the type of income being taxed. Ordinary tax rates apply to most incomes, but a separate tax rate schedule applies to income derived from long-term capital gains.
+
+It’s important to note that the bracket you fall into is not the rate applied to all of the income you earn. For example, if your taxable income is $50,000 and you’re a single filer, you fall into the 22% bracket. But that 22% rate is only applied to the amount of income you earned over the lower threshold for that tax rate and the tax year. For the tax year 2021, you'd pay 22% on income over $40,525. The 12% rate would be applied to your income that falls between $9,950 and $40,525, and the 10% rate is applied to the remainder of your income that is less than $9,950.1 This is how graduated tax rates work; they apply to all filers.
+
+When you know which bracket you fall into, you can determine how much you’ll be taxed on additional income, like from a second job or side gig, until that income reaches the next bracket. This is also called your "marginal tax rate." If you’re single, and your taxable income is $50,000, your marginal rate is 22%. 
+
+You can also use tax rates to figure out how much tax you'll save by increasing your deductions. A taxpayer in the 24% tax bracket will save $0.24 in federal tax for every $1 spent on a tax-deductible expense if they itemize.
+
+These tax rates and brackets apply to your 2021 tax return, which is due April 15, 2022. Tax rates and brackets are adjusted annually to keep pace with inflation.
+
+Tax Income Brackets for Single Filers in 2021
+
+Ordinary IncomeTaxable Income
+10%$0 to $9,950
+12%$9,950 to $40,525
+22%$40,525 to $86,375
+24%$86,375 to $164,925
+32%$164,925 to $209,425
+35%$209,425 to $523,600
+37%More than $523,600
+
+"Single" filing status means you’re not married or were considered legally separated on the last day of the tax year.1
+
+Tax Income Brackets for Heads of Household in 2021
+
+Ordinary IncomeTaxable Income
+10%$0 to $14,200
+12%$14,200 to $54,200
+22%$54,200 to $86,350
+24%$86,350 to $164,900
+32%$164,900 to $209,400
+35%$209,400 to $523,600
+37%More than $523,600
+
+The head-of-household filing status applies to taxpayers who are "considered unmarried." They must have at least one dependent and pay more than half the cost of keeping up their home for the year. Married taxpayers may be able to qualify if they haven’t lived with their spouse at any time during the last six months of the year.3
+
+The rules for this filing status are strict—if you’re not sure whether you qualify, speak with a tax professional.
+
+Tax Income Brackets for Married Taxpayers Filing Separately in 2021
+
+Ordinary IncomeTaxable Income
+10%$0 to $9,950
+12%$9,950 to $40,525
+22%$40,525 to $86,375
+24%$86,375 to $164,925
+32%$164,925 to $209,425
+35%$209,425 to $314,150
+37%$314,150 or more
+
+This is your filing status if you're legally married, don't qualify as head of household, and don't want to file a tax return jointly with your spouse. Although the tax brackets are pretty much the same as for single filers, you'll notice that high earners take a bit of a hit when they file separately.4
+
+Tax Income Brackets for Married Taxpayers Filing Jointly in 2021
+
+Ordinary IncomeTaxable Income
+10%$0 to $19,900
+12%$19,900 to $81,050
+22%$81,050 to $172,750
+24%$172,750 to $329,850
+32%$329,850 to $418,850
+35%$418,850 to $628,300
+37%More than $628,300
+
+This is your status if you're married and filing a tax return with your spouse. You combine your incomes and deductions.1
+
+If your spouse died within the last two years, and you haven't remarried, you may be able to claim the qualifying widow(er) status. The Internal Revenue Code provides that widows/widowers are entitled to the same tax provisions they'd enjoy if they were still able to file jointly with their spouses.
+
+Each Tax Bracket Applies to a Portion of Income
+
+As mentioned above, your marginal tax rate—the bracket that your income amount falls into—is not applied to all of your earned income.
+
+Let's say you’re a single filer, and your taxable income is $100,000. Your marginal tax rate is 24%. You'll pay that rate only on the amount of taxable income over $86,375 ($13,625). You'll pay 22% on the income between $40,525 and $86,375 ($45,850), and 12% on income between $9,950 and $40,525 ($30,575). Finally, you’ll pay 10% on income up to $9,950 (which is $9,950). 
+
+This tax rate chart shows how the mechanics of this work.
+
+If your taxable income is between:Your tax is:
+$0 and $9,95010%, up to $995
+$9,950 and $40,525$995 + 12% of the amount over $9,950, up to $3,669
+$40,525 and $86,375$4,664 + 22% of the amount over $40,525, up to $10,087
+$86,375 and $164,925$14,751 + 24% of the amount over $86,375, up to $18,852
+$164,925 and $209,425$33,603 + 32% of the amount over $164,925, up to $14,240
+$209,425 and $523,600$47,843 + 35% of the amount over $209,425, up to $109,961.25
+$523,600 or more$157,804.25 + $37% of the amount over $523,600
+
+Using the example of $100,000 of taxable income, your total tax bill for 2021 could be calculated as follows:
+
+  • $995 + $3,669 + $10,087 + $3,270 = $18,021
+
+So, if your taxable income is $100,000, and you’re a single filer, you would owe the IRS $18,021 before any tax deductions or tax credits. Note that while your marginal tax rate is 24% in this example, your average tax rate is actually about 18% ($18,021 / $100,000 = 0.18 = 18%).
+
+Capital Gains Tax Rates
+
+Long-term capital gains result from the sale of property you've held for more than one year, such as a stock portfolio, while short-term capital gains result from assets you've owned for one year or less and are taxed as ordinary income.
+
+Long-term capital gains have their own tax brackets to determine how they are taxed. These income spans apply to your overall income, including both capital gains and ordinary income.
+
+The long-term capital gains tax brackets for single filers for the 2021 tax year are:5
+
+Income RangeLong Term Capital Gains Tax Rate
+$0 to $80,0000%
+$80,001 to $441,45015%
+$441,450 or more20%
+
+The long-term capital gains rate for those married filing separately is the same as for single filers except that the 15% bracket tops out at $248,300.
+
+The long-term capital gains tax brackets for head-of-household filers for the 2021 tax year are:
+
+Income RangeLong Term Capital Gains Tax Rate
+$0 to $80,0000%
+$80,000 to $469,05015%
+$469,050 or more20%
+
+For married filers of joint returns, the capital gains tax brackets for tax year 2021 are:
+
+Income RangeLong Term Capital Gains Tax Rate
+$0 to $80,0000%
+$80,001 to $496,60015%
+$496,600 or more20%
+
+Capital gains resulting from certain investments are also subject to the net investment income tax at a rate of 3.8%. This tax may apply if filers have net investment income and a modified adjusted gross income over the following threshold amounts, according to their filing status.6
+
+  • Married filing jointly or qualifying widow(er) with dependent child: $250,000 or more
+  • Single or head of household: $200,000 or more
+  • Married filing separately: $125,000 or more
+
+Social Security Tax Rates
+
+Another tax that probably applies to your income is the Social Security tax. The Social Security tax rate is 12.4% on wages (you pay half, and your employer pays half) up to the Social Security wage base, which is $142,800 in 2021. Anything above the wage base amount is not subject to Social Security tax.
+
+The maximum Social Security tax paid by employees is $8,853.60 for the tax year 2021, or 6.2% of $142,800. Self-employed filers pay the full 12.4%, for a maximum of $17,707.20 for tax year 2021.
+
+This wage base is adjusted annually to keep up with inflation. For the 2022 tax year, the wage base for the Social Security tax is $147,000.7
+
+Medicare Tax Rates
+
+The Medicare tax rate is 2.9% on wages and self-employment income. There's no wage base for this tax—all ordinary income is taxed at that rate. Employees pay half (1.45%) and employers pay the other half (1.45%). Self-employed individuals pay the whole 2.9%. 
+
+The Additional Medicare Tax rate is 0.9% on wages and self-employment income, but it's only applicable to incomes over $200,000. Employers don’t have to match any portion of this tax.8
+<USER>

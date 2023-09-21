@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3FnhzZjvFbhXGM9lFlfznSTJ51y",
+  "object": "chat.completion",
+  "created": 1683106799,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2835,
+    "completion_tokens": 30,
+    "total_tokens": 2865
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to be informative rather than presenting a clear argument or rhetorical quality. Therefore, it cannot be categorized as high, medium, or low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

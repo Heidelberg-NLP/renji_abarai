@@ -1,0 +1,101 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do standardized tests improve education?
+Text: Last updated on: 12/7/2020 | Author: ProCon.org
+
+Standardized tests have been a part of American education since the mid-1800s. Their use skyrocketed after 2002’s No Child Left Behind Act (NCLB) mandated annual testing in all 50 states. US students slipped from being ranked 18th in the world in math in 2000 to 40th in 2015, and from 14th to 25th in science and from 15th to 24th in reading. Failures in the education system have been blamed on rising poverty levels, teacher quality, tenure policies, and, increasingly, on the pervasive use of standardized tests.
+
+Proponents argue that standardized tests offer an objective measurement of education and a good metric to gauge areas for improvement, as well as offer meaningful data to help students in marginalized groups, and that the scores are good indicators of college and job success. They argue standardized tests are useful metrics for teacher evaluations.
+
+Opponents argue that standardized tests only determine which students are good at taking tests, offer no meaningful measure of progress, and have not improved student performance, and that the tests are racist, classist, and sexist, with scores that are not predictors of future success. They argue standardized tests are useful metrics for teacher evaluations.
+
+Read more background…
+
+Pro & Con Arguments
+
+Pro 1
+
+Standardized tests offer an objective measurement of education and a good metric to gauge areas for improvement.
+
+Teachers’ grading practices are naturally uneven and subjective. An A in one class may be a C in another. Teachers also have conscious and unconscious biases for a favorite student or against a rowdy student, for example. [56] Standardized tests offer students across the country a unified measure of their knowledge.
+
+Aaron Churchill, Ohio Research Director for the Thomas B. Fordham Institute, stated, “At their core, standardized exams are designed to be objective measures. They assess students based on a similar set of questions, are given under nearly identical testing conditions, and are graded by a machine or blind reviewer. They are intended to provide an accurate, unfiltered measure of what a student knows.” [56]
+
+Frequently states or local jurisdictions employ psychometricians to ensure tests are fair across populations of students. Mark Moulon, PhD, Chief Executive Officer at Pythias Consulting and psychometrician, offered an example: “If you find that your question on skateboarding is one that boys find to be an easy question, but girls find to be a hard question, that’ll pop up as a statistic. Differential item functioning will flag that question as problematic.” [57]
+
+Moulon continued, explaining, “What’s cool about psychometrics is that it will flag stuff that a human would never be able to notice. I remember a science test that had been developed in California and it asked about earthquakes. But the question was later used in a test that was administered in New England. When you try to analyze the New England kids with the California kids, you would get a differential item functioning flag because the California kids were all over the subject of earthquakes, and the kids in Vermont had no idea about earthquakes.” [57]
+
+With problematic questions removed, or adapted for different populations of students, standardized tests offer the best objective measure of what students have learned. Taking that information, schools can determine areas for improvement. As Bryan Nixon, former Head of School at private school Whitby, noted, “When we receive standardized test data at Whitby, we use it to evaluate the effectiveness of our education program. We view standardized testing data as not only another set of data points to assess student performance, but also as a means to help us reflect on our curriculum. When we look at Whitby’s assessment data, we can compare our students to their peers at other schools to determine what we’re doing well within our educational continuum and where we need to invest more time and resources.” [58]
+
+Read More
+
+Pro 2
+
+Standardized tests offer meaningful data to help students in marginalized groups.
+
+Keri Rodrigues, Co-founder of the National Parents Union, explained, “If I don’t have testing data to make sure my child’s on the right track, I’m not able to intervene and say there is a problem and my child needs more. And the community can’t say this school is doing well, this teacher needs help to improve, or this system needs new leadership… It’s really important to have a statewide test because of the income disparity that exists in our society. Black and Brown excellence is real, but just because a kid lives in Dorchester [Massachusetts] does not make his or her life is less valuable than a child that lives in Wellesley [Massachusetts]. And it is unfair to say that just by luck of birth that a child born in Wellesley is somehow entitled to a higher-quality education… Testing is a tool for us to hold the system accountable to make sure our kids have what they need. ” [59]
+
+Sheryl Lazarus, PhD, Director of the National Center on Educational Outcomes at the University of Minnesota, stated, “a real plus of these assessments is that they’ve really shone a light on the differences across sub-groups. And they have led to improvements in access to instruction for students with disabilities and English learners… Inclusion of students with disabilities and English learners in summative tests used for accountability allows us to measure how well the system is doing for these students, and then it is possible to fill in gaps in instructional opportunity.” [60]
+
+Advocates for marginalized groups of students, whether by race, learning disability, or other difference, can use testing data to prove a problem exists and to help solve the problem via more funding, development of programs, or other solutions. Civil rights education lawsuits wherein a group is suing a local or state government for better education almost always use testing data. [61]
+
+Chris Stewart, CEO of brightbeam, summarizes, “We only know that there’s a difference between White students and Black students and other students of color because we have the data. We only know about that because we have assessments.” [61]
+
+A letter signed by 12 civil rights organizations including the NAACP and the American Association of University Women, explained, “Data obtained through some standardized tests are particularly important to the civil rights community because they are the only available, consistent, and objective source of data about disparities in educational outcomes, even while vigilance is always required to ensure tests are not misused. These data are used to advocate for greater resource equity in schools and more fair treatment for students of color, low-income students, students with disabilities, and English learners… [W]e cannot fix what we cannot measure. And abolishing the tests or sabotaging the validity of their results only makes it harder to identify and fix the deep-seated problems in our schools.” [62]
+
+Read More
+
+Pro 3
+
+Standardized tests are useful metrics for teacher evaluations.
+
+While grades and other measures are useful for teacher evaluations, standardized tests provide a consistent measure across classrooms and schools. Individual school administrators, school districts, and the state can compare teachers using test scores to show how each teacher has helped students master core concepts. [63]
+
+Timothy Hilton, a high school social studies teacher in South Central Los Angeles, stated, “No self-respecting teacher would use a single student grade on a single assignment as a final grade for the entirety of a course, so why would we rely on one source of information in the determination of a teacher’s overall quality? The more data that can be provided, the more accurate the teacher evaluation decisions will end up being. Teacher evaluations should incorporate as many pieces of data as possible. Administration observation, student surveys, student test scores, professional portfolios, and on and on. The more data that is used, the more accurate the picture it will paint.” [64]
+
+Read More
+
+Pro 4
+
+Standardized tests scores are good indicators of college and job success.
+
+Standardized tests can offer evidence of and promote academic rigor, which is invaluable in college as well as in students’ careers. Matthew Pietrafetta, PhD, Founder of Academic Approach, argues that the “tests create gravitational pull toward higher achievement.” [65]
+
+Elaine Riordan, senior communications professional at Actively Learn, stated, “[C]onsiderable research suggests that interventions that help students improve test scores are linked to better adult outcomes such as college attendance, higher incomes, and the avoidance of risky behaviors… In other words, creating learning environments that lead to higher test scores is also likely to improve students’ long-term success in college and beyond… Recent research suggests that the competencies that the SAT, ACT, and other standardized tests are now evaluating are essential not just for students who will attend four-year colleges but also for those who participate in CTE programs or choose to seek employment requiring associate degrees and certificates. The researchers argue that all of these students require the same level of academic mastery to be successful after high school graduation.” [66]
+<USER>

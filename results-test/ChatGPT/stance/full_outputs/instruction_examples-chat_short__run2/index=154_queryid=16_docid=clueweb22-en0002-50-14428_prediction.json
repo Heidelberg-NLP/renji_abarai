@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C5vpQDp4EP2j6CikLTSNK5nJJEXI",
+  "object": "chat.completion",
+  "created": 1683117093,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2488,
+    "completion_tokens": 47,
+    "total_tokens": 2535
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "none. The provided text is a research paper discussing the comparison of prescription and non-prescription drug classification systems across various countries. It does not provide opinions or arguments for or against whether prescription drugs should be advertised directly to consumers or not."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

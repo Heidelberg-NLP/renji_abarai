@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ4b9aKlgPN0P3TmtRG39ScpbtxU",
+  "object": "chat.completion",
+  "created": 1682690953,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2578,
+    "completion_tokens": 57,
+    "total_tokens": 2635
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be presenting objective scientific research on the correlation between fraternal birth order and male sexual orientation. It does not contain any emotional or biased language, and presents information and empirical findings in a clear and neutral manner. Therefore, the rhetoric of the text can be considered low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

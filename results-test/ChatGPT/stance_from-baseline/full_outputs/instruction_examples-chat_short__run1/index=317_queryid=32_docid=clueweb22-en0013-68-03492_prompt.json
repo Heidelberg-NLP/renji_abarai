@@ -1,0 +1,77 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do electronic voting machines improve the voting process?
+Text: Home Election Material Voting Machines
+Election material: POLYAS has the information you need for a successful election
+
+Voting Machines
+
+These days, elections can be conducted in many ways, from a conventional show of hands to the newest digital trends of online voting. Countries, institutions, and companies have been looking for new forms of voting for several decades now. There are obvious reasons for this: too much paper, complicated and complex voting mechanisms, and tedious vote-counting processes. One of the developed voting alternatives is the voting machine.
+
+Simplifying ballot counting
+
+Voting machines can help with all elements of an election and exist in many different varieties. The voting process itself stays the same: voters need to be physically present at the polling station in order to cast their vote with the voting machine.
+
+Ballot Counting Machines
+
+  • A ballot paper scanner is a voting machine, which doesn’t change the election process for the voters. Just like conducting a conventional election, the voter marks his vote on a printed ballot paper. Only the next step - ballot counting - differs from conventional systems. Ballot papers are scanned by the computerized voting machine, which reads the marks on the ballot paper and counts the vote. This takes a lot of pressure off from the election volunteers, making the process easier, more efficient and faster.
+     
+  • The digital voting pen also allows for a conventional voting process for the voter. The only difference is that the writing tool is a computerized storage medium/memory device. The voting pen records the vote by scanning an invisible pattern on the ballot paper as well as using a very small camera. After casting their vote, voters hand over the voting pen to the election official. In addition, ballot papers are placed into the ballot box. After the election, the votes are counted by feeding the data from the voting pens into a computer system.
+     
+  • Voting punch cards, for example, are the computerized voting method of choice in large parts of the United States of America. Votes are punched into ballot papers that are then scanned by specific machines. This method of voting became infamous in 2000 with the "hanging chad" saga.
+Start now >
+
+Electronic voting and vote counting
+
+For the first time in history, computerised voting machines not only help with the counting of votes but help voters cast their ballots. Voting computers show the ballot paper on screen and the vote is conducted either via the touchscreen or the push of a button. Read more about the history and development of computerised voting machines here!
+
+POLYAS Tip:  Online elections, simplify the management of your election. Create ballots, upload your electoral roll and you are ready for a legally valid election. Get started today >
+
+ 
+
+Voting machines are not the same as online elections
+
+One thing that is important to remember is that online voting and computerized voting machines are not equivalents, despite the fact that they are often confused with one another. The digital voting mechanism of ‘remote electronic voting’ makes it possible for the voter to conduct his or her vote from any web-enabled mobile device. There is no need for the voter to be physically present at a specific polling station. Instead, secure authentification procedures enable access to an online voting portal. Voting machines, on the other hand, are physical machines which voters use to cast their votes. They are merely a digital replacement for paper elections or machines that make paper elections more efficient. Read more about voting computers on our blog.
+
+Security of online voting
+
+State-of-the-art encryption technology makes it possible to protect the secret of the ballot in online elections. The system’s architecture prevents changes to ballot papers and includes early warning systems to discover any attempts at manipulation. In the case of POLYAS, the federal office for information security in Germany (BSI) has recognized and approved this method, since POLYAS CORE 2.5.0 fulfils the requirements of the international protection profile under Common Criteria standards. Thus our election system complies with all election principles.
+
+Read more about secure online voting with POLYAS here!
+<USER>

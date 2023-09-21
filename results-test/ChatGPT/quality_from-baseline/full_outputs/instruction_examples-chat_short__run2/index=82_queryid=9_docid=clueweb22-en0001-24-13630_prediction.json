@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0iJRXQsJj43T5IGMO80Ezf8sC3g",
+  "object": "chat.completion",
+  "created": 1687863595,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I am an AI language model and cannot perform actions like clicking on hyperlinks or joining apps. Is there anything else I may help you with?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1899,
+    "completion_tokens": 33,
+    "total_tokens": 1932
+  }
+}

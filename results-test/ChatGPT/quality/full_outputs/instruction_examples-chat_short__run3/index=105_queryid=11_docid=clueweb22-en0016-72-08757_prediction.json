@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C30kwyRDLqc8kpXCoN2ZWYdi1toA",
+  "object": "chat.completion",
+  "created": 1683105866,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2358,
+    "completion_tokens": 104,
+    "total_tokens": 2462
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "It is unethical and unfair for athletes to use performance enhancing drugs as it is a form of cheating and goes against the fair spirit of competition in sports. The consequences of using PEDs can range from aching joints to long-term health issues, and athletes risk losing their eligibility to compete if caught using such drugs. The use of PEDs is also on the rise in high schools, where young athletes may not understand the long-term effects. Overall, the use of performance enhancing drugs undermines the integrity of sports and fair competition."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

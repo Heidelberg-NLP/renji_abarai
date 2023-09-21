@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ4g03khp4HvaSfLyGGj9XfzWBBL",
+  "object": "chat.completion",
+  "created": 1682690958,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2704,
+    "completion_tokens": 76,
+    "total_tokens": 2780
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is an informative text explaining the meaning, categories, and related concepts to sexual orientation. It is a neutral text that does not take a stance, argue or engage in any debate. It provides information regarding sexual orientation and how it relates to other sexual and gender identity terms. It also offers insight into the ongoing discussion and debates about the terminology used to describe different sexual orientations."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

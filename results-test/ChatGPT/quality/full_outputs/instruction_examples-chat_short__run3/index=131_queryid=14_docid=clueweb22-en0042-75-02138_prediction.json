@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C31ePnA7epgay56lBNtiROrJNnSX",
+  "object": "chat.completion",
+  "created": 1683105922,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2704,
+    "completion_tokens": 110,
+    "total_tokens": 2814
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides objective information about sexual orientation and its definition. It presents different terms and categories related to sexual orientation, including heterosexuality, homosexuality, bisexuality, and asexuality, and explains that a person's sexual orientation can be anywhere on a continuum. The article also discusses sexual identity and sexual behavior, highlighting their differences from sexual orientation. The text concludes by suggesting that sexual orientation is studied and discussed mainly within biology, neuroscience, psychology, sociology, history, and law. Therefore, this text is informative and neutral in its tone."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

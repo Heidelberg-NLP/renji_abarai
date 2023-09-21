@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should prescription drugs be advertised directly to consumers?
+Text: How many prescription drugs are advertised on TV?
+
+How many prescription drugs are advertised on TV?
+
+Asked By: Jaquelyn Jamain | Last Updated: 1st February, 2020
+Category: business and finance pharmaceutical industry
+4.3/5 (315 Views . 18 Votes)
+Just considering television, 187 commercials for about 70 prescription medications have collectively aired almost half a million times since the start of 2018.
+Read in-depth answer here.
+Furthermore, what drugs are advertised on TV?
+
+Humira, Xeljanz and Eliquis were the top three most advertised drugs on U.S. TV in 2019 based on ad spend. Humira led the pack with more than 460 million U.S. dollars in TV ad expenditures that year, while Xeljanz and Eliquis spent a little over 180 and 140 million, respectively.
+
+One may also ask, when did it become legal to advertise drugs on TV? In 1997, the Food and Drug Administration permitted prescription drug companies to start publicizing their products directly to consumers in television advertisements.
+
+One may also ask, why are prescription drugs advertised on TV?
+
+Proponents of DTC prescription drug ads contend that the ads inform patients about diseases and possible treatments, encourage people to seek medical advice, help remove stigma associated with medical conditions, and provide needed sales revenue to fund costly research and development (R&D) of new drugs.
+
+Why do drug companies advertise so much?
+
+What's really happening is that drug companies are creating a demand for their product by inundating consumers with advertisements convincing them that they need treatment. Furthermore, the increased spending on advertising leads to higher drug costs since many ads focus on new expensive medications.
+
+34 Related Question Answers Found
+
+Should prescription drugs be advertised directly to consumers?
+
+Direct-to-consumer marketing of prescription drugs should be prohibited… Pharmaceutical advertising does not promote public health. It increases the cost of drugs and the number of unnecessary prescriptions, which is expensive to taxpayers, and can be harmful or deadly to patients…
+
+What countries are allowed to advertise prescription drugs?
+
+The United States and New Zealand are the only two countries that allow direct-to-consumer advertising of prescription drugs.
+
+Why don t other countries allow advertising for prescription drugs?
+
+The United States and New Zealand are the only countries where drug makers are allowed to market prescription drugs directly to consumers. This kind of ad does not contain risk information because it does not discuss the condition the drug treats or how well it works.
+
+How much do drug companies spend on TV advertising?
+
+According to Kantar, which tracks media spending, the drug industry spent nearly $5.9 billion, not $5 billion, on all advertising in 2018. Of that, about $4.5 billion, not $4 billion, was spent on tv ads.
+
+Where do you get Chantix?
+
+How do I get CHANTIX? CHANTIX is available only by prescription, so you must speak to your healthcare provider to get a prescription. Talk to your healthcare provider or connect with one today about whether CHANTIX or another quit-smoking treatment may be right for you.
+
+
+What is drug advertising?
+
+Direct-to-consumer advertising (DTCA) refers to the marketing and advertising of pharmaceutical products directly to consumers as patients, as opposed to specifically targeting health professionals. Many countries ban any advertising of prescription drugs directly to consumers.
+
+How is eliquis?
+
+ELIQUIS works by blocking Factor Xa, which is a blood clotting factor critical to the blood clotting process. By blocking Factor Xa, ELIQUIS lowers the chance of blood clots forming and decreases the risk of having a stroke in people with AFib.
+
+What were the two top advertised drugs in 2013 in the US?
+
+Eli Lilly's ($LLY) Cialis took over as the No. 1 spender while its chief competitor, Pfizer's ($PFE) Viagra, remained close by at No. 4. AbbVie's ($ABBV) Humira, which was the top spender in 2013, was one of the few that saw a decrease in spending, albeit minor, resulting in a drop to No.
+
+Can GoodRx be used for controlled substances?
+
+It is also important to understand that there are medications that GoodRx will not work for at all. This tool is designed to work the best with generic medications. It can work with some Brand Name medications, but not all. It also may not work with controlled substances (usually pain medications).
+
+What defines what drugs require a prescription?
+
+In the United States, the Federal Food, Drug, and Cosmetic Act defines what substances require a prescription for them to be dispensed by a pharmacy. The Controlled Substances Act (CSA) was enacted into law by the US Congress of the United States in 1970.
+
+
+Which country uses the most prescription drugs?
+
+In 1999, the 15% of the world's population who live in high-income countries purchased and consumed about 90% of total medicines, by value.
+
+Chapter 4. World pharmaceutical sales and consumption.
+CountryShare of generic medicines in total sales
+Uruguay61.5%
+Republic of Korea58.7%
+Argentina58.6%
+
+What percentage of TV is ads?
+
+82 percent of their viewing is to normal, linear, broadcast TV without fast-forwarding the ads. In the 18 percent of TV viewing that is time-shifted (i.e. not watched as live broadcast), viewers still watch 30 percent of the ads at normal speed.
+
+Who regulates drug prices?
+
+16. What can the FDA do about the cost of drugs? We understand that high drug prices have a direct impact on patients—too many American patients are priced out of the medicines they need. However, the FDA has no legal authority to investigate or control the prices set by manufacturers, distributors and retailers.
+
+When did they start advertising prescription drugs?
+
+She got the job, and the rest is history. On May 19, 1983, Boots aired the first broadcast television commercial in the United States for a prescription drug, the pain reliever Rufen. STAT has obtained a version of the ad and is posting part of it online for the first time.
+
+Why is prescription drug advertising good?
+
+But advertising drugs to consumers can potentially help inform the public about treatments for health conditions and, in this way, raise awareness and prevent illness and disease. By expanding treatment of particular diseases, drug advertising could have broader social benefits.
+
+
+What countries allow direct to consumer advertising pharmaceuticals?
+
+DTCPA can be defined as an effort (usually via popular media) made by a pharmaceutical company to promote its prescription products directly to patients. The U.S. and New Zealand are the only countries that allow DTCPA that includes product claims.
+<USER>

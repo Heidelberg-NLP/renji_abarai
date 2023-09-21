@@ -1,0 +1,165 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is cell phone radiation safe?
+Text: Mobile Cell Phone Radiation
+Advertisement
+
+Mobile Cell Phone Radiation
+
+Mobile phone radiation and health concerns have been raised, especially following the enormous increase in the use of wireless mobile telephony throughout the world. This is because cell phones use Electromagnetic radiation in the Microwave range. These concerns have induced a large body of research in animals and in humans.
+
+The mobile phone system is referred to as “cellular telephone system” because the coverage area is divided into “cells“ each of which has a base station antenna. Cell phones use Electromagnetic radiation in the Microwave range around 2.5 GHz range.
+
+Electromagnetic Frequency Spectrum
+
+When we talk on mobile phones, the transmitter takes the sound and encodes on to a continuous “sine wave”. The sine wave radiates out from the antenna and fluctuates evenly through space. Once the encoded sound has been placed on the sine wave, the transmitter sends the signal to the antenna which then sends the signal out. The encoded signals are made up of electromagnetic radiations. These waves are picked up by the receiver in the base station tower. The base station antenna emits radiations continuously to make a link with the subscribers.
+
+Mobile Tower and Base station
+
+Cell phone technology uses electromagnetic radiation in the Giga hertz range. These radiations are close to microwave range and with similar properties. Part of the radio wave emitted from the mobile phone is absorbed by the human head. The radiation emitted by a GSM handset can have a peak power of 2 watts.
+
+The rate at which radiation is absorbed by the human body is measured by the Specific Absorption Rate (SAR) and its maximum levels for modern handset is set between 1.6 to 2 W/Kg averaged for 1 gram tissue. If the SAR level is above the limit, it may cause both Thermal and Non thermal effects on the body especially on the ear and head since these are at the “Near Field” of the radiation. Thermal effect of microwave is the dielectric heating in which any dielectric material such as living tissue is heated by rotations of polar molecules such as water.
+
+In the case of a person using mobile handset for hours in a day, most of the heating effects will occur in the earpinna, internal ear, head surface and even in the brain. Internal ear has fluid filled structures which are more susceptible to heating effect. Brain tissue is delicate and there is blood-brain barrier system to eliminate excess heat generated.
+
+Some of the brain waves that determine mood and alertness resemble the mobile radiation in frequency. So that normal brain functions will be affected even in a few persons using cellphones continuously. Another structure that can be affected by heating is the cornea of the eye. It is the transparent covering on the front part of the eye. Cornea lacks blood supply, so that the heat generated can not be removed and may cause premature cataract. Non thermal effects include alterations in bio-cycles, cellular metabolism, spermatogenesis, abnormalities in foetal developments, miscarriage etc. Some users of mobile phones feel several unspecific symptoms during and after the use of mobile phones in the form of burning and tingling sensations, fatigue, sleep disturbances, dizziness, loss of mental concentration etc. All these may be due to the influence of the radiation on the biomagnetic field of the body.
+
+In short, biological effects of Mobile phone radiation can be summarized as
+
+THERMAL EFFECT
+
+Microwave causes “dielectric heating in the human body. Human tissue is rich in water and exhibit dielectric property (+ and – ve ions). Living tissue heat up through the rotation of polar molecules such as water. This friction causes heating of tissue. Head is in the “near field “ of radiation, so that most of the heating effect occurs in the head. Temperature in the internal ear, brain etc increases to 1 degree or more. This adversely affects the functioning of these organs since these have fluid filled cavities. In short Thermal effect causes
+
+  • Burning sensation in the Scalp and Ear pinna
+  • Mood alteration and lack of concentration
+  • Lethargy and lack of sleep
+  • Whistling sound in the ear
+  • Premature Cataract- Cornea of eye lacks blood supply and heat cannot be disposed
+  • Confusion and loss of memory since the microwaves interfere with the mood controlling brainwaves
+  • Alters sleep physiology and biological rhythm by changing the level of Dopamine, Serotonin hormones
+
+Role of Blood-Brain Barrier – BBB
+
+The blood vessels in the brain and the surrounding tissue form the BBB that can easily dispose heat. But prolonged heating effect can alter brain functions and hearing ability.
+
+Non Thermal Effects
+
+  • Increased cellular responses
+  • Leakage of Albumin from blood into the brain due to increased permeability of BBB
+
+Hearing impairments
+
+  • Heating effect in the fluid of internal ear
+  • Piercing sound from the speaker causes irritability in the ear drum and internal sensory cells of ear
+    Human ear is highly sensitive to waves between 1000 and 6000 Hz
+
+Sleep and EEG Effects
+
+  • Brain waves such as alpha beta ,delta waves will be affected when exposed to pulsed radiations
+
+Microwave Auditory Effect
+
+  • Clicks and Buzzing sound in the head
+  • Microwave induces electric current in the hearing centre of the brain and causes Auditory illusion
+  • This may happen if music is heard using ear phone or Bluetooth for long time
+  • The human ear has a peak sensitivity of 3000 Hz, which causes a sense of unease. Alarms and Mobile ring tones are designed to sound at 3000 Hz.
+  • The ear has a very low threshold of hearing for 3000 Hz. A sound of this frequency is very penetrating.
+
+Phantom Pain
+
+Pain in the ear without any specific reasons like infection.This may be due to increased stress on the delicate structures of the internal ear or ear drum by the radiation.
+
+Electromagnetic Hypersensiti-
+vity
+
+Unspecific symptoms during and after the use of cell phone
+
+Tingling sensation, fatigue, dizziness, loss of mental attention, reduction in reaction time, memory retentiveness, tachycardia etc.
+
+Precautions
+
+Mobile phone is an excellent communication device. Mobile radiation defects occur only if it is used for prolonged time. Controlled use for communication purpose is always safe. Mobile phones emitting radiation below 2 watts is completely safe. Still, precautionary measures are always good, even though there are fewer case studies in this matter. Try to consider mobile phone as a communication device and not an entertainment device. Even if you are not talking, cell phone is emitting strong signals to keep link with the base station having strongest signal.
+
+Consider some of the precautionary measures :
+
+  1. Do not use mobile phones more than 10 minutes continuously. During conversation, mobile phone will release bursts of energy to keep link with the strongest base station.
+  2. Try to use the mobile phone maximum one hour per day. If you want to use it more than this , use Bluetooth or Head phones.
+  3. Keep mobile phone away from bed while sleeping. It may affect your sleep physiology.
+  4. Don’t give mobile phone to children. Radiation hazard is more in children than adults.
+  5. Do not attend mobile phone while driving or operating machinery. It will increase the cognitive load and reduce the reaction time leading to accidents.
+  6. Do not use mobile phone near petrol outlet and LPG cylinder. The static electricity in the atmosphere may explode by accepting radiation from the mobile phone. This may cause fire.
+  7. Do not use mobile phone when it is connected to charger. Electricity problems may cause shock hazards.
+  8. Do not use mobile phone when there is lightning.
+  9. Do not over charge, mobile battery. It may reduce its life. Charge battery only when it’s charge level reduces below 40 percent.
+  10. Do not send unwanted images or texts through sms or mms. It is an offence.
+
+55 Comments
+
+Join the conversation!
+
+Error! Please fill all fields.
+
+  • Zaakiyah
+
+    I too am feeling these irritating pains and tingles from my cell phone. I recently went to the ER due to migraines and sound and light sensitivity. I was given a brain scan and the tech asked if I use my cell phone alot. The nurse bumped him and asked why he was asking that. When doctors came in I described my concern about cell phone and each denied any correlation and one even smiled slightly, said “no” and walked out. I think it would be so much more than fair to inform the people and seek ways to help rather than ignore it and give the impression that we a “crazy”.
+    The same doctor talked with my daughter and she now says I went to the ER due to “lack of attention”. I’m in pain while posting and dealing with it because I know that this is serious. Investigate, inform and address or does the money being justify your Ignore? IGNORANCE!!!
+
+  • vijay rathod
+
+    so can i join this job and i am continous BE barnch electronics
+
+  • vijay rathod
+
+    my 12th % is verry low
+
+  • Gihan Riyansi
+
+    A really helpful article!
+    Thank you!
+
+  • Bria Brooks
+
+    I’ve been looking for others who have experienced the tingling and burning sensations. It’s to the point when my eyes are starting to burn. Sometimes just being too close to my phone burns me. I don’t know if it’s because it’s a smart phone or because my battery is hot. I’m not sure what to do. I feel tingling through my whole body.
+
+    • Muhammad Amir
+
+      I’ve experienced the tingling and burning sensations. It’s to the point when my eyes are starting to burn & dry, Sometimes just being too close to my phone burns me & blood come out from mouth please help me which type of doctor I should concern
+
+  • John Williams
+<USER>

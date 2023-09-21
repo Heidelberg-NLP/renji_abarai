@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1FFzY4uO2cPDq4sKbpN0EjNgtnM",
+  "object": "chat.completion",
+  "created": 1687865637,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I'm not sure what you want me to do with this information. Can you please provide me with a question or statement that I can assist you with?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1233,
+    "completion_tokens": 35,
+    "total_tokens": 1268
+  }
+}

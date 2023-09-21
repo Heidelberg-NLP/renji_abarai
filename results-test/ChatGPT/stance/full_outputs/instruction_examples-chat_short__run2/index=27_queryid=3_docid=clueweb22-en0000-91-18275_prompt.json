@@ -1,0 +1,71 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should insider trading allow
+Text: IPO Insights: Insider Trading Policies
+
+IPO Insights: Insider Trading Policies
+
+Unlawful insider trading has historically been, and continues to be, a focus of the SEC and DOJ
+
+While there are no SEC rules or regulations requiring that public companies have insider trading policies, most public companies adopt such policies and procedures to prevent and detect unlawful trading by directors, executive officers and employees, or insiders. These policies typically provide that trading by insiders take place during certain pre-established “open trading windows,” and that such trading is prohibited during pre-established “blackout periods,” with the goal being to minimize the likelihood that unlawful insider trading will occur and to provide companies with a good faith defense against insider liability for the actions of their employees.
+
+What Is Unlawful Insider Trading?
+
+Rule 10b‑5 under the Exchange Act in effect provides that anyone who possesses “material nonpublic information” regarding the company abstain from trading in company securities, for as long as such material nonpublic information remains undisclosed. Determining what information is “material” is often difficult, but the basic test is whether it is information a reasonable investor would consider important in determining whether to purchase or sell securities.
+
+Company Liability for Insider Trading
+
+Government and private actions alleging insider trading have targeted not only individual violators, but companies as well for trading by their directors, executive officers and employees. Companies may be the target of insider trading charges if, among other reasons, a person “controlled” by the company engages in unlawful insider trading or the company “aids and abets” insider trading.
+
+Scope and Content of Insider Trading Policies
+
+The scope and content of a company’s insider trading policy will vary depending on a number of factors, including size, maturity, number of employees and the trading market for the company’s securities, and should be adapted to fit a company’s particular facts and circumstances. A brief policy highlighting key principles may be enough for some companies, while a more robust policy with detailed procedures may be more suitable for others. A company may also embed its insider trading policy within its code of conduct rather than adopt a stand-alone insider trading policy, which is becoming an increasingly common practice.
+
+The policy should include an overview or statement of purpose that contains a “plain English” definition or explanation of what constitutes insider trading. This section should also provide guidance on what “materiality” and “non-public” mean, concepts that are fundamental to an understanding of insider trading. Consider using examples to aid in setting forth these definitions.
+
+  • Who will be subject to the policy? A policy’s general prohibition of insider trading while possessing material nonpublic information applies to all employees, as well as the board of directors. The policy’s blackout periods and pre-clearance procedures should apply, at a minimum, to all executive officers and directors of the company, as well as any individuals below the executive level who may have access to sensitive financial information prior to its public release (e.g. finance and accounting staff). For new public companies with a relatively small number of employees, it may be appropriate for the blackout periods and pre-clearance procedures to cover all employees. The policy should also extend to trades made by close family members and others sharing the household of covered persons. The company may also want to consider whether its consultants should be covered by the policy.
+  • Who will be subject to pre-clearance rules? Most public companies require that the covered persons discussed above, primarily consisting of executive officers and directors, “pre-clear” trades with a designated compliance officer. This protects the covered persons from executing a trade during a period that would otherwise be an open trading window, but in which there is a material undisclosed transaction.
+  • What blackout period is appropriate? The extent of the blackout period varies by industry, but is generally tied to the period in which insiders might be expected to know the quarterly financial results. A typical blackout period might extend from the first day of the last month of the quarter until two trading days after the public release of the earnings information.
+
+Once an insider trading policy is in place, it is recommended that companies develop onboarding and ongoing training programs to provide education regarding insider training and the company’s policy. The company should also task someone, likely someone in the legal department or a compliance officer, with administering the policy and should also identify a back-up contact in case the primary contact is unavailable. These final steps are integral to enforcement of a company’s insider trading policy.
+
+Orrick is passionate about entrepreneurship and shaping the long–term success of our clients.  We advise public and private companies throughout the world on all aspects of their business and at every stage of their development and growth.  Leading companies and investment banks turn to us for guidance and support in meeting their strategic objectives and navigating the capital raising environment—from the standard to the most innovative and complex—including initial public offerings and other public equity and debt transactions.  With 1,100 lawyers based in key markets worldwide, our global platform allows us to meet the needs of our clients wherever they do business.
+
+ Sign up for IPO news and resources
+<USER>

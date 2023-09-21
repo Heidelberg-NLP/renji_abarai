@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0i1Qfgdeh7IjAdgsCgDSbWvxFVD",
+  "object": "chat.completion",
+  "created": 1687863577,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to be a neutral presentation of the debate regarding whether abortion should be legal or illegal. It does not appear to take a stance on either side of the argument. Therefore, I would label this as \"neutral\" instead of \"high\", \"medium\", or \"low\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1446,
+    "completion_tokens": 57,
+    "total_tokens": 1503
+  }
+}

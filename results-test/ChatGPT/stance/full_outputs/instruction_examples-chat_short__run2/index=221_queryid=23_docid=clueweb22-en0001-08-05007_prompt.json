@@ -1,0 +1,109 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should euthanasia physician - assist suicide legal
+Text: Should Euthanasia Or Physician Assisted Suicide Be Legal Philosophy Essay
+
+Disclaimer: This is an example of a student written essay.
+Click here for sample essays written by our professional writers.
+
+Any opinions, findings, conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of UKEssays.com.
+
+Should Euthanasia Or Physician Assisted Suicide Be Legal Philosophy Essay
+
+Paper Type: Free EssaySubject: Philosophy
+Wordcount: 1148 wordsPublished: 1st Jan 2015
+
+Reference this
+
+Euthanasia is one of the biggest controversies in our time and has become a major issue in today’s society. This debate isn’t about letting people die naturally at all, we have always had that right but it is about giving the doctors the right to kill their patients. Euthanasia is mainly about letting other people such as lawyers, doctors, and even family members determine whether who should die and who should live. Euthanasia is the practice or act of ending the life of an individual suffering from a terminal illness or an incurable condition. Euthanasia or physician assisted suicide should not be legal. It is an unethical option.
+
+Get Help With Your Essay
+
+If you need assistance with writing your essay, our professional essay writing service is here to help!
+
+Essay Writing Service
+
+Rushing the death of a person by changing some form of support and letting nature take its course or stopping a treatment that will cause the person to finally die is what’s known as passive euthanasia. Doing something, such as administering a lethal drug to cause a person’s death is what active euthanasia is mainly about. Passive and active euthanasia are extremely different. Voluntary and involuntary euthanasia are also different types of euthanasia. In voluntary euthanasia the patients are the ones who request to end their lives or stop being given a treatment. In involuntary euthanasia the patients are unaware about the fact that their lives are about to become terminated. Which means that the person has no clue as to what’s going on because they are either unable to communicate, unconscious, or too ill and weak to know what’s happening.
+
+Assisted suicide is very similar to euthanasia but instead a patient is given drugs or something that ends their lives but the doctor doesn’t do the action of killing the patient. If a doctor gives you a hypodermic needle or a couple of drugs that can end your life but doesn’t necessarily inject you with the needle or make you take the pills than that is what you call assisted suicide.
+
+Making dying and sick people’s lives as comfortable and pain free as possible is not what Euthanasia is about that is what’s known as palliative care which is improving consistently. Putting more funds into really good palliative care programs is what our governments need to do, and patients and doctors and nurses need to be more educated about what palliative care is about.
+
+As Pastor Andrew Lansdown explains, “Euthanasia has little to do with refusing futile or extreme treatment. The man who rejects a heart transplant or declines a third bout of chemotherapy is not committing suicide, but rather is accepting the inevitability of his own death. The doctor who withholds or withdraws undue treatment at the request of a terminally ill patient is not killing his patient but rather is refusing to prolong his patients’ life at any cost. Properly understood, euthanasia involves an intentional act to end a person’s life. Opponents of euthanasia do not advocate the unnecessary and unwelcome prolonging of human life by artificial means. Rather, they oppose active measures to bring human life to a premature end.”
+
+There are plenty of doctors who believe that the pain and suffering that several of these patients go through can be controlled. In the area of palliative care, medical advances are making pain control more and more successful and which has always been a good part of medicine. Any person who is temporarily disabled by illness or injury goes through a period of depression, and depressed people may not make wise decisions.
+
+People who are against euthanasia believe that we who value life overall will continue to reject euthanasia. Doctors who respect the value of life will prefer to take away the suffering in a patient, but not to eliminate the patient who suffers. When we permit euthanasia, the sick and elderly cannot be confident that doctors will treat them rather than terminate them. The sick and suffering people need comfort and assurance, not anxiety and fear as to what their doctors might do with them.
+
+Find Out How UKEssays.com Can Help You!
+
+Our academic experts are ready and waiting to assist with any writing project you may have. From simple essay plans, through to full dissertations, you can guarantee we have a service perfectly matched to your needs.
+
+View our services
+
+As Pastor Andrew Lansdown recently said, we have become “a culture of death”. Not only euthanasia being the reason of this situation but also abortion and infanticide. Questions are asked by terminally ill patients who want to end their lives such as, “Isn’t committing suicide a “right?” “Isn’t it my body, and my right?” This is just like saying that it is a “right” to use and sell cocaine or heroin. This isn’t true. It may be legal to commit suicide but it isn’t a right. Many people wonder that if euthanasia or physician assisted suicide is ethically and morally wrong. You are given your body and soul as a gift. As a gift to you that shouldn’t be taken away so easily. A person who values life and who is self-respecting would not give up their life this easily.
+
+Many people believe that by legalizing physician assisted suicide or euthanasia will cause a “slippery slope”. Meaning that if they allow physician assisted suicide and/or euthanasia it will be allowed in other situations such as on those who have chronic illnesses, those who are disabled, those who are clinically depressed or just those who are elderly. Psychiatrist and executive director of American Foundation for Suicide Prevention, Herbert Hendin, fears that physician assisted suicide will be extended to those who aren’t terminally ill.
+
+“Online Talk, Suicides and a Thorny Court Case”, is the title of the article that was just recently published in the New York Times. This article was about a “nurse” who had conversations over the internet with people who were thinking about committing suicide. This nurse told people that it was ok to let go, and that they would be better off in heaven, then soon after they entered into suicide pacts with others. But the police say the nurse, who claimed to be a nurse and described herself as a young woman named Cami was actually a 47 year old man who was also a husband and a father from Faribault, Minn. named William F. Melhert-Dinkel. Mr. Melchert- Dinkel who was a licensed nurse told investigators that he had encouraged about a dozen of people to kill themselves. He was not sure of how many had succeeded. And for those who counsel people who are against suicide, this points to a growing area of worry, a world online where the most vulnerable and isolated people might be affected and/or touched in a way that they would not have had in the past.
+
+The International Task Force on Euthanasia and Assisted Suicide once stated, “Laws against euthanasia and assisted suicide are in place to prevent abuse and to protect people from unscrupulous doctors and others. They are not, and never have been, intended to make anyone suffer.”
+
+ 
+
+Cite This Work
+
+To export a reference to this article please select a referencing stye below:
+
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+
+Related Services
+
+View all
+
+DMCA / Removal Request
+
+If you are the original writer of this essay and no longer wish to have your work published on UKEssays.com then please:
+<USER>

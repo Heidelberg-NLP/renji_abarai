@@ -1,0 +1,99 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+How Much Does Human Activity Affect Climate Change? | National Center for Science Education
+
+How Much Does Human Activity Affect Climate Change?
+
+The Earth’s climate is changing rapidly. Scientists trying to find out what’s causing climate change work like detectives, gathering evidence to rule out some suspects and to ascertain just who is responsible. It’s clear, based on over a century of scientific investigation, that humans are responsible for most of the climate change we’ve seen over the last 150 years.
+
+Humans are not the only suspects. The climate has changed throughout the Earth’s history, well before humans evolved. The Sun is the primary driver of the climate. Roughly speaking, global temperatures rise when more energy from the Sun enters the atmosphere than returns to space through the atmosphere. The climate cools any time more energy returns to space than comes in from the Sun. While humans can influence that balance, other factors, from continental drift and changes in the shape of the Earth’s orbit to variations in the Sun’s activity and phenomena like El Niño, can all influence the climate. Considering the pace of climate change today, scientists can rule out most of those suspects: some happen too slowly to explain current climate change, while others move in small cycles, not long trends, and others only influence the climate in part of the planet. Scientists know about these factors and can account for them when assessing human-caused climate change.
+
+The potential for human beings to alter climate was first proposed over a century ago, building on research in the 1850s by John Tyndall. Light from the Sun warms the Earth’s surface, which then gives off energy as infrared radiation, the heat you feel from asphalt on a sunny day. Greenhouse gases such as water vapor and carbon dioxide (CO2), absorb this radiating energy, heating the atmosphere and the surface. This process results in the Earth’s temperature being warmer than it would if it were heated only by direct sunlight.
+
+For over 100 years, scientists have regarded humans as the prime suspect in current climate changes. Around the turn of the 20th century, Svante Arrhenius was the first to suggest that people could, through the burning of coal, increase the amount of greenhouse gases in the atmosphere and amplify the natural warming effect, thereby causing the atmosphere to warm more than it would through strictly natural processes.
+
+When humans burn gasoline, coal, natural gas, and other common fuels to make electricity or drive cars, they release a substantial amount of carbon dioxide into the atmosphere. For every gallon (or liter) of gasoline your car burns, 1300 times that volume of CO2 is released (a gallon of gas weighs about 6 pounds or 2.8 kilograms, but the released CO2 would weigh over 19 pounds or 8.75 kilograms). Greenhouse gases are emitted from power plants and cars, but also from landfills, from farms and cleared forests, and through other subtle processes. An interactive map from the Environmental Protection Agency shows US sources of key greenhouse gases. The World Resources Institute cataloged (PDF) global sources of greenhouse gases in 2005.
+
+In the 1950s, scientists began methodically measuring global increases in carbon dioxide. Since then they’ve been able to confirm that the increase has been caused primarily from the burning of fossil fuels (and through other human activities, such as clearing land, as well). This increase, and changes in the type of CO2 being added to the atmosphere provide the “smoking gun” that shows that humans are responsible for the increased levels of carbon dioxide in the atmosphere.
+
+Modeling the Climate System
+
+To clinch the case that climate change is mostly caused by humans, scientists had to take into account other factors: complicated atmospheric physics, the interactions between air and land and between air and water, changing amounts of ice and of desert and forest, and the natural processes that have changed the climate for 4.54 billion years. To do all this, scientists recreate the crime scene. Because there’s only one Earth, they do that with computers. Climate scientists use powerful computers to construct models based on physics of the climate system. These models enable scientists to make predictions and test hypotheses about what processes affect the climate.
+
+In constructing such models, climate scientists start with basic science: thermodynamic principles, orbital dynamics, interactions between infrared radiation and carbon dioxide and other gases, and other such factors influencing the basic balance of heat entering and leaving the atmosphere. They combine these with actual measurements of data, such as the current concentration of greenhouse gases in the atmosphere. And they test hypotheses about which processes affect which phenomena. They can then see what the resultant models predict about the climate system. When the predictions match observations, it counts as a confirmation of the model and its underlying assumptions. When the predictions diverge from what is observed, climate scientists revise their hypotheses. By such a trial-and-error process, they are able to ensure that their hypotheses become more and more accurate and reliable.
+
+Such models can be applied to the Earth as a whole or to different regions of the planet. To see how climate change affects different parts of the Earth, climate scientists break the models down into smaller pieces, calculate how small parts of the Earth’s surface react to the Sun and greenhouse gases, and then connect those small parts together, based on measurements of how the atmosphere and ocean interact. To ensure the accuracy of the models at projecting future climate trends, the models are often run backwards in time to “retrodict” past climate changes, and then compared with paleoclimate observations. The models through this process have become remarkably accurate and give the climate research community confidence that the future projections are robust.
+
+Scientists can do experiments with these models that they can’t do on the planet. They can set the atmosphere to match conditions a century ago, and see whether the model’s predictions match what scientists measured at the time. And they can set the models to match conditions millions of years ago, to better understand how past climate changed. This allows them to verify that the models are accurate and to fine-tune the output. They can also remove the effects of human activities from the models, and see how much of the climate change they observe is still predicted by the models. These models, which are carefully vetted by other experts, agree that human activities, especially the burning of fossil fuels and resulting release of carbon dioxide into the atmosphere, are now substantially altering the planet’s climate, as summarized by the Intergovernmental Panel on Climate Change. In many different sorts of climate models, from teams competing to produce the models that most accurately predict past climates, the consistent result is that humans are producing most of the climate change that we've observed in the last century. One recent analysis, reported in Scientific American, estimated that at least three quarters of climate change since 1950 is due to human activities.
+
+The links below provide more detail on how we know humans are causing climate change. Or continue to the next section to find out How will climate change affect the world and our society?
+
+Further reading
+
+230 Grand Avenue, Suite 101
+Oakland, CA 94610
+
+510-601-7203 info@ncse.ngo membership@ncse.ngo
+
+National Center for Science Education (NCSE) is a 501(c)(3) tax-exempt organization, EIN 11-2656357. NCSE is supported by individuals, foundations, and scientific societies. Review our annual audited financial statements and IRS 990 forms at GuideStar.
+
+© Copyright 2020 National Center for Science Education. Privacy Policy and Disclaimer | Disclosures Required by State Law
+<USER>

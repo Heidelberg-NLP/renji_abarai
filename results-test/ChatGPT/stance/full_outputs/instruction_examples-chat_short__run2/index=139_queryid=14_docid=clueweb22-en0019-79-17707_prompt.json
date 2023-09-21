@@ -1,0 +1,76 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: sexual orientation determine birth
+Text: Biology and sexual orientation
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+The relationship between biology and sexual orientation is a subject of research. While scientists do not know the exact cause of sexual orientation, they theorize that it is caused by a complex interplay of genetic, hormonal, and environmental influences.[1][2][3] Hypotheses for the impact of the post-natal social environment on sexual orientation, however, are weak, especially for males.[4]
+
+Biological theories for explaining the causes of sexual orientation are favored by scientists.[1] These factors, which may be related to the development of a sexual orientation, include genes, the early uterine environment (such as prenatal hormones), and brain structure.
+
+Scientific research and studies[edit]
+
+Fetal development and hormones[edit]
+
+The influence of hormones on the developing fetus has been the most influential causal hypothesis of the development of sexual orientation.[5][6] In simple terms, the developing fetal brain begins in a "female" typical state. The presence of the Y-chromosome in males prompts the development of testes, which release testosterone, the primary androgen receptor-activating hormone, to masculinize the fetus and fetal brain. This masculinizing effect pushes males towards male typical brain structures, and most of the time, attraction to females. It has been hypothesized that gay men may have been exposed to little testosterone in key regions of the brain, or had different levels of receptivity to its masculinizing effects, or experienced fluctuations at critical times. In women, it is hypothesized that high levels of exposure to testosterone in key regions may increase likelihood of same sex attraction.[5] Supporting this are studies of the finger digit ratio of the right hand, which is a robust marker of prenatal testosterone exposure. Lesbians on average, have significantly more masculine digit ratios, a finding which has been replicated numerous times in studies cross-culturally.[7] While direct effects are hard to measure for ethical reasons, animal experiments where scientists manipulate exposure to sex hormones during gestation can also induce lifelong male-typical behavior and mounting in female animals, and female-typical behavior in male animals.[5][7][6][8]
+
+Maternal immune responses during fetal development are strongly demonstrated as causing male homosexuality and bisexuality.[9] Research since the 1990s has demonstrated that the more male sons a woman has, there is a higher chance of later born sons being gay. During pregnancy, male cells enter a mother's bloodstream, which are foreign to her immune system. In response, she develops antibodies to neutralize them. These antibodies are then released on future male foetuses and may neutralize Y-linked antigens, which play a role in brain masculinization, leaving areas of the brain responsible for sexual attraction in the female-typical position, or attracted to men. The more sons a mother has will increase the levels of these antibodies, thus creating the observed fraternal birth order effect. Biochemical evidence to support this effect was confirmed in a lab study in 2017, finding that mothers with a gay son, particularly those with older brothers, had heightened levels of antibodies to the NLGN4Y Y-protein than mothers with heterosexual sons.[9][10] J. Michael Bailey has described maternal immune responses as "causal" of male homosexuality.[11] This effect is estimated to account for between 15 and 29% of gay men, while other gay and bisexual men are thought to owe sexual orientation to genetic and hormonal interactions.[12][9]
+
+Socialization theories, which were dominant in the 1900s, favored the idea that children were born "undifferentiated" and were socialized into gender roles and sexual orientation. This led to medical experiments in which newborn and infant boys were surgically reassigned into girls after accidents such as botched circumcisions. These males were then reared and raised as females without telling the boys, which, contrary to expectations, did not make them feminine nor attracted to men. All published cases providing sexual orientation grew up to be strongly attracted to women. The failure of these experiments demonstrate that socialization effects does not induce feminine type behavior in males, nor make them attracted to men, and that the organizational effects of hormones on the fetal brain prior to birth have permanent effects. These are indicative of 'nature', not nurture, at least with regards to male sexual orientation.[5]
+
+The sexually dimorphic nucleus of the preoptic area (SDN-POA) is a key region of the brain which differs between males and females in humans and a number of mammals (e.g., sheep/rams, mice, rats), and is caused by sex differences in hormone exposure.[5][7] The INAH-3 region is bigger in males than in females, and is thought to be a critical region in sexual behavior. Dissection studies found that gay men had significantly smaller sized INAH-3 than heterosexual males, which is shifted in the female typical direction, a finding first demonstrated by neuroscientist Simon LeVay, which has been replicated.[7] Dissection studies are rare, however, due to lack of funding and brain samples.[5]
+
+Long-term studies of domesticated sheep led by Charles Roselli have found that 6-8% of rams have a homosexual preference through their life. Dissection of ram brains also found a similar smaller (feminized) structure in homosexually oriented rams compared to heterosexually oriented rams in the equivalent brain region to the human SDN, the ovine sexually dimorphic nucleus (oSDN).[13] The size of the sheep oSDN has also been demonstrated to be formed in utero, rather than postnatally, underscoring the role of prenatal hormones in masculinization of the brain for sexual attraction.[8][5]
+
+Other studies in humans have relied on brain imaging technology, such as research led by Ivanka Savic which compared hemispheres of the brain. This research found that straight men had right hemispheres 2% larger than the left, described as modest but "highly significant difference" by LeVay. In heterosexual women, the two hemispheres were the same size. In gay men, the two hemispheres were also the same size, or sex atypical, while in lesbians, the right hemispheres were slightly larger than the left, indicating a small shift in the male direction.[14]
+
+A model proposed by evolutionary geneticist William R. Rice argues that a misexpressed epigenetic modifier of testosterone sensitivity or insensitivity that affected development of the brain can explain homosexuality, and can best explain twin discordance.[15] Rice et al. propose that these epimarks normally canalize sexual development, preventing intersex conditions in most of the population, but sometimes failing to erase across generations and causing reversed sexual preference.[15] On grounds of evolutionary plausibility, Gavrilets, Friberg and Rice argue that all mechanisms for exclusive homosexual orientations likely trace back to their epigenetic model.[16] Testing this hypothesis is possible with current stem cell technology.[17]
+
+Genetic influences[edit]
+
+Multiple genes have been found to play a role in sexual orientation. Scientists caution that many people misconstrue the meanings of genetic and environmental.[4] Environmental influence does not automatically imply that the social environment influences or contributes to the development of sexual orientation. Hypotheses for the impact of the post-natal social environment on sexual orientation are weak, especially for males.[4] There is, however, a vast non-social environment that is non-genetic yet still biological, such as prenatal development, that likely helps shape sexual orientation.[4]: 76 
+
+Twin studies[edit]
+
+Identical twins are more likely to have the same sexual orientation than non-identical twins. This indicates that genes have some influence on sexual orientation; however, scientists have found evidence that other events in the womb play a role. Twins may have separate amniotic sacs and placentas, resulting in different exposure and timing of hormones.
+
+A number of twin studies have attempted to compare the relative importance of genetics and environment in the determination of sexual orientation. In a 1991 study, Bailey and Pillard conducted a study of male twins recruited from "homophile publications", and found that 52% of monozygotic (MZ) brothers (of whom 59 were questioned) and 22% of the dizygotic (DZ) twins were concordant for homosexuality.[18] 'MZ' indicates identical twins with the same sets of genes and 'DZ' indicates fraternal twins where genes are mixed to an extent similar to that of non-twin siblings. In a study of 61 pairs of twins, researchers found among their mostly male subjects a concordance rate for homosexuality of 66% among monozygotic twins and a 30% one among dizygotic twins.[19] In 2000, Bailey, Dunne and Martin studied a larger sample of 4,901 Australian twins but reported less than half the level of concordance.[20] They found 20% concordance in the male identical or MZ twins and 24% concordance for the female identical or MZ twins. Self reported zygosity, sexual attraction, fantasy and behaviours were assessed by questionnaire and zygosity was serologically checked when in doubt. Other researchers support biological causes for both men and women's sexual orientation.[21]
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2u5EE0hdMga5ZYxI9tgA34kELml",
+  "object": "chat.completion",
+  "created": 1683105453,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2806,
+    "completion_tokens": 35,
+    "total_tokens": 2841
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The given text presents a neutral stance towards the issue of universal basic income and mainly focuses on providing information, hence, it cannot be classified under any of the rhetorical quality labels."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

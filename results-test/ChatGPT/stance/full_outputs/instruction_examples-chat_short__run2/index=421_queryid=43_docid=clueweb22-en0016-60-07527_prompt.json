@@ -1,0 +1,258 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should bottle water ban
+Text: Should plastic water bottles be banned? - Debating Europe
+
+By continuing to use this website, you consent to the use of cookies on your device as described in our Privacy Policy unless you have disabled them. You can change your cookie settings at any time but parts of our site will not function correctly without them.
+
+Should we stop drinking bottled water? Tap water is clean, cheap, and readily-available (not to mention much better for the environment), yet sales of bottled water have been increasing globally. By 2017, humans worldwide were buying one million plastic bottles per minute, with total annual plastic bottle consumption set to reach half-a-trillion by 2021. Clearly, this isn’t sustainable.
+
+What do our readers think? We had a comment sent in from Vera, who thinks the EU should do more to limit the use of single-use plastics such as plastic cutlery and plastic water bottles. Is she right?
+
+To get a response, we spoke to Laure Cucuron, General Manager of TerraCycle Europe, a company that makes consumer products from recycled waste. What would she say?
+
+Yes, of course I agree. However I think that, although [policies limiting the use of plastic bottles and cutlery] are very important, they are still quite symbolic; which means that, in terms of volume (and compared to the volume of single-use plastic packaging that are used in different industries), they are not going to solve the issue. So, I think it’s good to have progress on this, and it’s something we need to encourage, but I also think we need to rethink the current single-use model and try to find a solution at the root of the problem. So, I do agree, but I think we could do more and do it quicker.
+
+Next up, we had a more sceptical comment from James, who says he massively prefers plastic bottles over glass, because “glass weighs more and can be broken easily”.
+
+To get a response to James’ comment, we spoke to André Abreu, Director of International Political Relations at the Tara Océan Foundation, an organisation that campaigns to raise awareness about the impact of climate change and pollution on the world’s oceans. What would he say to James?
+
+Should plastic water bottles be banned? Or are glass bottles even less sustainable because of the amount of energy they take to manufacture and transport? Should we instead rethink our entire “single use” model? Let us know your thoughts and comments in the form below and we’ll take them to policymakers and experts for their reactions!
+
+IMAGE CREDITS: (cc) Flickr – rey perezoso
+
+
+
+192 comments Post a commentcomment
+
+What do YOU think?
+
+  1. avatar
+    José António Garcia Ferreira de Almeida
+
+    Plastic bottles should not be banned because they are light and practical, however, a process of recovery of this lost tare with a tax benefit or discount voucher for consumers should be implemented in order to serve as an incentive for the collection and subsequent submission to an industrial recycling process.
+
+    • avatar
+      Jack
+
+      defenetly. I agree with you José, only for plastic bottles made with bio degradable plastic or already recycled one
+
+    • avatar
+      Stefania
+
+      Once Recycled I don’t think it’s a good thing for drinks. Food stuff must guarantee health. Recycle Plastic Bottles to do other things that aren’t about food. Maybe for cleaning detergents of the house or body.
+
+    • avatar
+      Anonymous
+
+      yes we shood dand plastic water bottels sk sk sk save the tartls
+
+  2. avatar
+    Indie
+
+    Governments should start increasing fines/punishments for littering, fly tipping, etc depending
+
+    Here’s an example
+
+    Paper cup ? Slap on the wrist.
+
+    Cigarette butt ? Pick it up, and dispose of in ash tray.
+
+    Water bottle or close enough ? 3 life sentences
+
+    Whole bag full of trash disposed of elsewhere other than your property ? Death sentence
+
+    That’ll show them!
+
+  3. avatar
+    Ras
+
+    We already have a solution that works and everyone should enforce: Bottle deposit fees and convenient return points in store.
+
+    Plastic makes sense for some uses like carrying liquids, but their environmental impact should not be ignored. Moreover, deposits also tackle the negative impact of substitutes like glass and aluminium cans which can be recycled too.
+
+    Because of deposits and convenient return points, Norway recycles 97% and Finland 95% of bottles. Lots of countries do deposits but fall short because it is not convenient to return them or the deposit doesn’t is too small.
+
+    From an environmental standpoint incentivizing recycling also tackles emissions head-on, as recycled bottles and cans for new products also only uses 5-20% of the energy compared to creating bottles and cans from virgin material.
+
+  4. avatar
+    Angie
+
+    Many agricultural areas (and those areas are usually in the south) have ruined the water table with decades of pesticides which are now banned etc. Now this water gets cleaned with bleach, as others have commented, but its within the safe limits. I have stopped drinking tap water since I was a kid. We buy plastic water bottles for years. You can’t go pass the taste. It tastes bad. You can see how harsh the water is by the build up of water scales in everything (kettles, washing machine, etc) the water is too harsh and in fact at the back of the cloth detergants it’s advised to add more when washing which means there is more detergant to the system, and so on.
+
+  5. avatar
+    Blau
+
+    Banned no, taxed yes. Tax appropriate for the cost of cleaning them up and recycling.
+
+  6. avatar
+    Bana
+
+    If they do ban the plastic bottles what are they going to put the water in when they sell it?
+
+    • avatar
+      Lloyd
+
+      A recyclable box.
+
+    • avatar
+      Cole
+
+      Get it out of a tap in a reusable bottle.
+
+  7. avatar
+    Sarah
+
+    Maybe start giving money on small plastic bottles
+
+  8. avatar
+    Wes
+
+    90% of plastic polluting our oceans comes from just 10 rivers
+    hint: it’s not the Danube or Rhine
+
+    • avatar
+      Kameron
+
+      How is that dumb?
+
+    • avatar
+      jonah
+
+      what the heck
+
+  9. avatar
+    Kyriakos
+
+    Yes, there are many fully recycled alternatives, such as aluminum cans.
+
+  10. avatar
+    Antonio
+
+    F*** yes.
+    It should be more common to have public fountains around towns or it could be a nice idea to detax water filters from VAT.
+
+  11. avatar
+    Sonya
+
+    Plastic bottles should to be banned in bars, restaurants and all kind of eating establishments.
+
+  12. avatar
+    Vladislav
+
+    Banning plastic would do more harm than good to the enviroment
+
+    • avatar
+      Lynn
+
+      what about a reusable one you fill from the tap??
+
+  13. avatar
+    Stefania
+
+    Any drink preserved in the glass bottle is better than plastic but plastic is not only more comfortable but in some cases it is advisable and mandatory. In the pool for example glass bottles can’t enter are dangerous. What do you do not drink Plastic must be recycled. Now the releases is implemented everywhere
+
+  14. avatar
+    Michail
+
+    No. But severe penalties should be inducted for persons dumping garbage at random and fines for entire districts for failing to recycle plastic trash.
+
+    • avatar
+      Stefania
+
+      The fine serves for little. Right now we don’t need fines because people for the releases pay. Who Recicla should not only be free but encouraged as it was a prize for doing a good thing for the environment. Fine no but free releases (or paid) yes as it used to be. When I was a child with the reviclo we bought the musical instruments for the community We were incentives to do it This way people don’t pollute the environment
+
+    • avatar
+      no name
+
+      no it wouldnt
+
+    • avatar
+      Michail
+
+      What would you replace it with?
+
+    • avatar
+      Павел
+
+      Michail – Go for glass, return policy with massive promotion campaign. Will take couple of years but it will eventually work.
+
+    • avatar
+      Michail
+
+      Glass has to be washed before reused. The washing agents contain microplastic and pose a lot more danger to the environment,than the ordinary polymers,which could be gathered and recycled. Ought to be gathered & recycled.
+
+    • avatar
+      Павел
+
+      Michail – Agreed, however I am pretty sure if corporations can come up with something like AI they can also come up with washing agents that don’t contain microplastic as mentioned by you. Also glass is safer and people friendly in terms of storing liquids at different temperatures.
+
+    • avatar
+      Michail
+
+      They can also found a bio-degradable plastic. But it will take time. Time we have less’n less. The bans won’t solve the problem, the recycling will.
+
+    • avatar
+      Michail
+
+      The only lasting solution would be sanctions on imports from states,which neglect recycling. And not ban on plastic in Europe. Because it isn’t Europe the primary contributer for the plastic trash in the world ocean. Far East is.
+
+    • avatar
+      Павел
+
+      Michail – I beg to differ, plastic pouring in from the Far East is either from EU factories based there or by demand of EU companies.
+
+    • avatar
+      Michail
+
+      Or rather American ones
+
+  15. avatar
+    Павел
+
+    With the massive funds they have they can achieve anything if they have the will. I’d say we settle for a combination of massive fines the money from which go towards recycling implementation procedures on global scale. I will laos argue that ban will also work, imagine Cocal-Cola banned for selling its products in Germany for a Year, wouldn’t they run to change things for the better? ;)
+
+    • avatar
+      Michail
+
+      I’d bet Germany isn’t the largest market for Coca-Cola. Any ban on them will just make them relicate their factories to a Third World country,where they can buy the government off and carry on with their business unhindered by fines or lawsuits. The aftermath would be loss of jobs in Germany. Many large corporations do that.
+
+  16. avatar
+    Bódis
+<USER>

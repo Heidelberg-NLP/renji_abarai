@@ -1,0 +1,76 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should performance - enhance drug accept sport
+Text: 582 Words Essay on Performance Enhancing Drugs in Sports
+­
+
+582 Words Essay on Performance Enhancing Drugs in Sports
+
+ADVERTISEMENTS:
+
+Performance enhancing drugs in sports has become a controversial issue in today’s professional sports world, as pros and cons are discussed in the media and among Professional organizations. Today’s athletes continue to push the boundaries of excellence in performance and physical fitness. Helping these athletes are more refined training methods and technologies.
+
+Never have athletes had more training aids at their disposal. The down side is that never before have athletes had more opportunities to cheat mainly through the use of performance enhancing drugs.
+
+Sport enhancing drug used by athletes to enhance performance include Steroids, Amphetamines, Stimulants, Peptide Hormones, Human growth Hormone, and Insulin. Steroids and performance enhancing drugs are used by today’s athletes to increase the testosterone production in the body. These drugs work by stimulating muscle growth and muscle development.
+
+ADVERTISEMENTS:
+
+Athletes also seek this effect through the use of over the counter substances such as cretin, androstenedione, and erythropoietin especially at the high school level. These drugs do have some medical uses, but are carefully controlled when used for medical reasons, and are illegal unless used in accordance with a prescription.
+
+The pros of using sports enhancing drugs include; physical enhancement, bigger body mass, improves strength and endurance, improved performance. Steroids increase muscle mass and strength which helps athletes recover quicker from injuries.
+
+The cons of using sports enhancing drugs include negative physical side effects. All of the physical side effects can present very serious medical issues. Males are subject to hair loss, acne and liver cancer which can be a life threatening disease. Females are exposed to growth of body and facial hair and they are also liable to contract deepening of the voice. Gaining that little bit of competitiveness can lead to greater increases in performance but may affect an athletes overall health.
+
+Performance enhancing drugs are on the rise in high schools. Athletes hear about the pros using the drugs and they see the difference it makes, but what they don’t know or don’t care about are the long term effects. The effects on teenagers are similar to the effects on adults. If a teenager starts out using at this young age and constantly uses, they will never be able to stop because of the addictiveness the drug has on them.
+
+ADVERTISEMENTS:
+
+Pressure placed on athletes to perform better. The fierce competitive nature of the modern sports’ world, in combination with society’s demand for excellence, has caused athletes to seek alternative means to enhance their performance. Today’s athlete faces an increasingly difficult choice: to use drugs to enhance performance or to accept what could amount to a competitive handicap.
+
+It is a choice, which carries significant ethical considerations. Should athletes be permitted to make this choice, or should society, through the sports’ governing bodies strictly enforce the ban on performance enhancing drugs? Drugs and other performance enhancers do not reflect the forms of human excellence which sports are tended to honor.
+
+The future of drug testing can serve to be an effective deterrent if money, research and cooperation contribute together with positive incentives for drug-free athletes. Modern sports competitions place little emphasis on the means when dealing with the end results. This presents itself to be a dangerous situation both for the athletes as well as for the integrity of sport.
+
+But efforts are being constantly being made to ensure that sports can once again be played with true sportsmanship spirit. It is for countries and participants to help in jointly maintaining the pride of participation and competition.
+
+Web Analytics Made Easy -
+StatCounter
+Kata Mutiara Kata Kata Mutiara Kata Kata Lucu Kata Mutiara Makanan Sehat Resep Masakan Kata Motivasi obat perangsang wanita
+<USER>

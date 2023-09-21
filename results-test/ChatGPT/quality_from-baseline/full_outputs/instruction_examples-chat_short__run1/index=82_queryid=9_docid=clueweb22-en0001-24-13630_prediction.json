@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz91HiFAeSxZW8SMrlM6uiNwcLYq",
+  "object": "chat.completion",
+  "created": 1687857563,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is a bibliography and not a rhetorical argument. Therefore, it does not contain enough information for me to provide a \"well-writtenness\" label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1899,
+    "completion_tokens": 31,
+    "total_tokens": 1930
+  }
+}

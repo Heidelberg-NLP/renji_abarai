@@ -1,0 +1,78 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should performance-enhancing drugs be accepted in sports?
+Text: Last updated on: 5/10/2021 | Author: ProCon.org
+
+Should Blood Doping and Erythropoietin (EPO) Use Be Accepted in Sports?
+
+General Reference (not clearly pro or con)
+
+Elizabeth Quinn, exercise physiologist, in a Mar. 26, 2020 article, “Erythropoietin (EPO) and Blood Doping in Sports,” available at verywellfit.com, stated:
+
+“Blood doping refers to any attempt to improve athletic performance by artificially increasing your red blood cell count. Red blood cells are responsible for carrying oxygen molecules throughout the body. The more red blood cells you have, the greater your energy expenditure and the slower you will “burn out” during extreme physical activity.
+
+Methods of blood doping include:
+–Transfusions of someone else’s blood
+–Re-infusion of one’s own red blood cells
+–Administration of enhancement drugs such as EPO
+
+Blood doping is in violation of standards set by the World Anti-Doping Agency (WADA) and is banned in professional sports. Even with rigorous testing among athletes, that hasn’t stopped some from doing it anyway…
+
+EPO has been banned since the early 1990s, but the first tests did not become available until the 2000 Summer Olympics.
+
+Abuse of EPO made world headlines when Floyd Landis, the 2006 Tour de France winner, was stripped of his title after testing positive for doping…
+
+EPO is a naturally occurring hormone that can be synthesized in the lab and injected directly into the skin or bloodstream. In terms of sports performance, it has been shown to increase the proliferation of red blood cells and increase the amount of oxygen carried to muscles.
+
+Increased availability of oxygen is believed to slow the progression of muscle fatigue and increased endurance during performance athletic events…
+
+EPO has been shown to induce hypertension (high blood pressure) by literally crowding plasma with excessive red blood cells. This serves to ‘thicken’ the blood, increasing vascular constriction and the overall blood pressure. Greater blood viscosity puts a strain on the heart, increasing the risk of blood clots, heart attacks, and stroke.”
+
+Mar. 26, 2020
+
+The Mayo Clinic, in a Dec. 4, 2020 article, “Performance-Enhancing Drugs: Know the Risks,” available at mayoclinic.org, stated:
+
+“Erythropoietin [EPO] is a type of hormone used to treat anemia in people with severe kidney disease. It increases production of red blood cells and hemoglobin — the protein that carries oxygen to your body’s organs.
+
+Taking erythropoietin improves the movement of oxygen to the muscles. Epoetin, a synthetic form of erythropoietin, is commonly used by endurance athletes…
+
+Erythropoietin use among competitive cyclists was common in the 1990s and allegedly contributed to at least 18 deaths. Inappropriate use of erythropoietin may increase the risk of stroke, heart attack and blockage in an artery in the lung (pulmonary embolism).”
+
+Dec. 4, 2020 -
+<USER>

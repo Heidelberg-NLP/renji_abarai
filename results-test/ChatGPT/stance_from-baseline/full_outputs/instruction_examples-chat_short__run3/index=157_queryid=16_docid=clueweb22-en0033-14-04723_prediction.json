@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W3yoghRHpJ9MKQc8hgkwSKT0vPb0",
+  "object": "chat.completion",
+  "created": 1687876150,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The provided text is not relevant to the given query. It discusses drug classification systems across different countries and the need for a review of drug classification system in Thailand."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2450,
+    "completion_tokens": 32,
+    "total_tokens": 2482
+  }
+}

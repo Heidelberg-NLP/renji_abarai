@@ -1,0 +1,99 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is cell phone radiation safe?
+Text: Cell Phone Radiation Protection Reduces Health Hazards and Effects | Cell Phone Radiation Protection Reduces Cell Phone Health Hazards
+
+View the Safe Cell test report and see how it works!
+
+Don't Be Skeptical...Protect Yourself with Safe Cell
+
+Studies have shown that cell phone radiation and health hazards associated with cell phones are related to a wide range of health problems including headaches, pressure or tingling in the head, earaches, fatigue, brain tumors, DNA damage and even changes in the brain's electrical activity
+
+Cell phones emit radiofrequency radiation (radio waves), a form of non-ionizing radiation, from their antennas. Parts of the body nearest to the antenna can absorb this energy. ... Over time, the number of cell phone calls per day, the length of each call, and the amount of time people use cell phones have increased. 
+
+The WHO/International Agency for Research on Cancer (IARC) has classified radiofrequency electromagnetic fields, those used for cell phones, as possibly carcinogenic to humans, based on an increased risk for glioma, a malignant type of bra Radiation from cell phones can possibly cause cancer, according to the World Health Organization. The agency now lists mobile phone use in the same "carcinogenic hazard" category as lead, engine exhaust and chloroform. A team of 31 scientists from 14 countries, including the United States, made the decision after reviewing peer-reviewed studies on cell phone safety. The team found enough evidence to categorize personal exposure as "possibly carcinogenic to humans." associated with wireless phone use. In another study, by Hardell, they looked at long-term use of cell and cordless phones. In conclusion it was found that, "this study confirmed previous results of an association between mobile and cordless phone use and malignant brain tumors. These findings provide support for the hypothesis that RF-EMFs play a role both in the initiation and promotion stages of carcinogenesis” 
+
+This is one of the many studies that has concluded that there are health concerns with cell phones. Safe Cell Technology offers cell phone users the safe cell, which helps to reduce the hazards of cell phone use.
+
+ 
+
+What is the Safe Cell? 
+
+It is a device you attach to your cell phone that reduces the emission level of electromagnetic radiation due to phone usage.
+
+ 
+
+Cell Phone Radiation Protection
+
+There are health risks associated with cell phones. Safe Cell helps to reduce the dangerous radiation emitted from your mobile phone and  reduce cell phone related cancer risks. Click here to read to how the EMF (electromagnetic fields) and EMR (electromagnetic radiation) emitted from cell phone usage can take a toll on your health.
+
+ 
+
+How Do I Know If Safe Cell Actually Works? 
+
+Safe Cell has been available since 2001. It is manufactured with a patented material that has been proven to be effective by the California Institute of Electronics and Material Sciences using a shielding effectiveness test. The results concluded its "shielding effectiveness in the test frequency range 0.800 GHz to 10.525 GHz”. Click here to view this report.
+
+ 
+
+Is the product guaranteed? 
+
+Yes. It comes with a 30 day money back guarantee.
+
+ 
+
+What electromagnetic effects are caused by cell phone radiation? 
+
+Some of us are more affected by electromagnetic radiation than others. The weakening symptoms that may occur in your body from the Electromagnetic Radiation (EMR) can be dramatic. Although you may not instantly see radiations effects on the body, it’s important to note sometimes the things you cannot see end up being the most harmful.
+
+Cell phones are an important part of our lives in order to stay in touch and connected. By using Safe Cell you can protect yourself by lowering your exposure of harmful cell phone radiation emitted from your phone. So why risk it? Order yours today to improve your well-being.
+
+Still uncertain of cell phone radiation and its effect on your health? Check out these news stories backed by science
+
+Breaking News
+
+Advanced 5G Network Rollout. What you need to know…..
+
+Italian Court finds link between cell phone and tumour…
+
+Using Safe Cell helps to lower your exposure to the harmful effects of cell phone radiation and may contribute to reduced risk of developing cell phone related cancer. Other interesting search topics include: cell phone cancer and cell phone health hazards or contact us for any questions or further information.
+
+ 
+
+Follow us for breaking news and updates!
+<USER>

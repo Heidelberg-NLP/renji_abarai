@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C35taCsEqqw0Ot2J8yiGq0LNqnrR",
+  "object": "chat.completion",
+  "created": 1683106185,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2654,
+    "completion_tokens": 31,
+    "total_tokens": 2685
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text is informative and presents facts about free education in various countries. It doesn't contain any clear arguments to be evaluated as high, medium or low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

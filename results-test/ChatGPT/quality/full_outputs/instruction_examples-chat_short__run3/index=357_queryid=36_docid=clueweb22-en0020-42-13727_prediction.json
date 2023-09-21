@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3ApDbkBq58872m6r5ydhJk6Ch3X",
+  "object": "chat.completion",
+  "created": 1683106491,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1375,
+    "completion_tokens": 23,
+    "total_tokens": 1398
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a clear rhetorical argument, and as such it cannot be assigned a label for argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

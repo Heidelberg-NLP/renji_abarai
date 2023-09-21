@@ -1,0 +1,119 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should election day be a national holiday?
+Text: 5 Reasons Election Day Should Be a National Holiday
+
+A woman and her children vote at a polling station during the midterm elections at the Fairfax County bus garage in Lorton, Va., on Nov. 6, 2018. | A woman and her children vote at a polling station during the midterm elections at the Fairfax County bus garage in Lorton, Va., on Nov. 6, 2018. | Andrew Caballero-Reynolds/AFP/Getty Images
+Why Global Citizens Should Care
+Voting is a fundamental right in a democracy. The United Nations urges all democratic nations to ensure every citizen has the right to vote. You can join us in taking action on this issue here
+
+The US presidential election happens once every four years and the outcome indefinitely shapes the future of the country — and beyond — through the laws, regulations, political appointments, international forays, and executive decisions enacted by the new president. 
+
+Every citizen should have a say in such a monumental event. 
+
+Yet the US has some of the lowest voter participation rates in the world. In the 2016 presidential election, 43% of eligible voters didn’t participate. The total number of nonvoters that year — more than 100 million — surpassed the individual vote totals of the two main candidates.
+
+Take Action: Check Your Voter Registration Status With 'Just Vote' Here
+
+There are a lot of reasons why people choose not to vote — barriers, misinformation, apathy, cynicism, lack of awareness, and so on — but voting is a basic building block of democracy that opens the door to broader civic engagement. By boosting voter turnout, the US can have a more representative, vibrant democracy. 
+
+There are many ways to boost voter turnout — expanding early voting, automatically registering voters, and improving civic education programs
+
+Making the presidential election a national holiday is another way to get people to the polls. 
+
+Here are five reasons why Election Day should be a national holiday.
+
+
+1. It would give people time to vote.
+
+People who work long shifts, juggle multiple jobs, have to balance their job with child care, or just feel drained after a long day of work often have a hard time getting to the polls to cast their ballot. It’s not because they don’t care about the election; it’s because they don’t have the free time to vote. Remember, in districts across the country, people often have to wait hours in line at polling sites.
+
+By making the presidential election a national holiday, people would be able to go to the polls without worrying as much about their other obligations. 
+
+Related Stories
+
+
+2. It would serve as a crucial reminder to voters. 
+
+With all the stress and unpredictability of daily life, many people often forget that there’s an election happening or the day simply passes them by, while others don’t know who’s running for office and decide not to vote in an uninformed way. 
+
+A designated national holiday would provide a clear reminder to voters, broadcasting when they have to vote, while also providing an incentive to learn more about the day. If someone has the day off, citizens might do more research on the candidates and issues at play, especially if federal funds were disbursed to improve awareness around voting.
+
+
+3. It would let people carpool.
+
+Many voters don’t participate in elections because polling sites are too far away from where they live and they have no way of getting there
+
+A national holiday that gives everyone the day off would allow people to coordinate transportation. Dedicated citizens with cars and community groups with vans and buses would be able to shuttle people to the polls throughout the day. 
+
+Related Stories
+
+
+4. It would allow more people to volunteer during the day.
+
+Voting sites need poll workers to ensure machines are set up properly, voting rolls are monitored, order is maintained, and everything goes smoothly on Election Day. 
+
+By making the presidential election a national holiday, more people would have the opportunity to sign up to be paid poll workers
+
+More people would also be able to volunteer in other ways — driving people to the polls, canvassing for their candidates, phone banking, and so on. 
+
+
+5. It would turn voting into a celebration.
+
+Voting is often framed as a boring civic duty, an abstract obligation that doesn’t really matter in the end because nothing changes either way
+
+But voting is an essential part of democracy that has the potential to transform society. A well-organized movement of people can win elections at the local, state, and federal level and then enact an agenda that benefits their communities. When this happens on a broad enough level, the concept of voting resonates with more people because they are able to see a direct relationship with votes cast and the society around them.
+
+A national holiday for voting would turn the very act of voting into a collective celebration. Just look at every other holiday in the US — Labor Day, Memorial Day, Thanksgiving — when people have the day off, they celebrate. A national holiday for voting could lead to a similar scenario. If people get the day off to vote, they could perform their civic duty in an atmosphere of joy because they’re taking part in a collective action, while also knowing that they can use the rest of the day to relax and celebrate democracy. 
+
+“People in workplaces, schools, and communities across the country could organize themselves together to reflect upon our country’s remarkable achievements,” the political scientists Archon Fung and Jane Mansbridge wrote in USA Today. “Children and adults could help out at their local polling places and so renew a generation of poll workers. Finally, after everyone has voted, we could have BBQs and block parties in the churches, schools, and community centers where we cast our votes across the land.”
+
+Related Stories
+
+
+Global Citizen and HeadCount have teamed up to launch Just Vote, a campaign mobilizing young Americans to register to vote ahead of the 2020 election and beyond. As part of the campaign, your favorite artists and entertainers are offering exclusive experiences, performances, and memorabilia — and they can only be unlocked once eligible voters check their voter registration status. Learn more about Just Vote and how you can take action here.
+
+News
+
+Demand Equity
+
+5 Reasons Election Day Should Be a National Holiday
+
+By Joe McCarthy
+<USER>

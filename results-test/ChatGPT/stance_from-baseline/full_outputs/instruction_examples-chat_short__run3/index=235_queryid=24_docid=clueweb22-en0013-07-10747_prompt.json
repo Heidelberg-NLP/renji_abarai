@@ -1,0 +1,131 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: Federal Tax Reform and the States
+
+4/1/2018
+
+Tax ReformAt the end of his first year in office, President Donald Trump signed into law the largest overhaul of the nation’s tax code since 1986. What began as a U.S. House of Representatives Republican framework on June 24, 2016, known as "A Better Way," culminated into a final bill, the Tax Cuts and Jobs Act (TCJA) (H.R. 1), which became law on Dec. 22, 2017.
+
+The following analysis details how changes to federal law could affect state revenues and tax administration by highlighting big picture fiscal considerations, personal income tax (PIT), corporate income tax (CIT), and other notable provisions. Individual state analyses are highlighted at the end of the page.
+
+Big Picture Fiscal Considerations
+
+Federal Spending Constraints
+
+The Dec. 15, 2017 Congressional Budget Office analysis of the TCJA found that without taking into account macroeconomic effects, the law will increase the deficit by $1.46 trillion dollars over the next 10 years. That number could swell, however, if the temporary individual cuts that are set to expire at the end of 2025 are renewed by a future Congress. Moreover, the Joint Committee on Taxation projects the TCJA will add approximately $1 trillion to the nation’s debt, even when economic growth is accounted for. This acceleration of the growth of the nation’s debt will likely elevate pressure to constrain spending at the federal level.
+
+More states are experiencing tight budgets than at any point since the Great Recession. Spending for major programs, such as Medicaid and education, is generally outpacing revenue growth. A reduction in federal transfers, which make up roughly one-third of overall state revenues, could present significant long-term challenges for state budgets.
+
+After the tax reform effort in 1986, growth in federal aid to states was noticeably reduced. According to research performed by the Federal Reserve Bank of Chicago, the cumulative federal grants-in-aid to state and local governments increased by 6.4 percent from 1982-1986, but they only increased by 3.9 percent from 1986-1990. 
+
+Sun-Setting of Individual Tax Changes
+
+Most of the changes to the individual tax code are temporary, expiring at the end of 2025. States will need to be cognizant of a potential reversal in eight years, particularly those who realize more revenue by conforming to federal base-broadening.
+
+Creating New Loopholes?
+
+Tax experts anticipate the legislation may create new complexities in the tax code that provide opportunities for tax avoidance. For instance, significantly lowering the corporate tax rate compared to marginal personal income tax rates could encourage business owners and certain high-wage individuals to incorporate and have their income treated as corporate profits. Similarly, the law included a 20 percent deduction for income of pass-through businesses, such as sole proprietorships and partnerships, which could cause taxpayers to change how they file their taxes to lower their tax burdens. Both of these changes could significantly affect state revenues and require more attention from state tax collection agencies.
+
+The Importance of State Conformity
+
+States conform to the federal tax code in a variety of ways, which plays a significant role in how recent changes could affect state revenues. The maps below provide detailed information on conformity status in each state. 
+
+Personal Income Tax: Starting Points
+
+MAP LEGEND
+
+Federal Adjusted Gross Income
+
+Federal Taxable Income
+
+State Gross Income
+
+No Personal Income Tax
+
+*VT- Vermont state income tax calculations will begin at federal AGI rather than federal taxable income starting in tax year 2018.
+
+Source: Federation of Tax Administrators as of January 2017
+
+ 
+
+The extent to which states conform to federal definitions of income will have a significant influence over how individual tax code changes affect state revenues. Forty-one states have broad-based individual income taxes and most begin their tax calculations by linking to a federal definition of income. Thirty states and D.C. use federal adjusted gross income (AGI) as a starting point, six begin with federal taxable income, and five use their own state calculation.
+
+Federal AGI is federal gross income minus income adjustments known as “above the line” deductions, which can include IRA contributions, foreign housing costs, moving expenses, and student loan interest payments. Any taxpayer can claim these deductions regardless of whether they itemize. Federal taxable income is federal AGI minus personal exemptions and either the standard deduction or itemized deductions. The Tax Cuts and Jobs Act eliminates, reduces or alters deductible expenses of all kinds, which could mean a broader tax base and more revenue for states that conform.
+
+As the Tax Foundation notes, if there are undesirable revenue impacts from federal tax reform, states have some coping mechanisms available, such as phaseins or tax triggers. States can also look at ways to reform their tax codes in tandem to avoid any undesirable effects, especially since most states have a balanced budget requirement and any revenue changes that result from federal reform will have to be brought in line with spending.
+
+Personal Income Tax
+
+Personal Exemption Elimination
+
+The federal tax bill will repealed personal exemptions through 2025. Ten states currently couple their state personal exemption with the federal personal exemption, which allowed for $4,150 to be deducted for each individual and their dependents. Given that the federal personal exemption was eliminated, these states could see a revenue gain, absent a change in state law. The Joint Committee on Taxation (JCT) estimated that eliminating the personal exemption would increase federal revenues by $1.2 trillion over 10 years, which totals to more than the amount lost by doubling the standard deduction.
+
+Alternative Inflation Measure
+
+The legislation eliminated the use of the traditional CPI-U (consumer price index for all urban consumers) measure for inflationary adjustments to the tax system. Instead, the bill imposed the slower growing, chained CPI measure. The chained CPI removes the substitution bias from the traditional CPI measure by “chaining” two-months together and recognizing that price change also affects purchasing behavior. As a result, the chained CPI shows a slower pace of inflation.
+
+Calculating inflationary adjustments with a slower measure of inflation will affect tax brackets, the standard deduction, the Earned Income Tax Credit (EITC) phasein/phaseout thresholds, and other provisions that are currently adjusted for inflation based on the CPI-U. The Joint Committee on Taxation estimates that this will increase federal revenues by $134 billion over 10 years. Using the chained CPI measure will delay inflationary adjustments and push more income into higher tax brackets, as well as reduce the value of deductions.
+
+Modifications to Other Deductions
+
+The elimination of several deductions could increase revenue for states. Modifications to the deduction for home mortgage interest, nondisaster casualty losses, and moving expenses, among others, have been estimated to increase federal revenues. This would also increase revenues in the states that incorporate these changes.
+
+Corporate Income Tax
+
+Deemed Repatriation
+
+Repatriation is the return of money back to a country of origin. This clause levies a mandatory one-time tax on accumulated foreign profits. The plan would tax cash holdings at a rate of 15.5 percent, while earnings held in illiquid assets would be taxed at 8 percent. This would raise revenue for states in the short run as businesses bring back monies held overseas, but tax experts seem divided on whether this will be a small amount or a windfall.
+
+Limitation on Interest Deduction
+
+Every business would be subject to a disallowance of deduction for net interest expenses more than 30 percent of the business’ adjusted taxable income. This may be intended to prevent U.S. business from borrowing substantial amounts to have deductible interest payments count against their income. This measure would raise revenues by reducing profit-shifting.
+
+Net Operating Losses (NOL)
+
+Changes included in the tax bill limiting the NOL deduction could raise revenue in states that conform to federal provisions, or the states that use Federal Taxable Income as the starting point. The NOL deduction would be limited to 80 percent of taxable income and provides that amounts carried to other years be adjusted to account for the limitation for losses arising in tax years beginning after Dec. 31, 2017.
+
+Sixteen states add-back federal NOL, 25 states start with federal taxable income before the NOL deduction. Some states modify the federal NOL. Thirteen states allow NOL carrybacks to the same extent as federal law and 11 states allow NOLs to be carried forward to the same extent as federal law.
+
+Other Notable Provisions
+
+State and Local Tax Deduction (SALT)
+
+The deduction for state and local income, sales, and property will be retained, but capped at $10,000. The cap is not adjusted to inflation. For the most part, there will be no immediate impact from the repeal of the state and local income tax deduction on state revenues. Most states require taxpayers to add back their state income tax deductions when calculating their itemized deductions for state purposes, which avoids the possibility of allowing a deduction for state income taxes in computing that same tax. A few states—Arizona, Georgia, Hawaii, Louisiana, North Dakota, Ohio—do allow or limit the federal amount of the SALT deduction, but North Dakota is the only one of these states that could see an increase in revenue from the SALT deduction cap, as it uses federal taxable income as its starting point.
+<USER>

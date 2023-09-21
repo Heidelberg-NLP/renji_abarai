@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz2TWWZfNLz9badf2TnbEVZiv1D3",
+  "object": "chat.completion",
+  "created": 1687857157,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text is a topic, not an argument. It does not have enough content to determine its rhetorical quality."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 787,
+    "completion_tokens": 23,
+    "total_tokens": 810
+  }
+}

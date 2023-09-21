@@ -1,0 +1,122 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+<link rel="stylesheet" href="/noscript.css"/>Should Healthcare Employees Wear Body Cameras?
+
+Should Healthcare Employees Wear Body Cameras?
+
+The tech can help with liability issues, but it is rife with patient privacy landmines.
+
+figure image
+
+In September, a Pennsylvania hospital came under scrutiny after employees used their personal devices to take photographs and videos of a patient under anesthesia who had suffered a genital injury. The hospital, UPMC Bedford Memorial, called the actions of its staffers “abhorrent,” and the state’s health department cited the institution for 3 privacy violations.
+
+That same month, a police officer in Utah was caught by his own body camera improperly arresting a nurse for refusing to draw blood from an incapacitated patient. After the video became public, the officer was fired and his supervisor was demoted. The officer’s demands would have been another strike against the Health Insurance Portability and Accountability Act (HIPAA) and the patient’s rights. The nurse later said that she did not “think the truth would have been told without the body cam footage.”
+
+Cameras are omnipresent in modern society. These 2 cases illustrate just how slippery an issue they can be in healthcare. Meanwhile, hospitals are grappling with how cameras can both enable violations of patient privacy and defend efforts to treat and safeguard patients. Two questions emerge: Should hospital employees wear body cameras? And what should administrators consider before having staff wear them?
+
+Body Cams Enter the Hospital
+
+Although doctors and nurses have yet to be outfitted with cameras, there are body cameras already in use by another group of medical providers: emergency medical technicians (EMTs). They’re not prevalent—“yet,” according to emergency medical service (EMS) industry attorney Steve Wirth—but justification for their presence exists.
+
+“It’s a tough world out there, and it’s tough work,” he said. “They’re dealing with people in their worst moments. They get spit on, punched, threatened, and treated abusively.” When people are on camera, Wirth believes, they behave better.
+
+Risk management is another reason why EMS agencies have been adopting body cams. Footage can either confirm allegations of mistreatment or vindicate the accused. Wirth understands the debate, but he said the most important reason that EMS agencies have begun to adopt body cams is to ensure that they are meeting the public’s expectations of conduct and care.
+
+“Most of the time, cameras are going to benefit an EMS agency from a liability standpoint more than they will hurt them,” he said.
+
+Since EMTs must enter emergency departments, and camera-equipped police often enter those same departments, cameras have begun to spill into hospitals. But overseas, they are beginning to enter in earnest. At Berrywood Hospital, part of the Northamptonshire Trust of the United Kingdom’s National Health Service, more than 40 staffers in the mental health ward were issued body cameras to be worn at all times but were told to activate them only when the staff members felt a situation was escalating. They saw a 14% decline in violent incidents against staff members over 4 months, from 122 to 105 incidents.
+
+That decrease does not impress Megan Allyse, PhD, an ethicist at the Mayo Clinic in Rochester, Minnesota.
+
+“That doesn’t seem like a significant improvement to me,” she said. “On the other hand, some of the providers did feel that it made a significant difference…so you certainly want to give their experiences privilege there.” To Allyse, locked mental health wards are one of the few departments where body cameras might work in a hospital.
+
+Plus, better methods to address the issues solved by body cameras might already exist. Radio-frequency identification chipping, for example, can be used to monitor the whereabouts of medical employees over time, and that information can then be used for quality improvement, she said.
+
+The Case for Cams
+
+For many of the same reasons that police now wear body cameras, a few figures in medicine have begun to consider the option. In a 2015 column, Jeremy Brown, MD, then-director of the Office of Emergency Care Research at the National Institutes of Health, wrote, “These devices should also be worn by healthcare providers.” He added, “Bottom line, this kind of recording will be good for patients, their families, and the medical teams that care for them,” emphasizing the potential to thwart malpractice litigation and patient violence against practitioners.
+
+In a session about patient safety at the 2017 HIMSS conference, ECRI Institute General Counsel Ronni Solomon repeated that idea. The session focused on the fact that medical provider error is still one of the leading causes of death in the United States, whether by a single improper action or a series of treatment failings. Solomon imagined an era when checklists and supervisor oversight could be replaced by recordings. Patients, meanwhile, could feel assured that any failure in their treatment would be documented (and as such, failures would be less likely).
+
+In the case that body cam videos can be entirely de-identified and safely stored, they could prove to be a gold mine. Proponents argue that hundreds of hours of real medical situations could help develop best practices. Even recorded mistakes could be used to train budding healthcare providers.
+
+Objections and Questions
+
+Those who oppose the idea point to ethical and practical reasons.
+
+First, Allyse said, the hospital is in many ways a private space. To combat malpractice or improve quality by way of body cams, administrators would need to see evidence that there was a problem in the first place. “That’s a high ethical bar to get to,” she said.
+
+Then there are the nuts and bolts: The digital infrastructure needed to securely store thousands of hours of footage, even if the cameras don’t record at all times, would be nearly prohibitive, experts have said. When Wirth counsels EMS agencies on the matter, he advises them to dump footage after no more than 30 days. That number could change, however, because of an investigation or a pending lawsuit. Either way, he said, the law doesn’t mandate how long video should be stored.
+
+How could body cameras affect psychological aspects of healthcare administration? Experts have said the recordings would promote better behavior among providers. But it’s unclear whether that scrutiny could complicate how EMTs or physicians act when trying to save a life.
+
+Wirth thinks the greater risk is in damaging patient—provider relationships. Although he encourages equipped EMTs to notify patients that they have the devices, he knows this may alter their interaction. Allyse agreed. “I think that the potential downside is certainly that you would see a cooling effect on patients’ and healthcare providers’ being honest with each other,” she said. “And this is a million times more when you have stigmatized conditions like mental health or drug use and addiction.”
+
+The 800-pound gorilla in the debate is HIPAA. But both Wirth and Judith Tintinalli, MD, chair emeritus at the Department of Health Policy and Administration at the University of North Carolina School of Medicine, claimed that the act of recording would not necessarily trigger violations. “HIPAA governs disclosure of information. It really doesn’t cover recording,” said Tintinalli, who is also editor in chief of Emergency Physicians Monthly, which has been publishing conflicting opinions on the matter for years. “I’d say there aren’t many regulations that even govern this.” Yet HIPAA and privacy regulators are ill-prepared to handle body cameras, they said.
+
+The Future of the Debate
+
+No matter the challenges, the issue of medical error fatalities remains, and societal expectations of accountability continue to grow. The conversation around body cameras in medicine seems as though it will only grow louder. “I think we need to look at it closely. I really, really do,” Tintinalli said. But that hasn’t happened yet. “I think it’s rumination and gossip. As individuals vent, I’ll hear, ‘There’s going to be a complaint about this particular issue. I wish I had recorded the way that patient behaved.’”
+
+No expert or observer contacted by Healthcare Analytics News™ believed body cameras might one day become mandatory for providers. There would be too much resistance on behalf of the institutions, from individual EMS agencies to the American Medical Association, they said.
+
+“The only thing I think is inevitable,” Tintinalli noted, “is that there will be more and more discussion around this.”
+<USER>

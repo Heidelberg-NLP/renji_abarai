@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W15M6j7EzHjZcFT2z0rl9VFXZ9c6",
+  "object": "chat.completion",
+  "created": 1687865024,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The debate is in favor of immigrants having the same rights as citizens, therefore:\n\nhigh"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2798,
+    "completion_tokens": 17,
+    "total_tokens": 2815
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2uIBmG3uqtyfOK0Kytm6IQ4oRSq",
+  "object": "chat.completion",
+  "created": 1683105466,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2664,
+    "completion_tokens": 74,
+    "total_tokens": 2738
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text has a medium rhetorical argument quality, as it presents a factual and neutral overview of the debate and practical experiments on Universal Basic Income (UBI) in India. It includes different views and opinions on the subject, but does not strongly argue for or against UBI. The tone is informative and descriptive, without using strong or emotive language to persuade the reader."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

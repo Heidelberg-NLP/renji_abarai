@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2lcwBNnnIrQ3az3bf3m9TY0oZVt",
+  "object": "chat.completion",
+  "created": 1683104928,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2798,
+    "completion_tokens": 25,
+    "total_tokens": 2823
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This appears to be a discussion summary rather than a clear argument, so it is difficult to assign a rhetorical argument quality label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

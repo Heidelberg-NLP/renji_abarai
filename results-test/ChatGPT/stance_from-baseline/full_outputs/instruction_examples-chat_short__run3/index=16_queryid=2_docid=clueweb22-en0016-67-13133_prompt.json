@@ -1,0 +1,320 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is vaping with e-cigarettes safe?
+Text: Samsung 18650-30Q safe for vaping?? | E-Cigarette Forum
+The costs of running this huge site are paid for by ads. Please consider registering and becoming a Supporting Member for an ad-free experience. Thanks, ECF team.
+
+  1. Volunteer to help with beta testing!
+
+    We’re working on getting the site updates ready, but we’ll need your help to check the changes, make sure everything makes sense to you, and report any issues you see. If you'd like to volunteer to help with beta testing, click the link below. The first 20 people to respond to this thread will be added to the team!
+
+    View thread
+    Dismiss Notice
+
+Samsung 18650-30Q safe for vaping??
+
+Discussion in 'Batteries and Chargers' started by Robbert, Jun 30, 2020.
+
+Thread Status:
+Not open for further replies.
+Image has been removed.
+URL has been removed.
+Email address has been removed.
+Media has been removed.
+  1. Robbert
+
+    Robbert Super Member Verified Member ECF Veteran
+
+    Aug 1, 2016
+    I have used 30Q for vaping and never had a problem but on batteries it’s stamped do not use for vaping or ecig device.
+    I got VTC4 from same place and they aren’t stamped don’t use for vaping.
+    I just double checked my devices with older Q30 and I never had any problems with them.
+    Old 30Q are SDI 136 and new ones are SDI 141 .
+    Is there any reason why they would stamp Q30’s not for vaping?
+    Specs say 3000mah 15Amp and got them from 18650 battery store.
+    I usually use li ion wholesale to get cells but they had no 18500.
+     
+    • Like Like x 1
+  2. MLEJ
+
+    MLEJ Super Member ECF Veteran
+
+    Apr 14, 2020
+    To avoid legal liability problems.
+    They're the same batteries as before and should work as before.
+     
+    • Agree Agree x 7
+  3. Robbert
+
+    Robbert Super Member Verified Member ECF Veteran
+
+    Aug 1, 2016
+    I see.
+    I’m almost 100% both the VTC4 and Q30’s are protected but better ask .
+    Just out of curiosity are these protected cells?
+     
+    • Optimistic Optimistic x 1
+  4. Topwater Elvis
+
+    Topwater Elvis Vaping Master ECF Veteran
+
+    Dec 26, 2012
+    Texas
+    No, protected cells are very close to worthless for vaping use.
+
+    As mentioned, the ' not for vaping stamp ' is to limit manufacturer liability. None of the cells we use were ever intended to be used by or sold to the general public / individual use.
+
+    Samsung 30q is a fine cell to use for up to 45w each.
+     
+    • Agree Agree x 7
+    • Like Like x 2
+  5. barkfunklerbunk
+
+    barkfunklerbunk Ultra Member ECF Veteran
+
+    Sep 13, 2014
+    Planet Earth
+    I love my sammy 30Qs in my squid double barrel. But I vape @ 12-13 watts which is well under it's potential/limits. I want to replace all my batteries, eventually, with these. I'm still rocking some authentic AW 18650s which are perfectly fine, but love the mahs of the 30Qs
+     
+    • Like Like x 3
+    • Agree Agree x 2
+  6. DaveP
+
+    DaveP PV Master & Musician ECF Veteran
+
+    May 22, 2010
+    Central GA
+    Robbert, as some have said lithium cells aren't supported by their makers for vaping. They are mostly intended for use in sealed battery packs and various rechargeable toys and other electronic items where you plug in the device to charge it and the cell is an non-removable part of the device.
+
+    We can buy lithium cells in 18650 and larger/smaller sizes because they are a big market with people who use lithium flashlights and other devices that need high power cells. Vaping as we know it would never have succeeded if we had to use NiMH or NiCad cells. The power and capacity for heating a coil requires lithium cells.
+     
+    • Like Like x 3
+    • Agree Agree x 3
+    • Informative Informative x 1
+  7. Katya
+
+    Katya ECF Guru Verified Member ECF Veteran
+
+    Supporting member
+    Feb 23, 2010
+    SoCal
+    If you're a vaper, you must read @Mooch's blog (if you haven't already). It really is mandatory reading.
+
+    Mooch's blog | E-Cigarette Forum
+     
+    • Agree Agree x 4
+    • Like Like x 3
+    • Winner Winner x 1
+  8. UncleJunkle
+
+    UncleJunkle Vaping Master Verified Member ECF Veteran
+
+    Nov 29, 2010
+    UDIO, Clown World
+    And this is exactly what Samsung was hoping to achieve...doubt about their cells for vaping use.
+
+    Explanation here...
+
+     
+    • Informative Informative x 3
+    • Like Like x 2
+    • Useful Useful x 1
+  9. stols001
+
+    stols001 Moved On ECF Veteran
+
+    May 30, 2017
+    Mine have all come with various attorney-esque grotesque warnings from IMR batteries for some time.
+
+    Since I assume IMRbatteries.com is not singling me out and following me around I took it as your ordinary, genuine, "You do NOT have the power to sue us now, well YOU COULD find a lawyer to argue that the resulting explosion rendered you blind, hence you were unable to read the warnings as they did not include braille, but we are darn well gonna try to make it a lot HARDER for you."
+
+    This has since been found to be true (the warnings I mean, it's just liability stuff.)
+
+    Anna
+     
+    • Like Like x 5
+  10. Mooch
+
+    Mooch Electron Wrangler Verified Member ECF Veteran
+
+    Supporting member
+    May 13, 2015
+    All Sony or Murata VTC batteries have a warning on the metal can that they are not to be used outside of a battery pack...which means they are not for vaping. :)
+
+    84527FDB-D767-487D-B6AB-BD33E3602AFC.jpeg 805A0A0C-4DD9-4D60-A0EC-231032865F54.jpeg
+     
+    • Like Like x 5
+    • Agree Agree x 1
+    • Winner Winner x 1
+  11. DaveP
+
+    DaveP PV Master & Musician ECF Veteran
+
+    May 22, 2010
+    Central GA
+
+
+    Some who carried lithium cells in a pocket with change or other metals managed to start a pocket fire. Don't get burned. Use a battery case for pocket carry.
+
+
+    pocket carry cases for lithium battery - Bing
+
+    [​IMG]
+     
+    • Agree Agree x 2
+    • Like Like x 1
+    • Informative Informative x 1
+  12. TylerABC
+
+    TylerABC Full Member
+
+    Oct 10, 2020
+    They're fine. Unless you drop or damage them...
+     
+    • Funny Funny x 2
+  13. sonicbomb
+
+    sonicbomb Vaping Master Verified Member ECF Veteran
+
+    Feb 17, 2015
+    1187 Hundertwasser
+    The 30Q is my favourite battery, the warning is a legal disclaimer.
+     
+    • Like Like x 1
+    • Agree Agree x 1
+  14. UncleJunkle
+
+    UncleJunkle Vaping Master Verified Member ECF Veteran
+
+    Nov 29, 2010
+    UDIO, Clown World
+    Naw, I'm pretty sure Samsung batteries have a sensor in them. They completely refuse to work once the sensor detects it's been inserted into a vape mod.
+
+    True story :lol:
+     
+    • Funny Funny x 4
+  15. stols001
+
+    stols001 Moved On ECF Veteran
+
+    May 30, 2017
+    @UncleJunkle pretty funny but don't be giving anyone any ideas LOL.
+
+    Anna
+     
+    • Agree Agree x 2
+    • Funny Funny x 1
+  16. Katya
+
+    Katya ECF Guru Verified Member ECF Veteran
+
+    Supporting member
+    Feb 23, 2010
+    SoCal
+    Seriously. Don't! :lol:
+     
+    • Like Like x 1
+    • Agree Agree x 1
+  17. UncleJunkle
+
+    UncleJunkle Vaping Master Verified Member ECF Veteran
+
+    Nov 29, 2010
+    UDIO, Clown World
+    Just to be clear, the sensor isn't in the battery so don't try to take the battery apart to remove the sensor. The sensor is in the battery wrap. Just rewrap the Sammys and they miraculously work in a vape mod. :lol:
+
+    How's that for CYA? :p
+     
+    • Like Like x 1
+    • Funny Funny x 1
+  18. stols001
+
+    stols001 Moved On ECF Veteran
+
+    May 30, 2017
+    I accidentally bought some Samsung protected batteries once. This was very early in my vaping career? So, I thought it was, perhaps, some sort of packaging thing?
+
+    Yeah, I don't know why either. Hope?
+
+    In any case I set to removing the super hard plastic wrap and things got weird enough quite quickly, enough for me to toss that battery from me and then start looking stuff up online.
+
+    Yes, I did feel really dumb that day.
+    Anna
+     
+  19. Baditude
+
+    Baditude ECF Guru ECF Veteran
+
+    Apr 8, 2012
+    Ridgeway, Ohio
+    Protected batteries are "generally speaking" the wrong chemistry for vaping --- cobalt chemistry. They are not a "safer chemistry" like IMR or hybrid chemistry batteries used in the vaping community, hence the need for protective circuitry.
+
+    Unprotected batteries usually are a "safer chemistry" (often a nickle or manganese component), not as likely to flame or explode like protected batteries when a short circuit occurs. Generally speaking, protected batteries have higher mAh but a lower amp rating. Unprotected batteries often have higher amp ratings and lower mAh.
+
+    Deeper Understanding of Mod Batteries Part 1
+
+    Battery Basics for Mods: The Definative Battery Guide for Vaping
+     
+    • Informative Informative x 3
+    • Like Like x 2
+  20. UncleJunkle
+
+    UncleJunkle Vaping Master Verified Member ECF Veteran
+
+    Nov 29, 2010
+    UDIO, Clown World
+
+    This confused me when I first started using 18650 mods.
+
+    People would tell me that "protected" 18650 batts weren't safe and I'd be like
+
+    [​IMG]
+
+    But no one ever explained it to me back then like you just did
+
+
+    .
+     
+    • Like Like x 2
+    • Agree Agree x 1
+Thread Status:
+Not open for further replies.
+
+Share This Page
+<USER>

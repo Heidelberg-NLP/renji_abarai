@@ -1,0 +1,59 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should felon who have complete they sentence allow vote
+Text: Two weeks ago, I cast my first mail-in ballot for President of the United States. I have been waiting to vote since I was 10, especially for president. When I filled in the bubbles, I felt proud to have reached this milestone and proud to be an American. I could never imagine having my right to vote be taken away. However, this is the case for millions of ex-felons across the United States. 
+
+As has been hammered into our heads, the Declaration of Independence states that “all men are created equal.” However, the Constitution does not explicitly state who does and who does not have the right to vote. The combination of the Three-fifths Compromise and the creation of the Electoral College gives quite a clear picture that not everyone has the equal right to vote in our democracy. Prior to 1865, many states allowed only property-owning white men to vote, something that had been popular in the 13 colonies as well. Then the Thirteenth, Fourteenth and Fifteenth Amendments were ratified to allow Black men to vote. However, after these amendments were ratified, states started to disenfranchise Black people through legacy clauses and poll taxes. Then, in 1920, the Nineteenth Amendment was ratified, giving women the right to vote. Laws have been passed to help those with disabilities to vote, such as the Help America Vote Act in 2002, as well as the Expansion of the Voting Rights Act in 1970 to help non-English speaking Americans  vote. However, at every turn, states have tried to disenfranchise voters.
+
+As of 2020, there are an estimated 5.7 million people who are disenfranchised because of a prior felony conviction. One in 16 Black people are disenfranchised nationally, a rate 3.7 times higher than white people with prior felony convictions. In some states, like Alabama, Virginia and Wyoming, the rate of Black citizens’ disenfranchisement is one in seven. 
+
+Once felons have served time for their crimes, they deserve to be reintegrated into American society and have the right to perform their civic duty. The disenfranchisement of ex-felons calls into question whether we live and experience the benefits of living in a true democracy — though, technically, the United States never was a true democracy because of the Electoral College. We are, in fact, a democratic republic. 
+
+In 2018, Florida voters passed a referendum, Amendment Four, to restore the right to vote for ex-felons, with the exception of those convicted of murder or sexual abuse. As a result, an additional 1.4 million people could vote in the 2020 elections. Almost immediately after Florida passed this amendment, the legislature passed a law, Bill 7066 - Election Administration, requiring former felons to pay all outstanding fines and fees before registering to vote. 
+
+In Florida, Amendment Four was a big step toward giving former felons the right to vote. However, the passage of the law has now put this right on hold in requiring ex-felons to pay all of their existing fines and fees before being legally allowed to register to vote. According to Governor Ron DeSantis, the law “confirms that the amendment does not apply to a felon who has failed to complete all the terms of his sentence,” meaning that the paying of fines and fees are part of the sentence of these ex-felons. 
+
+There have been multiple lawsuits to contest this law. In March, a Florida court ruled that the law amounted to an unconstitutional poll tax. However, in September, a federal appeals court, in a 6-3 ruling, with four Trump appointees in the majority, reversed the earlier court ruling. According to a New York Times estimate, between 70 and 80% of the ex-felons who earned back their right to vote through Florida’s Amendment Four owe some amount of debt, and thus will be ineligible to vote in the general election due to the appeals court decision. Additionally, 65% of Florida voters voted for Amendment Four, and now its effects are being dramatically decreased. 
+
+Ex-felon voter disenfranchisement is a national issue. Nine states including Alabama, Delaware and Tennessee have made it illegal for people who have committed certain crimes to vote, including murder and sexual abuse. In Arizona, if someone has two or more felony convictions, they have to appeal to the state court to get their voting rights restored. Of note, Massachusetts allows ex-felons to vote upon the completion of their sentences.
+
+If ex-felons are not allowed to vote, their issues will not be a priority for those who claim to represent them. When laws are passed regarding the prison system, those who have experienced it firsthand need to have a say. To live in a free society, everyone needs to have the right to vote. Once someone has served their time, their rights should be restored, no matter what they might have done to be convicted in the first place.
+
+This is only the beginning of the conversation regarding voter disenfranchisement, especially regarding ex-felons. Only two states, Maine and Vermont, allow people to vote from prison, and there needs to be a real conversation as to whether people should retain the right to vote while they serve a sentence. If voting truly is a fundamental right, then it should not be obstructed for any reason. Every citizen should have the right to vote, from the age of 18 until death.
+<USER>

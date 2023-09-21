@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJT4C7n8JFvigxsitU1QV1icUZij",
+  "object": "chat.completion",
+  "created": 1682692470,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 70,
+    "total_tokens": 2109
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This article fosters a discussion about the federal minimum wage and presents the arguments for and against raising it. Therefore, it is contributing to a well-written argument. It provides statistics and expert opinions to back up both sides of the debate, making it a well-structured and informative text. Based on these characteristics, the text can be labeled as high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

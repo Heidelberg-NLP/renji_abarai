@@ -1,0 +1,108 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Can alternative energy effectively replace fossil fuels?
+Text: The energy debate: Renewable energy cannot replace fossil fuels - DevelopmentEducation.ie
+
+The energy debate: Renewable energy cannot replace fossil fuels
+
+Photo: Alternative energies by Guerito (2005) CC-BY-NC Via Flickr
+
+ The fact that oil is a “finite” material is not a problem…Every material is finite. Life is all about taking the theoretically finite but practically limitless materials in nature and creatively turning them into useful resources. The fossil fuel industry does it, the “renewable”—actually, the “unreliable”—energy industry doesn’t. End of story.” Alex Epstein
+
+Fossil Fuels (coal, oil, petroleum, and natural gas) are originally formed from plants and animals that lived hundreds of millions of years ago and became buried deep beneath the Earth’s surface. These then collectively transformed into the combustible materials that we use today for fuel. The earliest known fossil fuel deposits are from about 500 million years ago, when most of the major groups of animals first appeared on Earth. The later fossil fuels, such as peat or lignite coal (soft coal), began forming from about five million years ago.
+
+Currently, we are (over)dependent on fossil fuels to heat our homes, run our cars, power our offices, industry and manufacturing, and respond to our insatiable desire to power all of our electrical goods. Nearly all of the energy needed to meet our demands – 80 percent of global energy – comes from burning fossil fuels. At the current rate of global energy demands, fossil fuels cannot replenish fast enough to meet these growing needs. The (over)consumption of these non-renewable fuels has been linked to the emission of greenhouse gases and pollutants into the atmosphere – the leading cause of global warming and climate change.
+
+In Ireland, for example, our energy consumption from fossil fuels was 89% in 2013. Our highest demand for fossil fuel energy over the last 51 years was experienced during the period of high growth under the ‘Celtic Tiger’ (2004), where we required 93.39%. The lowest energy consumption value (67.24%) was in 1960, more than half a century ago! Ireland is ranked 46th out of 136 countries in its fossil fuel energy consumption. That’s higher than the UK (52nd) and the US (56th)!
+
+For more background to the debate see “5 possible climate scenarios” by the Guardian.
+
+Renewables
+
+Renewable energy is energy that is derived from natural processes (e.g. sunlight and wind). Solar, wind, geothermal, hydropower, bioenergy and ocean power are sources of renewable energy. Currently, renewables are utilised in the electricity, heating and cooling and transport sectors. Renewable energy, collectively provides only about 7 percent of the world’s energy needs. This means that fossil fuels, along with nuclear energy — a non-renewable energy source — are supplying 93% of the world’s energy resources. Nuclear energy (a controversial energy source among public opinion) currently provides 6% of the world’s energy supplies.
+
+The issues
+
+“Models predict that Earth will warm between 2 and 6 degrees Celsius in the next century. When global warming has happened at various times in the past two million years, it has taken the planet about 5,000 years to warm 5 degrees. The predicted rate of warming for the next century is at least 20 times faster. This rate of change is extremely unusual.” – NASA Earth observatory
+
+Burning fossil fuels creates carbon dioxide, the main greenhouse gas emitter that contributes to global warming, which hit its peak in 2012. In the last 30 years, temperatures have risen to the warmest since records began. If we continue to pump greenhouse gases into our environment the average global temperature could increase by 1°C to 4°C by 2100.  Even if we changed today to using more renewable resources instead of fossil fuels for example, increases could be between 1 to 2.5°C.
+
+This graph, based on the comparison of atmospheric samples contained in ice cores and more recent direct measurements, provides evidence that atmospheric CO2 has increased since the Industrial Revolution. (Credit: Vostok ice core data/J.R. Petit et al.; NOAA Mauna Loa CO2 record.)
+This graph, based on the comparison of atmospheric samples contained in ice cores and more recent direct measurements, provides evidence that atmospheric CO2 has increased since the Industrial Revolution. (Credit: Vostok ice core data/J.R. Petit et al.; NOAA Mauna Loa CO2 record.)
+
+The 20th century saw the most prolific population growth and industrial development, which was and remains totally dependent on the use of fossil fuel for energy.
+
+Estimates for fossil fuel reserves depletion range from between 50-120 years. None of these projections are very appealing for a global community that is so heavily dependent on energy to meet even our basic human needs – needs that keep growing.
+
+Predictions estimate that global energy demand will grow by a third by 2035. Also critical to consider is the more than 1.2 billion people around the world who still do not have access – yet – to electricity. As the global population continues to grow – predicted to be nine billion people over the next 50 years – the world’s energy demands will increase proportionately.
+
+Scientists maintain that the impact of global warming on the environment is widespread. In the Arctic and Antarctica, warmer temperatures are melting ice, which leads to increases in sea levels and alters the composition of the surrounding sea water. Rising sea levels impacts on settlements, agriculture and fishing both commercially and recreationally. Air pollution is also a direct result of the use of fossil fuels, resulting in smog (see in China and India), and the degradation of human health and plant growth. There is the negative impact on natural ecosystems that result from collecting fossil fuels, particularly coal and oil. There is also the continuing threat of oil spills that devastate ecosystems and the impact of mining on land vitality.
+
+The future
+
+The discussions around climate change and energy problems today centre around the potential for technical solutions to energy demands that are cost effective. So far, the alternative to fossil fuels has been around renewable energy sources, which are expected to play an increasingly vital role in the mix of power generation over the next century. The demands on these alternative energy sources are inordinate – they will need to not only keep up with the increasing population growth, but needs to go beyond these demands by contributing to the replacement of fossil fuel energy production in order to meet future energy needs and consider the natural environment.
+
+However, the argument from governments, oil, coal and natural gas companies is that until renewable energy sources become more viable as major energy providers, the only alternative in meeting the increasing demands for energy from a growing global population that requires more and more energy, is to continue to extract fossil fuel reserves.
+
+//
+
+The Debate
+
+//
+
+AGREE 1: Switching to renewable energy is not as simple as it is being made out to be. Quite the opposite.
+
+It is commonly assumed that greenhouse gas and energy problems can be solved by switching from fossil fuel sources of energy to renewables.  However, little attention has been given to exploring the limits to renewable energy.  Unfortunately, people working on renewable energy technologies tend not to throw critical light on the difficulties and limits.  They typically make enthusiastic claims regarding the potential of their specific technologies.” (Alex Epstein)
+
+The idea of drawing our energy from sources that are renewable, independent of foreign nations, and do not emit greenhouse gases has powerful appeal. But capturing these resources is expensive, and many are intermittent, which complicates using them on a large scale.  Furthermore, it takes time and money to change distribution and consumption of energy, meaning we will be dependent on fossil fuels until we can afford this switch. Finally, bringing new renewable energy technologies to market causes problems both in regard to cost and convenience, meaning a switch from fossil fuels to renewable energy is not a simple task.
+
+It would be difficult to find a more taken for granted, unquestioned assumption than that it will be possible to substitute renewable energy sources for fossil fuels, while consumer-capitalist society continues on its merry pursuit of limitless affluence and growth. There is a strong case that this assumption is seriously mistaken.” (Ted Trainer)
+
+DISAGREE 1: Leaving fossil fuels in the ground is good for everyone
+
+To deliver a 50% probability (which is not exactly reassuring) of no more than 2C of warming this century, the world would have to leave two-thirds of its fossil fuel reserves unexploited. I should point out that reserves are just a small fraction of resources (which means all the minerals in the Earth’s crust). The reserve is that proportion of a mineral resource which has been discovered, quantified and is viable to exploit in current conditions: in other words that’s good to go…. a third of the world’s oil reserves, half its gas reserves and 80% of its coal reserves must be left untouched to avert extremely dangerous levels of global warming. 2C is dangerous enough; at present we are on course for around 5C by the time the century ends, with no obvious end in sight beyond 2100.” (George Monbiot, The Guardian, 2015)
+
+[and]
+
+The major thrust of climate-change claims is that man is destroying the planet. There is much evidence to show that we are the greatest burden that Earth has to bear. To simply rape the earth of all its fossil-fuels would be gross folly.” (Dr. Peter Langdon)
+
+Fossil fuels are not renewable, they can’t be made again. Once they are gone, they’re gone.
+
+For more on this see renewable energy vs fossil  fuels by Energy Quest (USA).
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJQseDOLOvkGIpiMAIUGEIfzJwfU",
+  "object": "chat.completion",
+  "created": 1682692334,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1138,
+    "completion_tokens": 91,
+    "total_tokens": 1229
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text argues that, although obesity is clearly a health threat, it does not fit the traditional definitions of a disease because it lacks a universal concomitant group of symptoms or signs and the impairment of function which characterize disease. Therefore, labeling obesity a disease is not a necessary step in a campaign to combat obesity, and may be interpreted as self-serving advocacy without a sound scientific basis. So, the text seems to suggest that obesity is not a disease."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

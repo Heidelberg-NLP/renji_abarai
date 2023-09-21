@@ -1,0 +1,160 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should death penalty allow
+Text: Should Serial Murderers Face The Death Penalty?
+Start writing a post
+
+ 
+
+I recently had to write a paper on this topic for my Psych of Criminal Behavior class and it really intrigued me. The death penalty is such a controversial topic; some people don't believe in it while others think it's an acceptable punishment. There is a lot to take into consideration when it comes to sentencing someone to death, such as the severity of the crime.
+
+Recently, I have been binge watching "Criminal Minds" and most of the cases implicate some kind of serial murderer. The crime scenes often show violent, heinous crimes that often involve a form of torture, rape or mutilation. More often than not, they either die in a cop shootout or end up in prison. I believe they should be put to death.
+
+Here's why…
+
+People who kill multiple people do not deserve to be alive; therefore, they should be killed. Serial killers usually enjoy killing, feel the need to keep killing, or can't stop killing for some other reason. Since they have taken more than one life without really caring about the people they have murdered or the families they have destroyed, they shouldn't be afforded the opportunity to live. Being alive is a privilege that serial murderers do not deserve, even in the confines of jail. Plus, prisons provide food, recreational time, healthcare, and a place to sleep. All of which is more than the people they have killed have.
+
+Giving serial murderers the death penalty keeps them out of the prison system. Overall, it may not cost less because of the required judicial reviews, but why should taxpayers be paying for these people to stay alive? Instead, they can pay for them to die. Rather than using expensive execution techniques, serial murderers can be forced to suffer through the cheap version.
+
+Even though prison is for rehabilitation and some serial murderers have psychological issues, I don't believe that they should be sent to a mental institution or be given the time, or resources, to try to change from their past actions. Whether or not they have a mental illness doesn't change the fact that they killed someone. It might change the circumstances of the murders but not the murder itself.
+
+In terms of whether or not the death penalty is enacted, I think that the family of the victims should have a say in what happens to the murderer. If they want the murderer to be sentenced to death, then death should be given. If they want them to rot in prison, so be it. Even if they want the murderer to be tortured for their crimes, it should happen.
+
+Even though the death penalty is one option, I do see the other side as well. The death penalty represents the code of 'an eye for an eye' and that is not always a reasonable code to follow; thus, the death penalty is unreasonable.
+
+Since serial murderers committed such atrocious crimes, they deserve worse than death; they deserve to suffer. Death can be seen as the easy way out and suffering can prevent them from achieving bliss and ending their pain. Saying this, I don't think that being put in a normal prison is enough. Not to mention, prison hierarchies that allow certain prisoners to gain a higher status and get what they want. If these murderers are going to suffer, they need to be put in conditions that are going to provide an adequate amount of suffering. That may include infinite solitude or even torture. Given the 8thAmendment, worse circumstances might not be constitutional.
+
+Innocent people are wrongly convicted for crimes that they haven't committed which means they end up dead for no reason. Therefore, if they had been in prison rather than sentenced to death, they would still be alive. To correct this, I feel like there has to be DNA evidence linking a murderer to the crimes they are accused of because there have been more and more DNA findings that prove convicted prisoners are in fact, innocent.
+
+All in all, the death penalty is a tricky subject that requires a lot of attention. I can definitely understand why people are against the death penalty because there are many factors that play a part but when it comes to serial murderers, putting them to death seems like a reasonable option.
+
+Report this Content
+This article has not been reviewed by Odyssey HQ and solely reflects the ideas and opinions of the creator.
+Featured
+
+A Letter To God
+
+Who knows where I would be without You?
+
+3793
+
+Throughout my life You have tested me. My faith, my strength, my integrity, and so much more. And though I like to believe I’ve done a pretty decent job, the truth is I have let You down. I have failed many times, sometimes not even realizing it. Through these past few years especially, I have seen the amazing things that You are capable of. I have seen You put some pretty great things together and demolish the not so great things. I watched You bring people together and I’ve seen some incredible miracles. But I’ve never taken the opportunity to thank You.
+
+My life has been a great struggle, we both know that. However, through it all, no matter how lost I got or how frustrated I became, You never left my side. And that is why I am still here today. You gave me grace and strength to face some of the most difficult circumstances and I came out a better person. Everything I have become, I am because that is what You want. You have guided me through the best and worst of times and led me where I am today. There isn’t a choice I have made without being absolutely sure it what You wish for me. My plan is constantly changing and my goals are becoming more and more different as time goes on, but that is because as the days and weeks go by, I am learning more of what Your plan is for me. So it’s becoming more of Your plan and less of mine. And I must say, Your plan is way better than anything I could have ever come up with on my own.
+
+I’ve never really questioned the things I have gone through in my life because I knew You were behind them all. The good, the bad, and the ugly. You had a reason for everything. I am thankful for even the worst of times because they made me the person I am today. I’ve spent my life searching for something to make my life worthwhile. But in the past couple of years, I have learned that the thing that will make my life worth living is to live it for You. I may not do the best sometimes and I can’t even say that I am trying my best. But I can promise that my heart is open and my life is Yours. I will follow whatever path you lead me down.
+
+The one thing I learned early in life that I still hold onto today is that where I find pain, my greatest source of comfort is You. When I think of You all the problems I face today seem irrelevant and insignificant. The life You have planned for me is so much greater than I could ever dream. I know that exciting things are down the road because You have never let me down before. You have pulled me up when I was down and picked up my many broken pieces. Without You I would not have survived. You and You alone made me the person I am and gave me a reason to live. For that I thank You.
+
+There was a moment that I let myself fall. I felt my life crumbling away and I saw everything I had once dreamt of slowly drift away. I watched in the mirror as depression, anxiety, guilt, and fear settled in. I watched myself go through something I never wanted to go through. I became a person I never wanted to become. I became weak and helpless. Shallow and scared. I thought my life was over. But in one instant, You took over. Suddenly there was light and purpose. I found the will to fight through the pain and struggle. It was my greatest victory, my greatest accomplishment. And You alone are responsible. I played no role in surviving that.
+
+I owe so much to You. You deserve so much more than I have given You. I fail to give You the amount of attention You have given me. I fail to live my life completely and totally for You. And for that I ask for forgiveness. I am undeserving of it, but I am asking for a chance. A life without You is an impossible one to live. There is no real purpose or structure. There is really nothing to live for. I need You in order to survive this world. I will continue to walk next to You, this time giving You more of my time and energy. I will stop wasting it on people who don’t deserve it. My life and my heart belong to You.
+
+Keep Reading... Show less
+Student Life
+
+10 Winter-To-Spring Transitions
+
+[Writer's Disclosure/Request]: Bump Temperature by Sean Paul as you read.
+
+17039
+Tumblr
+
+Well folks, the tundra is turning into the tropics. Store away the snow boots and say peace out to the parkas, because it is time for these 10 critical winter-to-spring transitions:
+
+1. Scary Hairy to Soft n' Smooth
+
+Bears, it's post-hibernation time.
+
+2. Pumpkin Spice Lattes to Iced Caramel Frappes
+
+Cold caffeine will be consumed in the environment it deserves.
+
+3. Layered Covered Limbs to Exposed Epidermis
+
+Time to get as tan as pawsibble.
+
+4. Beans to Keens
+
+Time to let the toes breathe in style.
+
+5. Frackets to Non-Jackets
+
+Not below freezing you say? Guess that fracket is going away.
+
+
+6. Soups to Salads
+
+I accept the last-minute-bikini-bod prep
+
+7. Beanie Caps to Bucket Hats
+
+Shade the spring sun with the oddest head gear possible.
+
+8. Colds&Coughs to Cut Offs
+
+#FreeTheUpperThighsSpring2k16
+
+9. North Face to South By Sea
+
+Break out those rain coats and srat pastel tanks~
+
+10. Timbs to...
+
+Who am I kidding, those shoes are staying on all four seasons and the apocalypse.
+
+Although you'll probably curse us with a snow storm a week before May, goodbye Winter.
+
+***
+
+It's out with the old and in with what's socially Spring acceptable.
+
+Goodbye snow clouds of gray, hello skies of blue and rain clouds.
+
+A pre-mature dip in the pool, a trip to the spa.
+
+A few days in my shades.
+
+The whole part of this hemisphere according to the Spring season.
+
+Keep Reading... Show less
+Featured
+
+5 Books to Read This Spring
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz9qtCBqgZKQsRnyngvlY8xinXY8",
+  "object": "chat.completion",
+  "created": 1687857614,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The article presents a general reference on the use of stimulants in sports and some opinions from people who believe that stimulants use should be accepted in sports, such as Sally Jenkins, Scott Long, Michael Sokolove, and Garvan Grant. However, there is no clear con argument presented in this article, which makes it difficult to categorize the rhetorical argument quality."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2933,
+    "completion_tokens": 76,
+    "total_tokens": 3009
+  }
+}

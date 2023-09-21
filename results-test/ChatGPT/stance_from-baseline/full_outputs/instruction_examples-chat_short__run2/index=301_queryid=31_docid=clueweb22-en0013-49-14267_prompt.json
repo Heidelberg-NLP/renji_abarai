@@ -1,0 +1,115 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is obesity a disease?
+Text: Is obesity a disease? | Debate.org
+  • Obesity is a disease
+
+    Obesity is a health issue that can lead to heart failure and diabetes. It can be treated with operations or medicine, so I would classify it as a disease. It is curable, but it plagues millions of Americans. It is an epidemic and it must be treated. It is self inflicted, and it can be fixed.
+
+  • Obesity is spreading
+
+    Every day, more and more people are becoming obese, just as a flu (which is a disease) also spreads. Do you know how bad this is? More and more children are becoming obese, and if you do not treat it as a disease, obesity will spread faster. It is horrible seeing the diseases that are lead by obesity such as heart disease, high blood pressure, cholesterol etc. If you don’t treat it as a disease, who will?
+
+  • Obesity is spreading
+
+    Every day, more and more people are becoming obese, just as a flu (which is a disease) also spreads. Do you know how bad this is? More and more children are becoming obese, and if you do not treat it as a disease, obesity will spread faster. It is horrible seeing the diseases that are lead by obesity such as heart disease, high blood pressure, cholesterol etc. If you don’t treat it as a disease, who will?
+
+  • It is! (for people from cls lmao)
+
+    Obesity is more than just an addiction to food or poor eating habits. It's when you take overweight to the next level and it harms your health. Obesity is dangerous since it can lead to diseases or even death. You can get type two diabetes, cancer, heart disease or strokes!
+
+  • Debate: Is obesity a disease? Yes.
+
+    We have all seen people who look obese. Many people say that they are infected with a disease. But, are they really? Obesity is a disease. Surprisingly, a very common one. An American study proved that obesity has officially been recognised as a disease. Obesity is not only widespread, but it's become a real health risk. Obesity has many side effects and causes many health problems like cancer, high blood pressure and gout. I think that as common as obesity is, it is as easy to evade. Looking after our health is very important and having proper nutrition for a certain age is vital. I
+
+  • Obesity, despite being avoidable, is still a disease.
+
+    The definition of disease is a "disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury." So it applies to the obesity epidemic perfectly. All the arguments against this seem to be suggesting that because obesity is sometimes avoidable, then it can't be a disease, which is bs.
+
+  • Fits definition of a disease
+
+    A disease is defined as "a disorder of structure or function in a human, animal, or plant, especially one that produces specific signs or symptoms or that affects a specific location and is not simply a direct result of physical injury." Obesity causes incredible stress on the joint and body, leading to cardiovascular issues, sleep apnea, and even decreasing one's lifespan. As it impairs the function of the body, and can at times be caused by genetic factors, it is a disease.
+
+  • Obesity is a disease
+
+    A disease is generally thought of as an abnormal state, or a condition that prevents the body from functioning properly.
+
+    Obesity is a disease because it impairs the functions of a normal body b/c excessive fat tissue causes the overproduction of molecules that can lead to abnormal food intake. Just as diabetes results from the body’s inability to regulate blood sugar, obesity results from the body’s inability to regulate energy balance.
+
+  • Obesity is not a disease
+
+    Functions of our body is natural and not considered a "disease" if everything is functioning, But diseases are brought as the RESULT of obesity and poor eating habits because the body is taking in the toxins and fats we consider abnormal to our body, So my thesis statement is the Obesity is the Cause of Diseases and not the diseases itself
+
+  • No its not
+
+    Bruh like lmao who tf really thinks fat is a disease? That stupid fr!! All you gotta do is eat gud considering that diet is 75 persent of the problem! Get off your butt and do some exercise silly! Being fat may be an epidemic but so is being lazy!
+
+  • No it is not!
+
+    Obesity is not a disease, because just because your fat does not mean I have a disease it just means I need to lose weight. Obesity is not really a bad thing it's just an alert that you need to calm down on all the food your eating and watch what your eating and drinking.
+
+  • It is NOT
+
+    I have been obese all my life. I consider myself healthy. I eat healthy, I work out and I'm not lazy. The people who decide that its a disease can shove it. We are all different. I don't know why most jerks can't accept that. It's time to stop and move on to another important subject.
+
+  • A Genetic Condition but Not a Disease
+
+    Scientists, even today, do not classify obesity as a disease but, rather, as a factor that leads to diseases, such as diabetes. In other words, obesity is more of a path to diseases and not a disease but a condition that can be controlled. Genetics, of course, play a big role in obesity but so do the environmental experiences, including the diet the kid or adult chooses.
+
+  • No One Force Feeds an Adult
+
+    Obesity can be controlled with a well-balanced diet. If someone eats the same greasy diet of burgers, pizza and beer everyday, then of course obesity will be a problem. An obese person means something is out of whack in their body. Having the body's digestive system go crazy means something must be fixed before it is too late.
+
+  • No, obesity is more related to poor self-control and poor eating habits
+
+    I do not feel that obesity is a disease, but rather a condition brought about by poor eating habits and poor self-control. While obesity is, in some instances, a result of a genetic condition or side-effect from a different illness, it is usually caused by a lack of exercise combined with an unhealthy diet.
+
+  • No
+
+    It is an addiction. I am overweight, and I am/was addicted to food. Food is very addicting to many people, and with the inclusion of a soda, it can be extempore pleasurable. Why do I like sex? It feels good. Why do people like tobacco and alcohol? It feels good. Eating food feels good. It is an addiction.
+
+
+Leave a comment...
+(Maximum 900 words)
+No comments yet.
+
+By using this site, you agree to our Privacy Policy and our Terms of Use.
+
+ShareThis Copy and Paste
+<USER>

@@ -1,0 +1,88 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should euthanasia or physician-assisted suicide be legal?
+Text: Physician-Assisted Euthanasia/Suicide
+
+Date added
+2019/12/15
+Pages:  3
+Words:  999
+Order Original Essay
+
+How it works
+
+Part 1: Ethical Question Should doctors have a choice to opt out of assisting terminally ill patients with euthanasia/suicide?
+
+Part 2: Introduction
+
+Some people think being a physician is an exciting job for the most part. However, physicians have the task of making tough decisions that could hurt many people emotionally. The morality of assisted euthanasia and suicide has been questioned by many people. Some may consider euthanasia and suicide immoral any wrong. Unfortunately, euthanasia and suicide may be the only option to end pain and suffering for terminally ill people. For example, cancer can be a terminal illness that is painful and will eventually kill you. Patients continuously hear things from their physicians like, “There is nothing more we can do for you.” The first thing an ill person would do is to decide whether they want to live or not. Sadly, ill patients chose assisted suicide or euthanasia. Assisted suicide is also called, “Physician aid-in-dying”. The medical term was renamed because suicide sounds harsh. States like Oregon, California, Colorado, Vermont, District of Columbia, and Washington have approved physician aid-in-dying; doctors are able to supply their patients with the medications that will cause their deaths, but doctors cannot administer the medication. All patients must be able to take his or her medicine by themselves. Euthanasia is where a doctor administers the medication. Euthanasia is illegal in the United States but, it is legal in the Netherlands, Luxembourg, and Belgium (Jaret, 2018). Physician-Assisted Euthanasia/Suicide 3 According to our textbook, assisted dying should reiterate that laws themselves do not settle the question of whether a procedure like assisted suicide or euthanasia is moral because several Individuals who live where euthanasia/suicide is illegal, think it should become legal; while many who live in places where the law allows it to believe that it is wrong and should be banned (Thames, 2018 Sec.7.4). Although a state can legalize assisted suicide, it is not able to fore a doctor to perform the act if he/she opposes. This paper will consider whether lawmakers have a moral obligation to choose to protect the rights of doctors who wish not to participate in helping terminally ill patients with euthanasia or suicide.
+
+Part 3: Explanation of Ethical Theory
+
+Utilitarianism is the ethical theory in which actions, laws, or policies are right only if they are useful and benefit individuals with greater positive value and least negative value compared to available alternatives (Thames, 2018. Sec.3.1). According to Thames, Jeremy Bentham (1748–1832) was a British philosopher and the founder of utilitarianism. He displayed a précised vision of hedonism. His take on hedonism meant that we should shrivel down all value to happiness or unhappiness, all happiness to pleasure (good) and the absence of pain (bad), and unhappiness to pain and the absence of pleasure. He emphasized that by following through with this action, it would help us understand the main source to distinguish “good” from “bad” consequences. Although Bentham was the founder of Utilitarianism, there was a man named John Stuart Mill who was greatly influenced by him. Mill took on Bentham’s ideas and delivered his thoughts to unwilling ears. He was known to be extremely blunt and forward with his words when addressing criticisms made of utilitarianism. Physician-Assisted Euthanasia /Suicide 4 Utilitarian is known to be a type of consequentialism. Consequentialism is the belief that the morality of an act is determined by what happens as a result of committing the act. One can dig deeper into other aspects of utilitarianism and find that philosophers took into consideration the people who are benefiting from certain acts. Sometimes only one person is affected by a choice. For example, if a man is choosing a sundae topping for himself, and no one else will be affected by his choice, then he should pick the sundae topping that brings him the most happiness. However, if we were making a choice that would affect other friends and had to follow the utilitarian in the scenario, we would pick the toppings that would make the highest number of friends happy.
+
+Need a custom essay on the same topic?
+Give us your paper requirements, choose a writer and we’ll deliver the highest-quality essay!
+Order now
+
+Part 4: Application of the Ethical Theory
+
+The core principle of utilitarianism is the greatest happiness overall. Someone using this ethical theory to consider if doctors should have a choice to opt out of assisted euthanasia/suicide would come to the conclusion that it would contribute to more pain and suffering if they did opt out. Unfortunately, we all must die one day, doctors have a moral obligation to do the right thing and help their patients die with dignity. The many forms of suffering can be unbearable to a terminally ill patient. A patient’s last wishes should be fulfilled and granted. No one wants to watch people die in pain. However, if a physician is able to assist that patient with euthanasia/suicide to help end the pain; it would be considered morally fit in the eyes of some people (Pies, 2018). For example, a grandmother told her family she did not want to be in ICU or on any types of machines as her last request. She made it very clear that she wanted physician assisted-dying as she was dying with aspiration pneumonia. The grandmother fell deep in a coma after the caregiver failed to follow her instructions. After a week the grandmother woke up in excruciating pain and there was nothing anyone could do (Forest, 2017). Imagine, being the doctor who could have made a difference and help this grandmother die with dignity. Listening to a patient’s point of view is very important. Doctors should take all aspects into consideration before opting out of euthanasia/suicide.
+
+References
+
+Forest, C. (2017). Aid-in-Dying. I’m a doctor and here’s what it’s like helping terminally ill patients end their lives. Retrieved from https://www.vox.com/first-person/2017/9/21/16335534/aid-in-dying-california-legal-end-of-life Pies, R. (2018). How does assisting with suicide affect physicians? Retrieved from http://thecoverstion.com/how-does-assisting-with-suicide-affect-physicians87570 Thames, B. (2018). How should one live? An introduction to ethics and moral reasoning (3rd ed.). [Electronic version]. Retrieved from https://content.ashford.edu/                 
+
+Did you like this example?
+
+The deadline is too short to read someone else's essay
+
+Hire a verified expert to write you a 100% Plagiarism-Free paper
+WRITE MY PAPER
+Papersowl
+4.7/5
+Sitejabber
+4.7/5
+Reviews.io
+4.9/5
+
+Cite this page
+
+Physician-Assisted Euthanasia/Suicide. (2019, Dec 15). Retrieved from https://papersowl.com/examples/physician-assisted-euthanasia-suicide/
+<USER>

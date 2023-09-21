@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: standardize test improve education
+Text: BARC: New Bleeding Definitions Aim to Standardize Trial Endpoints
+
+New bleeding guidelines that replace terms like “major” and “minor” with a numbered hierarchy of increasing severity may mark a significant step toward standardizing bleeding endpoint definitions for cardiovascular clinical trials involving antithrombotic therapies. The guidelines appear in the June 14, 2011, issue of Circulation.
+
+The Bleeding Academic Research Consortium (BARC), a collaboration among academia, professional societies, and federal agencies, modeled its effort on the Academic Research Consortium, which standardized key ischemic endpoint definitions such as stent thrombosis for studies aimed at evaluating coronary stents. According to the authors, BARC arose from the need to overcome the drawbacks of the myriad bleeding definitions currently in use in clinical trials, including TIMI and GUSTO. The consensus report was written by a team led by Roxana Mehran, MD, of Mount Sinai Medical Center (New York, NY).
+
+In brief, BARC incorporates 5 bleeding types (table 1).
+
+Table 1. BARC Definitions
+
+Type 0
+
+No bleeding
+
+Type 1
+
+Bleeding that is not actionable and does not cause the patient to seek treatment
+
+Type 2
+
+Any clinically overt sign of hemorrhage that “is actionable” and requires diagnostic studies, hospitalization, or treatment by a health care professional
+
+Type 3
+
+a.       Overt bleeding plus hemoglobin drop of 3 to < 5 g/dL (provided hemoglobin drop is related to bleed); transfusion with overt bleeding
+
+b.      Overt bleeding plus hemoglobin drop < 5 g/dL (provided hemoglobin drop is related to bleed); cardiac tamponade; bleeding requiring surgical intervention for control; bleeding requiring IV vasoactive agents
+
+c.       Intracranial hemorrhage confirmed by autopsy, imaging, or lumbar puncture; intraocular bleed compromising vision
+
+Type 4
+
+CABG-related bleeding within 48 hours
+
+Type 5
+
+a.       Probable fatal bleeding
+
+b.      Definite fatal bleeding (overt or autopsy or imaging confirmation)
+
+
+Although most studies have traditionally not considered CABG-related bleeding, in developing their definitions, the BARC experts felt it was an important inclusion since 1-year results from the ACUITY trial found that up to 12% of ACS patients may undergo CABG during the index hospitalization.
+
+The temporal relationship of the bleeding event to CABG is the primary factor that differentiates BARC type 4 bleeding from type 3. “Therefore, if a bleeding event occurs during the specified time frame in relation to a CABG procedure but does not meet type 4 severity markers, it will not be adjudicated as a bleeding event,” the authors write. “It is also noteworthy . . . that only allogeneic transfusions are considered transfusions for CABG-related bleeds.”
+
+While they point out that no universal definition ever will be perfectly accurate in terms of sensitivity and specificity, or for all applications, “[t]he value of a consensus definition that is used consistently across clinical trials is not dependent on perfection.”
+
+‘Apples to Apples’
+
+In a telephone interview with TCTMD, BARC report coauthor Sunil V. Rao, MD, of Duke University Medical Center (Durham, NC), said the document is a way of formally recognizing that bleeding is a risk of antithrombotic therapy trials as well as PCI trials, a risk that is clearly manifest in clinical care.
+
+“We think the BARC document is important because there has never been an attempt to standardize bleeding definitions in the way we’ve tried to standardize MI definitions and stent thrombosis definitions,” he said. “In the modern era, where clinicians are faced with multiple choices with respect to antithrombotic therapy, procedural approaches, etc, they are left in a bit of a quandary in trying to find the safest approach. What this document is designed to do is provide a framework for future studies to use standardized definitions so that going forward when new data are generated, clinicians have an easier time interpreting safety data because now we are finally able to compare apples to apples.”
+
+In an editorial accompanying the report, US Food and Drug Administration (FDA) representatives, led by Karen A. Hicks, MD, say the agency supports the use of standardized endpoint definitions that have been validated and properly reflect clinical outcomes. “Although not yet validated or associated with clinical outcome, BARC is a step in the right direction,” Dr. Hicks and colleagues write.
+
+Dr. Rao said he and the other BARC members understand the FDA’s concerns and acknowledge that while some elements of the definitions have been validated, the BARC definitions do remain to be tested in terms of prognostic significance, which is the intended next step.
+
+FDA Still Has Questions
+
+The FDA authors note that there are certain issues that BARC needs to address, including:
+
+  • Why a 48-hour window was selected for CABG-related bleeding but a 72-hour window was selected for a peri-CABG event using the universal definition of MI
+  • Why a type 1 bleed is referred to as “not actionable” when the patient may “take action” and discontinue medication because of bleeding without seeking medical attention
+  • Why an intraocular bleed compromising vision is equivalent to an intracranial hemorrhage for BARC type 3c bleeding when it is unknown whether the intraocular event, albeit serious and debilitating, is associated with clinical outcome
+
+“The FDA acknowledges the importance of BARC’s global approach to a consensus set of bleeding definitions and encourages similar efforts,” Dr. Hicks and colleagues write. But they also encourage more communication between trial sponsors and the agency to tailor endpoints, as needed, “according to the type of trial and to the particular drug and population being studied.”
+
+An interesting feature of the BARC definitions that separates them from other bleeding scales is the numerical system for categorizing bleeding, which Dr. Rao said was a deliberate attempt to “get away from emotional words like ‘major’ and ‘minor’ or ‘severe’ or ‘moderate’ because the reality is those are very subjective terms. One patient’s minor bleed may be another patient’s major bleed.”
+
+Do We Need BARC?
+
+But while the BARC effort is a good first step from a diverse and well-respected group, noted Neal S. Kleiman, MD, of Methodist DeBakey Heart and Vascular Center (Houston, TX), he questions whether standardization is really necessary.
+
+“I think if you are studying a therapy for which bleeding is a complication, then yes you ought to report things in a standardized fashion,” Dr. Kleiman told TCTMD in a telephone interview. “But I’m also worried that the more things are standardized, the less stimulus there is to look at things in a new way.”
+
+The true test for BARC, he said, will be how easy the new definitions are is to use and whether clinicians accept them as they have accepted the universal definition of MI, for example. In addition, as the FDA researchers point out, there is still the question of association with outcome, Dr. Kleiman added.
+
+“There is no question that bleeding is linked in an associative way to the risk of death,” he said. “How much of that is simple association because sick people bleed, and how much is causal, we just don’t know. There’s probably a component of both. Even people who believe strongly that it is causal can’t agree on a solid explanation.”
+
+Note: Dr. Mehran and other coauthors are faculty members of the Cardiovascular Research Foundation, which owns and operates TCTMD.
+
+ 
+
+
+Sources:
+  1. Mehran R, Rao SV, Bhatt DL, et al. Standardized bleeding definitions for cardiovascular clinical trials: A consensus report from the Bleeding Academic Research Consortium. Circulation. 2011;123:2736-2747.
+  2. Hicks KA, Stockbridge NL, Targum SL, Temple RJ. Bleeding Academic Research Consortium Consensus report: The Food and Drug Administration perspective. Circulation. 2011;123:2664-2665.
+
+Related Stories:
+
+Disclosures
+  • Dr. Mehran reports receiving a research grant from the Bristol Myers Squibb/Sanofi-Aventis pharmaceutical partnership, and serving on advisory boards for Abbott Vascular, Accumetrics, AstraZeneca, Cardiva, Cordis, Gilead, Guerbet, Ortho-McNeil, Regado Biosciences, and St. Jude Medical.
+  • Dr. Rao reports receiving research grants and serving on the advisory boards of multiple pharmaceutical companies.
+  • Dr. Hicks reports no relevant conflicts of interest.
+  • Dr. Kleiman reports receiving research support from Merck and Schering-Plough.
+
+Comments
+<USER>

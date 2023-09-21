@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2cOFQ76yfSGOG32gPsFWKRvRdas",
+  "object": "chat.completion",
+  "created": 1683104356,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 795,
+    "completion_tokens": 35,
+    "total_tokens": 830
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is not a statement or argument, it is a title and brief description of a research article. Therefore, it is not be appropriate to assign a quality label to it."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

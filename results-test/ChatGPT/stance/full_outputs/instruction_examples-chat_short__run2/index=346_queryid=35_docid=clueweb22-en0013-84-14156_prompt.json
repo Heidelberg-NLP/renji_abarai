@@ -1,0 +1,89 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: violent video game contribute youth violence
+Text: Watch CBS News
+
+Violent video games and mass violence: A complex link
+
+Were violent video games to blame for the Newtown tragedies where 20 children and six teachers were killed by a lone gunman, Adam Lanza?
+
+CBS News correspondent Bob Orr reports that Adam Lanza was motivated by violent video games and a strong desire to top Norwegian mass shooter Anders Breivik's toll of 77 deaths during his July 2011 massacre, citing law enforcement sources. He reports that Lanza targeted nearby Sandy Hook Elementary School during the December shooting because it was the "easiest target" with the "largest cluster of people."
+
+Law enforcement reportedly discovered a "trove" of violent video games from the shooter's basement, according to Orr, where the 20-year-old spent hours alone, playing with windows blacked out, honing his computer shooting skills. Lanza also visited gun ranges multiple times with his mother, Nancy.
+
+The latest revelations may contribute to ongoing debate over whether video games play a role in mass violence.
+
+Following the tragedies, Wayne LaPierre, CEO of the National Rifle Association, said that, besides putting armed guards in every schools, the country should look closer at "vicious, violent video games," singling out titles like "Bulletstorm," "Grand Theft Auto," "Mortal Kombat" and "Splatterhouse"
+
+In January, Vice President Joe Biden met with video game makers and other groups, including the broadcast and film industry and mental health experts, to come up with broader ideas to reduce gun violence. Ralph Nader went as far as calling makers of violent video games "electronic child molesters."
+
+Some lawmakers have also called for restrictions on violent video games, but CBS News correspondent Chip Reid reported in January that in 2011 the Supreme Court struck down a California statute banning the sale of violent video games for people under 18, saying the games were protected under the First Amendment. The industry voluntarily rates games for violence and mature content.
+
+Dr. Christopher Ferguson, department chair of psychology and communications at Texas A&M International University in Laredo, says he has not come across any link between playing violent video games and likelihood for violent behavior.
+
+Ferguson, who presented for Biden's task force in January, said many people understand at this point that most people who play violent video games won't become violent themselves and that there is a mental health component at play. That's different from after Columbine, he said, when many questions were raised about video games as motivations for violence. However, his studies, which have looked at people with mental health issues, including those prone to bullying violence, have found no added risk.
+
+"We can't find any evidence that those kids are affected either," Ferguson told CBSNews.com, referring to children with mental health problems.
+
+Ferguson argues that youth violence has been at a 40-year low, while violent video games remain popular. He finds it interesting how in the wake of Sandy Hook, video games have gotten a lot of blame, but when high-profile shootings involve older adults -- like 65-year-old Jimmy Lee Dykes, who shot a bus driver then kidnapped a 5-year-old and kept him in a bunker for days, or 62-year-old William Spengler, who allegedly shot and killed two first responders and injured two more firefighters in December after strangling his sister -- people don't look for similar sources to blame.
+
+"A 70-year-old does it and nobody talks [video games]," he said.
+
+Even if Lanza did play these violent video games, he said, it's "nonsense" to think that a tragedy could have been prevented by removing them from the equation. For example, the 32-year-old Breivik also claimed to be a fan of violent video games such as "Call of Duty," and "World of Warcraft" and said he honed his shooting skills with the games. However, his long manifesto contained even more information on the Byzantine Empire and Muslim expansion, so why not ban history books too, Ferguson wondered.
+
+He concedes many scholars who disagree with him are researching in good faith, but he wonders if spending national attention and money on these issue is worthwhile.
+
+"What's interesting is how eager some segments of society are to grab onto this narrative of violence in video games, just like it was comic books in the 1950s," said Ferguson. "You sometimes see that in a period of moral panic ... It gives us a sense of control over things we can't control."
+
+Other experts argue there may be a link, but its extent is unknown.
+
+A July 2011 study in the Journal of Experimental Social Psychology that looked at 70 young adults found playing violent games may desensitize players to violent imagery in the short-term. Tests showed those who played violent games like "Killzone" and "Grand Theft Auto" behaved more aggressively than those who played nonviolent games. At the time, lead researcher Dr. Bruce Bartholow, associate professor of psychology at the University of Missouri, told CBSNews.com that a single exposure to violent video games would not lead to violence, but this desensitization can occur over time.
+
+"I believe that there is a real reliable link between exposure to violent video games and aggression in the short-term," Bartholow told CBSNews.com Monday. He concedes the effect is probably short-lived, and more research is needed to be done to see how the effects can accumulate over time.
+
+However, he disputes that his study and others like his don't have relevance outside the laboratory. He says there is evidence that suggests they may predict real-world behavior. However, aggression itself is very complex, he says, it would be an oversimplification to say video games could lead to behavior like a violent mass killing.
+
+"Unfortunately I don't think the explanation is very simple," he said. "It might have been one ingredient ... in a whole stew of reasons why someone might do that. In theory, it could be one factor -- but I wouldn't say it's the only factor or the most important factor."
+
+View CBS News In
+CBS News App
+Chrome Safari
+Be the first to know
+Get browser notifications for breaking news, live events, and exclusive reporting.
+<USER>

@@ -1,0 +1,89 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should social security be privatized?
+Text: Why Education Must Be Public & Not Privatized | National Education Policy Center Skip to main content
+
+Why Education Must Be Public & Not Privatized
+
+Education needs to be in the public domain, and citizens need to fight to make sure that the slow creep of privatization does not turn into an avalanche. The democratic values that are the centerpiece of our society have been under assault, especially with the rise of the extreme conservative movement that began with Barry Goldwater, and continues today with the take over of the Republican party by extreme right-wing ideologues.
+
+However, the ideologues, who won’t go away, were dealt a blow by the “47%” who wouldn’t go away either. Although the election might mean an opening for progressives to move their agenda, and hold firm against on issues such as health care, social security, and education, there is the need to be vigilant, as well as activist.
+
+But there is a conundrum about the nature of education, and the ideas that are flowing out of Washington about the future course of public education. Both major political parties show little difference in how they approach education, including standards, testing, teacher evaluation, and funding. Neither party seems to understand why education needs to stay public, and should not be privatized, or sold off piece meal to the point that all of education is in the hands of corporate education wanna bees. George Lakoff and Elizabeth Wehling are helpful in making clear why education must stay in the public domain. They write
+
+American democracy is built on the ethic of citizens caring about other citizens— empathizing with each other, taking responsibility, both individual and social, for our citizenry as a whole, and creating a public government through democratic participation. Democracy’s sacred mission is to protect and empower everyone equally by the provision of public resources, what we call the Public.
+
+There are two views of education that are helpful in understanding the nature of what public education should be, and not be. We’ll analyze the conservative (in this post) and the progressive (in the next post) views of education and find out that the conservatives have used the language that enables them to dominate schooling today. Progressives have good ideas but they have been too reactionary to the conservative education agenda. They have not made convincing arguments. Progressive educators have a long history of accomplishments and the theory to support their views. Now is the time for progressives to not only make their case, but figure out how to get seated at the policy tables.
+
+Conservative View of Public Education: Business as Usual
+
+I’ll start with the conservative view of education. It dominates education today. We need to know why, and how to change this.
+
+In schools today, the most important result or outcome is the achievement level (test scores) of students and schools. Higher scores are better, of course. But a further inspection of using test scores as the measure of success for students (and teachers) and schools leads us to the conclusion that eduction is a business. George Lakoff and Elisabeth Wehling have looked into this and here is what they have to say:
+
+The conservative view of education can be thought of as the application of the laissez-faire free market. Good grades are profits; bad grades are losses. Greed is good. Classmates are competitors, not cooperators. Grade inflation is a metaphorical version of economic inflation. The more good grades there are, the less valuable they are. Innate talent that makes school easy is like being born wealthy, but for most students it is assumed that success is a direct consequence of discipline. The lack of natural talent is like being born poor; the only way to succeed is through discipline, by pulling yourself up by your bootstraps.
+
+When we begin to think of schools as business, then test scores are a measure of profitability. Indeed, students of teachers who get high achievement scores are rewarded in the same way that employees earn bonuses. But when scores are low, it is analogous to an unprrofitable business, which might mean layoffs, store closings, and fired staff. Lakoff and Wehling put it this way:
+
+Schools whose students regularly get bad test scores are unprofitable and considered failing schools. Like divisions of companies that lose money, they can be closed down, and just as managers whose divisions regularly lose money stand to get fired, so do teachers whose students don’t get high test scores.
+
+The No Child Left Behind Act of the Bush administration, and the Race to the Top Fund of the Obama administration are based on the conservative world view of public education. In each of these programs it is only natural to think of education as a business. The mandate (NCLB) to test students annually and to insist that the scores increase each year is analogous to many businesses that base their success on increasing profitability each year.
+
+There is nothing wrong with making a profit. But in education, we have to ask, “In whose interest is it to insist that students reach a minimum score on an achievement test?” Is measuring achievement a convenience that allows the authorities to use test scores the way CEOs using numbers to measure company growth?
+
+A common core of standards is the centerpiece of the conservative view of school. With corporations, non-profits, and billionaire individuals financing and lobbying policy makers, the standard’s movement defines curriculum and evaluation. With single sets of content standards (in mathematics and English/Language Art, and in a short time, science) and computer based testing soon to put in place, school managers will have spreadsheets on their computer screens to reward and punish schools, teachers, and students. Private companies quickly realized that they could design schools that taught to the test, claiming that their schools could out do regular public schools. The original idea of a charter school as a teacher led innovation was corrupted by national charter management companies.
+
+Charter schools are seen as a cure-all to raise test scores of American students. It’s ukind of like a 19th century elixir, or remedy that will serve as an antidote for the ills of traditional public schools. Many policymakers are motivated by the delusion that choice and competition is the answer to solving problems facing our schools. Public schools are the only agent that can create a sense of community among diverse communities from which students come. Charter schools have not done this. In fact, charter schools have further segregated children from each other, and we know that this is not a good idea.
+ 
+Yet, it is quite obvious that policymakers have ignored the research that has been conducted by university-based researchers, and not “partisan think-tanks.” Instead they are enacting laws around the country that will enable for-profit charter management companies to swoop in and set up charter schools, almost at will. These laws further destabilize public schools, and remove the locus of control of local schools, and put it into the hands of unelected bureaucrats (political appointees). Some of the charter bills that have been passed will result in an increase in politics and influence peddling in the context of multimillion dollar opportunities by establishing charter schools in various counties in each state. Real estate investment firms will find a pot of gold in these states. Firms will come in a buy land and/or empty buildings (schools, factories) and then in turn lease them to for-profit charter school management companies, such as KIPP, Academica, or Charter Schools USA.
+ 
+Two weeks ago, Georgia voters, connived by conservative politics and politicians, and lobbied by millions of dollars of out-of-state funding, voted yes to change the constitution making schools less-democratic by authorizing the Governor and legislative leaders to appoint a commission of fellow conservatives with power to approve charters anywhere in the state. The local district is left out of the decision, as are the voters since the commission is an un-democratic agency. The sell off of public schools is underway.
+ 
+Privatization is the transfer of public property, functions, and institutions in to private hands (Lakoff and Wehling). Privatization of schools, through charters or vouchers, is a colossal and moral mistake. Lakoff and Wehling explain how privatization of education is taking place. They write:
+
+Certain companies have set up widespread chains of corporate-owned charter schools, taking over public buildings and luring local students with claims of superior education while hiring teachers with little training at lower salaries and no or meager benefits and pensions. And all of this is paid for with government money that would otherwise go to support public schools. The public schools meanwhile lose their building spaces and funding for teacher salaries and pensions as money goes instead to profits for the charter school owners. Some charter school companies actively try to put public schools out of business. And some charter schools pay their principals hundreds of thousands of dollars a year but pay teachers a pittance. Moreover charter schools tend to teach to the test, turning schools into testing factories and undermining learning. Yet on the whole, charter schools do not perform better than public schools (though there are exceptions). Control over our children’s education has been handed over to private companies.
+
+In the next post, we’ll exam the progressive view of public education.
+
+Do you think the trend of privatization is good thing for education?
+
+This blog post has been shared by permission from the author.
+Readers wishing to comment on the content are encouraged to do so via the link to the original post.
+Find the original post here:
+<USER>

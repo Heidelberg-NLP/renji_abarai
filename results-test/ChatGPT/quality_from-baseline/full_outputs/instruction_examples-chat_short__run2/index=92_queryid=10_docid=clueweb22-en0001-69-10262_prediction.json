@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0j8OBlkmYI1zZJOJMPGRmNT9JVn",
+  "object": "chat.completion",
+  "created": 1687863646,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This passage is a news article and does not contain a clear rhetorical argument quality, therefore it cannot be labeled as high, medium or low."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1337,
+    "completion_tokens": 28,
+    "total_tokens": 1365
+  }
+}

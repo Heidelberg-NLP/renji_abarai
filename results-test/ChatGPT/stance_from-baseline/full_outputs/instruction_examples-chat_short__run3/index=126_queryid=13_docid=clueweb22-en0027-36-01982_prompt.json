@@ -1,0 +1,94 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Can alternative energy effectively replace fossil fuels?
+Text: Why Renewable Energy Will Replace Fossil Fuels
+
+by |July 17, 2017
+Steven Cohen, August 11, 2015 Photo by Bruce Gilbert
+
+Read more from Executive Director Steven Cohen on the Huffington Post.
+
+I am often a little amazed when I find renewable energy skeptics pointing out that without government incentives, renewable energy would not be competitive with fossil fuels, as if fossil fuels have not benefited from a series of public policies that greatly facilitated their development and adoption. Electric and gas utilities are monopolies regulated at the state level. Permission to operate and not compete and policies setting prices and assured return on capital investment are all provided by the government. Public service or public utility commissions operate in each state to protect the interests of those that generate and distribute electricity and natural gas. Then there is the oil depletion allowance, and the government’s huge investment in interstate and local highways. And of course, there was the billion-dollar bailout of the American auto industry, which the last time I looked makes products that are mostly powered by fossil fuels. All these initiatives are driven and funded by government, all a result of public policies designed to bring energy to the widest possible number of people. So please, no more nonsense about competing on the so-called level playing field. American capitalism has never been pure; we have always had a mixed economy. Government has long picked “winners and losers.”
+
+There is good reason for fossil fuel folks to be nervous. Time is not on their side. People know that they need fossil fuels―I certainly did today when I put gas in my car―but most of us wish we had alternatives to these earth-damaging sources of energy. The market for alternatives is there and it will displace fossil fuels when (not if) renewable energy technology becomes cheaper and more convenient. At the start of 2017, Pew conducted a poll on attitudes toward renewable energy and in March 2017 Gallup conducted a similar poll. According to Gallup’s Frank Newport, the poll reported that:
+
+  • “59% say protecting environment is more important than traditional energy
+  • Over seven in 10 favor development of alternative energy vs. oil, gas, coal
+  • Majority favor higher emissions standards, enforcement of regulations”
+
+Gallup’s poll confirmed similar results in the Pew poll, but Pew drilled down deeper and found partisan differences in views on energy. Pew found that the only group favoring fossil fuel development over renewable energy development was conservative Republicans. But partisanship was only one part of the story: Pew’s most significant finding was that age is a significant factor in attitudes toward renewable energy. The strongest support for renewable energy was from those aged 18-29. Among young people, 75% favored alternative energy compared to 19% interested in developing new sources of fossil fuels. Among those 30-49 years old the numbers were 72% renewable compared to 24% fossil. Even those 50-64 emphasized renewable over fossil fuels by 59% to 32%, and among those 65 and older, renewables were still favored by 50 to 38%. The only outliers were conservative Republicans. They still want to “drill baby drill.” Unfortunately, those fossil fuel zealots are the people controlling the three branches of the federal government.
+
+Gallup’s explanation for the survey results is that fuel is so plentiful and cheap that people are willing to explore alternatives. While I am sure that is true, that does not explain the age effect. Why are young people so much more anti-fossil fuel and pro-renewable energy? I believe it is because they understand the negative environmental impacts of fossil fuels. They have lived their entire lives understanding these impacts and they believe that technology can help reduce those impacts. Young people have a fundamental belief in the transformative potential of new technology.
+
+Gallup’s view that good economic news leads to greater support for environmental protection must be viewed in light of Pew’s age cohort analysis. Young people tend to have the fewest economic resources so economic plenty does not explain their view. Moreover, if the young maintain these views as they age, the views of older, more fossil fuel oriented people will be replaced by the views held by today’s millennials.
+
+Our economy is built on energy, and assumes energy will be reliable, accessible and relatively inexpensive. Transitioning away from fossil fuels will be a long process. But it is a transition that young Americans strongly support. People raised in a world of constant technological change have a different attitude toward technology than those raised in an era of gradual technological change. Young people are constantly learning how to use new software programs and how to make the technologies they use function correctly. People my age frequently rely on younger people to explain how to set up and fix those programs and technologies. New applications arrive, new forms of social media fall in and out of style, and these remarkable changes are considered quite ordinary by millennials who have grown up with constant change.
+
+The expectation that climate change, toxics and pollution are simply the price of modern life and can’t be changed makes no sense to people whose life experience has been constant change. Global warming, sea level rise, massive floods, fires and storms are a way of life; from Fukushima to Hurricane Sandy; from California’s recent drought to floods in the Midwest. Some of these conditions are natural and some are human induced. All need to be more effectively addressed with investments in stronger and more resilient infrastructure. But the idea that business as usual is acceptable is not accepted by the young people who will experience more of the impacts of climate change than old people will. People know that fossil fuels cause climate change and pollution and they want a new way to power their homes and businesses.
+
+While people would like to see an alternative to fossil fuels, that does not mean they will use them if they become available. The alternatives must be convenient, reliable, and relatively inexpensive.  We all have sunk costs in current energy investments: our car, our water heater, and the rest of the appliances in our homes; these are barriers that will slow the transition to a new energy system. The electric car will need to be better and cheaper than the internal combustion car if it is to take over the market. That is true for renewable energy at home. But these technologies are improving on a daily basis. The electric version of the Model T is coming and it will transform personal transportation. Home battery storage is improving its reliability and coming down in price. As these technologies improve, they will drive fossil fuels from the marketplace.
+
+I am convinced that this transition is coming but know it would be a whole lot faster if we didn’t have a president who equated fossil fuels with wealth and national might. The effort to revive the fossil fuel industry in the United States is not helpful and we may lose our technological advantage in the renewable energy innovation race. But China, Japan, India and Europe are more than ready to fill in for us if we falter. Japan has no fossil fuels and is desperate to wean itself from nuclear in an energy politics dominated by the Fukushima disaster. There are plenty of alternatives to the U.S. federal government working right now to develop renewable energy.
+
+Renewable energy will replace fossil fuels because they will be less expensive, as reliable, and as convenient as fossil fuels. The polls indicate that the latent market for renewables in already in place. The issue is not if, but when. The health of our planet requires that this transition take place as soon as possible. Government incentives could and should be used to accelerate this process. In the United States, these incentives will need to come from states and cities since it is clear our dysfunctional federal government will do little or nothing to help.
+
+
+Subscribe
+Notify of
+guest
+
+
+17 Comments
+Oldest
+Newest Most Voted
+Inline Feedbacks
+View all comments
+Ian Coleman
+Ian Coleman
+4 years ago
+
+This is one of those (all too common) articles where the writer insists that he wants to happen must happen, even though there is little evidence that It will. Mr. Cohen apparently thinks that, since young people desire renewable sources of energy, these must inevitably come to exist. But the development of renewable fuels is not a problem of consumer demand. It is an Engineering problem, and is subject to the constraints of the physically possible. I’m sure people wanted flying machines in 1800, but that in no way meant that the invention of flying machines was imminent.
+The problem is, renewables like wind and solar are intermittent, and thus useless for practical generation of electrical power. Get it? They don’t work. And not only that but they must cost at least twice as much per unit of energy as fossil fuels. Mr. Cohen wants governments to deliberately make fossil fuels more expensive by (in effect) fining people for consuming them. An obvious feature of this scheme is that operating a motor vehicle would become something that only affluent people could afford. See? That’s something that environmentalists never actually admit, because it would expose the clear class bias in their thinking.
+
+Ian Coleman
+Ian Coleman
+4 years ago
+
+Saying that we will inevitably develop a reliable, economically feasible source of energy that does not produce air pollution is like saying that we will inevitably find a cure for cancer. These are physical problems, and there may be no solution to them.
+<USER>

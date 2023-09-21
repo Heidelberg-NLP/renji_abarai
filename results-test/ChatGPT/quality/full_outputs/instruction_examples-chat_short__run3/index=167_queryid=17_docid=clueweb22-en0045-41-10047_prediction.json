@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C330JTdkg6HfisGoto8GAFpjifAh",
+  "object": "chat.completion",
+  "created": 1683106006,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3380,
+    "completion_tokens": 36,
+    "total_tokens": 3416
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides information about the legality of recreational marijuana across different states in the US. It does not contain any arguments or persuasive language. Therefore, the rhetorical argument quality is low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

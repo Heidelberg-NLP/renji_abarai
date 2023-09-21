@@ -1,0 +1,112 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should any vaccine require child
+Text: Two young brothers wearing masks All U.S. residents (ages 5 and older) are now eligible for vaccination against SARS-CoV-2, the virus that causes  COVID-19. The Pfizer vaccine received full FDA approval for people ages 16 and older and continues to be available for ages 12-15 (and now ages 5-11) under the FDA’s emergency use authorization. Across the country, vaccine programs are available at schools, community clinics and pharmacies. Vaccination provides the best opportunity to further protect your child from COVID-19 and help get life back to normal.
+
+Like many parents, you may have questions about vaccine safety and wonder if vaccination is the right choice for your child. While caution is understandable, it’s important that all eligible individuals be vaccinated against COVID-19.
+
+Why vaccinate your child
+
+In order for the United States to reach herd immunity and control the spread of COVID-19, almost all the population — including children — needs to be immunized against the virus. While most infected children usually experience minimal symptoms, some can develop severe illness. In fact, children now account for approximately 25% of all COVID-19 cases. Even asymptomatic infections can spread the virus through schools and sports teams, affecting not only other children, but also the more at-risk adults they interact with. 
+
+Vaccination gets our kids back to the programs, activities and social interactions they desperately need for appropriate academic, social-emotional and physical development. The sooner all eligible Americans are vaccinated, the sooner we can get our country — and our kids’ lives — back to normal. 
+
+Answering your frequently asked questions
+
+Experts at Children’s Hospital of Philadelphia (CHOP) address your common concerns to help you make the best decision for your family.
+
+Is the COVID-19 vaccine safe for children and teenagers?
+
+Teen boy receiving vaccine Yes. The currently approved COVID-19 vaccines have gone through clinical trials and scientific review just like any other vaccine — including those your child has likely already received — and no standards of quality or safety were sacrificed.  Learn more about mRNA vaccine technology and approval.
+
+Does the COVID-19 vaccine have long-term side effects?
+
+Short-term side effects of the COVID-19 vaccine are usually mild and can include fatigue, headache and muscle ache. To date, after hundreds of millions of doses, the currently available mRNA vaccines have had no cases of long-term side effects. Hear more from Dr. Paul Offit, Director of the Vaccine Education Center at CHOP.
+
+You may have heard about a condition called myocarditis, which has sparked media attention as a very rare side effect of the COVID-19 vaccine. Unfortunately, this means that misconceptions and myths about the condition abound. Here's what you should know about myocarditis and mRNA vaccines.
+
+Can mRNA vaccines change an individual’s DNA?
+
+No. mRNA is active in a cell’s cytoplasm and never enters the nucleus of the cell, which is where our DNA is kept.
+
+Watch this video to learn more how mRNA vaccines work.
+
+Can the COVID-19 vaccine cause infertility?
+
+Infertility has not been found in women infected with COVID-19, so it would not be expected to be a concern for the vaccine. Learn more.
+
+My child has a pre-existing condition/health problem. Should they get the COVID-19 vaccine?
+
+In many cases, children and teens with pre-existing conditions like diabetes, IBD or other autoimmune diseases, or those who are taking medications that compromise their immune system, are at higher risk of complications from COVID-19 infection. The COVID-19 vaccines that have been approved for use cannot cause COVID-19, even in those with weak immune systems. Therefore, individuals with immune-compromising conditions may get the COVID-19 vaccine, as long as they do not have a severe allergy to a vaccine component (i.e., one that causes anaphylaxis or requires medical intervention).
+
+We encourage you to talk to your child’s medical specialist to discuss individual risks and benefits and determine whether your child should receive the vaccine. 
+
+Be a team player to help beat the COVID-19 pandemic! Watch a brief message from the Philadelphia 76ers.
+
+Additional resources
+
+Stay in Touch
+
+Are you looking for advice to keep your child healthy and happy? Do you have questions about common childhood illnesses and injuries? Subscribe to our Health Tips newsletter to receive health and wellness tips from the pediatric experts at Children's Hospital of Philadelphia, straight to your inbox. Read some recent tips.
+
+Contact Information
+
+Next Steps
+Contact Us
+Coronavirus Helpline
+
+You Might Also Like
+Father and daughter sharing tablet screen
+
+COVID-19 Resources for Parents
+
+Get details about how we're keeping you safe; what to expect at appointments; reducing parent, caregiver and sibling entry; and other resources to help.
+
+Nurse having dialogue with patient
+
+COVID-19 Vaccine Answers
+
+Have questions about COVID-19 and the vaccines? Check out a compilation of dozens of common questions we have received.
+
+Young child being tested for COVID-19
+
+COVID-19 Testing for Kids
+
+CHOP performs COVID-19 testing for children. Learn about how to get a COVID-19 test through CHOP, where testing is offered, and how to prepare kids for testing.
+<USER>

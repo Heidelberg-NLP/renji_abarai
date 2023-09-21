@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W18cPVTgU8IvySNiX6Cn39r5Lf4h",
+  "object": "chat.completion",
+  "created": 1687865226,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be a neutral summary of different arguments regarding the federal minimum wage. It does not have a clear rhetorical argument or position, so it cannot be labeled with a \"high\", \"medium\", or \"low\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 45,
+    "total_tokens": 2084
+  }
+}

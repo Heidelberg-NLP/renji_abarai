@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz9jVe2kVdFGUB8nkk61MWOjR6tF",
+  "object": "chat.completion",
+  "created": 1687857607,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text argues against legalizing Performance-Enhancing Drugs (PEDs) for athletes, citing various reasons such as health risks, possible abuse by doctors or athletes, and the potential dehumanization of sports. Although the text mentions an opposing argument made by a professor of ethics from the University of Oxford, it ultimately concludes that the traditional argument against PEDs in sports is more valid. I would label this text as high in terms of rhetorical argument quality, as it presents multiple well-thought-out points and counters an opposing argument."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 106,
+    "total_tokens": 2657
+  }
+}

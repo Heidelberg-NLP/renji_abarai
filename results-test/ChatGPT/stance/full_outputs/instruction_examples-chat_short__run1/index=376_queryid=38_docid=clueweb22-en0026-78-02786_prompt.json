@@ -1,0 +1,181 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should marijuana medical option
+Text: Missouri Medical Marijuana Card | Medical Marijuana Doctors
+
+Live. Life. Well.
+
+Get Your Missouri Medical Marijuana Card Online Today.
+
+Join thousands of other patients and apply for safe and secure Missouri Medical Marijuana Card Approval in just a few minutes. Customers enjoy our simple process, high approval rates, secure privacy, and a price match guarantee.
+
+Easy Online Process
+
+Physician Owned
+
+Price Match Guarantee
+
+Privacy Protection
+
+Why Patients love us
+
+Why Patients love us
+
+HOW TO GET YOUR MEDICAL MARIJUANA CARD
+
+Book Appointment
+
+Book an appointment with us online or call us at 888-479-7248 to speak with a representative.
+
+Visit Physician
+
+Our doctor will qualify you with the state and fill out your physician certification form.
+
+File Application
+
+Complete your online application with the state and receive your certification within days.
+
+Enjoy Fast, Affordable Medical Cannabis Access
+
+Approved in 10 Minutes or Less
+You’ll receive your Doctor’s Certification through email as soon as you’ve been authorized, along with instructions on how to acquire medical cannabis. Within days, you’ll get a hard copy of your online recommendation in the mail.
+
+Larger Possession Limits
+In all states, medical cannabis patients can possess and purchase larger amounts than recreational cannabis users. In most states, medical cannabis is the only option for legal use!
+
+Purchase Safer Products
+Compared to recreational users, Medical cannabis patients have access to healthier and safer options. Having a medical card allows patients to purchase exotic cannabis strains and higher-concentration edibles that aren’t available to recreational users.
+
+Access to Dispensaries
+Many local towns, even in legal states, allow medical cannabis but not recreational. You can go to any Bureau of Cannabis Control registered marijuana dispensary in your area if you have a medical card.
+
+checklist
+
+Why it's best to seek advice from a marijuana doctor online
+
+In many circumstances, family doctors are hesitant to offer medicinal cannabis because they are unaware of the possible medical benefits of treatment. Most medical schools’ curricula don’t touch the endocannabinoid system. This is where Releaf Clinics can help patients looking to Medical Marijuana for their symptoms. Our fully-licensed physicians, all of whom are registered with Medical Boards in each State we serve, have spent additional time learning about the health benefits of cannabis. They are aware of the medical problems for which it is prescribed and how it can aid such ailments. Ask as many questions as you want during your consultation! Our doctors are well-versed in the subject.
+
+Why Get Your MMJ Card With Releaf Clinics?
+
+Appointments That Work for You
+In several states, we offer telemedicine examinations, which means you can get your certification and medical marijuana card online. We also have clinics all across the United States that are safe and convenient.
+
+Physician and Employee Owned
+We’re proud to be one of the only MMJ clinics in the country that is 100% owned by the physicians and staff that run the company. With Releaf Clinics, you’ll get to work with real people who know the cannabis industry inside and out.
+
+Simple and Discreet
+Working with Releaf Clinics is a breeze to get your medical marijuana license. Our easy online process makes it easy for you to access medical cannabis.  Patients prefer Releaf Clinics because we value their privacy.  Nothing in our language or packaging, from your credit card statement to the physical mailer you receive with your referral inside, indicates anything about cannabis.
+
+100% Legal. 1000% Safer.
+Say “adios!” to back-alley meetups. With Releaf Clinics, you’ll speak with a licensed (and pleasant) physician instead.  Your medical cannabis card and recommendation will be embossed with the seal that legal retailers require to verify your patient status is genuine once you’ve been approved.
+
+Quick and Reliable
+Our doctors and staff are compassionate and approachable. They have a thorough understanding of how cannabis is used and can explain it in layman’s terms. We provide a secure platform through which Doctors can communicate with you online, and your personal information will never be shared with anyone else and will never be stored in a public database.
+
+Unmatched Customer Service
+We pride ourselves on our strong customer service. When you call us, you’ll talk directly to a real person who can answer your questions and help you take the next step. With Medical Cannabis Card, you never have to feel like you’re alone through your MMJ journey.
+
+What's Included With Your Releaf Clinics Evaluation?
+
+Marijuana Card for a Year
+
+A licensed California physician will issue you an MMJ recommendation that is valid for one year. You can renew it online with Releaf Clinics when it expires!
+
+Automatic Electronic Copy
+
+You'll get an email with a PDF of your online recommendation right away. Regular mail will deliver your formal cannabis recommendation (signed by the doctor) and hard-copy mmj card.
+
+Your Privacy is Protected
+
+According to HIPAA law, all patient records are kept completely confidential and retained securely. Your information will never be made available to the public or stored in a public database.
+
+Secure Credit Card Payment
+
+The secure payment processor at Releaf Clinics takes Visa and Mastercard, and you'll only be charged if the doctor approves. Otherwise, there is no charge for your consultation!
+
+In 3 Easy Steps, You Can Get Your Medical Marijuana Card
+
+1. SCHEDULE YOUR APPPOINTMENT
+
+Fill out a brief, private questionnaire in 30 seconds. We’ll get it reviewed by one of our accessible medical marijuana doctors.
+
+2. SPEAK WITH A MEDICAL MARIJUANA DOCTOR
+
+Our skilled doctors are well-versed in the medical applications of cannabis. Don’t be scared to ask questions; your cannabis evaluation can be as long or as short as you need it to be.
+
+3. IMMEDIATE E-DELIVERED CERTIFICATION
+
+Your medical marijuana recommendation will be available immediately if it is available in your state, and your hard copy will be mailed the same day.
+
+What Patients Are Saying About Releaf Clinics
+
+Frequently Asked Questions
+
+A medical marijuana card is an identification card issued by the state that will permit a qualified patient to buy cannabis from a licensed dispensary, possess, or cultivate cannabis for medical purposes.
+
+Step 1: You must visit a state-licensed physician (not a nurse practitioner or physician’s assistant) to obtain a physician certification.
+
+Step 2: Apply for an identification card from the Missouri Department of Health and Senior Services.
+
+Step 3: Once your application is approved and you receive your identification card, purchase medical marijuana from a state-licensed dispensary.
+
+It is 100% legal. Releaf Clinic health practitioners are licensed to practice in the state where they provide services. Our online solution complies with state telehealth legislation, and we store all of our clients’ personal information on a HIPAA-compliant database to preserve their privacy.
+
+Each state that permits the use of medical marijuana has its own list of qualified medical conditions. Cancer, anorexia, AIDS, chronic pain, spasticity, glaucoma, arthritis, migraine, and any other sickness for which marijuana gives treatment are all on the list of qualifying conditions for medicinal marijuana in most states. 
+
+Unfortunately, we do not accept any forms of insurance. Because marijuana is still federally banned, no insurance companies will pay for medical marijuana recommendations at this time.
+
+Releaf Clinics charges $150 for new patients and $99 for renewing patients. We also offer payment plans as well. If you have any other questions about pricing please call us at (888) 479-7736.
+
+No. You will only be able to purchase from a state licensed dispensary.
+
+Besides your state identification card, driver’s license, or U.S. passport, you don’t need any other proof. You can upload medical records throughout the Releaf Clinics signup process if you believe they will help your doctor better assess your eligibility for medical cannabis. You’ll need your doctor’s referral, a valid government-issued I.D., a photo taken at the county’s program office, and proof of residency within your county when you apply for the state after finishing your Releaf Clinics appointment.
+
+Yes, you can quickly and cheaply renew your medical marijuana card online through NuggMD for the same low price of $99.
+
+Within 30 days of submitting your application, if your application is approved.
+
+Live. Life. Well.
+
+Get Your Medical Marijuana Card Online Today.
+
+Join thousands of other patients and apply for safe and secure Medical Marijuana Approval in just a few minutes. Customers enjoy our simple process, high approval rates, secure privacy, and a price match guarantee.
+
+  • Should be Empty:
+<USER>

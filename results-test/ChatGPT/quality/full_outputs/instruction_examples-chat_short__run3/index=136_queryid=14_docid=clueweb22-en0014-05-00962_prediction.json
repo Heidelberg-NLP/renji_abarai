@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C31x9PDrArXQ4dXapdaGB0nusd3y",
+  "object": "chat.completion",
+  "created": 1683105941,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 795,
+    "completion_tokens": 20,
+    "total_tokens": 815
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is not a complete argument and does not contain any clear stance or opinion on the topic."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

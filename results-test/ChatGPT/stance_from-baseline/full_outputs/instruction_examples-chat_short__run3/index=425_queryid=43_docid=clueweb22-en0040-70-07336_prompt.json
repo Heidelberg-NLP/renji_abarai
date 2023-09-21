@@ -1,0 +1,52 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should bottled water be banned?
+Text: Bottled Water Should Not Be Banned Essay | ipl.org
+preview
+
+Bottled Water Should Not Be Banned Essay
+
+Good Essays
+Drinking water is an essential part of life and critical for good wellbeing. Eventually, we are comprised of 65% of water. While we are continually being instructed to drink our eight glasses of water a day, we aren't typically guided about which water we ought to trust and drink. However, there has been some noise around whether bottled water should be banned, leaving tap water as the only and free resource for drinking. To help clear this uncertainty, I strongly believe that bottled water should not be banned as it helps avoid contaminated public water, achieve optimal health and resolve water emergencies. Admittedly, pollution is one of the most concerning issues confronting the nature today, and water bottles that are tossed out, whom Leonard, Sachs and Fox (2010) state are 80% of them, just add to it. This increase however is too small compared to the one caused by plastics thrown from other products that aren’t even introducing recycling methods unlike to water bottles industries. Webb (2016) blames water…show more content…
+Wellsprings of tap drinking water are liable to contamination and require proper treatment to extract contaminants causing illnesses. This impurity of the water can occur either in the main water itself or during the distribution process which is exceeded by water treatment. In such irony, the process in which water is treated to “remove” those contaminants, which can come from many sources, uses chemicals that can be very dangerous to your life and that of your family. So at what odds is the tap water you are drinking from contaminated or not? The answer for this question was disastrous for the people of Nepal. One hundred percent of the 76 tap water samples examined where shown to be contaminated with heterotrophic bacteria (Pant, Poudyal and Bhattacharya, 2016). Would you rather leave those people to die rather than supply them with healthy water
+
+More about Bottled Water Should Not Be Banned Essay
+
+Get Access
+<USER>

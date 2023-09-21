@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W47IjY7SXsXOsFccnCJzoXycYnRZ",
+  "object": "chat.completion",
+  "created": 1687876676,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text does not provide enough argumentation for any stance on the issue, it just lists companies that manufacture voting machines. Therefore, the label will be \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1797,
+    "completion_tokens": 33,
+    "total_tokens": 1830
+  }
+}

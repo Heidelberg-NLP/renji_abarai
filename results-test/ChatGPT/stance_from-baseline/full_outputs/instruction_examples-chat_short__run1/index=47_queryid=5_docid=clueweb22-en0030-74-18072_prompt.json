@@ -1,0 +1,128 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should social security be privatized?
+Text: Social Security a HUGE Asset -- Should It Be Counted in Your Net Worth? (Free Money Finance)
+
+Free Ebook.
+
+
+Enter your email address:
+
+Delivered by FeedBurner
+
+« Something I Like: Applebee's 2 for $20 | Main | Save Money by Teaming Up with Your Neighbors »
+
+August 10, 2010
+
+Comments
+
+Feed You can follow this conversation by subscribing to the comment feed for this post.
+
+I do not include SS into my retirement plans, but rather see it as a nice bonus if, in fact, any is there to collect when I retire.
+
+While I do believe there will be some benefits at the end of the line, I see them being significantly cut back, and possibly unreachable until age 70. Therefore, I do all my planning without a thought towards SS.
+
+In many ways, SS has been a huge disincentive to Americans to use money wisely.
+
+I would count it as producing 15 - 20% of your income needs in retirement. Despite all the hoopla it has been more consistent so far than home values or stock portfolios in protecting workers' retirements.
+
+I am only 28 so I do not include it. I don't expect it to be there. Yes it makes me angry and I would like to see the option of priviatization.
+
+This does remind me a bit of the political discussion sorrounding SS reform. I think it is Paul Ryan of WI who has a pretty decent sounding plan that the CBO has reviewed as certifies as a "in the black" option for SS. At least a portion of ones SS contribution would be associated with some ownership rights. I think something along this lines may convince me to include a portion in my net worth calculation.
+
+RIDICULOUS, since you don't own it, can't get the principal nor "trade" it for another annuity option, it is "extra money" or "monthly income", no more, no less...one should only count on it for the exta's in retirement, not LIVING costs since the progrsm must change to continue longterm.
+
+I am 31 years old. I do not count it in my networth and think it would be ridiculous to do so. I have no faith that it will be around when I retire.
+
+Now for someone who is older, say 55 or 60 I still do not know why one would count it as part of their networth. They should include it in their budgets as expected income, but certainly not a theoretical number as part of their networth.
+
+Seems to me "worth" is very different from "income" as I believe FMF has pointed out many times. My wife receives a pension. I will receive SS benefits in 4 years. Neither of these is included in my current "net worth" nor, I think, will they in any later "net worth" calculation. However, I obviously do consider both heavily when forecasting my retire-ability (word?).
+
+I am 33 and per discussion with two CFP's, they both recommended not including SS in retirement cash flows. The consensus was that it will either be diminished for those with a certain level of net assets (e.g. $100K) or the age would be raised substantially to receive the benefit if at all. You either need to have several million in retirement or nothing at all to retire.
+
+I am very angry that our age group is funding current retirees and the general budget rather than the contributions being put into a trust account for my retirement as intended. If this were done in the corporate world, the people responsible for the pillaging of SS would be put in jail for misappropriation of assets. Yet, the government gets a free pass.
+
+I approach the potential Social Security Benefit as icing on the cake that I hope will be there...
+
+But for my retirement calculations, I leave it out of the equation. I do believe that my generation (Gen X) will get something, but perhaps not the full benefit that we should.
+
+The Social Security money is money that we paid in, and I think we should get at least some of it back.
+
+I am 35 and do not include SS in my current retirement plan. I consider retirement planning separately from my net worth calculations. I wouldn't include Social Security in any retirement planning until I'm at the age where I'm getting ready to start drawing down retirement accounts -- IF Soc Sec is still around at that time. As to net worth, when I calculate that I don't include SS or any possible future inheritances or future income, just the assets I have right now.
+
+If you're under 50, and someone asks you to include SS in your plan, he or she must hate you.
+
+I agree with another comment that you cannot count it as an asset because it is not something that you can sell or trade or convert to a lump sum. It can only be paid in monthly amounts. Also a fallacy in the thinking is when it is compared to the return on a larger sum of money that is assuming that none of the principal is drawn out in which case heirs could take at least part of the remaining balance after taxes. In the case of SS only a surviving spouse could get any benefit from the value of your SS. Nothing is available to other surviving heirs.
+
+An interesting question indeed, but as DIYInvestor and MgM noted above, since one doesn't own the assets themselves, just the "contractual rights" to the income stream, it would be a bit of voodoo personal financial economics to extrapolate that income stream into a ball of money to add into ones net worth calculations. Most financial site retirement calculators are set up to account for an estimate of a SS income stream for planning purposes, and I think that makes sense.SS acts a bit more like an annuity that has been set up too much like a pyramid scheme , and I suppose that is a valid reason why some above are less than sanguine when speaking of it. I'm not sure that some of the younger posters above really need to feel as pessimistic as they do about social security's future. Certainly, changes will have to be made to increase its sustainability factor. With the baby boomers beginning to claim their benefits, there will be fewer working people putting into the system. But even this scenario is not doomsday, as long as we have the smarts and political will to make those needed changes.
+
+The government has no legal obligation to continue paying social security. By the time young folk like myself (age 29) retire, the SS retirement age will have to be higher and payouts will be lower. The only prudent thing for me to do is to assume that I will not receive SS benefits.
+
+I don't count any future income or expenses in a net worth calculation. I don't think that makes much sense. Net worth is a snapshot of today. Social security is tomorrow.
+
+It's an excellent question. One I've tried many times to figure out. As a teacher in Illinois, I will lose my spousal benefit if my spouse precedes me in death due to the Government Pension Offset. This is an incredibly huge impact upon retirement planning. I will lose my spouse's $2000 a month and have been advised to buy a $350,000 Universal Life policy to replace that income to the tune of about $6000 per year. Not many teachers I know can fund that. Now, consider that a person married for 10 years is eligible for a spousal benefit even if they divorce. We've been married 34 years; that could qualify 3 non-working spouses!Please support the social security fairness act.To add insult to injury, I work a part-time job to try to save for retirement and have to pay social security that I won't even get! It's an abomination.
+
+There are 2 questions here-whether you believe Social Security will be around or not. If you don't think it will be around then don't include it-period. If that's what you believe fine. Actually Social Security is pretty easy to solve and wouldn't be a problem today if Congress would have put the surplus aside and invested it instead of spending it!
+
+If you believe it will be around then I believe it should be included. It's the same as having a Metropolitan Life annuity that promises to pay you $2,000/month starting at age 62 for as long as you live and adjusted for inflation. You would include that in your net worth. And yes, Met Life might not be around when you are 62.
+In fact, people that take a broad view of personal balance sheets include your expected earnings as an asset. You are like an oil well that will produce a stream of income over x number of years.
+
+I recently heard John Bogle (founder of Vanguard) on NPR say that when determining your asset allocation, one should assume a value of $300,000 for Social Security. So for example, if you would like your portfolio to be 50% equities and 50% fixed income, and you have $300,000 to invest, he advised to invest 100% of that $300k in equities.
+
+I think it all depends on your goals, risk tolerance, and whether you are counting on receiving SS...(i.e. this strategy makes more sense for someone in their 50s where SS is right around the corner, less so for someone in their 20s where the available of SS is more up in the air).
+
+I don't count my social security in my net worth and not plan on doing so. It might be there or it might not. We can keep guessing. We cannot control anything about social security at this point. So I just ignore it and treat it like a tax. If I do end up getting SS benefits, excellent! In all probability it will go to charity!
+
+If we can "choose" whether we pay into SS, then it is a different thing. But for now, there are enough things that I can control, that will make my retirement income comfortable. Things that I can't control... I pretend they don't exist...
+
+I will turn 65 in 2038, Social Security will be completely insolvent (currently) in 2037.
+
+
+(though I'd argue it's insolvent today)
+
+Consider SS your "fluff factor" What ever you get you get.
+
+I guess set your expecatitons low and you will not be disappointed especially when you are dealing with the government.
+
+Another twist on that axiom is
+
+"Set your expectations low so you will acheive them."
+
+The best you can do with the government running the plan.
+<USER>

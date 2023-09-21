@@ -1,0 +1,129 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should social security be privatized?
+Text: Should the Public Sector Undertakings (PSUs) be privatized? - Quora
+Fiduciary financial advisors have a legal obligation to assist you. Learn the cost of hiring one today.
+26 Answers
+
+Not all public sector industries in india are incompetent. There are some of them which are successful and some that are not.
+
+The gas turbine research establishment Under the DRDO worked for almost 30 years and failed to develop an efficient jet engine for the LCA and they are planning to use that engine for UAV
+
+The arjun tank developed by the DRDO can be considered a failure because the army prefers russian made T90 instead
+
+The ordinance factory in india can be considered one of the worst psu .Delays,cost overruns, are quite common.Their INSAS rifles are quite deadly not just for the enemy but a
+
+Not all public sector industries in india are incompetent. There are some of them which are successful and some that are not.
+
+The gas turbine research establishment Under the DRDO worked for almost 30 years and failed to develop an efficient jet engine for the LCA and they are planning to use that engine for UAV
+
+The arjun tank developed by the DRDO can be considered a failure because the army prefers russian made T90 instead
+
+The ordinance factory in india can be considered one of the worst psu .Delays,cost overruns, are quite common.Their INSAS rifles are quite deadly not just for the enemy but also for the person who uses that rifle
+
+But there are some public sector undertaking that are quite successful. For example take the ISRO.Its achievements are quite popular and doesn't need much explanation.
+
+The reason why the psu in the defense sector is failing is because unlike the private sector .PSU doesn't “brain drain" people .The fact that they have job security and incompetent management are the main reason for their collapse
+
+I've myself undergone intership at two public sector industries FACT and cochin shipyard. Both in kochi
+
+FACT is huge manufacturer for chemicals and fertilizers and their plant is enormous.but the state at which it is operated is quite depressing
+
+Most of the plants like ammonia plant are out of order because of poor maintenance and management they say almost the entire plant is like mothballed.
+
+Cochin shipyad on the other hand was busy when i visted they wore working on the aircraft carrier vikrant and a mysterious vessel called technology Demonstration vessel for drdo and some other transportation vessels for Andaman islands.But what really shocked me was when i asked about their profits .they told me that they don't look for profit they only looks for survival. Can a private sector industry work like that
+
+The psu in india steal the competition by low cost in production they does this because when they are in debt they always have the government backing them
+
+In my opinion incompetent industries should ne handed over to the private sector as their survival instincts can lead to great results .
+
+They know that they have to work hard to get promotion,salary hike.
+
+They can't get away with sub standard products
+
+And the young minds in india can be properly utilized
+
+But who cares what i say .Every body likes the good old government job.
+
+No.If PSUs are under Govt. control, country will be self reliant.Country need not depend on greedy private people.
+
+But Govt. internationally makes PSUs loss-making so that they can be sold to private companies at the cheapest price.The private companies will be benefitted a lot by privatisation.Its no big deal to make PSUs profit making.Even the profit making PSUs are now being sold to favour the private companies.It is the intention,especially,of Bjp government. If PSUs remain under Govt. it is beneficial to people.But who care for people?
+
+The best person to answer, a licensed vet. Sign up quickly and connect with a vet in less than a minute.
+
+I work for a public sector and so I can answer this question. In current context, where a lot of PSUs are being identified for disinvestment(govt says it a 100 days plan) in 100 days. This question becomes more relevant in 2019. A lot of people are seeking correct answers. Some good answers have been posted here but I think you are trying to understand some practical aspect of privatization. Rest other information is available on Google and other sites.
+
+Its true that many PSUs are becoming loss making. Govt first tried to justify privatization by saying that sick PSUs are burden on govt expendi
+
+I work for a public sector and so I can answer this question. In current context, where a lot of PSUs are being identified for disinvestment(govt says it a 100 days plan) in 100 days. This question becomes more relevant in 2019. A lot of people are seeking correct answers. Some good answers have been posted here but I think you are trying to understand some practical aspect of privatization. Rest other information is available on Google and other sites.
+
+Its true that many PSUs are becoming loss making. Govt first tried to justify privatization by saying that sick PSUs are burden on govt expenditure and their disinvestment may likely attract investors which may improve financial condition of PSU, and if this is not the case, at least the losses can be compensated by earning through this disinvestment (selling PSUs to public/corporates etc).
+
+But Now Govt has planned to sell BPCL, Concor (Maharatna and profit making PSUs. BPCL alone has given rs. 9000 cr dividend to govt and around 17000 cr tax in last 5 years). Also loss making like BSNL, HMT, MTNL, Air India and many more like NEEPCO, THDC, IRCTC, Indian Railways (most of the operations) to be soon projected for sale.
+
+So what is the aim? Govt really do not recapitalize a lot of PSUs except for Public sector banks. A lot of PSUs are loss making for many years. So govt justification to sell psu to meet their expenses is a false narrative. In fact, these are being sold to meet the revenue targets/ tax targets set by the govt. So No justification can be made on selling PSUs. A general thinking for IPO/stake selling is to expand the business. Open new branches. Hire more staff and it is a process of funding by not taking loans from bank at heavy interest rates.
+
+So after privatization, did new branches open? Did business expand? Did more staff hire? No. So what was it for? Obviously to meet govt fiscal expenditure/ monitory obligations, which in no way fulfills the true spirit of IPO/ listing/ Privatization. Now you can understand the various narratives running behind privatization in favour of govt and its true spirit.
+
+As I said that many PSUs are loss making but selling the PSUs is not a solution as it is not doing any good to the PSU itself. In fact, it is a step towards their closure. PSU management is forced to minimize their expenditure/standing charges etc and in order to meet this, VRS is given to employees, branches are shut. That is what is happening today.
+
+Govt should focus on training of staff, more advanced business models, performance based promotion policy etc to compete with private sectors. But this thing is not happening. One ques may come to your mind, as to why private sectors are allowed to operate? Govt could have regularized the prices/ rates of these PSUs and this competitive price purpose could have been achieved. But then, the competence/ advancement might not have been. So its okay to have pvt players too.
+
+Purpose of establishing PSU:
+
+One imp thing that everyone is ignoring that Public sectors are made for the welfare of public, to provide them services at low cost, no frauds and to bring confidence in public for their money/investment. You cant expect a PSU to make profit for you. It was not established for this purpose. It is okay for a PSU even if it is not making profit. Instead of using corrective measures and recapitalization to restore business operations, you are selling it to meet revenue targets. It can’t be justified in anyway.
+
+Fate of the employees:
+
+Think, how will you feel, when one day you come to know that your company has become private. The pain you took day and night to get a job at PSU was in vain. Moreover, your job is not secure.
+
+For employees, privatization will lead to insecurity. For public, it will increase the charges of service( as pvt sector are based on the concept of profit), for a company it will lead to its closure if not undertaken in its true spirit. So avoid narratives. Privatization has no use. Think of the fact, that earlier these PSUs (Eg All Banks, Insurance etc) were pvt entities, they were made Public. For what? To convert them later to private sector again?
+
+Why today Reliance mukesh ambani, kingfisher vijay mallya, Rajesh Exports etc. became billionaires in a country where many people lack basic resources and die of hunger daily?
+
+Privatization is a concept of exploiting middle class and poor people of India. They will suck the blood of the innocent like leeches. They are paid minimum wages and will be thrown out if they fail to perform at their later stages of life without providing any compensation.
+
+From outside, people may feel like private sector making profits. But it is at the cost of exploiting the innocent. Many people prefer to work in priv
+
+Why today Reliance mukesh ambani, kingfisher vijay mallya, Rajesh Exports etc. became billionaires in a country where many people lack basic resources and die of hunger daily?
+
+Privatization is a concept of exploiting middle class and poor people of India. They will suck the blood of the innocent like leeches. They are paid minimum wages and will be thrown out if they fail to perform at their later stages of life without providing any compensation.
+
+From outside, people may feel like private sector making profits. But it is at the cost of exploiting the innocent. Many people prefer to work in private sectors if they fail to get a job in PSU/Govt sector.
+<USER>

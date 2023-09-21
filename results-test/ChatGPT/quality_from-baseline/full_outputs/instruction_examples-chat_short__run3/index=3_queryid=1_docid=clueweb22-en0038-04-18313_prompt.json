@@ -1,0 +1,78 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Charter schools, merit pay, vouchers, oh my! There are many controversies swirling around in the world of education, and it can be overwhelming to keep track of them all. But one issue has been getting a lot of play, and some say it could be the root of the problems facing schools: teacher tenure.
+
+Just what is tenure? Academic tenure refers to a policy which gives professors and teachers a permanent contract, effectively ensuring them a guarantee of employment … for life. Teachers that have tenure cannot be fired unless for “just cause,” such as severe misconduct or incompetence, and even then cutting through the red tape can be extremely difficult.
+
+Tenure gained traction in the early 20th century as a means of protecting educators from being fired for the wrong reasons. Back then, a new political party in office or a racial or personal bias could get perfectly good teachers sacked; tenure was created to ensure that teachers didn’t suffer from the capricious actions of administrators. Tenure also serves to protect professors whose research or teaching curricula might ruffle feathers, and to ensure job security for out-of-the-box academic pursuits.
+
+Typically, academic tenure is granted to university professors only after an intensive and protracted process of review and vetting, and professors usually don’t come under review for tenure until they’ve spent at least five years in a “tenure-track” position. Primary and secondary school teachers can earn tenure in as little as three years on the job.
+
+Critics say that teacher tenure makes it virtually impossible to fire bad teachers. According to a recent study by The New Teacher Project (TNTP), even though 81 percent of administrators say there is a tenured teacher in their school who is performing poorly, at least half of the districts studied failed to dismiss any tenured teachers for poor performance in the two to five years the study took place. That’s because getting rid of teachers with tenure can involve years of review and bureaucratic hurdles, and can cost tens of thousands of dollars per teacher.
+
+Another problem, critics say, is that teachers are not properly evaluated before being granted tenure. Less than 1% of teachers evaluated were found to be unsatisfactory, according to the TNTP study. “Many states have set the bar far too low for the achievement of tenure,” says Jeanne Allen, president of The Center for Education Reform. “It is no longer based, in most cases, on teacher effectiveness, but instead on a teacher’s length of service.” With tenure being granted after only a few years, some teachers may not have the chance to show their worth, or their ineptitude. “For some people, teaching is just not their position,” says PTA President Charles Saylors. “Parents talk to us and say ‘My child’s teacher doesn’t have the heart in the job.’ That is a legitimate concern. We should not be afraid of saying, ‘Teaching may not be your profession.’”
+
+Some states and school districts are beginning to turn to merit-based models for tenure and pay. New York’s Mayor Bloomberg announced that, beginning this year, only teachers rated “effective” or “highly effective” will be eligible for tenure. Last year, DC Schools Chancellor Michelle Rhee negotiated a controversial union contract that weakened teacher tenure in favor of higher salaries and bonuses upfront.  Increasingly, “accountability”, “merit-based” rewards are becoming the catch-phrases of the teacher tenure question.
+
+What's the bottom line? “What parents need to know about tenure is that it is not a “seal of approval” for teachers,” says Allen. “Smart tenure reform would grant tenure to teachers who demonstrate classroom effectiveness and student learning gains over time.”
+
+Should teachers have tenure? Learn more about both sides of the argument and join the debate!
+<USER>

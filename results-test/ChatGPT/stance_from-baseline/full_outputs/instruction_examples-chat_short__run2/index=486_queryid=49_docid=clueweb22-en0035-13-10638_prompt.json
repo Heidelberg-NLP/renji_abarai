@@ -1,0 +1,86 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should body cameras be mandatory for police?
+Text: Police should use body cameras for every London stop and search – report | Stop and search | The Guardian Skip to main contentSkip to navigation
+
+Police should use body cameras for every London stop and search – report
+
+This article is more than 7 years old
+
+Report chaired by Doreen Lawrence and Tessa Jowell argues that with no official guidelines the Met leaves body-worn video usage up to individual officers
+
+Police perform a stop and search. The report is the result of six months of work with young people from across the capital.
+Police perform a stop and search. The report is the result of six months of work with young people from across the capital. Photograph: Alamy Stock Photo
+Police perform a stop and search. The report is the result of six months of work with young people from across the capital. Photograph: Alamy Stock Photo
+
+Frontline Metropolitan police officers should be required to wear video cameras during all stop-and-search interactions in London, a report says.
+
+Chaired by Doreen Lawrence and Labour’s London mayoral hopeful Tessa Jowell, the report is the result of six months of work with young people from across the capital, drawing on their personal experiences of stop and search and those of their friends and families.
+
+The report, which recognises that stop and search can be an important tool for police officers to fight crime and reassure the public, makes three main recommendations:
+
+  • Frontline police officers should be made to wear body-worn video cameras during every stop-and-search interaction with the public.
+  • The Met should investigate the inconsistent use of stop-and-search slips, which are issued to an individual to provide a record of their interaction with a police officer.
+  • More regular and better training should be given to police officers, and by an independent provider.
+
+The report, called Stopping Distance: Making Stop and Search Work for Londoners, argues that the Metropolitan police have not published proper guidelines on how and when body cameras are to be used, potentially leaving usage to the discretion of individual police officers.
+
+A 12-month trial of body-worn video cameras across the Met will conclude shortly and a formal evaluation will be completed and published by the College of Policing and the mayor’s office for policing and crime in September. Last week the Met commissioner, Sir Bernard Hogan-Howe, announced he would be stepping up the use of targeted stop-and-search operations in high knife-crime areas of London due to a recent rise in stabbings.
+
+Hogan-Howe said there had been 1,679 stabbings of people aged under 25 in the 12 months to May, a 23% increase on the previous year.
+
+Baroness Doreen Lawrence and Tessa Jowell
+Doreen Lawrence and Tessa Jowell launch their call for reform of stop and search. Photograph: Mike Ramsden
+
+“Body-worn cameras will increase trust between police and communities, but only if they are used properly,” said Jowell, who is running to be Labour’s candidate for London’s 2016 mayoral election.
+
+“We need the Met and City Hall to be clear that officers are required to turn their cameras on. It should be mandatory for the camera to be on during all stop-and-search and all stop-and-account interactions between the police and members of the public. Cameras will only build trust if Londoners can be sure they are there to serve citizens, and not just the police.”
+
+Lady Lawrence, a community relations campaigner whose son Stephen was murdered in a racist attack in 1993, said: “Too often the police and young people feel worlds apart, particularly for black and minority ethnic groups. There are practical things we can do to rebuild trust.”
+
+The report also recommends that more effort be made to recruit black and minority ethnic people into the police, highlighting that more than four in 10 Londoners are from BME groups compared with only one in 10 London police officers.
+
+In a statement, Supt Ade Hutchinson, from the body-worn project team, said that they offered extensive guidance and training to officers wearing cameras.
+
+“The MPS [Metropolitan police service] guidance has been in the public domain for quite some time and we are absolutely committed to ensuring that officers on the ground are using the equipment appropriately and in accordance with this guidance,” he said.
+
+“We have monitored [body-worn video] use during the course of the pilot, particularly in respect of issues that Londoners have told us matter to them. Checks of stop-and-search encounters and incidents of domestic abuse during the pilot show that officers are complying with this operational guidance effectively.
+
+“As the [MPS] moves to roll out BWV fully, the guidance is being reviewed in light of the pilot and will be turned into formal policy.”
+<USER>

@@ -1,0 +1,139 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should death penalty allow
+Text: Last updated on: 9/20/2021 | Author: ProCon.org
+
+Should Life without Parole Replace the Death Penalty?
+
+General Reference (not clearly pro or con)
+
+Cary Aspinwall, staff-writer for The Marshall Project, in a May 22, 2021 article, “Life without Parole Is Replacing the Death Penalty — but the Legal Defense System Hasn’t Kept Up,” available at themarshallproject.org, stated:
+
+“Life-without-parole sentences are steadily replacing the death penalty across the United States. Almost 56,000 people nationwide are now serving sentences that will keep them locked up until they die, an increase of 66% since 2003, according to The Sentencing Project, a nonprofit that advocates for shorter prison terms.
+
+By comparison, only 2,500 people nationally are on death row according to the Death Penalty Information Center; the number of new death sentences dwindled to 18 last year, as prosecutors increasingly seek life instead…
+
+Though thousands are serving life without parole for violent crimes such as homicide, courts in almost a dozen states have given hundreds of people that penalty for drug crimes.Prosecutors have found that jurors are less squeamish about locking people up for the rest of their lives than about executing them. And life-without-parole trials cost thousands of dollars less than death penalty cases. They are shorter, involve fewer lawyers, allow limited appeals and often end in plea deals before trial…
+
+Half the people serving life without parole are locked up in just five states: California, Florida, Louisiana, Michigan and Pennsylvania. Only Alaska doesn’t permit this punishment.”
+
+May 22, 2021
+
+Jeffrey M. Jones, PhD, Gallup Senior Editor, in a Nov. 25, 2019 article, “Americans Now Support Life in Prison over Death Penalty,” available at news.gallup.com, stated:
+
+“For the first time in Gallup’s 34-year trend, a majority of Americans say that life imprisonment with no possibility of parole is a better punishment for murder than the death penalty is.
+
+The 60% to 36% advantage for life imprisonment marks a shift from the past two decades, when Americans were mostly divided in their views of the better punishment for murder. During the 1980s and 1990s, consistent majorities thought the death penalty was the better option for convicted murderers.”
+
+Nov. 25, 2019
+
+Law.com, an online resource for legal news and information, in a dictionary entry accessed on Aug. 18, 2008, defined life in “prison without the possibility of parole” as the following:
+
+“[A] sentence sometimes given for particularly vicious criminals in murder cases or to repeat felons, particularly if the crime is committed in a state which has no death penalty, the jury chooses not to impose the death penalty, or the judge feels it is simpler to lock the prisoner up and ‘throw away the key’ rather than invite years of appeals while the prisoner languishes on death row. Opponents of capital punishment often advocate this penalty as a substitute for execution. It guarantees the criminal will not endanger the public, and the prospect of never being outside prison is severe punishment. Contrary arguments are that this penalty does not deter murderers, there is always the possibility of escape or killing a guard or fellow prisoner, or some soft-hearted Governor may someday reduce the sentence.”
+
+Aug. 18, 2008 - Law.com
+
+PRO (yes)
+
+Pro
+
+Fintan P. Moore, Jr., retired police officer, and Stephen Kaneb, businessman, both are ordained deacons in the Catholic Church, in a Apr. 24, 2019 article, “Our Turn: Respect the Dignity of Life — End the Death Penalty,” available at concordmonitor.com, stated:
+
+“Our Catholic faith and all other faith traditions teach that human life is a gift from God. Every person has intrinsic dignity, even those who commit serious crimes. Because the sanctity of life comes from God, it cannot be earned through good acts or lost through bad acts.
+
+Executing someone takes away their chance to redeem themselves. Many people who have committed crimes come to understand what they did and seek forgiveness and mercy from God. It is not the place of others, and certainly not the government, to foreclose someone else’s opportunity for redemption…
+
+A society that practices capital punishment will execute innocent people.
+
+Scripture tells us: “Do not repay anyone evil for evil, but take thought for what is noble in the sight of all” (Romans 12:17). The death penalty is not noble. It brings out the worst in us, fanning the flames of revenge and perpetuating the cycle of violence by answering killing with more killing. In each moment of our lives, we have the chance to reflect on who we want to be. State-sponsored executions do not represent the best in us…
+
+[S]entences of life without the possibility of parole are available to hold offenders accountable and keep the public safe.”
+
+Apr. 24, 2019
+
+Pro
+
+Peter Meijer, MBA, US Representative (R-MI), as quoted in the May 12, 2021 press release from Representative Ayanna Pressley’s (MA-D) office, “Momentum Grows for Pressley Legislation to End Federal Death Penalty,” available at pressley.house.gov, stated:
+
+“I do not trust the government to never execute an innocent person. In 2017, Ledell Lee was executed in Arkansas for the murder of his neighbor. He maintained his innocence until his own death by lethal injection. This week – four years after Lee’s execution – DNA testing of the murder weapon showed a different man’s genetic material. Furthermore, the death penalty is a poor use of taxpayer dollars; the process of execution is more costly than life without parole. Individuals who commit violent crimes should live out their natural lives with the consequences of their actions. I am proud to cosponsor this bipartisan, bicameral bill to end federal death penalty sentencing and require resentencing of those who are currently on federal death row. I hope this measure advances swiftly through the House.”
+
+May 12, 2021
+
+Pro
+
+The ACLU of Washington, in an undated article, “Replace the Death Penalty with Life Incarceration,” available at aclu-wa.org and accessed on Sep. 17, 2021, stated:
+
+“The ACLU of Washington supports legislation that eliminates the death penalty in favor of life incarceration without the possibility of parole.
+
+The death penalty in Washington has proven costly and unfair, and has not resulted in a reduction in crime. It’s time to follow other states’ lead and stop wasting millions of our tax dollars on a capital punishment system that is broken beyond repair….
+
+Life without parole is a sensible alternative to the death penalty.
+
+A sentence of life without parole means exactly what it says—those convicted of crimes are locked away in prison until they die. However, unlike the death penalty, a sentence of life without parole allows mistakes to be corrected or new evidence to come to light. And life without parole is far less expensive.”
+
+Sep. 17, 2021
+
+Pro
+
+Donald McCartin, JD, former California Superior Court judge, stated the following in his Mar. 25, 2011 article titled “Second Thoughts of a ‘Hanging Judge,'” published in the Los Angeles Times:
+
+“I presided over 10 murder cases in which I sentenced the convicted men to die. As a result, I became known as ‘the hanging judge of Orange County,’ an appellation that, I will confess, I accepted with some pride.
+
+I can live with it and, apparently, so can the men I condemned. The first one, Rodney James Alcala, whom I sentenced to die more than 30 years ago for kidnapping and killing 12-year-old Robin Samsoe, was, just last year, again sentenced to death for killing Samsoe and four other young women who, it has subsequently been determined, were his victims around the same time…
+
+Had I known then what I know now, I would have given Alcala and the others the alternative sentence of life in prison without the possibility of parole. Had I done that, Robin’s mother, Marianne, would have been spared the pain of 30 appeals and writs and retrial. She could have dealt then and there with the fact that her daughter’s killer would be shut away, never again to see a day of freedom, and gone on to put her life together. And the people of California would have not have had to pay many millions of tax dollars in this meaningless and ultimately fruitless pursuit of death.
+
+It’s time to stop playing the killing game. Let’s use the hundreds of millions of dollars we’ll save to protect some of those essential services [such as education] now threatened with death [from state budget cuts]. Let’s stop asking people like me to lie to those victim’s family members.”
+
+Mar. 25, 2011 - Donald McCartin, JD
+
+Pro
+
+Judy Kerr, victim liaison and spokesperson for California Crime Victims for Alternatives to the Death Penalty and sister of a murder victim, stated the following in her Mar. 28, 2008 testimony to the California Commission on the Fair Administration of Justice, available at ccfaj.org:
+
+“Life without the possibility of parole is an alternative to capital punishment that both addresses our need for public safety and allows us to redirect precious monies currently being used on capital trials to solving cold cases…
+
+Testimony previously heard by this commission indicates that sentencing people to grow old and die naturally in prison costs far less than trying to execute them. Californians pay more than $117 million each year to maintain a death penalty system that is functionally equivalent to death in prison. Over 20 years, the state would save more than $2.34 billion if we actually sentenced everyone on death row to death in prison. These figures don’t even include the costs of trials. Each death penalty trial costs a county three times more than a trial seeking death in prison.”
+
+Mar. 28, 2008 - Judy Kerr
+
+Pro
+
+Mario Cuomo, JD, Governor of New York at the time of the quote, in a June 17, 1989 article for the New York Times titled “New York State Shouldn’t Kill People,” wrote:
+<USER>

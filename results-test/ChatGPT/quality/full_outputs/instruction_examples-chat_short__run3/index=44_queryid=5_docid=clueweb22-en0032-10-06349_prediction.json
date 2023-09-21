@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2yEtJbeLQaI3PBZvbYFZbSj4HYy",
+  "object": "chat.completion",
+  "created": 1683105710,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2290,
+    "completion_tokens": 49,
+    "total_tokens": 2339
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I am sorry, but your previous message seems to be a copy-paste of a paper review, which is not related to the task of predicting the rhetorical argument quality of a given text. Can you please provide a text for me to analyze?"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should social security privatize
+Text: Ronald Reagan on Social Security
+OnTheIssuesLogo
+
+Ronald Reagan on Social Security
+
+President of the U.S., 1981-1989; Republican Governor (CA)
+
+ 
+
+
+1983: Ironclad commitment to Social Security
+
+It's not unreasonable for people who paid into a system for decades to expect to get their money's worth--that's not an "entitlement," that's honoring a deal. We as a society must also make an ironclad commitment to providing a safety net for those who can't make one for themselves.
+
+On April 20, 1983, Reagan signed a bill to preserve Social Security. At that bill signing, the president said words every Republican should heed:
+
+"This bill demonstrates for all time our nation's ironclad commitment to Social Security. It assures the elderly that America will always keep the promises made in troubled times a half a century ago. It assures those who are still working that they, too, have a pact with the future. From this day forward, they have one pledge that they will get their fair share of benefits when they retire."
+
+President Reagan had it right: Social Security is here to stay. To be sure, we must reform it, root out the fraud, make it more efficient, and ensure that the program is solvent.
+
+Source: Time to Get Tough, by Donald Trump, p. 69 , Dec 5, 2011
+
+1983: With Tip O'Neill, implemented Greenspan Commission
+
+Whether it's cleaning up a Superfund site--or cleaning up the tax code--we simply must be able to follow the prophet Isaiah's advice--"Come, let us reason together"--to get things done. And that means working with people that you don't agree with: bipartisanship. You reach across the aisle to speak to someone, even though you know he campaigned for your opponent in the last election. You put bygones behind you because there's important work to be done.
+
+This principled bipartisanship was evident even into the 1980s, when the Republican president, Ronald Reagan, and the Democratic Speaker of the House, Tip O'Neill, would wrangle over profound policy difference and yet come together for important tasks. One such was the bipartisan Greenspan Commission, which, back in 1983, they worked together on to bolster the Social Security system. Indeed, the Gipper and Tip even became friends. After a day of politicking, they were still able to get together after 6 PM, to swap Irish stories over drinks
+
+Source: Do The Right Thing, by Mike Huckabee, p. 73 , Nov 18, 2008
+
+Wanted to privatize retirement, but never had opportunity
+
+Social Security was always more tar baby than Teflon for Reagan. He told me when he was governor of California that Barry Goldwater’s campaign had demonstrated that Republicans could not safely discuss the issue, but Reagan could not stop talking about it. I have no doubt that he shared the view that Social Security was a Ponzi scheme. He was intrigued with the idea of a voluntary plan that would have allowed workers to make their own investments. This idea would have undermined the system by depriving Social Security of the contributions of millions of the nation’s highest-paid workers. In 1976 he said that Social Security “could have made a provision for those who could do better on their own” and suggested that such recipients be allowed to leave the program upon showing that “they had made provisions for their non-earning years.” This declaration sent shudders through the ranks of Reagan’s political advisers, who knew his true feelings about Social Security.“
+Source: The Role of a Lifetime, by Lou Cannon, p. 243 , Jul 2, 1991
+
+Suggested in 1975 to make social security voluntary
+
+In 1975, Reagan suggested ways to make social security voluntary. The demography of Florida made that as dangerous a position as Reagan could adopt on domestic matters. [Based on that issue], Ford beat Reagan [in the Florida primary in 1976] with 53% of the general vote, but with a crushing 60% of voters over sixty-five.
+Source: Reagan’s America, by Garry Wills, p. 329 , Jul 2, 1987
+
+Failed at restructuring system to avoid bankruptcy
+
+Reagan’s speech before Congress-a call for 100% support of his Program for Economic Recovery-was interrupted by 14 bursts of applause and three standing ovations. 63 Democrats subsequently joined the solid Republican minority. Speaker Tip O’Neill [concluded] “the will of the people is to go along with the President.”
+
+[After its passage], the Administration, overconfident, tried to restructure Social Security-which was clearly spending itself into bankruptcy-and discovered within days that “the will of the people“ did not extend so far as to mandate cutting the benefits of retirees.
+
+Keynesian economic theory, codified by the social engineers of the 60s and 70s, called for high, progressive tax rates, manipulative government spending, and welfare-state ”entitlements“ centering around Social Security & Medicare/Medicaid. Reaganomics questioned the wisdom of all these tenets, with the exception of Social Security, by now clearly too much of an article of American faith even to be debated.
+
+Source: Dutch, by Edmund Morris, p. 438-9 & 446 , Apr 28, 1981
+
+Social security system was based on a false premise
+
+Q: How much longer can the young wage earner expect to bear the ever-increasing burden of social security?
+
+REAGAN: The social security system was based on a false premise, with regard to how fast the number of workers would increase and how fast the number of retirees would increase. It is actuarially out of balance, and this first became evident about 16 years ago, and some of us were voicing warnings then. Now, it is trillions of dollars out of balance, and the only answer that has come so far is the biggest single tax increase in our Nation's history, the payroll tax increase for social security, which will only put a band-aid on this and postpone the day of reckoning by a few years at most.
+
+CARTER: As long as there's a Democratic President, we will have a strong and viable social security system. Although Gov. Reagan has changed his position lately, on four different occasions he has advocated making social security a voluntary system, which would, in effect, very quickly bankrupt it.
+
+Source: The Reagan-Carter Presidential Debate , Oct 28, 1980
+
+Portion of Social Security funds could be invested
+
+When Reagan when challenging Ford for the GOP nomination, during a press conference at Daytona Beach, Reagan was asked to comment about Social Security. "One of the failures of Social Security as a pension program," he replied, "is that the funds do not grow. They are not invested as they could be in the industrial might of America. Certainly a portion of this money could be invested in the economy and grow as it does in other pension funds."
+
+Was Reagan suggesting that the government ought to plow those funds into the stock market? If so, there was proof that he didn't understand the complicated problems that the Social Security system faced. It would be absurd to risk such huge federal sums on the ups and downs of the market.
+
+It was almost too good to be true. When reporters tried to pin him down, Reagan waffled and insisted that he'd never advocated such a step. It was just "one of the things suggested by some of the economists who are talking about this program."
+
+Source: A Time To Heal, by Gerald Ford, p.364-365 , Feb 13, 1976
+
+  • Click here for definitions & background information on Social Security.
+  • Click here for VoteMatch responses by Ronald Reagan.
+  • Click here for AmericansElect.org quiz by Ronald Reagan.
+Other past presidents on Social Security: Ronald Reagan on other issues:
+Former Presidents:
+Barack Obama(D,2009-2017)
+George W. Bush(R,2001-2009)
+Bill Clinton(D,1993-2001)
+George Bush Sr.(R,1989-1993)
+Ronald Reagan(R,1981-1989)
+Jimmy Carter(D,1977-1981)
+Gerald Ford(R,1974-1977)
+Richard Nixon(R,1969-1974)
+Lyndon Johnson(D,1963-1969)
+John F. Kennedy(D,1961-1963)
+Dwight Eisenhower(R,1953-1961)
+Harry S Truman(D,1945-1953)
+
+Past Vice Presidents:
+V.P.Joseph Biden
+V.P.Dick Cheney
+V.P.Al Gore
+V.P.Dan Quayle
+Sen.Bob Dole
+
+Political Parties:
+Republican Party
+Democratic Party
+Libertarian Party
+Green Party
+Reform Party
+Natural Law Party
+Tea Party
+Constitution Party
+Abortion
+Budget/Economy
+Civil Rights
+Corporations
+Crime
+Drugs
+Education
+Energy/Oil
+Environment
+Families/Children
+Foreign Policy
+Free Trade
+Govt. Reform
+Gun Control
+Health Care
+Homeland Security
+Immigration
+Infrastructure/Technology
+Jobs
+Principles/Values
+Social Security
+Tax Reform
+War/Iraq/Mideast
+Welfare/Poverty
+Search for...
+
+
+
+
+
+Page last updated: Feb 22, 2022
+<USER>

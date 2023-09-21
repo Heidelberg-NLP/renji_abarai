@@ -1,0 +1,124 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should recreational marijuana be legal?
+Text: Why Marijuana Should Be Legal
+Articles
+Why Marijuana Should Be Legal
+
+Why Marijuana Should Be Legal
+
+Why should marijuana be legal in Australia? The top 5 reasons why Australia will make marijuana legal in the future.
+
+Do you see marijuana as a dangerous drug, medicine or the same as having a beer or two on the weekend? Should Australia make cannabis legal?
+
+Cannabis has been illegal since the 1950s as a part of the war on drugs. Marijuana is now legal for medical use nationwide and recreational use in Canberra, ACT. You can now make a decision on whether marijuana should be legal or not in Australia!
+
+The majority of Australians want marijuana to be legal, but the sale and distribution should be regulated like alcohol.
+
+Medical cannabis has been legal since 2016, Canberra is legalising recreational marijuana, and New Zealand is voting to legalise recreational use and sale of weed in 2020.
+
+What is Marijuana
+
+“Marijuana” is usually in the form of ground-up leaves and flowers from a cannabis plant that contains high levels of tetrahydrocannabinol (THC).
+
+THC acts like the Cannabinoid chemicals made naturally by the body. These chemicals are found in areas on the brain associated with:
+
+  • Thinking
+  • Memory
+  • Pleasure
+  • Coordination
+  • Time Perception
+
+It gives an intoxicating feeling that typically lasts for 1-3 hours. The main difference between hemp and marijuana is THC content. Marijuana has a THC content of 0.3% or more and hemp as has a THC content of less than 0.3%.
+
+Learn about the difference between hemp and cannabis.
+
+Top 5 reasons why marijuana should be legal.
+Top 5 reasons why marijuana should be legal.
+
+1) Reducing Crime
+
+The main argument in Australia to legalising the recreational use of marijuana is to stop young adults from receiving criminal charges for minor use of the drug.
+
+A large portion of the work done in today’s justice system (police, courts and prisons) is spent on drug-related offences. But the drug market keeps growing, and these criminal offences have little impact.
+
+The AFP admitted that the criminalisation of marijuana has not slowed down the drug market. There are ways to promote the safer legal use of marijuana through education.
+
+2) Education And Harm Reduction
+
+A proposed strategy is to redirect resources from punishing people to overall harm reduction with educational campaigns on the adverse effects on the safe use of marijuana.
+
+Normalising safe marijuana use, similar to alcohol consumption, will lower the chance of driving under the influence. It will also create a better and more precise understanding of the safe ways to consume marijuana.
+
+Canada has taken its substantial tax revenue boost from legalising cannabis and put it into education and public safety campaigns that discourage driving while high on marijuana and the dangers of smoking.
+
+3) Tax Revenue
+
+The cannabis industry is expected to give Australia a massive economic boost and generate over $250 million in tax revenue per year. On top of this boost, the Australian justice system is looking to save up to $1 billion after a few years of legalised marijuana.
+
+This tax revenue is coming from newly formed Australian cannabis companies, new jobs, retail sales and the massive trade export opportunity Australia has to become a leader in the world’s marijuana industry.
+
+4) Economic Boost
+
+Legalising cannabis will open new horticulture, tourism, retail and import/export industry built around marijuana.
+
+An estimated $3.6 billion economy boost in Australia within the first few years.
+
+Since 2016, Australia’s combined Cannabis industry has reached almost $6 billion in its market cap. These companies are up-and-coming in providing Asia and America premium-grade medical cannabis.
+
+5) Safer Than Alcohol And Prescription Drugs
+
+Ever since marijuana has been used, not one single death from overdose has been recorded . In 2010, over 25,000 people died from alcohol-related causes, and over 38,000 from prescription drug overdoses.
+
+Marijuana use is becoming a popular safe medical treatment for people with epilepsy, cancer (chemo-therapy nausea) and spinal injuries. Compared to most other legal drugs, marijuana is already much safer.
+
+Smoking is never the safest option, but new forms of oil and edible options are becoming widely popular in the medical industry. Australia has strong anti-smoking laws that make oil the most likely and safest choice.
+
+Will Australia Legalise Marijuana?
+
+2020 is a big year for Australia and New Zealand. New Zealand is looking to pass a national vote allowing the recreational sale and use of marijuana. So next to a pack of beer, you may find your new favourite craft cannabis.
+
+Canberra, ACT will be Australia’s first step towards legalisation with the decriminalisation of marijuana. Legalisation will allow people to grow their plants and smoke/eat/consume cannabis without the fear of the police knocking down their door.
+
+Over ten new commercial cannabis facilities in Australia will be live and producing medical-grade marijuana for Australians. We are also expecting a legalisation vote in New South Wales and Victoria that will follow the same standards of legal recreational marijuana use as New Zealand (post-legalisation).
+
+
+
+Disclaimer: Cannabis Place are not doctors and we recommend consulting health professionals for accurate information. This site may contain information regarding drugs. This medicinal cannabis content is designed for an 18+ audience. Click here for our full disclaimer
+<USER>

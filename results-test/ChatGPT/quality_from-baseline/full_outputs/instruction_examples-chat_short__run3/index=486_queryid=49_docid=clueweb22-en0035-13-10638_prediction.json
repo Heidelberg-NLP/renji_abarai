@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1e4JbRKSff553LGuEVqfMN4gAGN",
+  "object": "chat.completion",
+  "created": 1687867176,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This article argues that police officers hitting the streets of London should be required to wear video cameras during all of their stop-and-search interactions with the public. The report, chaired by Tessa Jowell, a returning Labour MP for Dulwich and West Norwood, and Baroness Lawrence, an anti-racism campaigner whose son Stephen was murdered in 1993, recommends that police should start incorporating body-worn video cameras in all their global operations. It is accompanied by video evidence gathered over six months while working with young people across the city. The report\u2019s release comes after a lengthy \u201cstop and search\u201d controversy."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1733,
+    "completion_tokens": 125,
+    "total_tokens": 1858
+  }
+}

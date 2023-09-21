@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ7l4tnm1u1A2qjdx6WvEZDIpRFs",
+  "object": "chat.completion",
+  "created": 1682691149,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2546,
+    "completion_tokens": 117,
+    "total_tokens": 2663
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides an informative description of statistics education, its goals, cognitive and non-cognitive outcomes, and how it is similar and unique to other fields of education. It presents different views on statistical literacy, reasoning, and thinking, and emphasizes the importance of developing students\u2019 statistical thinking, reasoning, and interpretation skills instead of focusing solely on computational skills. The text also provides an overview of common assessment instruments used to measure attitudes and beliefs towards statistics and outlines some cognitive and non-cognitive goals for statistics education. Overall, this text is well-written and provides a good summary of statistics education."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

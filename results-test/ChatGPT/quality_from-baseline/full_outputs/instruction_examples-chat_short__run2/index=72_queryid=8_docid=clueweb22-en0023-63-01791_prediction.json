@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0htFOQSzyYNCWsvNyeL0v69tyVx",
+  "object": "chat.completion",
+  "created": 1687863569,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a well-formed statement, argument quality or rhetorical evaluation to predict a label. Could you please provide a more complete text so I can give an appropriate prediction?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 786,
+    "completion_tokens": 36,
+    "total_tokens": 822
+  }
+}

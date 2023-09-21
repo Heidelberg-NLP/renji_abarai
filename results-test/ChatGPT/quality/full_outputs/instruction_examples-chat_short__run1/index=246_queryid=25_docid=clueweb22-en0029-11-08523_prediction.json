@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ7iauQtnSG372SR4adtAkrjzduc",
+  "object": "chat.completion",
+  "created": 1682691146,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2734,
+    "completion_tokens": 27,
+    "total_tokens": 2761
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain any explicit argumentative elements, therefore it is not possible to assess its rhetorical argument quality or well-writtenness."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

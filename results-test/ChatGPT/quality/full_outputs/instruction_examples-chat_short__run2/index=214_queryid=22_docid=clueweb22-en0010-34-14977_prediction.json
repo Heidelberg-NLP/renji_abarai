@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2e2mv0fS5Nsd3Zv0yPSL21eLaEU",
+  "object": "chat.completion",
+  "created": 1683104458,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1216,
+    "completion_tokens": 23,
+    "total_tokens": 1239
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a clear rhetorical argument to evaluate \"well-writtenness\", so I cannot provide a label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

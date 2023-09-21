@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1I7jJ7SxWnI2Y3ehOMhvOXPpmH0",
+  "object": "chat.completion",
+  "created": 1687865815,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text presents an argument against the legalization of performance-enhancing drugs in sports. It outlines several reasons why it wouldn't be a good idea, including that many banned substances are prohibited for a reason as they can cause medical issues, it could lead to a situation where athletes go from using FDA approved substances under medical supervision to taking dangerous amounts in order to set themselves apart from others, and that substances like EPO is not available for sports use regardless of the legal status. It also critiques Professor Julian Savulescu's academic argument for the legalization of performance enhancing drugs and takes a pragmatic view that the harmful effects of such substances outweigh any potential benefits. Therefore, the rhetorical argument quality of this text is high."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 141,
+    "total_tokens": 2692
+  }
+}

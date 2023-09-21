@@ -1,0 +1,204 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: social networking site good society
+Text: Impact of Social Networking Sites - Group Discussion
+
+Impact of Social Networking Sites
+
+
+Group Discussion
+
+Points to remember before you participate in this discussion:
+
+  • Assume, you one of the member of a real group discussion.
+  • Take the initiative to participate and contribute your thoughts.
+  • Express your positive attitude towards providing the solution.
+  • Post your answer now.
+
+Sethuprasath said: (Mar 17, 2022)  
+Hi everyone,
+
+I would like to share my thoughts about social media platforms, Nowadays it plays a major role in our life, yeah you know, it acts as a platform where can we share our emotions, knowledge and communication with other people. It also acts as a stress buzzer, because whenever we can meet our problems, we spent our time on social media and watch some funny videos, funny memes like that then we temporary forgot the problem and feel happy. It is also used to get a job from different companies and act as a business platform. Every coin have two sides, so it also has some demerits there are we spend a lot of time in social media for unimportant things, it cause eye diseases, stress, laziness, headache like that etc. We can't expect in all the information to be true on social media platforms and also we can't expect our information are secured.
+
+That's all. Thank you.
+
+Rate this: +21 -1
+
+
+Yuvaraj said: (Jan 22, 2022)  
+Hello everyone;.
+
+I'm Yuvaraj;.
+
+Now, I would like to speak-out with the topic of "IMPACT OF SOCIAL MEDIA".
+
+Firstly, what is social media? what is the use of social media?
+
+So, in our daily day life we use smart mobiles, laptops etc. , Probably.
+
+In that, we use whatsapp, twitter, instagram etc. what is the use of it?
+
+In some conditions and situations, we are unable to speak and react in the exact situation,
+
+So we can say it by social media it is better to convey the information with social media to people.
+
+2. What is the use of social media?
+
+It means, we are learning something it means, in the schools and colleges teachers use.
+
+To tell the chapters fastly in that some points we miss it, it means we know the "word" but.
+
+We are unable to get up and can't able to ask the answer. It means if we ask a doubt means teacher use to joke on us. Around the entire class. So we have an mobile in our hands means we must search the answer,
+
+It will clarify our doubt if we shy to ask the answer in the class. Social media is there to clarify our doubt.
+
+Each and every question. If we use the social network means in the reasonable purpose we can get the answer Of the question and feel much better in the mind, so explore the network and find the answers around the world what is what. We use social media for sake of knowledge you can able to speak out. Around 100 members, you aquire knowledge in it you become the pros of your life.
+
+Thankyou".
+
+Rate this: +16 -9
+
+
+Pdw said: (Jan 11, 2022)  
+Hi everyone.
+
+I would like to say something about social networking sites. Every coin has two sides. That's why each and everything represent itself goodly or badly.
+
+First of all, I'm telling positive side of Social Networking sites. Nowadays, people are using different sites of social media such as Facebook, Instagram etc. By using these sites they connect to each other and share their knowledge. They increase their knowledge. Sometimes they are happy or sad. They get a platform to express their emotion. We know that we can't hold emotion inside, we wanna express our emotion in front of someone. If anyone has no relatives, no friends in real life they create relationships with people.
+
+By using the social site we post photos, information about anything, advertising etc. If we want whatever information of any subject, we can get. In the past day, we got an error in anything then we had gone to the library and search different books then we got the solution then we removed the error. But know we get solution of any problem. We can save a lot of time.
+
+As well as these sites have bad sides also. Increase crime in cyber. Now people are addicted of mobile phones. They waste their time on unimportant things. Different health issues occur like headaches, eyes disorder, physically weak because they don't get time for sport.
+
+Thank you.
+
+Rate this: +15 -3
+
+
+Eshan Panwar said: (Dec 23, 2021)  
+Hi, I am Eshan Panwar.
+
+I would say social networking works both ways for us and it's upon the Ultimate user of it how we want to use it.
+
+If we see the impact which this creates is we can connect with people far from us, knowledge is easily accessible to us, real-time update of events happening around the globe, for some who use it wisely has made it a source for their income through their various skill sets. These are a few to be mentioned from a lot of many more.
+
+Now if we examine the impact it creates negatively is that it leads to more screen time for users which leads to eyesight issues, cyberbullying and harassment has increased considerable, privacy becomes a major concern as we are so comfortable in sharing in everything on social media that we forget that privacy is also something to be maintained and on the internet nothing comes with safety or a 100% assured of being safe, again these are dew drawbacks mentioned from a lot of many more.
+
+So in the end social media is something created by humans and it lies in their hands only how to use it, make it useful or possibly make it the most toxic place to live in.
+
+Rate this: +10 -3
+
+
+Vijayalaxmi said: (Dec 10, 2021)  
+Hello Everyone.
+
+There is a lot of knowledge and information is available on social media. It depends upon us how we can take benefit of that knowledge and information. We learn many things from social media.
+
+It totally depends upon us in which way we use it. If we use it in the right way it becomes pros for us. Otherwise, it is cons for us.
+
+Rate this: +20 -0
+
+
+Sathiyaseelan said: (Nov 16, 2021)  
+Hello everyone. This is Sathiyaseelan.
+
+I am talking impacts of social networking sites. Social media is used for all of us. Then we have to choose it in a way like that both positive and negative impacts related to using the apps.
+
+Positive impacts:
+
+We want to study using need to like some apps to include in social media with the website link and recognized to use it to install the materials and some government notification to use it. By mainly used in such a way to people searching related to current affairs due to general studies.
+
+Anybody no more knowledge in mathematical problems we have to use it in a sometimes solve that problem to gaining knowledge to.
+
+More interaction with social media apps like Instagram, Facebook.
+
+Creators are a talent with social media.
+
+Negative impacts:
+
+We don't teach your children to access social media apps.
+
+By harassing many youths are fully participate in social media to post pictures, videos, memes in it many ways. It is not relevant to youth some other attractions may use it.
+
+People don't have to spend time with family members. Then we have to use it more time in society we have to recognize in some health problems occur due to mental and physical activity less among the future. After that, it has been distracted in many ways. Then we have to strained in eyes. Now that can be used in a limited time.
+
+Rate this: +19 -2
+
+
+Divya said: (Sep 17, 2021)  
+Hello everyone, myself Divya Ananad.
+
+If I talk about the impact of social networking sites. Definitely, it helps us in gaining knowledge or to connect with the people who are far from us.
+
+But it also has some loopholes, nowadays people started misusing it in different ways. By harassing people or using some irrelevant sites.
+
+It depends on the people how they use effectively something.
+
+Rate this: +29 -8
+
+
+Pankaj Kumar Vishwakarma said: (Aug 31, 2021)  
+Hello friends myself Pankaj.
+
+Social media is not only a simple word there is a huge meaning of this word. Social media plays a very important role in our life. And it has both impacts positive and negative. But it is our choice, in which way we use it. There are many sites like YouTube, Facebook and other websites that help us for increasing our knowledge. But nowadays it is addicting youth. Some irrelevant sites addicts youth society.
+
+Thank you.
+
+Rate this: +26 -2
+
+
+Durga V said: (Aug 26, 2021)  
+Hi friends, myself Durga. I shall share something about Social Media.
+
+Now, we are in different places, but now we can communicate via the internet and social media. So, if we use social media properly it gives us good worth.
+
+Otherwise, it leads to being mistakes.
+
+Learning is very important. Nowadays, we can learn a lot of things through social media. At the same time, most people are addicted to this social media. It causes a lack of thinking capacity. Whatever we don't, we don't think what will be the solution. The first thing we do is google it.
+
+Through this social media, we have a lot of benefits like communicating with other people and learn new things and get updates on time. But we have cons also. Less interaction with family members and relatives. Depression, anxiety, fake id, etc. If we take the positive side of social media we get benefits otherwise it will give loss to us.
+
+Rate this: +16 -5
+
+
+Ashmit Kashyap said: (Aug 5, 2021)  
+Hello, my name is Ashmit Kashyap.
+
+I'm expressing my views on the impact of social media. In my opinion, everything has two sides. First, I want to tell about pros: social media is a boon for students in this pandemic. Many children could not reach school but by social media, anyone can learn anything. Everyone can be connected to their relatives and friends even they were miles away. Creators show their talent through social media.
+<USER>

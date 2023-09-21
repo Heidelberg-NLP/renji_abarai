@@ -1,0 +1,117 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is cell phone radiation safe?
+Text: Wifi Radiation vs Cell phone Radiation – Which Is Safer?
+
+Wifi Radiation vs Cell phone Radiation – Which Is Safer?
+
+5G Cellphone WiFiPeople often ask me “which is more dangerous, cell phone or WiFi radiation?” So that is what we are going to talk about in this article.
+
+In some ways WiFi radiation is safer than cellphone radiation, and in other ways cell phone radiation is more safe. Both devices emit Radio Frequency (RF) Radiation. But overall WiFi routers are the safest of the two because we don’t hold them right next to our body like we do with cell phones.
+
+Now if you have your WiFi router sitting right next to you in your office, then it is at least as dangerous as your cell phone; perhaps even more since the WiFi router always emits at full blast.
+
+Differences Between WiFi & Cell Phone Emission
+
+WiFi Router RearSince cell phones constantly try to check for Bluetooth and data, they usually emit more than 2,000 micro-watts per square meter while doing so. This is because the phone is communicating with the cell tower. They do a lot of this at the initial start up of the phone.
+
+Then a cell phone will typically calm down and emit only about 400 to 600 micro-watts per meter squared until it is either sending or receiving a call, or searching for data or GPS again. This is what I have measured while testing my cell phones; other phones may vary.
+
+On the other hand with WiFi routers (or most anything Bluetooth or WiFi) they are always searching for devices to connect to, so they pretty much always emit RF Radiation at their maximum.  Since this radiation dissipates with distance, a router is still more safe than a cell phone unless you are sitting right next to it.
+
+So that you can see this demonstrated in real life, I am going to show you two videos below. In the first I test a WiFi router with a meter so that you can see how much radiation it emits. I also demonstrate a WiFi Router Cover which is similar to a Wifi Router Guard.
+
+In the next video I do the same thing with both a smartphone and a pair of Bluetooth (a form of WiFi) headphones, so you can see how much they emit. And I talk about “How To Protect Yourself From Cellphone Radiation“. Both videos are short, but informative. These videos will answer this question visually, and then I will explore the question in more detail after.
+
+5G RF Radiation Dangers
+
+Active Denial WeaponJust to touch on this briefly, there are literally hundreds of peer reviewed scientific studies that link RF Radiation to a host of diseases and health issues. Cancer is the most common mentioned. Even the World Health Organization classified RF Radiation as a possible “carcinogen”, which means “cancer causing”, in 2011. Other things RF Radiation is linked to is things like DNA damage, especially in fetuses, and sterility in men, just to name a few.
+
+RF Radiation at these frequencies are microwaves identical to the microwaves that a microwave oven uses to cook your food. Microwaves at a frequency very close to the frequencies used in the new 5G cellular technology coming out is used in the US military’s “Active Denial System“, (a microwave crowd control weapon), to heat peoples skins and make them disperse 1,000 meters away.
+
+Why Close Is More Dangerous
+
+Microwaves dissipate in intensity and strength with distance. The closer the source of the RF Radiation is to your physical body the more dangerous it is to you.  And many scientific studies show that longer exposure to a lower powered RF Radiation source is more dangerous than short exposures to more powerful sources. So even though a cellphone’s emission is less powerful most of the time than WiFi, it is still dangerous if held close to the body. This is why carrying your cellphone next to your body is not a good idea.
+
+If you are going to be carrying a cellphone there is really no way to completely avoid exposure to RF Radiation. However you can reduce your exposure significantly. If you just take a few basic precautions you can increase the distance between you and the RF Radiation emitted from your cellphone and reduce your risk. I will go over the 3 most important cellphone radiation protections below. But first a bit more about WiFi radiation.
+
+WiFi Router Radiation
+
+The problem with WiFi devices, and especially a WiFi router, is that they blast at their highest power emission all of the time 24/7. (A really dangerous form of WiFi is a baby monitor. See my article “Are Video Baby Monitor’s Safe? Here Are The Facts” for more info on this.) And they emit long distances. When I was testing my home I could pick up RF Radiation on my meter coming from my WiFi Router several rooms away and on different floors of my home.
+
+Although it is true that to have the source next to your body is technically worse, RF Radiation at full power 24/7 is plenty harmful. The best philosophy is to get the 3 cellphone radiation protections discussed below, and use them religiously, and go through your home and protect yourself from all of the other sources of WiFi radiation in your home. If you are thorough, you can get your entire home back down to safe levels and your family’s health will benefit from it. See the Recommended Protections page of this website.
+
+WiFi Router Guard
+
+WIFI Router Guard The safest way to protect against the RF Radiation from a WiFi router is to turn off the WiFi feature in the settings of your router, and hard wire your home so that you can plug your computer into the internet wherever you use it in your home. However if you can’t afford to do that, or if for some reason you must have WiFi, a WiFi Router Guard will block 90% to 95% of the RF Radiation emitted from your WiFi router. And the cool thing is you will still be able to use your WiFi.
+
+At least in my home (I have a 3 bedroom home), I can use WiFi anywhere in my house without any problem. My son is a college student and he can watch Netflix, YouTube videos and do his online homework with no problem at all. Believe it or not it works well enough he never complains.
+
+ 
+
+And except for within about 15 feet or so of my WiFi router, my entire home measures about 3 to 6 micro-watts per meter squared when I test it with my meter. In the room with the router it measures about 40 to 100 micro-watts per meter squared. And I have a 5 GHz router.
+
+Radiation Blocking Cellphone Case
+
+Defendershield Cellphone Case A Radiation Blocking Cellphone Case like this does a very good job of blocking the RF Radiation coming out of one side of the cellphone. So if you absolutely have to hold the phone up to your head it does block a significant amount of the radiation. It is important to remember however that some RF Radiation will still come around the shield towards you. But using a shielding cellphone case like this is much better than not using one. It does block a significant amount.
+
+I still would not recommend carrying the phone in a pocket right next to your body, or making a habit of talking with the phone up to your ear. This is because of the radiation that will go around the shield and into your body. It is better to use a corded headset with a Ferrite Bead attached to the bottom of the cord as described below. And you should try to carry your phone in a purse or in a loose jacket pocket so that the phone is not right up against your body.
+
+I highly recommend getting a phone case like this. It will help protect you.
+
+Corded Headset & Ferrite Bead
+
+Ferrite Bead
+
+A corded headset of some sort with a Ferrite Bead attached to the bottom is a very important part of cellphone radiation protection. A corded headset by itself is just as dangerous as a Bluetooth headset. Without a Ferrite Bead the RF Radiation travels right up the headset cord like an antenna and into your ear.
+
+But just like how Ferrite Beads come built into many laptop charge cords to protect the device from high frequency surges and spikes. A Ferrite Bead on the end of your headset will absorb and filter away almost all of the RF Radiation so that it does not travel up the cord any further.
+
+If you don’t have a Ferrite Bead then you don’t want to use a corded headset. About the safest way to use the cellphone then would be to place it on the table and turn it on speaker phone. But most cellphones come with basic corded headsets, and Ferrite Beads are extremely inexpensive. Most people find this much preferable than talking to everyone on speaker phone.
+
+Steel Mesh Metal Bucket
+
+Radiation ProtectionWalmart Mesh Basket A Steel Mesh Metal Bucket of some sort is another very important part of cellphone radiation protection. It must be made of a conductive metal. RF Radiation has trouble going through parallel lines of conductive metal. Either a WaveCage as pictured on the left, or a Steel Mesh Waste Basket as pictured on the right, will both block 90% to 95% of the radiation coming out of your cellphone. And your cellphone will still get a signal and ring, it will just make you safer.
+
+I keep a WaveCage on my desk and while I am working my cellphone is always sitting in it. At night both my wife and I set our cellphones in WaveCages so that we are not exposed to the radiation while we are sleeping. My wife leaves hers up on a tall dresser about 4 feet from where she sleeps. I keep mine on top of my armoire on the other side of the bedroom. It is best if the WaveCage is always at a higher elevation than your body and at least 4 feet away when sleeping.
+
+RF Radiation In Your Home
+
+The good news is now you are aware that there is a health danger caused by RF Radiation. Knowledge is most of the battle. There are many things in the average home that emits high amounts of RF Radiation. According to the scientific studies linking RF Radiation to cancer, it is part of the reason cancer rates have gotten so high over the past few decades.
+<USER>

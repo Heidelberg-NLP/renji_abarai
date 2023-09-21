@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C32BeU2Ll1eA4SXWJr6IOmsTe8px",
+  "object": "chat.completion",
+  "created": 1683105955,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1244,
+    "completion_tokens": 19,
+    "total_tokens": 1263
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Unclear, this text is a preview that doesn't provide a clear argument around the topic."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

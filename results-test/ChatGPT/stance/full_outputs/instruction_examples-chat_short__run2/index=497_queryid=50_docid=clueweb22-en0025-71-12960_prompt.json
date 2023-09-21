@@ -1,0 +1,125 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: Universal Basic Income in Ireland
+
+Will Universal Basic Income create more entrepreneurs?
+
+If everyone in Ireland was given €752 a month, what would it do to the economy? Would it result in more people ‘dropping out’ or would it lead to greater entrepreneurial activity? Frances Coppola* examines the subject. 
+
+Richard Branson is a fan of Universal Basic Income. He believes it gives people the freedom to be more creative and start businesses. Finland, the first European country to start a UBI experiment, is giving 2,000 of its citizens €560 every month for two years. Five months into the experiment, the people receiving the money reported less stress, a greater desire to work and more time to pursue business ideas.
+
+However, would it work like this in Ireland?
+
+For many, the idea that anyone should be given money with no strings attached is simply laughable.
+
+The stuff of dreams
+
+“Universal basic income” has been the stuff of dreams for centuries. The idea that everyone should have, as of right, the necessary means to live regardless of their capacity to work has attracted many a philosopher and political economist, including the great Thomas Paine, for whom a basic income was the foundation of the “rights of man”. Experiments with some form of basic income have been conducted in countries ranging from the United States to Namibia, with varying degrees of success. 
+
+One of the first such experiments, the UK’s “Speenhamland” system, was abandoned in 1834 after being blamed for destroying work incentives, depressing wages and encouraging “the poor to breed”. Speenhamland is still cited as evidence that a universal basic income cannot work. 
+
+As the technological revolution gathers pace, entrepreneurs and businesspeople are calling for people to be provided with the essential means to live.
+
+universal basic income ireland
+
+More recent experiments, such as the pilot study in Manitoba, Canada, in the 1970s, appeared to show potential benefits from a properly constructed UBI that could outweigh the problems, but they were too small and local to attract widespread interest. Radical reformers, notably in the Green movement, have strongly argued in favour of UBI, but they have mostly been regarded as occupying the weird fringe. For many, the idea that anyone should be given money with no strings attached was merely laughable. 
+
+But now, universal basic income may be an idea whose time has come. As wages stagnate in developed countries and in-work benefits creep ever higher up the income scale, governments are looking for ways of making their welfare systems simpler, less expensive and more rewarding for hard working people. Even more significantly, as the technological revolution gathers pace, entrepreneurs and business people are calling for people to be provided with the basic means to live. 
+
+If UBI enabled people to stop doing pointless jobs just to earn money, and turn their attention to caring, creativity, and innovation, surely the world would be a better and happier place.
+
+What do business people think of UBI? 
+
+The business community sees UBI in two ways. Some look to UBI to provide an income for those threatened with a workless future as robots displace humans from traditional jobs. This view of UBI has been criticised as “welfare for capitalists”, subsidising low-wage, insecure work and removing from businesses any responsibility for the welfare of those disrupted by technology. But ending “toil” has been a goal of the human invention since the dawn of time: if there is no need for people to work since robots can do it for them, why should people not be paid to do nothing? The philosopher Bertrand Russell had little time for those who glorify work for its own sake:
+
+Modern technique has made it possible for leisure, within limits, to be not the prerogative of small privileged classes, but a right evenly distributed throughout the community. The morality of work is the morality of slaves, and the modern world has no need of slavery.
+
+Anthropologist David Graeber argues that there are an awful lot of jobs that are simply not necessary. If UBI enabled people to stop doing pointless jobs just to earn money, and turn their attention to caring, creativity, and innovation, surely the world would be a better and happier place. 
+
+But there is another business view of UBI. It could encourage entrepreneurialism. Here, for example, is programmer and economics writer Steve Waldman explaining how “venture capital for the people” (aka UBI) could help to counter “secular stagnation”: 
+
+The state could provide venture capital to the people. If ordinary citizens had a small but reliable annuity, too modest to live comfortably but enough to prevent destitution, then at the margin, we’d expect people who currently seek or accept unfulfilling, underpaid work to opt for entrepreneurship, or education, or art, or childrearing, or just hold out for a better gig. 
+
+A support system for entrepreneurs
+
+Business folk from a wide range of industries have embraced the concept of UBI as a support system for budding entrepreneurs. Here, for example, is Virgin’s Richard Branson:  
+
+[I see] the sense of self-esteem that universal basic income could provide to people. The hope is that policies like these can help people struggling just to survive and allow them to get on their feet, be entrepreneurial and be more creative.
+
+The UK’s Royal Society of Arts (RSA) has strongly backed UBI because of its potential to encourage entrepreneurialism, skills development, and creativity. However, the economist Robert Seamans warns that protecting entrepreneurs from destitution when their ideas fail creates a kind of moral hazard that could make venture capitalists less willing to risk their own funds. He doubts if UBI would prove more effective than existing support systems.
+
+Fears that the recipients would spend the money on alcohol, cigarettes, and crime appear to be completely unfounded.
+
+The latest experiments in California and Kenya
+
+Despite scepticism from Seamans and others, technology firms are enthusiastically backing UBI, not only philosophically but financially. Y Combinator is running a universal basic income pilot study in Oakwood, California.
+
+And the private foundation of eBay founder Pierre Omidyar is helping to fund GiveDirectly’s UBI experiment in Kenya, a 12-year research project aiming to provide definitive evidence that a long-term UBI improves incentives to work and increases entrepreneurial activity, as well as enhancing education, health, and nutrition among its recipients. 
+
+GiveDirectly’s research into the effectiveness of unconditional cash transfers to the poor has so far shown impressive results. It says that for each $1,000 provided, the recipient’s earnings increase by $270, assets increase by $430 and nutrition expenditure increases by $330. Recipients have started new businesses sent their kids to school and made vital improvements to their homes. Fears that the recipients would spend the money on alcohol, cigarettes, and crime appear to be completely unfounded. 
+
+We are in a period of technological disruption, which this time threatens the jobs of billions.
+
+universal basic income
+
+Can we conquer fear and embrace UBI?
+
+However, what works for very poor people in a developing country might not work so well in a developed country where people face displacement by technology. The Omidyar Foundation, therefore, says it will support additional UBI studies “to diversify the growing body of research across markets, conditions, and formats”. 
+
+UBI studies are already under way in several developed countries. Finland is piloting a basic income of €560 a month for unemployed people, which – unlike existing unemployment benefit – is not withdrawn when they start work. Four months in, scheme participants are already reporting reduced stress levels and greater incentive to work. Other pilot studies are proceeding in the Netherlands, Canada and Uganda. Scotland’s largest city, Glasgow, is in the early stages of designing a UBI experiment along the lines of the RSA’s model. 
+
+Previous experiments with basic income have tended to occur at times of high unemployment and fast technological change. They have always foundered due to financial pressures and moral fears. We are now in another period of technological disruption, which this time threatens the jobs of billions. Concurrently, we have more studies into the feasibility of UBI than ever before, and early results are encouraging. Perhaps the outcome of these studies will enable us at last to conquer our fears and embrace UBI as an essential driver of innovation and creativity in our brave new technological world.  
+
+*This is an opinion piece and all views expressed are those of the author.
+
+frances coppola univwersal basic income
+
+About the author: Frances Coppola is a Forbes contributor, a Financial Times blogger and author of the Coppola Comment, the finance and economics blog. A former banker, she is also a fantastic singer. 
+
+Related Resource
+
+Read more: Why the changing nature of work means we need a Universal Basic Income. 
+
+ 
+
+ 
+
+Images from Shutterstock.
+<USER>

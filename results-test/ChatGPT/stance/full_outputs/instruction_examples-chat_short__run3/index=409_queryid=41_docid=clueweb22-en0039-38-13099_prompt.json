@@ -1,0 +1,150 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should student loan debt easier discharge bankruptcy
+Text: Student Loan Debt vs. Credit Card Debt
+
+Which should you pay off first?
+
+Man using credit card for online shopping
+••• Luis Alvarez / Getty Images
+
+Student loans and credit cards are two of the most widely held types of debt—and two of the most difficult to repay. Focusing on one debt at a time is the most effective way to pay off multiple debts. Using this strategy, you'll make big, lump-sum payments to just one specific debt and minimum payments on all the others. However, figuring out whether to pay off student loan debt or credit card debt first can be tough.
+
+Before you work toward aggressively paying off either type of debt, make sure you're current on the payments on all your accounts. It doesn't benefit you to completely ignore payments on one debt so you can pay off the other. Not only will falling behind hurt your credit score, but it will also make it more difficult to catch up and pay off your account.
+
+To consider whether to pay student loans or credit cards first, we'll pit the debts against each other in a few important repayment categories. The "loser" in each category gets a point. The debt with the most points at the end is the one you should pay first.
+
+These are the repayment factors to consider:
+
+  • Consequences of not paying
+  • Ability to have the debt canceled
+  • Repayment flexibility
+  • Ease of catching up on past due balances
+  • The long-term cost of the debt
+  • Total balances
+  • Ease of borrowing even with debt
+
+Non-Payment Consequences
+
+Both student loans and credit cards are a type of unsecured debt. This means there is no collateral tied to the debt like with a mortgage or car loan. If you fall behind on your payments, the creditor or lender cannot automatically repossess any of your property to satisfy the debt.
+
+If you have federal student loans, failure to pay could result in wage garnishment or forfeiture of federal income tax refunds.1
+
+Non-payment on both types of debt will affect your credit score. After several months of missed payments, the creditor or lender may hire a third-party debt collector to pursue the debt. You can be sued for past due debts and the lawsuit may result in a judgment against you. With the judgment, the court may grant a wage garnishment or bank levy. This collection path can happen with past-due credit cards or student loan payments.21
+
+The Verdict: The possibility of having tax refunds taken makes non-payment of student loans slightly worse. Student loans get a point in this round.
+
+The Score: Student Loans: 1, Credit Cards: 0
+
+Ability to Cancel the Debt
+
+One of the biggest differences between student loans and credit cards is the relative ease of having the credit card debt discharged in bankruptcy. It's possible to have student loan debt discharged in bankruptcy, but the burden of proof is tougher. 
+
+You must prove that paying the debt would cause you to live a lower than the minimum standard of living, that you're unable to make payments for a significant portion of your repayment period, and that you've already (unsuccessfully) tried to work out a payment plan with your lender.3 This level of proof isn't usually necessary for having credit card debt discharged in bankruptcy.
+
+Some student loans are eligible for forgiveness programs that will cancel some or all of the debt.4 This type of debt forgiveness isn't available with credit cards.
+
+Forgiven debt is usually considered taxable income by the Internal Revenue Service.5 However, as part of the American Rescue Plan Act of 2021, you won't have to pay income tax on forgiven student loan debt through the end of 2025.6
+
+In some cases, credit card issuers may cancel a portion of the outstanding balance as part of a settlement agreement that you negotiate.
+
+However, these types of settlement agreements aren't common, are bad for your credit, and are typically only made with past-due credit card accounts. If your account is in good standing, your credit card issuer won't entertain a settlement agreement.7
+
+The Verdict: Student loans can be forgiven and discharged in bankruptcy (in certain situations). Credit cards lose this category since the only options for canceling the debt—bankruptcy and debt settlement—are both harmful to your credit score.
+
+The Score: Student Loans: 1, Credit Cards: 1
+
+Repayment Flexibility
+
+Student loan repayment options are far more flexible than those available for credit cards. Lenders often have multiple repayment plans you can choose based on your ability to pay. For example, most lenders offer an income-based repayment plan that can fluctuate based on your income and expenses. Forbearance and deferment are also options your lender may extend to you if you're unable to make your payments or if you enroll in school again.8
+
+Credit card interest starts accruing immediately and is often at a quite high rate.9 Payments are also usually required immediately—or monthly—and cannot be deferred until graduation like some student loans. Credit cards have a low minimum payment that you must make each month to keep your credit card in good standing. You can optionally pay more than the minimum to pay off your balance sooner.
+
+If you're unable to afford your minimum credit card payment, you don't have very many options. Some credit card issuers offer hardship programs that lower your interest rate and monthly payment. But, unfortunately, these programs are often only available if you've already fallen behind on your payments.
+
+Consumer credit counseling is another option for managing your credit card payments. However, you may have to kiss your credit cards goodbye (at least temporarily) if you enter a debt management plan with a credit counseling service.
+
+The Verdict: Student loans have more repayment options that you can choose from depending on your financial status. Because credit cards have less flexible repayment options, you should pay them off first.
+
+The Score: Student Loans: 1, Credit Cards: 2
+
+Catching Up on Past Due Balances
+
+You have more options for catching up on past-due student loan payments.10 Your lender may be able to retroactively apply forbearance to your account and essentially cancel all your previously missed payments.
+
+The lender may also be able to add the past due amount back into your loan and recalculate your monthly payments. While this can mean higher monthly payments, it does get you caught up.
+
+Once you fall behind on your credit card payments, you'll typically have to pay the entire full past due balance to bring your account current again. Also, once your credit card account is charged-off, there is no option to bring it back current again and continue with payments.2 With student loan default, your lender may allow you to rehabilitate your loan to bring it current again.
+
+The Verdict: Since it's tougher to catch up on past-due credit card balances and credit card issuers are less lenient, you should get rid of these balances first.
+
+The Score: Student Loans: 1, Credit Cards: 3
+
+Which Debt Costs More?
+
+Credit card interest rates are typically higher than student loan interest rates which means this debt is more expensive. While federal loans usually have better interest rates, a wider variety of payment options, and certain opportunities—like the possibility to have the loan forgiven in some instances—these debts can also stay with you for a very long time.
+
+Let's compare the two. For example, a $10,000 student loan at 6.8% APR paid over 20 years would cost $8,320 in interest. A $10,000 credit card balance at 17% APR paid over 20 years would cost $25,203 in interest. And that's assuming both interest rates remain fixed over that period of time. The long-term interest cost goes up if the interest rates increase.
+
+There may be a somewhat upside to paying student loan debt—tax benefits. Student loan interest is an above-the-line tax deduction which means you can take the deduction even if you don't itemize your deductions.11 Your tax preparer can give you more information about how student loan interest can benefit your taxes.
+
+Credit card interest is not tax-deductible unless you have used a credit card solely for education expenses.12 You'll have to keep detailed records about how you've used your credit card and the amount of interest you pay each year.
+
+The Verdict: Credit cards cost more interest and there is no fringe benefit to paying the interest. Credit cards lose this one.
+
+The Score: Student Loans 1, Credit Cards: 4
+
+Total Amount of Each Debt
+
+If your credit card balance is lower than the balances on your student loans, it'll be easier to pay off. If you want to knock out debts quickly, focusing on paying off your credit card will allow you to knock out some accounts fast. That way, you have fewer payments to make each month.
+
+The Verdict: When it comes to the size of the debt, it's a tie since it depends on the size of your balance with each debt. Neither debt gets a point.
+
+The Score: Student Loans: 1, Credit Cards: 4
+
+How Lenders Perceive the Debt
+
+Debt can be good such as that used to purchase a quality education. And for college students, some debt in the form of student loans may be unavoidable.
+
+Student loan debt is often considered a "good debt" because student loan debt can indicate an investment in your future. It indicates that you have obtained a level of education that will allow you to earn more money.
+
+When you're looking for a new loan or credit card, student loan debt won't count as heavily against you as credit card debt, which is considered a bad debt.
+
+That's not to say that student loan debt won't ever hurt you. It is possible to have such a high amount of student loan debt that you cannot afford any additional loan obligations. However, lenders are a little more lenient with student loan debt than with credit card debt when it comes to approving you for major loans like a mortgage or car loan.
+<USER>

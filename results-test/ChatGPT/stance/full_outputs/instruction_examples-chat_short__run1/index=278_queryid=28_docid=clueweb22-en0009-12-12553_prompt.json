@@ -1,0 +1,101 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prostitution legal
+Text: Prostitution
+
+
+Also found in: Dictionary, Thesaurus, Medical, Encyclopedia, Wikipedia.
+?Note: This page may contain content that is offensive or inappropriate for some readers.
+
+Prostitution
+
+The act of offering one's self for hire to engage in sexual relations.
+
+Prostitution is illegal in all states except Nevada, where it is strictly regulated. Some state statutes punish the act of prostitution, and other state statutes criminalize the acts of soliciting prostitution, arranging for prostitution, and operating a house of prostitution. On the federal level, the Mann Act (18 U.S.C.A. § 2421 [as amended 1986] makes it a crime to transport a person in interstate or foreign commerce for the purpose of prostitution or for any other immoral purpose.
+
+Prostitution, historically and currently a trade largely practiced by women, was not a distinct offense in colonial America. A prostitute could be arrested for Vagrancy if she were loitering on the streets, but generally, the act of engaging in sex for money was not itself a crime.
+
+The first prostitution statutes were enacted during the so-called Progressive political movement of the late nineteenth and early twentieth centuries. Urban areas experienced unprecedented growth during this period. Cities became the centers of industrial manufacturing and production, and they were quickly ravaged by disease and poverty. The Progressive movement emphasized education and instituted new government controls over the activities of the general population. The movement introduced the Prohibition of alcohol, which was banned from 1919 to 1933, vested government with increased power over the lives of poor persons, and created a host of new criminal laws, including laws on prostitution. Prostitution increased during this period, and it was seen as one of the biggest threats to public health because of its potential to spread debilitating venereal diseases such as syphilis and gonorrhea. Prostitutes were viewed as moral failures. The male customers of prostitutes were not held up to scorn, but the women who practiced prostitution were seen as responsible for increases in crime and the general decay of social morals.
+
+Commercial Sex: Repression or Legalization?
+
+In the United States, 49 states make prostitution a crime. The only exception is Nevada, which permits brothels to operate in specific areas of the state. Since the 1970s, advocates of reform have called for either the legalization or the decriminalization of prostitution. Proponents see these approaches as a way of preventing women from being punished for making a choice on how they want to earn an income. Opponents of these changes dismiss the idea that women voluntarily choose this type of work and claim that prostitution is yet another part of the U.S. commercial sex industry, which systematically subordinates women.
+
+Proponents of decriminalization argue that it would remove the stigma associated with prostitution and increase profits. They contend that decriminalization would also relieve the police of the costly and futile effort to stop an unstoppable practice.
+
+Legalizing prostitution would mean regulating it. Supporters contend that this would allow the government to collect millions of dollars annually in taxes, reduce collateral crime, and protect the public from sexually transmitted diseases. Proponents point to Nevada, where the use of brothels facilitates testing for diseases and reduces the number of street prostitutes.
+
+Other supporters of decriminalization and regulation challenge what they see as the paternalistic argument that women need to be protected from sexual exploitation. This argument, they claim, is nonsensical because it means that to protect women from exploitation, society must imprison them for engaging in prostitution.
+
+In addition, those who favor decriminalization note that the worst form of exploitation suffered by prostitutes is from pimps. If prostitution were legal, women would generally conduct business on their own, free from the parasitic and abusive conduct of pimps.
+
+Decriminalization supporters also cite the difference between the lax policing of off-street prostitutes and the harsh treatment of street prostitutes. These observers argue that the enforcement disparity is a matter of race and class: most street prostitutes are members of historically oppressed groups, whereas off-street prostitutes generally have middle-class backgrounds. They argue that it is unfair for society to tolerate and even promote escort services while regularly jailing street prostitutes.
+
+Opponents of legalization of prostitution have traditionally based their opposition on the immorality of commercial sex. However, modern feminist thought has developed other arguments against the removal of legal barriers to selling sex.
+
+Many feminists have attacked the "career-choice" argument. They see it as a corruption of feminist values that otherwise favor the economic liberty of women. They contend that, from a limited range of options constrained by economics, education, sexual harass- ment, and abuse, the decision to sell one's body cannot be deemed a choice. Even if a woman makes a conscious decision to enter prostitution, this does not redeem the trade from being the worst form of gender-based exploitation.
+
+The "choice" argument is also undercut, argue the opponents of legalization, by the fact that the average prostitute starts working at the age of fourteen and suffers Sexual Abuse, drug dependency, violence at the hands of customers, and emotional control by pimps. From this point of view, women are victims of commercial sex work.
+
+More radical feminist critics of legalization argue that prostitution, like Pornography, is an example of the unequal status of women in the United States. The right to privacy arguments advanced by legalization proponents may sound reasonable, contend critics, but they mask the systematic subordination of women. Noted feminist legal scholar catharine a. mackinnon has defined pornography as "the graphic sexually explicit subordination of women, whether in pictures or words," especially in a violent or degrading context. Prostitution is worse than pornography, contend these critics, because women are subjected to sex in violent and degrading contexts.
+
+For these more radical critics of legalization and decriminalization, making commercial sex legal would legitimize the subordinated position of women in U.S. society. Just as the legalization of casino gambling has caused a dramatic increase in the number of people gambling and the amount of money wagered, the legalization of prostitution would give the commercial sex industry the opportunity to legitimately expand. Critics argue that in a consumer culture already permeated with sexual imagery, legalization is not the answer.
+
+Legalization critics have acknowledged, however, that prostitutes are prosecuted for their acts while their male customers usually are not. In the 1980s and 1990s, many state and local governments have sought to end this double standard by enacting laws that target customers of prostitutes. This legislation has also been triggered by residents of local communities who have grown tired of enduring the presence of customers who visit their neighborhoods. These so-called anti-john laws seek to discourage customers by impounding their cars, and, in some cases, notifying their spouses of their arrest.
+
+Many police departments have also increased their use of police decoys—officers disguised as prostitutes who lure unsuspecting customers into arrest. In addition, customers who have been arrested may find their names listed in the local newspaper or photographs broadcast on a local Cable Television station.
+
+It is unlikely that prostitution will be legalized or decriminalized because few politicians would relish being associated with so morally explosive an issue as commercial sex. It is also unlikely, given prostitution's persistence throughout history, that efforts by law enforcement to prosecute prostitutes and their customers will bring an end to prostitution.
+
+Further readings
+
+Kuo, Lenore. 2002. Prostitution Policy: Revolutionizing Practice Through a Gendered Perspective. New York: New York Univ. Press.
+
+Law, Sylvia A. 2000. "Commercial Sex: Beyond Decriminalization." Southern California Law Review 73 (March).
+
+Lefler, Julie. 1999. "Shining the Spotlight on Johns: Moving Toward Equal Treatment of Male Customers and Female Prostitutes." Hastings Women's Law Journal 10 (winter).
+
+Cross-references
+
+Feminist Jurisprudence; MacKinnon, Catharine.
+
+In the nineteenth and early twentieth centuries, states began to encourage the arrest of prostitutes for such crimes as vagrancy and loitering. Congress passed the Mann Act in 1910, which criminalized interstate prostitution, and state legislatures made prostitution a distinct criminal offense. The prostitute, not the customer, was the first to be penalized on the state and local levels; statutes that criminalized the solicitation of prostitution were passed later.
+
+Historically, the enforcement of prostitution laws focused on apprehension of the prostitute. In the 1960s and 1970s, perhaps as a result of heightened social discourse on the issue of prostitution, police departments became more vigilant in their pursuit of customers. Local police in urban areas now regularly conduct "sting" operations designed to catch solicitors through the use of undercover agents posing as prostitutes. Many states have Forfeiture statutes that give law enforcement agencies the power to seize and gain ownership of vehicles used by customers of prostitutes, and alleged customers may find their pictures published in the local newspaper.
+<USER>

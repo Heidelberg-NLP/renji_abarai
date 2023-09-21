@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3ExbKqBNSPXwgJziXGDEKVjagYt",
+  "object": "chat.completion",
+  "created": 1683106747,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1966,
+    "completion_tokens": 671,
+    "total_tokens": 2637
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Title: The Debate over Homework: Is it Too Much?\n\nI. Introduction\n    A. Definition of homework and its role in education\n    B. The debate over whether homework is beneficial or harmful\n    C. Thesis statement: While homework may have some advantages, it's essential to recognize the negative effects excessive homework can have on students.\n\nII. Cons of homework\n    A. It takes away from other important developmental needs and life skills\n    B. Low-income students are at a disadvantage\n    C. Lack of evidence that homework helps younger children\n\nIII. Pros of homework\n    A. Encourages a sedentary lifestyle\n    B. Reinforces learning and develops good study habits and life skills\n    C. Provides opportunities for parents to be involved in their child's learning\n\nIV. Effects of homework on student health\n    A. Too much homework can cause health problems such as lack of sleep and increased stress levels\n    B. Physical activity and time with friends and family are sacrificed\n\nV. Self-regulated learning and homework\n    A. Homework is a classic form of self-regulated learning\n    B. Students need self-regulatory processes to complete homework successfully\n    C. Students who engage in self-regulatory processes generally achieve higher than those who don't\n\nVI. Conclusion\n    A. Summary of main points\n    B. Final thoughts on the debate over homework \n    C. Future research and recommendations for policies to reduce excessive homework. \n\nWorks Cited: \n- Ayres, Crystal. \u201c20 Pros and Cons of Homework.\u201d Vittana.org, vittana.org/20-pros-and-cons-of-homework.\n- Bembenutty, H. (2009). \"Self-Regulation of Homework Behaviors: Grade, Gender, and Achievement Goals Orientations.\" Journal of Experimental Education, 78(2), 199-221. \n- Bempechat, J (2004). \"The Motivational Benefits of Homework: A Social-cognitive Perspective.\" Theory into Practice, 43(3), 189-196. \n- Corno, L. (2000). \"Looking at Homework Differently.\" Elementary School Journal 100(5), 529-548.\n- Lexile Measure, \"Do students get too much homework?\" Scholastic News Online, September 2012.\n- Procon.org. \"Is Homework Beneficial?\" www.procon.org/headline.php?headlineID=005411. Accessed 27 Mar. 2019.\n- Ramdass, Darshanand, and Zimmerman, Barry J. \u201cDeveloping Self-Regulation Skills: The Important Role of Homework.\u201d Journal of Advanced Academics, vol. 22, no. 2, 2011, pp. 194\u2013218. \n- Sandra Levy, \"Is Too Much Homework Bad for Kids' Health?\" Healthline, 11 April 2017, www.healthline.com/health-news/children-more-homework-means-more-stress-031114#1.\n- Trautwein, U., & K\u00f6ller, O. (2003). \"The Relationship between Homework and Achievement\u2014Still Much of a Mystery.\" Educational Psychology Review, 15(2), 115-145."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

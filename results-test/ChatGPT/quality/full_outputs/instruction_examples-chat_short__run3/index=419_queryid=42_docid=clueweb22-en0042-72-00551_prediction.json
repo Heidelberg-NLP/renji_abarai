@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3DOuVYKEeSTY465JduFaKGfJlRQ",
+  "object": "chat.completion",
+  "created": 1683106650,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1935,
+    "completion_tokens": 45,
+    "total_tokens": 1980
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but there doesn't seem to be a clear rhetorical argument in the provided text that I can evaluate for its quality. The text seems to be discussing the NHL's struggles due to the COVID-19 pandemic."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

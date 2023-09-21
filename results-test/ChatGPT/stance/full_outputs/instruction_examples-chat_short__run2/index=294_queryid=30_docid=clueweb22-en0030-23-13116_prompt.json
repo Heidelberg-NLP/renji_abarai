@@ -1,0 +1,163 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should adult have right carry conceal handgun
+Text: My EDC handgun
+
+Your Everyday Carry Handgun Choices, and Why
+
+My EDC handgun
+(What are your Everyday Carry Handgun Choices ?)
+
+For those who ‘Everyday carry’ (EDC) a handgun, or for those who do carry but maybe not everyday, what is your handgun of choice, and why that one?
+
+For me it will vary depending on what I’m doing,  where I’m going, the season, what I’m wearing, or whether I’m carrying IWB or OWB (inside the waistband or outside).
+
+Those of us who do own a handgun or two or three, or more, we have purchased each of them based on our own unique criteria. Some of them are certainly more practical than others for everyday carry.
+
+An ideal everyday carry solution may be one where we have choices available to us that ‘fit’ the situation at hand.
+
+Most of us have not had the luxury to try all sorts of different handguns to discover which works best for us. And many of us may simply carry whatever it is that we have decided to purchase at one time or another.
+
+There are countless opinions regarding handgun manufacturers, models, caliber, etc. It is a given that there will be disagreements of opinion. But let’s put that aside while simply letting others know what it is that we may everyday carry, and why we chose ‘that one’.
+
+ 
+
+Everyday Carry Handgun Choices
+
+For me, depending on the factors I mentioned, it’s likely going to be one of these:
+
+S&W M&P Shield in .45 ACP. I really like this handgun. For a ’45’ it’s compact and relatively light weight (1 lb, 12 oz. loaded), thin (single stack), and readily comfortable to carry. I often carry this OWB (outside the waist band) on my ‘Ronin’ Kydex holster, although still able to conceal it with outerwear. Much more comfortable that way. A big plus for me was purchasing extended magazines for this specific model (6 +1 additional round). It gives me a slightly longer grip to hold (fits much better in my hand that way).
+
+Smith Wesson Hat
+
+Glock G19 Gen4 (9mm).  It’s a bit larger and fatter than my 45 Shield, but has 15 round magazine.  It’s nearly identical in weight (fully loaded) compared with the Shield. Very comfortable to shoot and fits naturally well in my hand. Love the factory sights – better than the Shield in my opinion.
+
+Glock Perfection Hat
+
+Colt ‘Mustang’ Pocketlite (.380). This pocket handgun is a very small semi-auto. It’s virtually unnoticeable while carrying IWB or in my DeSantis pocket holster. I really like it for ease of carry and comfort. Great for summer attire when concealment may be otherwise difficult. 6 round magazine.
+
+Colt Firearms Hat
+
+DeSantis Holsters
+
+Okay let’s hear from you and your handgun choices for EDC…
+
+ 
+
+More: Semi-Auto or Revolver for Concealed Carry
+
+Similar Posts
+
+Posts 1 to 2 of 6
+
+106 Comments
+
+  1. I do IWB with a Kimber Micro CSE, .380, easy to cover up, extra mag in the left pocket since I’m right handed.
+
+    Sig SP2020, .40 S&W, two extra mags in the vehicle always.
+
+    Also have a U.S. AR-7 Survival rifle (.22 LR), extra 100 hollow point rounds in the 3 DAY pack, always in the truck.
+
+    1. Forgot the why…i carry concealed when out in public, zero trust with people I don’t know. Within reach at home when someone hits the doorbell (rare). No critters outdoors that are a problem here, like dangerous snakes and things that are bigger than me and can eat you.
+
+  2. I like my Glock gen 22 .40 cal 15+1 Owb. . But thinking about Ruger .380 for an inside wb holster. You can buy a belt clip for ruger. And won’t need holster.very concealable.Used to carry .357 6inch S/W stainless 686 in a shoulder holster it made my back hurt after a while though.Still love the gun but have a belt holster now for around the property.😃
+
+  3. I live in South FL. Everyday clothing consists of cargo shorts, a thin button down short sleeve shirt and tevas all year round. That being said I am limited in the size and style of carry options.
+
+    I keep a Smith and Wesson 38 spl. Snub in a recluse holster designed for cargo pockets.
+    Fires 5 +P Hydrashock hollow points. The ammo is very important. Also have 10 more rounds in the opposite side pocket. plus a CRKT fossil pocket knife.
+    I feel the revolver is a better reliable option considering it is everyday carry and there is sand that gets in my pockets occasionally. I just need to be able to pull it, pull the trigger and have it go bang without issue. Yes I do service this weapon as needed and train with it.
+
+    Honestly if somebody got the drop on me and was close enough, my knife would be faster to thrust into the bad guys diaphragm or kidney.
+
+    In a shoot out I wouldn’t stick around too long and use the 38 for standoff and get the hell out of dodge. I am not trying to win a shoot out in a gang war.
+
+    1. Forgot to mention I also have a s&w m&p full size 9mm – 17 round mag. if I feel my threat level is higher. OWB carry only slightly prints at the 5 oclock position on my back. Just don’t bend over in front of a cop. :)
+
+      1. Semi autos are much more resistant to sand then a revolver. Look at what military guns are put through in tests. No revolver would survive what they do to Glock’s and still work.
+
+    2. I live in s. Florida too, carry S&W titanium hammer less 357. Use high end 38+P ammo. 2 spare speed loaders. It’s very lite not a gun you want to shoot a lot at range…..it has 1 job. Save me and mine.
+
+  4. As a retired LEO carrying under Act 218 I carry a Gen 5 Glock 26 utilizing PMAG 12 round mags for a total of 13 rounds of 9 mm Hornaday Critical Defense. Carried in a IWB holster, I need to change to the factory 10 round mags when going to some surrounding states, but that still allows 11 rounds total. Within my state and those that allow, I carry an extra Glock 17 +2 round Mag for a total of 19 backup rounds, or where required an extra one or two 10 round mags.
+
+  5. For Duty I carry a Sig P320 9mm. For conceal carry I use a Glock 19 or a Sig P365 depending on the weather or the area that I am traveling to.
+
+    I have IWB and OWB options for all three. I typically run NSR, Safariland or R Grizzle holsters.
+
+    I really enjoy most firearms but those are the ones I carry daily.
+
+  6. I carry a S&W Governor around the house/outside, 410 Shot shell and/or 45 Long Colt in a Shoulder Holster, keeps it out of the way when working.
+    I load 2 #4 shot, 2 Defender Shot Shell, and 2 45-LC Bear Load. I “it” doesn’t go down with that…. AHHHHH well tis been a good life. As a side note the Governor will accept the 45ACP ammo with the supplied adaptor.
+
+    EDC is the Springfield 45ACP XDM Compact, double stack 10+1 with (2) 13 round Mags on the other side (OWB) to balance the load. Red Laser with Florescent replacement iron sights. Clothing covers both.
+    Office gun is a Springfield XD 45ACP in a under desk holster. With 2 extra mags, EDC gets locked in a quick access truck lock-box when I get to work.
+    Additionally a Springfield XD 45ACP in the GHB in the truck/car that goes where I go, period.
+    Also a DPMS AR and a short barrel Remington in the truck in a lockdown box bolted to the floor under the back seat. Slow to retrieve, but there if I need it. Dang NRP, that’s 4 firearms in the truck at work Holy Crapo..… HAHAHAHA
+
+    I chose the XD’s for EDC because of the “feel” of the grips and weight without changing grips and other modifications. Also like the action/slide seems smooth to me. AND the work every time I pull the trigger, even with reloads.
+    Also like the knockdown power of the 45ACP, without getting into the age old argument of what ammo, it’s just the right choice for me. Ever try to fend off a pizzed off Elk or really mad Bear with a pea shooter? (have pictures I took 3 days ago of Mama and 2 Cubs about 300 feet from the house, Blue smelled them and let me know.)
+
+    Ken;
+    Surprised Google/Amazon and others are not complaining about a “Firearm Article” on your site.
+
+    1. @NRP,
+      I was a hardcore Glock guy for years, mainly because it was recommended to me by several LE friends. Had an employee that swore by the Springfield XD series of pistols and he convinced me to buy one. Bought the XDM in .45. Damn good weapon. Have bought a few more Springfield XD’s since.
+      Both the Glocks and Springfields have NEVER failed to fire or failed to eject.
+
+      1. Love Springfield I have both XD and XDS in 9MM. My carry is the XDS
+
+        Also have Springfield 1911 .45 range master. Not for carry but this is my favorite handgun
+
+    2. quote, Surprised Groogle/Amazon and others are not complaining about a “Firearm Article” on your site.
+
+      I’m just waiting to see if I get a notice from them (the big G). Amzn has not been a problem.
+
+    3. We went last weekend to look at the XDM 3.8 inch in 45 acp. We really liked the feel of it and I’m glad to hear from those that have one. That’s what I like about this site. It’s very helpful.
+
+      1. Bender:
+        I really like the XDM (match) very comfortable grip and action is smoooottthhhhh.
+        Find someone and go shoot it, you’ll be sold.
+
+      2. My first pistol was the XDM 3.8 in 9mm, and it is still my favorite. Great trigger, easy to disassemble, and accurate. I put on a light on it and it is now my home gun.
+
+        My carry is now the XD-S (single stack 9mm). Much easier to carry in the warmer months and I barely feel it is there.
+        A couple of guys I go the range with have different pistols (one a Sig, the other a Shield) and they both shoot better with the XDM. Definitely try it out.
+
+  7. For me it depends on where I’m going and what I’m wearing. Most days I have a Walther PPK/S .380 in a sticky Holster in my pocket with a spare magazine in my other pocket. When wearing an IWB holster I will probably be carrying a Glock 27 .40 caliber. Choices for OWB carry include my be a Glock 19, 9mm or Glock 22, .40, Springfield XDM .45 or XDS 9MM. When wearing a shoulder holster its my Springfield Range Officer in .45.
+<USER>

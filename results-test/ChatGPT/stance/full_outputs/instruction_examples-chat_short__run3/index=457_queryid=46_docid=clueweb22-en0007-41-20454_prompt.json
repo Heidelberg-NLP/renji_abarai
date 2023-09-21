@@ -1,0 +1,97 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should net neutrality restore
+Text: Net neutrality in the United States
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+In the United States, net neutrality, the principle that Internet service providers (ISPs) treat all data on the Internet the same, and not discriminate, has been an issue of contention between network users and access providers since the 1990s.[1][2][3] With net neutrality, ISPs may not intentionally block, slow down, or charge money for specific online content. Without net neutrality, ISPs may prioritize certain types of traffic, meter others, or potentially block traffic from specific services, while charging consumers for various tiers of service.[4]
+
+A core issue to net neutrality is how ISPs should be classified under the Communications Act of 1934 as amended by the Telecommunications Act of 1996, as either Title I "information services" or Title II "common carrier services". The classification affects the Federal Communications Commission's (FCC) authority over ISPs: the FCC would have significant ability to regulate ISPs if classified as Title II common carriers, but would have little control over them if classified as Title I. Because the Communications Act has not been amended by the United States Congress to account for ISPs, the FCC has the authority to designate how ISPs should be classified, affirmed by the Supreme Court in the case National Cable & Telecommunications Ass'n v. Brand X Internet Services (2005), in addition to choosing what regulations to set on common carriers. The makeup of the 5-member FCC changes with each new administration, and thus the FCC's attitude and rules towards net neutrality has also shifted multiple times.
+
+In the early 2000s, the FCC adopted a position that ISPs were Title I information services, and proposed net neutrality principles via the FCC Open Internet Order 2010. Courts ruled in Comcast v. FCC (2010) and Verizon v. FCC (2014) that the FCC did not have authority to enforce these net neutrality principles on Title I information services. Under FCC chair Tom Wheeler, the FCC voted in the 2015 Open Internet Order, categorizing ISPs as Title II common carriers and subject to net neutrality principles, which was upheld after a legal challenge raised by the ISP industry in United States Telecom Ass'n v. FCC in 2016.
+
+With the new Trump administration in 2017, the new FCC chair Ajit Pai sought to reverse the 2015 Open Internet Order. A public commenting period on the new rules brought in over 21 million comments, of which over 18 million were found to be fraudulent. The FCC voted in these rules in December 2017, reverting ISPs to Title I information services. Courts upheld most of these new rules in Mozilla v. FCC (2019) though they identified that the order did not give proper leeway to state-level legislation, such as California Internet Consumer Protection and Net Neutrality Act of 2018.
+
+As part of an executive order issued in July 2021, President Joe Biden called for the FCC to undo some of the Trump-era changes.
+
+Regulatory history[edit]
+
+Early history 1980 – early 2000s[edit]
+
+Major events related to net neutrality in the United States
+2003Introduction of net neutrality concept
+2004
+2005National Cable & Telecommunications Association v. Brand X Internet Services
+2006–2009
+2010Comcast v. FCC
+FCC Open Internet Order 2010
+2011–2013
+2014Verizon Communications Inc. v. FCC
+2015FCC Open Internet Order 2015
+2016United States Telecom Ass'n v. FCC
+2017
+2018FCC Restoring Internet Freedom
+2019Mozilla v. FCC
+2020
+2021Executive Order 14036, "Promoting Competition in the American Economy"
+
+The ideas underlying net neutrality have a long pedigree in telecommunications practice and regulation. Services such as telegrams and the phone network (officially, the public switched telephone network or PSTN) have been considered common carriers under U.S. law since the Mann–Elkins Act of 1910, which means that they have been akin to public utilities and expressly forbidden to give preferential treatment. The Communications Act of 1934 created the Federal Communications Commission (FCC) to regulate the industry and ensure fair pricing and access.[5] Different titles of the Act covered different modes of communication, but primary focus on the debate of net neutrality has been on Titles I and II. The Act distinguished between common carriers, who were bound under Title II of the Act, and other telecommunication systems of the time, covered broadly under Title I. Within Title II, common carriers such as the phone networks were to be regulated by the FCC as to assure reasonable pricing rates and non-discriminatory practices. Systems under Title I were left to be unregulated by the FCC.
+
+In the late 1980s the Internet became legally available for commercial use, and in the early years of public use of the Internet, this was its main use – public access was limited and largely reached through dial-up modems (as was the Bulletin board system dial-up culture that preceded it). The Internet was viewed more as a commercial service than a domestic and societal system. However, by the late 1990s and early 2000s, the Internet started to become common in households and wider society. Also in the 1980s, arguments about the public interest requirements of the telecommunications industry in the U.S. arose; whether companies involved in broadcasting were best viewed as community trustees, with obligations to society and consumers, or mere market participants with obligations only to their shareholders.[6] The legal debate about net neutrality regulations of the 2000s echoes this debate.
+
+By the 1990s, some U.S. politicians began to express concern over protecting the Internet:
+
+How can government ensure that the nascent Internet will permit everyone to be able to compete with everyone else for the opportunity to provide any service to all willing customers? Next, how can we ensure that this new marketplace reaches the entire nation? And then how can we ensure that it fulfills the enormous promise of education, economic growth, and job creation?
+
+— Al Gore, 1994, [7]
+
+The Communications Act of 1934 was amended with the Telecommunications Act of 1996, which besides other provisions, defined "information services" as "the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications", and covered only under Title I unregulated by the FCC.[8]
+
+In the early 2000s, legal scholars such as Tim Wu and Lawrence Lessig raised the issue of neutrality in a series of academic papers addressing regulatory frameworks for packet networks. Wu is credited with introducing the term "network neutrality" in his 2003 paper "Network Neutrality, Broadband Discrimination".[9] Wu had found based on behaviors of broadband providers in the early 2000s that there could be potential for commercial interests to interfere with natural evolution of new innovations on the Internet, such as those using higher bandwidth like voice and video applications. Wu outlined the benefits and drawbacks of governmental regulation for net neutrality, writing "Communications regulators over the next decade will spend increasing time on conflicts between the private interests of broadband providers and the public’s interest in a competitive innovation environment centered on the Internet."[10]
+
+Papers from Wu and others in the early 2000s sparked debate among academics in information technology and legal areas to device possible frameworks for net neutrality that could be applied within U.S. laws; these discussions paralleled similar concurrent ones in Europe, though due to its different governmental structure, took on different forms of implementation. Within the U.S., media and politicians learned of these regulatory suggestions, leading to the start of net neutrality principles within the government.[11][12]
+
+Attempts at regulation under Title I information services (2000–2015)[edit]
+
+Brand X and FCC's authority to classify services (2000–2005)[edit]
+
+In the wake of the Telecommunications Act of 1996, the introduction of "information services" under Title I prompted many cable-based Internet access providers to urge the FCC to classify their services as Title I information services, rather than as cable providers under the Act's Title III which required them to provide open access to other service provides. The FCC took in comments, and after providing its initial findings in 2002, issued "Inquiry Concerning High-Speed Access to the Internet over Cable and Other Facilities" in which it had determined that cable ISPs were neither a telecommunications provider (under Title II) nor a cable provider (under Title III) but were solely an information service that fell under Title I and thus could operate unregulated by the FCC.[13]
+<USER>

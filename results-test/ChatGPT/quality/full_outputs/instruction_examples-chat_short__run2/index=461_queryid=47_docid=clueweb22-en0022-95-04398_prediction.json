@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2sg6C7GAOThtYZtwKX6E8nVTQmV",
+  "object": "chat.completion",
+  "created": 1683105366,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1966,
+    "completion_tokens": 225,
+    "total_tokens": 2191
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Topic: Should high school students have less homework?\n1. Introduction\n    a. Brief overview of the controversy surrounding homework for high school students\n    b. Background information about homework as a form of self-regulated learning\n2. Cons of high school homework \n    a. Too much homework can be harmful to students\u2019 health\n    b. Homework disadvantages low-income students\n    c. Lack of evidence that homework helps younger children\n    d. Students have a hard time focusing in school\n    e. Students feel more stressed when they have a lot of homework\n3. Pros of high school homework\n    a. Homework improves student achievement\n    b. It teaches time management skills\n    c. Homework creates a communication network between parents and teachers\n    d. Not every home is a beneficial environment\n4. Criticism of pros and cons\n    a. The effect of homework on student achievement may be overstated\n    b. Students may learn valuable life skills outside of the classroom \n5. Conclusion\n    a. Summary of key points\n    b. The need for further research on homework efficacy"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

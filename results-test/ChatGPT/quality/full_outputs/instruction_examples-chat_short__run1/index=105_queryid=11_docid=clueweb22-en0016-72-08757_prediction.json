@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ41QeWj85OB3LsJcgNxylToFurp",
+  "object": "chat.completion",
+  "created": 1682690917,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2358,
+    "completion_tokens": 121,
+    "total_tokens": 2479
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "It is unethical for athletes to use performance enhancing drugs as it provides an unfair advantage and goes against the spirit of sports. The history of doping in sports dates back centuries and has become a major issue in recent years, with more refined methods and technologies being used. Athletes who test positive for PED use face consequences such as losing their eligibility to compete and being banned from competition for a period of time. PEDs can also have negative physical effects on the user, including aching joints, tendon injuries, high blood pressure, and liver problems. Therefore, the use of PEDs in sports should be banned."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

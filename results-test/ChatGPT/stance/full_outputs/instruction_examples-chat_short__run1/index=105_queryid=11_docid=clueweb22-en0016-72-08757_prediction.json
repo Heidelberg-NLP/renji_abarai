@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C5dWFLYkz7PK1HyJKxGMlkEODDUY",
+  "object": "chat.completion",
+  "created": 1683115958,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2247,
+    "completion_tokens": 56,
+    "total_tokens": 2303
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "It is not clear whether the text is in favor or against performance-enhancing drugs in sports. The text seems to be an informative one, providing information about the history, types, and effects of performance-enhancing drugs. Therefore, the label for this text would be \"none\"."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

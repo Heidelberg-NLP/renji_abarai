@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0hpO3YwWdV1ZT6KOVoLeiFtPJFS",
+  "object": "chat.completion",
+  "created": 1687863565,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The sample contains arguments in favor of legalizing abortion and arguments against it. It is difficult to determine the rhetorical argument quality without more context and information."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2918,
+    "completion_tokens": 30,
+    "total_tokens": 2948
+  }
+}

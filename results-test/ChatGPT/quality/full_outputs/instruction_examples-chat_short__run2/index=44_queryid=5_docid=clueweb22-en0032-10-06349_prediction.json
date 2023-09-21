@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2aD8ENR7n1FMIiBRagJuESE8qOd",
+  "object": "chat.completion",
+  "created": 1683104221,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2290,
+    "completion_tokens": 32,
+    "total_tokens": 2322
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but this prompt seems to be asking for feedback and input from one specific work colleague and there is no colleague to provide feedback in this context."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzBHDqnpWKmODFFTvdiJeiqM9TA9",
+  "object": "chat.completion",
+  "created": 1687857703,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This passage is an informative text and does not contain a rhetorical argument, therefore it cannot be labeled as \"high\", \"medium\", or \"low\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2514,
+    "completion_tokens": 30,
+    "total_tokens": 2544
+  }
+}

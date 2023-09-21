@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0t3dIjro6uLUj2BlQ21GiKPzaIc",
+  "object": "chat.completion",
+  "created": 1687864261,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text appears to be a collection of three different essays, each taking a different stance on animal testing. Therefore, the rhetorical argument quality varies based on each essay. \n\nFirst essay: medium\nSecond essay: high\nThird essay: medium-high"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1960,
+    "completion_tokens": 49,
+    "total_tokens": 2009
+  }
+}

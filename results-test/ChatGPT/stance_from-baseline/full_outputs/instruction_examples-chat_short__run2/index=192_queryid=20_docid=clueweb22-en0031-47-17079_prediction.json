@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2ZXUXL5KwihbAM1iwXhbxsTc1go",
+  "object": "chat.completion",
+  "created": 1687870739,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text does not provide a stance towards whether drinking milk is healthy for humans. It is merely discussing the nutritional value and various types of milk available. Therefore, the label for this text is \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2203,
+    "completion_tokens": 42,
+    "total_tokens": 2245
+  }
+}

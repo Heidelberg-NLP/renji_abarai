@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3GXCCigpJIWLYhiNtlGoqh6om2u",
+  "object": "chat.completion",
+  "created": 1683106845,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 778,
+    "completion_tokens": 28,
+    "total_tokens": 806
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is not sufficient to make a prediction about the rhetorical argument quality, as it only contains the title and one sentence from the abstract."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

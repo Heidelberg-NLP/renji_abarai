@@ -1,0 +1,126 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: Should Everyone Receive a Basic Income? | Maryland Smith
+World Class Faculty & Research / June 2, 2017
+
+Should Everyone Receive a Basic Income?
+
+SMITH BRAIN TRUST – At a time when robots and other forms of automation appear poised to edge out wide swaths of the global workforce, several pilot projects and at least one documentary film are exploring the idea of universal basic income – free money for everyone, enough to cover basic expenses.
+
+It's no wonder, says Bennet A. Zelner, associate professor at the University of Maryland's Robert H. Smith School of Business. Research suggests that the concept can help create opportunities, break the cycle of poverty and encourage better money circulation, which can help the economy.
+
+Universal basic income is a big idea that dates back at least to 1795 in the United States, with revolutionary activist and author Thomas Paine. Martin Luther King, Jr. touted its merits in the 1960s, as did libertarian economist Milton Friedman, who lauded the virtues of a negative income tax. In 1971, President Richard Nixon wrote a proposal that would have given every family of four $1,600 a year, roughly $10,000 in today's dollars. Congress voted it down.
+
+But the notion of UBI has perhaps never been as relevant as it is now, says Zelner, with innovation and globalization posing an unprecedented threat to employment.
+
+Artificial intelligence, automation, 3D printing and other advancements are already displacing workers. And McKinsey & Co. estimates that 45 percent of today's jobs, across a wide range of sectors, could be automated with the use of current technology. Meanwhile, many analysts predict that by 2020, half of the workforce will operate on a more precarious, freelance basis, rather than full-time.
+
+And those growing trends have added to the allure of the concept of UBI, says William Longbrake, executive-in-residence in the Smith School's finance department and senior policy adviser to Smith's Center for Financial Policy. He adds, however, that the concept carries "all kinds of potential consequences that aren't fully understood."
+
+Critics of UBI question what impact such a program would have on society, arguing that guaranteed income would make otherwise employable people lazy. Studies, including several conducted in the U.S. and Canada between 1968 and 1980, have shown however that UBI recipients are not less likely to work. Many participants in those studies opted only to work fewer hours, dropping their workweek by no more than 7 percent.
+
+A more recent working paper on labor elasticity from the Congressional Budget Office in 2012 found that a $1,000 per month increase in net unearned income reduced labor participation of wives by 0.1 percentage points, and of husbands by 0.5 percentage points. "That's an extremely small practical effect," says Zelner, who is planning to conduct some new research related to basic income during a sabbatical next year. He adds that if basic income were to impose a larger effect on labor participation in the future, that might not be considered a bad thing, as AI, automation, 3D printing and other advancements gradually shrink the required workforce.
+
+Still, critics fear that a guaranteed income would mar the economy, stifle innovation and corrupt the moral fabric of society.
+
+"Will people spend their money frivolously? And if you don't have a bureaucracy to determine whether people are spending it wisely, then could there be negative ramifications on the culture from a societal basis?" Longbrake asks.
+
+It's hard to say for sure.
+
+Zelner acknowledges that UBI is a radical proposition. But, he says, "I think it's useful to step back and acknowledge the possibility that some of our very deeply held beliefs about how economics works and the sources of scarcity are dogma. They don't necessarily reflect an objective truth."
+
+More often, he says, they reflect "a set of subjective cultural influences." And that's why research is so important.
+
+Pilot programs focused on UBI are being launched around the world, as policymakers grapple for a solution to poverty, the quandaries of precarious employment, wage stagnation and the erosion of pension benefits.
+
+Four months ago, Finland launched a two-year pilot project to study UBI, giving 2,000 people $600 a month. The modest stipend is already knocking down anxiety levels among its recipients, officials for the program say.
+
+And in Ontario, Canada's most-populous province, a pilot project launching this year will deliver basic income to 4,000 households in three cities. Canada's province of Manitoba tried a similar experiment in the 1970s, and found that the program didn't make recipients less inclined to work. But the program ran out of money early and was halted.
+
+A similar pilot project is in the pipeline in the Netherlands. And in remote communities in Kenya, New York-based nonprofit GiveDirectly is working with economists to conduct a randomized control trial of four basic income models.
+
+Elsewhere, the notion has been rebuffed. Swiss voters last year voted 77 percent to defeat a referendum that would have given each citizen a basic income.
+
+Meanwhile, in the U.S., Stanford University has created a Basic Income Lab to study the concept. And the California-based Economic Security Project says it will invest $10 million in basic income experiments over the next two years.
+
+And filmmakers Deia Schlosberg and Conrad Shaw are setting up their own experiment, which will become the basis for a documentary, giving 20 people across America $250 a week for two years.
+
+Previous UBI pilot programs have seen school attendance rates rise among adults and children. Children were found to be better fed and therefore more attentive in class. Crime declined by one-third. Poverty rates fell by one-fifth.
+
+Unemployment notched declines during some UBI studies, in one case falling to 45 percent, from around 60 percent. And perhaps most surprisingly, average earned income, a measure that excludes the basic income grant, climbed 29 percent. Longer-term research is still needed, but Zelner says the preliminary findings suggest that UBI could help "not only alleviate poverty, in purely economic terms, but it also can help people out of the poverty cycle."
+
+But one of the central benefits, says Zelner, is in creating opportunities.
+
+When people's basic needs are met, when their thoughts aren't fully consumed with their own subsistence, "their human capital is freed up," says Zelner. And that allows them to do things like retrain, attend school, start businesses, find work, and, in general, innovate.
+
+If the notion of basic income sounds like an ultra-liberal proposal, it's not. The concept actually draws support from both sides of the political spectrum.
+
+"The progressive side says, 'Hey, everybody deserves a living wage, basically.' And it's a way of attacking poverty head-on because if everyone gets a basic income, that means everyone is going to be above the poverty line," Longbrake says. Meanwhile, he says, the conservative side favors the idea because it eliminates the need for certain bureaucracies and because "there is a huge element of personal freedom that comes along with it – the freedom of the individual to determine how they are going to spend the money, without being held accountable necessarily or having to prove that they deserve it and so forth."
+
+But across the spectrum, there also are those who worry about how UBI gets funded.
+
+In the U.S., analysts estimate the program would cost about $2.5 trillion, a significant chunk of the $4.2 trillion federal budget.
+
+Much of the funding would come from cutting existing social welfare programs – social security, unemployment and food stamps, for example – which would no longer be needed. But basic income would likely require a higher tax burden on wealthier people, who would of course also receive the basic income payment. In political circles, that's a challenge.
+
+"There is an ideological belief in some quarters that redistributing income or wealth in any way is a kind of theft and is morally wrong," Zelner says. "But there is strong evidence suggesting that this belief is not well founded."
+
+The evidence is rooted in the economic multiplier effect – essentially the idea that when non-wealthy people receive money, they spend it.
+
+Research shows that every extra dollar that goes to a low-wage worker adds about $1.21 to the national economy in the U.S. Meanwhile, every extra dollar that go to a high-income American adds only about $0.39 to the country's economy.
+
+The IMF and Harvard have estimated that if you were to redistribute a certain fraction of income from the top 10 percent to the bottom 60 percent, you would actually increase economic growth significantly, and that would also create a significantly larger tax base because it would create greater economic output.
+
+And that's one of the key benefits of a UBI, Zelner says: creating a true recirculatory system of money. "Without money re-circulating," he says, "the system is eventually going to crash."
+
+"I don't think it's utopian," Zelner says, adding, "though it may sound that way."
+
+Media Contact
+
+Greg Muraski
+Media Relations Manager
+301-405-5283  
+301-892-0973 Mobile
+gmuraski@umd.edu 
+
+About the University of Maryland's Robert H. Smith School of Business
+
+The Robert H. Smith School of Business is an internationally recognized leader in management education and research. One of 12 colleges and schools at the University of Maryland, College Park, the Smith School offers undergraduate, full-time and part-time MBA, executive MBA, online MBA, specialty master's, PhD and executive education programs, as well as outreach services to the corporate community. The school offers its degree, custom and certification programs in learning locations in North America and Asia.
+<USER>

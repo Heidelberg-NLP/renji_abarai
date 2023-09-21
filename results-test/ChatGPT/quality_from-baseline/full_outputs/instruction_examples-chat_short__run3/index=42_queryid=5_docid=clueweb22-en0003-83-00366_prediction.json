@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1GhLrTo1KJBHcULXFOMq9G1c4tp",
+  "object": "chat.completion",
+  "created": 1687865727,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This argument is missing a clear warrant and impact, and thus cannot be considered as a valid argument."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2586,
+    "completion_tokens": 20,
+    "total_tokens": 2606
+  }
+}

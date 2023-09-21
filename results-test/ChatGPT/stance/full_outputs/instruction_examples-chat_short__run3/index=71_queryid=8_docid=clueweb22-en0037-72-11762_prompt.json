@@ -1,0 +1,98 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should abortion legal
+Text: OUR TOP ARTICLE THIS WEEK×
+
+3 Reasons Why Abortion Should Be Legal
+
+A guide to your arguments when faced with a pro-lifer.
+
+POSTEDBYHANEEN SHANABLEH
+
+With the catastrophic banning of abortion in Argentina earlier this month, the nonsensical ban has claimed its first victim. A 24 year old mother of two, whom media outlets refer to as Elizabeth, has died on Tuesday following a botched at home abortion attempt. The desperation that a person must be feeling to risk death, while politicians argue ethics is, in any case, outrageous. Senates are in theory elected by the people for the people to argue and defend their rights. Yet, in Argentina, and many other countries, a topic of abortion and the rights to choose what a women does and does not do with her uterus is not being respected. Instead, Argentina would prefer 500,000 illegal abortions be carried out each year, with many ending in fatal complications, than to respect the wants and needs of its female population. 
+
+Despite mass protests, despite the bill to decriminalize abortion passing Argentina's lower house in June. It was the Senate's blatant disrespect of women's lives that sealed the fate of Elizabeth and many other women whom media outlets have not brought to light. While "pro-lifers" rejoiced in the victory of the ban, every 8 minutes a woman in a developing country dies due to the complications of an illegal abortion, according to The World Health Organization (WHO).  
+
+"Pro-lifer" arguments centre around a mythical moral crusade of protecting the child and some religious verse, a leaf out of many fascist organisations playbook. While it may seem that their arguments and view points are the ones that are winning, we need to arm ourselves with facts and reasons to counter attack their deliberations and manipulations. Our arguments and points need to be fact based and statistically orientated to combat the moral washing of abortion. Anyone that decides that they can govern what goes on in a women's uterus can not be reasoned with empathy, only aborted with figures. We need to discuss abortion when it does not want to be discussed. We need to link arms and link brains in protest. 
+
+As feminists and abortion activists, these are the top 3 reasons why abortion should be legal.
+
+1. Criminalizing abortion is the leading cause of maternal mortality, worldwide. 
+
+42 million women each year undergo an abortion, worldwide, with 20 million of those abortions being unsafe and illegal, of these 20 million 68,000 women whom are documented, the number could be much lower than reported, loose their lives to illegal abortions. 5 million women who have undergone an unsafe abortion will have gone irreversible health damage and complications, both physically and mentally. According to WHO, illegal abortions are the leading cause of maternal mortality, one that is easily prevented with less restrictive laws regarding abortions and access to contraceptives. While access to contraceptives is not an issue in most parts of the world through education and family planning and sexual health centres. The main issue her is restrictive laws. 
+
+Leading on to point 2:
+
+2. The stricter the abortion laws the higher the rate of illegal risky abortion.
+
+According to a 2009 study, published in the Reviews of Obstetrics and Gynecology, pointed out a direct correlation between restrictive abortion laws and illegal abortions. Stating: 
+
+The median rate of unsafe abortions in the 82 countries with the most restrictive abortion laws is up to 23 of 1000 women compared with 2 of 1000 in nations that allow abortions. 
+
+Fact. Furthermore:
+
+Abortion-related deaths are more frequent in countries with more restrictive abortion laws (34 deaths per 100,000 childbirths) than in countries with less restrictive laws (1 or fewer per 100,000 childbirths).
+
+And for the mic drop moment:
+
+Less restrictive abortion laws do not appear to entail more abortions overall. The world’s lowest abortion rates are in Europe, where abortion is legal and widely available but contraceptive use is high; in Belgium, Germany, and the Netherlands, the rate is below 10 per 1000 women aged 15 to 44 years. In contrast, in Africa, Latin America, and the Caribbean, where abortion laws are the most restrictive and contraceptive use is lower, the rates range from the mid-20s to 39 per 1000 women.
+
+3. Criminalizing abortion costs more than decriminalizing abortion on tax payers. 
+
+If you speak to a "Pro-Lifer" this is probably one sentence you will hear: "Why should I pay for your mistake". Meaning, why should tax payer funded abortion clinics exist. Well here is the fact. According to WHO, the financial burden on a community and countries health care system of the consequences caused by illegal abortions mainly undergone due to criminalization of abortion is valued at US $553 million. This is just the amount that it would be to care for those who are victims of unsafe abortions caused by governments who decide that sociopolitical and religious blockades govern a uterus. Another US $375 million is needed for the treatment that women face due to complications of unsafe abortions. 
+
+While points of gender equality (only women are the victims), humane ways that modern day medicine has created to ease the pain of abortion should also be mentioned; 'pro-lifers' and politicians have no empathy. Hitting them hard with facts and statistics is the only way to reason with ignorance. 
+
+Argentina's ban is a catastrophe. It was a decision that was made by a male majority who are not blessed with the beautiful curse of a uterus. Men who make decisions for women are not men. They are the epitome of evil, denying a woman her right to govern her body automatically puts her at risk of death. To the Senators who criminalized abortion, how much more blood can your hands take?
+
+ 
+
+Facts and statistics taken from: 
+
+Haddad, Lisa B, and Nawal M Nour. “Unsafe Abortion: Unnecessary Maternal Mortality.” Reviews in Obstetrics and Gynecology 2.2 (2009): 122–126. Print.
+
+ 
+
+Check out more females standing up to their governments here!
+
+ 
+
+UP NEXT ON THE HITLIST
+Ok
+<USER>

@@ -1,0 +1,83 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should insider trading be allowed?
+Text: Insider Trading
+
+Insider trading refers to transactions in the securities of some company executed by a company insider. Although a company insider might theoretically be anyone who knows material financial information about the company before it becomes public, in practice, the list of company insiders (on whom newspapers print information) is normally restricted to a moderate-sized list of company officers and other senior executives. Smart companies normally warn all employees to be careful when they trade, “just in case”. The U.S. Securities and Exchange Commission (SEC) has strict rules in place that dictate when company insiders may execute transactions in their company’s securities. All transactions that do not conform to these rules are, in general, prosecutable offenses under US securities law.
+
+This article offers a primer on the rules that govern insider trading. It focuses on a common insider’s mechanism, namely stock options. While I make no claim to be an expert on this, I was an officer for a few years at a company that was private and went public, but that was in 1992, so a few rules may have changed since then.
+
+Newspapers and other sources publish data about trades executed by insiders; a few are listed at the end of this article. In general, interpreting the data taken solely from any of these sources is difficult. To do a thorough job, you need the last couple years of annual reports so you can read the fine print about executive compensation, special loans, extra covenants about non-sale of stock around IPO, merger, acquisitions, etc. In fact, the insider-trading sections of newspapers can be very misleading if you don’t know how to interpret them. Here are some examples that show why.
+
+Insider purchases and sales are closely watched, for better or worse. If you see insiders buying a lot of stock on the open market, this might be worth investigating as a BUY signal … although insiders are often wrong. Another example is insider sales. If you see insiders in fairly young companies selling stock, either by selling very cheap stock they’ve had a while, or by same-day exercise of a stock option and selling the resulting stock, this rarely means very much.
+
+The list of stock still owned strangely doesn’t mean very much either. That is, sometimes readers get very excited if they see that Joe Blow, CEO, has sold 10,000 shares and now owns 0. What is not obvious from the paper is whether our friend Joe has no options left, is cashing out, and about to leave. However, Joe might have vested options on a million shares, and has thus sold 1% of his stock to buy a new house. Obviously, the imputed meanings are rather different
+
+The timing of sales also means relatively little. Silicon Valley financial advisors tell people to sell some stock every year for tax reasons. (More on this later in this article.) Normally, there are at most 4 times during a year when an insider can sell stock anyway, and it is easy for other events to knock this down to 1-2, or even 0. I’ve heard of cases where people got stuck for 2 years post-IPO not being able to sell any stock.
+
+Now it’s time for some detailed explanations.
+
+If you are a founder of a company, or even an early employee, you will likely get some stock options, or own stock at minuscule prices (i.e., like $.10/share on stock you hope will be worth at least $10 at IPO.) I don’t know how the rules are now, but they used to strongly encourage actual purchase of some of that stock, at least 2 years in advance of a potential IPO, in order to have stock that could get favorable capital gains handling when sold 6 months after IPO. [When a company is founded, of course, no one has the foggiest clue of the likely increase in value … although there are many hopes :-)]
+
+When you get closer to IPO, stock option pricing gets closer to an IPO price, which is usually adjusted via splits or reverse-splits to be in the $10-$30 range.
+
+Many companies continue to grant stock options after IPO, although the prices are of course much higher, which tends to force some different strategies. From tax-treatment, it is advantageous to spread this out, as only a certain amount per year gets the favorable Incentive Stock Option (ISO) treatment, any above gets a Non-Qualified Option treatment.
+
+Silicon Valley companies use stock options extensively, and usually, broadly across employees, not just for executives. [Which is why the Valley went berserk with the proposed law that required charging the bottom line for the “expected future value of stock options” 🙂 If anyone can predict such a thing, they are really smart … but even worse, it would have discouraged broad use of stock options, which would have been truly sad.]
+
+If you have been in a high-tech startup, or even fairly early in, it is likely that much of your net worth exists in stock ownership and options of that company. It is far more complicated, and takes longer than you’d expect, to get that money out without giving it to the IRS 🙂 [I do first-in-first-out on option exercises … I’m still working on some I got in 1985…]
+
+It is especially difficult to get money out if you are an insider, given SEC rules, tax laws such as alternate minimum taxes, and lawsuit issues. Company officers must be especially careful about lawsuit issues, and should ask the lawyers about extra rules that aren’t laws but offer some insurance against lawsuits.
+
+Insiders usually do no trades in month 1 and month 3 of a quarter for the following reasons. (This leaves insiders just 4 months per year.) During month 1, no trades are permitted until the quarterly report appears, plus a few days for market to digest the results. Theoretically, by the beginning of month 3 you know how the quarter will be. This may be actually true in some businesses, but not others. In some parts of the computer business, an awful lot of business is booked during month 3, and shipped in the last 2 weeks, so people quite often have no idea at this time whether they’ll make the numbers or not. This is especially true for high-end machines (like supercomputers, where pure-supercomputer companies have occasionally had crazed fluctuations because some $20M machine got held up a week). Right now, the government shutdown and its effects on buying and export licenses is a bit strange. Similar weirdnesses go on, for example, in some retail businesses, where the Christmas season is crucial.
+
+Insiders should avoid trades when in possession of material information that might affect the stock, and is not yet public, at least partly because it might or might not happen. For instance, somebody might be negotiating a merger or some really major sale, and the lawyers will tell you that you shouldn’t trade then, to avoid lawsuits. This may knock out some of the 4 months, and may be difficult to predict a year in advance; that is, it is personally dangerous to say: “I expect to sell stock 9 months from now.” Don’t count on it.
+
+Insiders may make no trades when forbidden by covenants that are part of IPOs or merger deals. There is usually a minimum of a 6-month block after an IPO, and probably 3 after a merger.
+
+I don’t know if this rule is still around, but insiders do not usually both buy and sell their stock in within the same 6 months. I think the rule has been mellowed to allow purchase of options and sell them off, but there used to be a terrible trap where you (a) sold some stock (b) then, slightly less than 6 months later, were reminded that you had options expiring. You exercised the options … and blam some computer at SEC nails you for illegal trading. [Years ago, advisors mentioned some horror stories, whose details I forget, but whose import stuck.]
+
+When considering the rules mentioned above, plus some other rules about tax-treatment on pre-IPO stock options, the whole mess might be paraphrased as: “You are in a maze of twisty little rules, all alike.” But in general, the rules (explicit and implicit) strongly discourage insiders from trading (mixtures of buying and selling) their own stock very often; since insiders usually have stock options, that means they mostly sell.
+
+Finally, some executive employment contracts have some really complicated agreements, often involving loans made the company to the executive to buy stock (so they can buy it when they aren’t allowed to sell any to get the money to buy it with), but also placing restrictions on buying or selling stock.
+
+Further complicating the picture for an ousider trying to interpret the moves of insiders, financial advisors tell people that, no matter how well they think the stock will do over the long run, they should sell some % of what they have left every year. They advise this for diversification, so they have the cash available, and to spread it out to lessen the effects of the alternative minimum tax. We once had a “class” in this, and the recommended percentage was 10%, but that was years ago, and was not a hard rule, just a general idea.
+
+Unlike “regular” people, if an insider needs some money quickly, s/he cannot call their broker and sell some stock in the company on the spur of the moment. In fact, they cannot even be guaranteed that a window of opportunity to do so will necessarily be predictable. It may be that with the changes to stockholder lawsuit rules, this will get a little more rational; as it has been, lawyers have recommended extreme paranoia regarding lawsuits, for good reason. (So, what insiders do is use existing money, or quite often, borrow money with the options as security … which has often caused people trouble later on.)
+<USER>

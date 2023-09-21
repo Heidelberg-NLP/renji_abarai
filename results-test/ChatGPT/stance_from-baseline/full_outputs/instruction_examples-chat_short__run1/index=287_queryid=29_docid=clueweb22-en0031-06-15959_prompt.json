@@ -1,0 +1,99 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the government allow illegal immigrants to become citizens?
+Text: How can illegal immigrants sue the US government? - Quora
+Data for the people. In-depth analysis of how each level of government is spending your money.
+9 Answers
+
+The duties owed by the U.S. and the rights that the government is obligated to protect belong to “persons” not “citizens.” Illegal immigrants are law breakers at least with regard to our laws restricting immigration. However, they are persons. Thus they can sue the government where government power is used to infringe upon the rights of persons.
+
+Sue the US government for what? For having the gall to actually enforce their immigration laws?
+
+For what being illegals? Certainly not successfully if there is some idea about their detention being so difficult for them. They adopted the risks when they knowingly staged a bum rush on the border. I’d love to be a juror on such a case.
+
+Start a free petition with MoveOn and tap into a huge network to get results and improve lives.
+
+They are not immigrants. If I go to any country I'm an Alien. I'm only an immigrant if I give up my citizenship from one country then get legal citizenship in another country . And yes they are ILLEGAL. Not undocumented. To become undocumented you need a document like your passport then your in another country then get a warrant in another country then immigration in the country your in takes your passport then your undocumented. Anyone can sue. That don't mean your going to win.
+
+What makes you think they shouldn’t?
+
+My dad once told me…the law is: ANYONE can sue ANYONE in the US (and they often do). You only need a lawyer who thinks they might be able to win your suit. There is no stipulation that the plaintiff must be a legal resident of the US.
+
+The reason courts aren’t MORE overrun with litigious people suing each other is this: Some lawyers simply won’t take on a case, because they know they will lose.
+
+For what? You have to have something to sue for. Can’t sue for coming across illegally and not liking your living conditions in a cell when you broke the law in the first place.
+
+You’ve done it. You’ve built up a little cushion in your bank account — $1,000! It feels good, right? Those days of checking your account balance in a panic are behind you. But, there are six moves you should make once your bank account gets past this magical number. ​​1. Invest in Famous A
+
+Illegal aliens are “persons” under the Constitution the same as permanent resident aliens, naturalized citizens and people born in this country. They have all of the constitutional rights of any other person.
+
+In one case involving illegal alien children attending public schools, the Supreme Court held that illegal alien children are a protected class along with classes such as race and religion. That means the government, state and federal, must show that any law based on that classification of people is subject to strict scrutiny to determine if it is constitutional.
+
+They sure can, however, unless they are suing them for not being deported fast enough, I’m not sure what they sue about.
+
+The United States government operates within the legal jurisdiction of the United States and it’s various states. Therefore, when the US government, or agent thereof, commits a violation of US law, it can be held accountable under those laws. The US Constitution proscribes that all persons receive equal protection under the law, so any person that has standing may sue the US government when it may have violated US law (which includes treaties to which the US is a party).
+
+If there’s a claim that the US government violated US law, and those affected by that violation are illegal immigrants, then
+
+The United States government operates within the legal jurisdiction of the United States and it’s various states. Therefore, when the US government, or agent thereof, commits a violation of US law, it can be held accountable under those laws. The US Constitution proscribes that all persons receive equal protection under the law, so any person that has standing may sue the US government when it may have violated US law (which includes treaties to which the US is a party).
+
+If there’s a claim that the US government violated US law, and those affected by that violation are illegal immigrants, then under US law they may seek redress through the courts.
+
+Think about that for a moment.
+
+Now consIder asking if it is illegal to employ illegal immigrants in the USA. The answer to that question is YES. Why is that not enforced?
+
+This post has turned out to be rather long. Sorry about that. But if you will read to the end, you will see how it is that Latino labor is so treasured in this country, even if the workers are undocumented.
+
+I operated a landscape business for 20 years. I had a lot of Hispanic workers in that time. But my business attorney guided me through the process so as not to trample the rights of any Hispanic that was perfectly legal to work in the U.S.
+
+I’m not familiar with E-verfy. For me at that time, I was required to submit the proper tax forms (W2s, I9s etc) and Social Security information just like
+
+This post has turned out to be rather long. Sorry about that. But if you will read to the end, you will see how it is that Latino labor is so treasured in this country, even if the workers are undocumented.
+
+I operated a landscape business for 20 years. I had a lot of Hispanic workers in that time. But my business attorney guided me through the process so as not to trample the rights of any Hispanic that was perfectly legal to work in the U.S.
+
+I’m not familiar with E-verfy. For me at that time, I was required to submit the proper tax forms (W2s, I9s etc) and Social Security information just like I would with any worker. If the worker was undocumented, his/her paperwork would be bogus. In about three to four months, I would get a letter from the Social Security Administration explaining that my employee’s SS number did not match any of their numbers on file. We called this a “No-Match” letter. I was then to verify the employee’s SS number and resubmit the information back to the SS Administration. It usually took another several months for another No-Match letter to come in the mail. When it did, it was time to have a conversation with the worker. In the meantime, the SS Administration continued to accept the worker’s SS payments. I always wondered where this money went if there was no number for the worker. That’s a mystery. Back in the early 1990s, the SS Administration would simply legitimize the bogus number and assign the funds to that worker. This basically made the guy legal. Times have certainly changed since then.
+
+Some things to keep in mind. As an employer, I was not allowed to question an applicant about his/her legal status unless I question ALL job applicants. I was not allowed to assume any worker was undocumented. This meant that I was not allowed to simply walk over to Juan Miguel and ask if he was legally allowed to work in the U.S. If I did this, I would be guilty of racial profiling and I would set myself up for a potential lawsuit.
+
+Many of my customers did not understand this concept. I also used to have other landscapers cross the street from their own customers’ properties to come over and try to find out if my people were legal. Even though it was absolutely NONE OF THEIR CONCERN, it seemed they felt that my having Hispanic workers meant I was taking unfair advantage of their willingness to work cheap so that my prices could be lower giving me a competitive edge. But those people had no right whatsoever to question me or my people. There were times when another landscaper would get in my face so violently that the police needed to be called. Interestingly, a lesson could be taken from the police. The cops never ever questioned my people about their legal status. It wasn’t their job to do so and they did NOT want to be accused of racial profiling any more than I wanted it.
+
+Also, here are some other facts of which the general population is not aware:
+<USER>

@@ -1,0 +1,195 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is golf a sport?
+Text: Is Golf Really A Dying Sport – A Look At The Future Of Golf
+
+Golf In Decline
+
+By all means and measuring statistics, it looks like golf is on the decline with less and less kids taking up the sport and playing regularly, we are left wondering what the future of golf looks like going forward.
+
+There are plenty of reasons why golf appears to be dying and why the writing is not completely on the wall just and in this article we will look at the reasons why we think golf has been declining, how it can become more inclusive and start growing again and why the growth of golf may not be as far away as we think.
+
+ 
+
+Is Golf Really Declining In Popularity?
+
+Golf Trends
+
+Yes, it looks like golf is dropping in uptake from kids and golf memberships are also declining. If we take a look at Google Trends we can see that it trending towards every year and while golf is still a huge worldwide sport, it has certainly been dropping in popularity over the past decade. Let’s take at the reasons why.
+
+The amount of golf memberships took a the biggest decline in over a decade in 2019 and this is a chain of events that is resulting in the courses upping their fees which may be a vicious cycle as even more people drop out.
+
+Indeed there is certainly a decline in memberships with Wales losing 4% of its golf club members in 2019 and over 10,000 English golfers gave up their subscriptions in a year which saw European golf memberships fall by .6% overall to just over 4 million members.
+
+The trend is equally worrying in the US where it appears that those playing golf regularly fell from 30 million in 2002 to 21 million in 2016 and thins downward trends looks like it has continued well into 2019 and there are a ton of reasons for the decline
+
+ 
+
+Golf Is An Expensive Game
+
+Golf And Money
+
+Golf is one of the most expensive games there is to get involved in and while peoples standards of living have been increasing steadily over the past 50 years, people’s disposable incomes are dropping and golf is an unnecessary expense that many have cut out in order to save money.
+
+This was compounded by the crash of 2008 where many people could no longer afford their golf memberships and this inadvertently caused them not to teach golf to their kids. Parents were no longer going to the range to practice for playing on the course where they were a member and their kids never learned how to play.
+
+The thought of forking out money for a kids set of golf clubs seemed like another un needed expense after the crash and many kids never learned how to play unless they used their parents clubs to start of like I and many others did. People didn’t see it as much of a sacrifice as there was plenty of other sports that their kids could play without the excessive fees.
+
+ 
+
+The End Of An Era – Tiger Woods Leaves The Game
+
+Tiger Woods Taking A Shot
+
+Right about the same time that the game started sipping in popularity is around the same time that Tiger Woods stop winning, had a few unfortunate incidents outside of golf and started get bad and then no press coverage. This fall from grace coincided with the crash of 2008 and this double edged sword saw a huge drop in golf popularity.
+
+Every sport needs its star players to inspire the next generation and when Tiger bowed out, he took a lot of media attention away from the game and when parents stop watching, so do the kids.
+
+This has not been the first dip in popularity of a sport and we are sure golf will make a comeback in good time, the prize money is fantastic and if there is less competition that will also draw people into teaching their kids.
+
+ 
+
+Lazy Generation That Want Instant Results
+
+Unfortunately, we live in a lazy generation. Golf is a sport that is going to take years to master and most kids these days don’t have the patience and persistence to master the game.
+
+Kids can just play a golf game on their phones or on the playstation and they don’t feel the need to actually learn the great game.
+
+If their parents aren’t playing it and making the effort to teach them, they surely wont ever pick up and master the sport.
+
+ 
+
+The Introduction Of The Smart Phone
+
+Kids On Smartphones
+
+People are just more inactive these days because of their smart phones and technology. Kids spend more and more time on their computers and phones with their head down and the world cut off then they do exercising and this is leading to less involvement in all sports, obesity, depression and a whole host of other worrying trends that offset the positive side of technology.
+
+ 
+
+When I was a kid, there was no technology and during the long summers off school we build on the golf knowledge that our parents had thought us to become good players at our local course where we would go to play almost every day. The need to find an activity to fill the gap during school holidays has been sadly filled by technology.
+
+ 
+
+People Have Busy Lives
+
+It’s no secret that people are living busier lives these days and it almost impossible to get a tee time that is going to suit you and the people you want to play with.
+
+Many clubs will only allow members to play, the places are difficult to get to and if they do allow green fees, they are usually excessive.
+
+People don’t have time for the hassle that is involved in setting up a round and the game is suffering.
+
+ 
+
+There Are Tons Of Different Options
+
+Kids Playing Basketball
+
+Kids starting out in sports now have tons of sexier options to choose from like MMA, Boxing, Football and the list goes on and on. If there are big stars in Basketball then you can be sure that kids are going to pick those sports and if they see players doing amazing things like Kobe, Messi, Ronaldo, Mayweather, you can be sure that that is what they are going to be practicing in the front garden.
+
+Golf needs a star to break some records and get the attention back onto it from the media to start recovering.
+
+ 
+
+The Age Of The Golf Generation Is Increasing
+
+ 
+
+The golden age of golf appears to have come and gone and the demographics population in general is getting older. The decline in golf is surely in part due to those who love the game getting too old to play it and dying off, leaving the numbers of golfers continuing to dwindle.
+
+ 
+
+Golf Clubs Are Inaccessible & Overpriced
+
+Expensive Golf Course
+
+Golf Clubs are inaccessible to the average Joe Soap. You get you friends together and decide to play a game of golf and then you have another task to find a golf course that doesn’t cost €100 a round. When the recession hit in 2008, golf clubs refused to lower their fees and drop their barriers to entry and it has cost the game dearly.
+
+These golf courses weren’t built to make money in an age when corporate profits were not the be all and end all of life. Golf courses are wondering how they can make money when it costs so much to run the course and they are resorting to higher fees and memberships which people are shying away from. They then turn to advertising agencies and golf tee time booking apps to boost their numbers but this just adds to the costs further and dwindles their profits even more.
+
+If the average player can’t find a suitable course or can’t afford to play, then those who look up to them will also have no desire to play and it adds to the view that golf is an elitist sport.
+
+ 
+
+Golf Is Elitist
+
+The middle and upper classes almost always have enjoyed golf and it has been especially used for business occasions where deals would be done and relationships would be formed.
+
+As people move away from golf, it’s usefulness in business is also diminishing and that is another reason for the downfall of golf.
+
+ 
+
+The Hope Of Golf May Lie In Asia
+
+Asian Golfers
+
+While the number of courses under construction in the States, Uk & Europe continues to drop and uptake rates are declining, the opposite can be said for Asian countries like Singapore, Thailand and China and as their GDP’s rise rapidly, their youth are falling in love with the game.
+
+Courses are popping up everywhere and schools are fighting with one another to offer golf as a sport for their students. While the youth of the western world is getting fat and lazy, the youth of Asia are seeing a growing number of Asian players on the PGA tour and are seeing golf as a fantastic opportunity to enjoy themselves and even have a career.
+
+Asia is getting millions of new people taking up the sport as it is something new and exciting from the west that wasn’t available to those who came before them and it is excelling as a result.
+
+Indeed, the number of Asian players on the tour is sure to continue to surge s the Asian population continue to embrace the game and the future of golf may actually like in Asia as opposed to the USA.
+
+Golf Is Dying And Nobody Cares
+
+Nobody in the west seems to care about the decline of golf and there are a number of things that need to happen to get golf back on its feet.
+
+ 
+
+Golf Needs A New Star
+
+If a new golfer comes along and starts to dominate the competition, winning time and time again like Tiger Woods did in the late 90’s and early 2000’s then it will get the attention back on the game. Moms and Dads will dust off their clubs and make it out for a round and the kids will follow suit.
+
+ 
+
+Golf Clubs Will Need To Be More Welcoming
+
+Golf Welcoming
+
+Golf Clubs need to get the kids onto their courses. If they allow kids to play for free it will encourage uptake in the sport and they may gain members for life out of the youngsters who take up the game on their course.
+
+In a world where feminism is increasing, outdated dress codes and rules against women will also need to be looked at and removed.
+
+ 
+
+Schools need to get involved
+
+If we can get more schools involved in teaching golf as a sport and way of life, the numbers who can at least swing a club properly and eventually go on to play the sport regularly will surely increase.
+<USER>

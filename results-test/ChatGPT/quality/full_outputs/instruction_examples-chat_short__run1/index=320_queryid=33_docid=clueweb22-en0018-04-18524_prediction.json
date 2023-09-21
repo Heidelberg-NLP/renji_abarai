@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJRWSI2R097fxnZfval5Khr5HD3S",
+  "object": "chat.completion",
+  "created": 1682692374,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1625,
+    "completion_tokens": 26,
+    "total_tokens": 1651
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There is no clear argument quality to evaluate here as this is just a copy-paste of a debate that has already taken place."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

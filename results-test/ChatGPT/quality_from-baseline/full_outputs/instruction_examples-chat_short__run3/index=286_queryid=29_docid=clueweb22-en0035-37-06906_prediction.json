@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1NmDqTYM9qT0ghS3W3nGKcp4FNV",
+  "object": "chat.completion",
+  "created": 1687866166,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text contains arguments for and against granting illegal immigrants legal citizenship, but it is difficult to determine overall quality of the rhetorical argument."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2902,
+    "completion_tokens": 26,
+    "total_tokens": 2928
+  }
+}

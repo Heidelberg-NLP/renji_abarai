@@ -1,0 +1,139 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: human activity primarily responsible global climate change
+Text: Last updated on: 4/1/2020 | Author: ProCon.org
+
+Average surface temperatures on earth have risen more than 2°F over the past 100 years. During this time period, atmospheric levels of greenhouse gases such as carbon dioxide (CO2) and methane (CH4) have notably increased. This site explores the debate on whether climate change is caused by humans (also known as anthropogenic climate change).
+
+The pro side argues rising levels of atmospheric greenhouse gases are a direct result of human activities such as burning fossil fuels, and that these increases are causing significant and increasingly severe climate changes including global warming, loss of sea ice, sea level rise, stronger storms, and more droughts. They contend that immediate international action to reduce greenhouse gas emissions is necessary to prevent dire climate changes.
+
+The con side argues human-generated greenhouse gas emissions are too small to substantially change the earth’s climate and that the planet is capable of absorbing those increases. They contend that warming over the 20th century resulted primarily from natural processes such as fluctuations in the sun’s heat and ocean currents. They say the theory of human-caused global climate change is based on questionable measurements, faulty climate models, and misleading science. Read more background…
+
+ 
+
+Pro & Con Arguments
+
+Pro 1
+
+Overwhelming scientific consensus finds human activity primarily responsible for climate change.
+
+According to many peer-reviewed studies, over 97% of climate scientists agree that human activity is extremely likely to be the cause of global climate change. [7] Most scientific organizations also support this view, including the American Medical Association and an international coalition of science academies. [7]
+
+A prominent review of 11,944 peer-reviewed studies on climate change found that only 78 studies (0.7%) explicitly rejected the idea of anthropogenic (resulting from human activity) global warming. [1] A separate review of 13,950 peer-reviewed studies on climate change found only 24 that rejected human-caused global warming. [5 An examination of scientific papers that didn’t agree that humans cause climate change found serious flaws and bias in their research. [206]
+
+Read More
+
+Pro 2
+
+Rising levels of human-produced gases released into the atmosphere create a greenhouse effect that traps heat and causes global warming.
+
+Gases released into the atmosphere trap heat and cause the planet to warm through a process called the greenhouse effect. [8] When we burn fossil fuels to heat our homes, drive our cars, and run factories, we’re releasing emissions that cause the planet to warm. [9]
+
+Methane, which is increasing in the atmosphere due to agriculture and fossil fuel production, traps 84 times as much heat as CO2 for the first 20 years it is in the atmosphere, [11] and is responsible for about one-fifth of global warming since 1750. [12] Nitrous oxide, primarily released through agricultural practices, traps 300 times as much heat as CO2. [13] Over the 20th century, as the concentrations of CO2, CH4, and NO2 increased in the atmosphere due to human activity, [13] [14] the earth warmed by approximately 1.4°F. [99]
+
+Read More
+
+Pro 3
+
+The rise in atmospheric CO2 over the last century was clearly caused by human activity, as it occurred at a rate much faster than natural climate changes could produce.
+
+Over the past 650,000 years, atmospheric CO2 levels did not rise above 300 ppm until the mid-20th century. [100] Atmospheric levels of CO2 have risen from about 317 ppm in 1958 to 415 ppm in 2019. [10] [194] According to the Scripps Institution of Oceanology, the “extreme speed at which carbon dioxide concentrations are increasing is unprecedented. An increase of 10 parts per million might have needed 1,000 years or more to come to pass during ancient climate change events.” [17] Some climate models predict that by the end of the 21st century an additional 5°F-10°F of warming will occur. [16]
+
+Read More
+
+Pro 4
+
+The specific type of CO2 that is increasing in earth’s atmosphere can be directly connected to human activity.
+
+We can tell that CO2 produced by humans burning fossil fuels such as oil and coal [18] is different than naturally occurring CO2 by looking at the specific isotopic ratio. [101] According to the Intergovernmental Panel on Climate Change (IPCC), 20th century measurements of CO2 isotope ratios in the atmosphere confirm that rising CO2 levels are the result of human activity as opposed to gas coming off the oceans, volcanic activity, or other natural causes. [102]
+
+The US Environmental Protection Agency says that “Human activities are responsible for almost all of the increase in greenhouse gases in the atmosphere over the last 150 years.” [19]
+
+Read More
+
+Pro 5
+
+Average temperatures on earth have increased at a rate far faster than can be explained by natural climate changes.
+
+Average surface temperatures on earth have risen more than 2°F over the past 100 years. [205] According to NASA, “The current warming trend is of particular significance because most of it is extremely likely (greater than 95 percent probability) to be the result of human activity since the mid-20th century and proceeding at a rate that is unprecedented over decades to millennia.” [24]
+
+A 2008 study comparing data from tree rings, ice cores, and corals over the past millennium created the famous “hockey stick” graph showing a steady trend in the earth’s temperature over the last 1,700 years followed by a steep jump in the previous decade (forming a shape like a hockey stick). [23] Berkeley scientists found that the average temperature of the earth’s land increased 2.5°F over 250 years (1750-2000), 1.5°F of which “appears likely” to be attributable to humans over the past 50 years. [21]
+
+Read More
+
+Pro 6
+
+Natural changes in the sun’s activity cannot explain 20th century global warming.
+
+The amount of solar energy received by the earth goes up and down in cycles, but overall there is no net change since the 1950s. There has, however, been a big increase in global temperatures that is too large to attribute to the sun. For this reason, NASA and other scientists say the sun is not responsible for global warming. [28] The sun has had only a minor effect on the Northern Hemisphere climate over the past 1,000 years, and global warming from human-produced greenhouse gases has been the primary cause of climate change since 1900. [26] A study found that solar activity could not have contributed to more than 10% of the observed global warming over the 20th century. [27]
+
+Read More
+
+Pro 7
+
+Global warming caused by human-produced greenhouse gases is causing the Arctic ice cap to melt at an increasing rate.
+
+From 1953–2006, Arctic sea ice declined 7.8% per decade. Between 1979 and 2006, the decline was 9.1% each decade. [105] By 2019, Arctic sea ice was being lost at a rate of 12.9% per decade. [163] As the Arctic ice cover continues to decrease, the amount of the sun’s heat reflected by the ice back into space also decreases. This positive-feedback loop amplifies global warming at a rate even faster than previous climate models had predicted. [30] Some studies predicted the Arctic could become nearly ice free sometime between 2020-2060. [164]
+
+Read More
+
+Pro 8
+
+Sea levels are rising at an unprecedented rate due to human activities.
+
+Sea levels rise due to thermal expansion of warming ocean waters and melt water from receding glaciers and the polar ice cap. [165] According to the IPCC, there has been a “substantial” human contribution to the global mean sea-level rise since the 1970s. [29] As much as 87% of the rise in sea levels since 1970 resulted from human activities such as burning fossil fuels. [35]
+
+A study found that “significant acceleration” of sea-level rise occurred from 1870 to 2004. [106] Between 1961 and 2003, global sea levels rose 8 inches; a 2019 UN report said they could rise by 3 feet in the next 80 years, displacing hundreds of millions of people. [102] [20] A study published in the Proceedings of the National Academy of Sciences concluded that the rate of sea level rise over the past century is unprecedented over the last 6,000 years. [32] [33]
+
+Read More
+
+Pro 9
+
+Ocean acidity levels are increasing at an unprecedented rate that can only be explained by human activity.
+
+As excess human-produced CO2 in the atmosphere is absorbed by the oceans, the acidity level of the water increases. Acidity levels in the oceans are 25-30% higher than prior to human fossil fuel use. [107] The US Government Accountability Office (GAO) said oceans have absorbed about 30% of the CO2 emitted by humans over the past 200 years, and ocean acidity could rise approximately 100-200 percent above preindustrial levels by 2100. [36]
+
+The World Meteorological Organization said the current acceleration in the rate of ocean acidification “appears unprecedented” over the last 300 million years. [37] High ocean acidity levels threaten marine species, [16] and slows the growth of coral reefs. [38] The Convention on Biological Diversity said “it is now nearly inevitable” that within 50-100 years continued human-produced CO2 emissions will increase ocean acidity to levels that harm marine organisms and ecosystems. [39]
+
+Read More
+
+Pro 10
+
+Ocean temperatures are rising at an unprecedented rate due to anthropogenic global warming.
+<USER>

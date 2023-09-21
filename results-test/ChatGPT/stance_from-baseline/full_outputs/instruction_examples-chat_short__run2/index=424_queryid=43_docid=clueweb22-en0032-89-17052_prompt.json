@@ -1,0 +1,162 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should bottled water be banned?
+Text: Pros and Cons of Bottled Water
+
+Bottled water usage has skyrocket in recent years. Should bottled water be banned? Here we evaluate the number of pros and cons of bottled water. 
+
+Pros and Cons of Bottled Water: Should It Be Banned?
+
+Water is an essential component of every living thing. Our bodies need constant supply of water for of it to operate normally. One way to stay hydrated is to have quick access to readily available source of water.
+
+Having access to eco-friendly water consumption is one of the many advantages of going green.
+
+What happens when you are in travel or away from other water sources? A majority of us turn to bottled water. But is bottled water a good option? Well.  In this article, we will focus on some of the pros and cons of bottled water.
+
+Why the bottled water debate is important
+
+Besides being the most significant component of our bodies, water helps us in numerous other functions.  If we were to write about the importance of water, we would fill an entire book with ten thousand things. But here, our primary focus is to explore whether bottled water is good or not.
+
+Should bottled water be banned?  It is a question that keeps popping up when searching for bottled water. While there are many companies and big brands that are leaping big in this sector, a few industries are advocating for banning of bottled water.
+
+Whether you should continue buying bottled water or not is a choice that you will be able to make after you read this article to the end.
+
+Besides the unmatched convenience of bottled water, there some other advantages of bottled water that we will explore in a few.
+
+However, bottled water also has a bunch of disadvantages ranging from environmental (like polyethylene terephthalate embedded in the bottles) to financial implications that cannot be ignored.
+
+How to Curb Your Bottled Water Consumption
+
+Regardless of the advantages or disadvantages of consuming bottled water, I think everyone should eliminate or reduce consumption. We are at historic levels of bottled water purchasing.
+
+I’m a huge fan of eliminating my bottled water consumption to nearly zero. Why? Reducing bottled water consumption saves you time and money. Plus, you eliminate significant waste management needs by using reusable water bottles. Here is the definition of the 3R’s of waste management.
+
+Save money and avoid bottled water by obtaining a traveling water jug. No matter the occasion always use an eco-friendly reusable water bottle. I recommend the below products to bring with you on any travel, day trip or even at work.
+
+
+To answer the question of why we should keep water bottles or not, we need to explore some of its pros and cons. So, here are some of the advantages and disadvantages of bottled water:
+
+Pros of Bottled Water
+
+Let’s evaluate some of the advantages of using bottled water.
+
+  1. Convenient
+
+One of the biggest advantages of bottled water is that it is very convenient. When you are out in the field or on holiday in a hot summer day, you can grab a bottle of water to quench your thirst from the nearest store. If you walk into any supermarket or a nearby grocery shop, you can find different brands of bottled water on sale. Bottled water is without a doubt readily available as well as portable.
+
+It thus comes in handy when you are traveling long distance trips since it can keep you hydrated while on the move. Bottled water is usually purified and filtered to remove any harmful contents.
+
+So, in a majority of instances, bottled water is a clean and safe option. Bottled water banning would, therefore, inconvenience people who are on travel or those who cannot access other ready to drink water options.
+
+See Related: What is the Best Water Filtering System
+
+  1. Bottles are recyclable
+
+Another advantage of bottled water is that you can put the water bottle into a different use after you finish your water. The water bottles can serve you later if you want to store anything that is in liquid form. Even though water bottles are recyclable, a lot of it still ends up in trash cans.
+
+It increases environmental hazards and results in increased cost of waste management. People should, therefore, be mobilized to stop throwing away empty cans aimlessly.
+
+They should instead reuse them or give them to the recycling companies. Recyclable is very different than compostable.
+
+  1. Offers a variety of tasty water
+
+Different companies that provide bottled water offer an array of flavors to their customers. Flavored water provides you with a chance to take water that best suits your taste buds.
+
+If you love mint or other fruit essences such as pineapple, orange, coconut or cucumber flavor, you can find it in bottled water. Bottled water offers you a variety of choices.
+
+See Related: Best Reusable K Cup Options to Consider
+
+Now, let’s look at some of the disadvantages of bottled water:
+
+Cons of Bottled water
+
+Let’s evaluate some of the disadvantages of using bottled water.
+
+  1. Environmental issues
+
+Bottles are harmful to the environment. While bottles used can be recycled, a few people still dispose of the cans carelessly after use. It consequently ends up in the wrong places like in drainage systems or even in water bodies.
+
+Such waste hence causes drainage blockages or can pollute the water bodies that serve us in different ways. If the empty cans are disposed of in the trash cans, they may mix up with other wastes which are then transferred to the landfills.
+
+When the landfill is burnt up, it may cause air pollution which can ruin the ozone layer and cause global warming. It is thus vital to throw away the empty cans responsibly, reuse them or take them to a recycling company.
+
+Pollution also occurs when the factories that make the bottles emit greenhouse gases during the manufacturing process. These GHG gases also contribute greatly to global warming.
+
+Using a reusable water bottle is sustainable and proven. It’s that simple.
+
+  1. Economic Implications
+
+While you spend a dollar to buy bottled water, it may seem so little. But, if you compare bottled water vs. tap water, bottled water is by far more expensive compared to tap water and other ready to drink water options. A bottle of mineral water in most countries cost more than an equivalent or higher amount of tap water.
+
+Bottled water processing is a long process. Though it creates job opportunities, it can be quite an expensive process from purifying to advertising the bottled water. Purchasing bottled water is an expensive option compared to tap water.
+
+See Related: Are Plastic Straws Recyclable
+
+  1. Health-related issues
+
+Bottles are made of plastic. Plastic containers contain a chemical called BPA and many others.  Research shows that these chemicals can seep into the water that is in the bottle, especially when exposed to heat or direct sunlight. The compounds can cause different deadly diseases including cancer.
+
+Water can also be contaminated if it is left open which can result in different bacterial illnesses. If you must take bottled water, avoid storing it in high temperatures conditions and don’t leave it open for longer.
+
+  1. Its source and process of bottling is not well-known
+
+Different brands keep cropping out every other day that offers mineral bottled water. But how sure are you that the source of the water and the process of bottling it are safe for you?  Some water companies don’t tell their sources of water which means it could be from anywhere.
+
+How sure are you that the water in the bottle is safe for human consumption? Even though there are bodies that check the quality of any products in the market, that doesn’t stop the unregulated people from operating the black market.
+
+So, be sure to always check the quality mark and be careful with the brand of water that you purchase from the store.
+
+See Related: A Complete Guide to Greywater
+
+Conclusion on the Pros and Cons of Bottled Water
+
+If you weigh the pros and cons of bottled water, you are now able to answer the question, “Should bottled water be banned?” With that in-depth information on bottled water pros and cons, you can now decide which side you belong.
+
+One thing to consider is that water is renewable. However, there is limited amounts of fresh drinking water available. We need to find ways to use gray water systems to free up water consumption elsewhere.
+
+Our take is that bottled water usage should be mitigated as much as possible. Our oceans are clearly being damaged by the over-consumption of plastics. The pros simply don’t outweigh the cons of using bottled water. You can make sacrifices with your everyday life to curb bottled water consumption.
+
+Use these greywater systems in your home to free up drinking water since you won’t use potable water for other purposes.
+
+What are some additional pros and cons of bottled water? Please let us know in the comments below. We’d love to hear from you.
+
+Follow my blog with Bloglovin
+
+Articles you might also like
+<USER>

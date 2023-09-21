@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ncoH6uNsmAmm8K7Gmvtizuv5cQ",
+  "object": "chat.completion",
+  "created": 1683105052,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2220,
+    "completion_tokens": 25,
+    "total_tokens": 2245
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but there is no argument provided in the given text which would allow me to evaluate the rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

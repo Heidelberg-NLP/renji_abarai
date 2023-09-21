@@ -1,0 +1,159 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is homework beneficial?
+Text: Is Homework Beneficial & Necessary? | Pros & Cons for Kids & Teens
+
+Is homework beneficial? The pros and cons of homework for kids.
+
+boy looking down at laptop green background
+
+It’s a question that looms as large as any other in the education world. Alongside standardized testing, charter schools, and other topics of vigorous debate in headlines and classrooms alike: there’s no denying that homework is a hot-button issue. 
+
+With vocal, informed advocates both for and against homework as a part of the daily academic routine, who’s right here? Is homework actually beneficial for kids? And based on that answer, is it necessary?
+
+It’s not just about achievement, test scores, and readiness for college and careers. Homework’s impact on kids’ mental health and non-academic skills also must be closely examined. 
+
+Then there’s the sheer amount of it in some schools. As kids juggle enrichment activities, jobs, and family time, many parents are asking how much homework is too much homework.  
+
+Pros & Cons of Homework
+
+Let’s dive into each of these critical questions. Don’t worry, we did our homework on this. 
+
+Pros of homework in schools
+
+1. Research correlates homework with higher academic success for secondary students. 
+
+Duke University analyzed findings from 60 homework-related research studies and found statistically significant evidence that middle and high school students who complete homework regularly will score higher on tests and earn better grades than those who do not.
+
+2. Experts actually agree on the right amount of homework 
+
+The “10-minute rule” is widely accepted as the best measurement of homework in terms of quantity. It goes like this: in 1st grade, kids should have 10 minutes of homework, 20 minutes in 2nd grade, and so on until about 2 hours of homework in 12th grade. 
+
+Among many educational experts, the National PTA and National Education Association (parents and teachers) agree that, if these length guidelines are followed, homework benefits students. 
+
+3. Homework gives families a valuable window into life at school
+
+It can help parents and families support their children in multiple ways. Homework offers a tangible snapshot into what (and how) kids are learning, allowing parents to engage with their children in meaningful conversations about school. 
+
+Points of success and confusion, furthermore, can help parents identify learning needs that need special attention, like gifted and talented programs, special education services, or custom academic support.  
+
+4. High quality  homework assignments enrich students’ learning 
+
+There is well-documented evidence that, when designed correctly, homework enriches students’ engagement with academic material. 
+
+-Overall literacy increases when students are assigned choice reading. 
+
+-Math skills increase with independent practice, and technology can help
+
+-Across disciplines, effective homework assignments increase students’ retrieval abilities, aka the ability to remember information and reapply skills on their own. 
+
+-Effective homework assignments are a logical extension of the “I do/we do/ you do” teaching model, a widely accepted best practice across disciplines. 
+
+5. A solid homework routine helps kids develop life skills
+
+The Duke study mentioned earlier also found that students build important skills like conscientiousness, time management,  organization, and prioritization by doing their homework. 
+
+There’s no doubt about it: kids will need these skills in college, future careers, and to lead balanced, happy lives. By managing homework responsibilities, kids can build vital skill sets like a “growth mindset,” Stephen Covey’s widely lauded 7 Habits of Highly Effective Kids & Teens, and the grit necessary to persevere through challenges
+
+Cons of Homework in Schools
+
+1. Too much homework is detrimental to students and counterproductive to learning
+
+A “more is more” attitude is demonstrably unhelpful and unfounded in the homework conversation. 
+
+It’s easier said than done to hit that 10-minute sweet spot across grade levels, and missing the mark is detrimental to students. In fact, studies show that too much homework can undo learning in addition causing mental health issues, which is damaging to children in and outside the classroom. 
+
+2. There is a lack of evidence surrounding homework at the elementary level
+
+Educational research has yet to successfully demonstrate a tie between homework and academic success in elementary school
+
+This raises important questions and concerns about the efficacy of homework for young students. Key among them is the worry that dreading homework from an early age will negatively impact attitudes towards school and learning for years to come. 
+
+3. Homework, especially tasks that require/benefit from technology, exacerbates achievement gaps between privileged and disadvantaged students 
+
+Think about it. Successful homework completion hinges on things not all students have: quiet, safe space at home, ample school supplies, time after school not spent working/ caring for younger siblings, and internet access (not only for online homework, but research, and more).
+
+The list goes on, so why does the homework brush treat students of all backgrounds the same? 
+
+Plus, teachers and other school leaders who make decisions regarding homework don’t always understand or adequately weigh these factors. As a result, homework might perpetuate the problematic inequalities that exist in K-12 education. 
+
+4. Homework routines  increase stress for the whole family
+
+Many families dread “the homework battle,” and with good reason. Not all parents have the knowledge, time, or (frankly) patience to be homework monitors, and not all students have the self-regulatory skills to do so themselves. 
+
+And then comes the deluge of distractions. 
+
+Getting those under control is like a miserable game of whack-a-mole for families and students alike. According to a recent poll, 80% of parents identify distractibility as the #1 detractor from successful homework completion. 
+
+The sheer number of distractors (social media, games, apps, texting) that will always be more fun than kids’ science homework just seems to keep growing. It’s undoubtedly challenging and stressful to deal with these, especially when the homework battle usurps quality time together.
+
+Considerations for Elementary School
+
+There are specific pros and cons of homework in elementary school that are worth reviewing separately here. Like I mentioned, it’s worth noting that research is limited regarding the benefits of homework in grades K-4. And for many, “preparation for secondary school” isn’t a sufficient reason in and of itself to incorporate it into elementary grades. Throw in the research about how much kids learn through play at this age, and it’s certainly worth asking if homework is worth it for younger kids.
+
+That said, the advised amount of time for elementary school kids should be 10 minutes maximum in 1st grade, 40 minutes at maximum in 4th grade,  which should not be a challenge for most kids. The question becomes what skills a homework routine adds into the school routine, just as much as what kind of assignments youngsters receive. 
+
+Considerations for High School
+
+Kids get increasingly busy in secondary grades (as any parent knows), so the pros and cons of homework in high school become a part of an increasingly complex schedule equation. 
+
+Juggling academics, sports, jobs, and other extracurricular activities is no easy feat, and there can seem to be too few hours in a day to get it all done. That feeling already causes stress for many teens, adding to the mental health challenges they often face at this age. 
+
+So, what are the benefits of homework in middle school onwards? Research correlates a regular homework routine with increased long-term academic success. Middle and high school are developmentally critical in cognitive growth; critical thinking, planning, executive functioning, and judgement can all be supported by quality homework routine. College and career-bound kids learn all kinds of valuable life skills, and it’s an important opportunity to practice the academic skills that become increasingly applicable in real life.
+
+The bottoms line is: at this age, balance matters more than ever. 
+
+My take on just how beneficial & necessary homework is: 
+
+If I didn’t take a stance here, my former students would rightly point out I’m not taking my own advice (and wouldn’t pass the rubric I used to assess their writing). 
+
+Based on the existing evidence and personal experience, my take is this: academically enriching, developmentally appropriate homework is beneficial to students on the whole. 
+
+I also think there is a lot of work to be done to realize these benefits. The evidence clearly demonstrates that excessive or arbitrary homework assignments do more harm than good. 
+
+If homework is here to stay, schools need to get to work in improving its quality, implementation, and constant evaluation within the education community. Families need to get involved and step up at-home support. 
+
+It’s past time to tackle the inequalities the homework issue exposes in public schools among other the many challenges outlined above. It is the responsibility of teachers, students, families, and their school communities to navigate these challenges and maximize positive outcomes for kids. 
+
+So what’s next? 
+
+Glad you asked! A lot needs to happen to make homework actually work for students, so I’ll focus on what’s within reach for action steps. Here are a few recommendations: 
+
+Advocate for quality homework assignments. This needs to be a part of teacher training and professional development as well as ongoing conversations between families and schools. These could well be tough conversations, but they’re well worth having. 
+<USER>

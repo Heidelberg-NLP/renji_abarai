@@ -1,0 +1,107 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: two - state solution acceptable solution israeli - palestinian conflict
+Text: On the Roots of the Israeli-Palestinian Conflict
+Skip to content
+
+Jerusalem Center for Public Affairs
+
+Israeli Security, Regional Diplomacy, and International Law
+
+On the Roots of the Israeli-Palestinian Conflict
+
+ 
+Filed under: Israel, Peace Process, Radical Islam, The Middle East
+Publication: Jewish Political Studies Review
+
+Jewish Political Studies Review
+Volume 28, Numbers 3–4
+
+The roots of the “Middle East conflict” can be explained under three headings: the Israeli-Palestinian conflict, the Israeli-Arab conflict, and the Jewish-Islamic conflict.
+
+When we say “the Israeli-Palestinian conflict,” we mean that the struggle is national: two peoples are fighting over the same land, and when these two peoples solve the problems between them, the conflict will be settled and all will be well. When we say “the Israeli-Arab conflict,” we mean that the conflict is not only with the Palestinians but with all the Arabs, and even if we reach a settlement with the Palestinians we will still have a problem with the Arabs in general, and in fact will not have achieved anything.
+
+As for the Jewish-Islamic conflict, we repress the awareness of it. If the roots of the conflict are religious, and Islam does not accept the return to Zion, then it makes no difference what we will agree to with the Palestinians or with the Arabs; the religion of Islam will not accept a Jewish state or any manifestation of Jewish statehood.
+
+Our conflict with the Palestinians in fact encompasses all three elements: it is a national struggle over the land, a struggle with the pan-Arab ideologies that reject Jewish statehood, and it is a Jewish-Islamic conflict as well.
+
+The Palestinians have claimed over the years that they enjoy “independent decision-making,” that is, that when they want to end the conflict with us they will not need general Arab approval. It is their own issue, and whatever they decide will be acceptable to their Arab brethren.
+
+The mythological leader of the Palestinians used to keep a pen in the pocket of his military uniform. What he meant was: My pen will solve the problem, and only I have the authority to make a decision.
+
+The great proof that the conflict is indeed “Israeli-Palestinian” came in the form of the Oslo accords of September 1993. The PLO did not ask the Arab states’ permission and reached a historic agreement with Israel without them. Arafat drew the mythological pen from his pocket and signed despite the scowls of the Arab leaders.
+
+But this “proof” did not hold water for very long, and was confuted at the Camp David talks in July 2000.
+
+President Clinton brought together then-Prime Minister Ehud Barak and the Palestinian leader, Yasser Arafat, for the ultimate test of the designation “Israeli-Palestinian conflict.” It was clear that Arafat would not make a decision without the approval of the Arab leaders. Clinton held an urgent round of phone conversations with President Mubarak of Egypt, King Abdallah of Jordan, and King Fahd of Saudi Arabia, but they refused to give Arafat their backing.
+
+To a considerable extent Arafat instigated the terrorist intifada, or “Al-Aqsa Intifada,” in order to maintain “the conflict” as his asset vis-à-vis the Arab states. It was already clear, however, that this was a conflict to which all the Arabs were connected, and that the Palestinians could not make a decision regarding it by themselves.
+
+Thus when the ambitious Secretary of State John Kerry tried to achieve a breakthrough in the “Israeli-Palestinian” conflict in 2013, the Palestinian leader, Mahmoud Abbas, remained in close consultation with the Arab states. The Arab League established a foreign ministers’ committee whose ostensible task was to support the talks. But so long as Abbas was the purported decision-maker and the Arab League’s role was only to approve his decisions, no breakthrough could be reached. Abbas did not want to decide, the Arab League did not want to be a second fiddle, and Kerry’s earnestly pursued talks came to naught.1
+
+Have the Arab states been prepared to take the lead role in solving the Palestinian problem – that is, to change it from the “Israeli-Palestinian” problem to the “Israeli-Arab” problem?
+
+So far that does not appear to have been the case. In 2002 the Arab League espoused the “Arab initiative” for a comprehensive solution to the problem; it, in turn, it is based on the “Saudi initiative” that Crown Prince Abdullah bin Abdul Aziz al-Saud broached in his famous New York Times interview to Thomas Friedman.2
+
+Although the “Arab initiative” may seem to expropriate the solution to the conflict from the Palestinians, in actuality it does not. The Arab initiative is based on the notion that, once Israel and the Palestinians reach an agreement, the Arab and Islamic states will proclaim the end of the conflict, recognize Israel, and normalize relations with it. That is, the key to a solution remains in the Palestinians’ hands. The Arab states only give them backing – something they did not do during the Camp David talks between Barak and Arafat.
+
+Careful listeners have noticed that Saudi Arabia has stopped using the term “Israeli-Arab conflict” and is instead using “Israeli-Palestinian conflict.” Precisely because of the renown of the initiative with which it is associated, Saudi Arabia has taken pains to clarify that it is not prepared to accept responsibility for solving the problem. In private conversations Egyptian and Jordanian sources said that in any effort to solve the Palestinian problem, they would not agree to circumvent the Palestinians or make decisions behind their backs. Thus in its current iteration the Arab initiative, which stemmed from the Saudi initiative, leaves the conflict within its Israeli-Palestinian boundaries.
+
+This concerns the formal dimension, the framework in which the decisions on solving the conflict will be made. For now the Arabs are leaving it to the Palestinians. But what of the contents? What is the conflict about, and are its contents amenable to a solution?
+
+The ongoing crisis in Syria gives us an opportunity to assess our relations with the Palestinians in general. When comparing the Palestinians’ positions with the sorts of positions taken by the forces fighting each other in Syria, a great similarity emerges. This is not by chance: Palestinian nationalism began in Syria, and the founding fathers of Palestinian nationalism began their trajectory in the Great Arab Revolt of the Hashemites, making their way to Palestine after the kingdom of the Hashemite King Faisal had collapsed. The flag now known as the flag of Palestine was first raised in Damascus, and to this day it serves the Syrian Baath Party.3
+
+What characterizes the conflict in Syria? A radical unwillingness to compromise, a total rejection of the other, and the taking of absolute positions.
+
+The bottom line is that the struggle in Syria is between two all-embracing outlooks – the pan-Arab one and the pan-Islamic one. Pan-Arabism is represented by the ruling party, the Baath headed by Bashar al-Assad, and pan-Islamism is represented by the groups fighting in the name of Islam, which are divided among themselves on many issues but united around a pan-Islamic conception that puts the supremacy of Islam over every other consideration.
+
+These are two absolute ideological positions; they inherently reject compromise and engage in total war while thoroughly negating the other. In Syria before the Arab Storm, one could be an Arab or not be at all. In Syria after the Arab Storm, one can be an Arab or a Muslim but not a Kurd, Christian, Druze, or Yazidi.
+
+The all-embracing pan-Arab stance in Syria, for example, could not accept Kurdish nationalism. The Kurds had either to be Arabs or not be at all. Because they insisted on not being Arabs, their Syrian citizenship was revoked.
+
+“Pan-Islamic” reactions to news about abuse of Kurdish fighters in Afrin: “The Kurds are traitors, separatists, collaborators – so far we have done little to the Kurds and the [Assad] regime, but we will get our revenge, we will destroy them, we will scatter them to the four winds, if only for the sake of the Syrian revolution.”
+
+Seen in this light, we are the “Kurds” of the Palestinians. The Palestinians’ attitude toward us, too, is one of total rejection. That is why they are not prepared to recognize Jewish nationalism, deny that we have any connection to Jerusalem, assert that the Temple did not exist and was never built, and proclaim that Jesus was a Palestinian.
+
+Concerning the connection between the Palestinian problem and the Kurds in Syria, Saeb Erekat, secretary-general of the PLO Executive Committee, revealed very interesting details about a meeting he held in Cairo with a representative of the Syrian-based Kurdish PYD (Democratic Union Party). The Kurdish representative naively thought that because the Palestinians also seek independence, they would support the Kurdish demand for independence. Erekat, however, totally rebuffed the idea and saw things differently:4
+
+The questioner will ask: What is the connection [between the Kurdish problem] and the Palestinian problem? And how will it affect it? What are our fears about the establishment of a Kurdish state?
+
+We must say that there is a direct connection…. And it will negatively affect the Palestinian problem, because the establishment of a Kurdish state will be a poisoned dagger stuck in the [pan-] Arab body, and an encouragement to many to break away not only in Syria itself, but in many other Arab states, and I will add to this the covert and overt ties between the Kurds and Israel aimed at weakening the Arab position, and it is important not to ignore the secessionist aspiration of the Kurds and their ties with Israel.
+<USER>

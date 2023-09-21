@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzcoJepMd6Q18KEgHcjiP82i4ChP",
+  "object": "chat.completion",
+  "created": 1687859410,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "ProCon.org is a website that presents debatable issues. It is not offering a viewpoint on whether or not electronic voting machine companies are necessary for transparent democratic elections. Therefore, this reference falls under a general reference category."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1907,
+    "completion_tokens": 44,
+    "total_tokens": 1951
+  }
+}

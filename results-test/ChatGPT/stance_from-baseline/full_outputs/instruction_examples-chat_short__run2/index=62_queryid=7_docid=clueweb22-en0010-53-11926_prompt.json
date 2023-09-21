@@ -1,0 +1,91 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should felons who have completed their sentence be allowed to vote?
+Text: Should Felons Be Allowed to Vote? Yes, But...
+
+COMMENTARY Election Integrity
+
+Should Felons Be Allowed to Vote? Yes, But...
+
+May 20th, 2016 3 min read
+COMMENTARY BY
+Hans A. von Spakovsky
+
+Election Law Reform Initiative and Senior Legal Fellow
+
+Hans von Spakovsky is an authority on a wide range of issues—including civil rights, civil justice, the First Amendment, immigration.
+
+Felons should be allowed to vote — but not until they have completed their sentences (including any period of probation or supervised release), paid at least a part of any court-ordered restitution to their victims, and proven they are now willing to abide by the rules implemented by society.
+
+To automatically restore voting rights the moment a felon walks out of prison is not in the best interests of the felon or the public as a whole. Instead, states should require a waiting period before felons can individually apply to a state review board or the governor’s office to have their rights fully restored.
+
+This process should apply to more than just voting rights. Proponents of automatic restoration of voting rights often conveniently ignore the fact that felons lose many other civil rights as well, such as the right to sit on a jury, own a gun, obtain various professional licenses, or work as a public school teacher or law enforcement official in many states.
+
+That waiting period can vary, depending on the seriousness of the felony and whether violence was involved.
+
+Why have a waiting period? The recidivism rate for felons is extremely high. The U.S. Justice Department’s Bureau of Justice Statistics found that more than two-thirds of released prisoners were rearrested within three years; three-quarters were rearrested within five years.
+
+Some in the movement for criminal-justice reform are asking whether to restore voting rights to felons.
+
+A three- to five-year waiting period gives ex-offenders a real opportunity to “start over” and establish a track record of responsible behavior. This would show that they’ve succeeded in jumping off the criminal treadmill.
+
+A three- to five-year track record of law-abiding behavior would demonstrate effective rehabilitation of someone who previously had no compunction about violating the rules of civil society.
+
+Automatic reinstatement of voting rights does not allow for this. Instead, it would give individuals who have intentionally broken the law the right to help decide, through the ballot box, what those laws should be and how they should be enforced. No showing of rehabilitation is needed.
+
+Do murderers, rapists, child molesters and armed robbers really deserve automatic restoration of their rights? They owe society and their victims a debt that can never be repaid.
+
+The claim that felon disenfranchisement provisions are racist is incorrect both factually and historically. The majority of states restricted felon voting before the Civil War when blacks were unable to vote in most states; at the time they were enacted, such laws applied predominantly, if not exclusively, to white males.
+
+In fact, the Fourteenth Amendment, one of the three Reconstruction amendments, specifically gives states the authority to abridge the right to vote for “participation in rebellion, or other crime.” Your race doesn’t cause you to lose your right to vote; it is your decision to break the law.
+
+Recently, Virginia Gov. Terry McAuliffe took it upon himself to grant a blanket restoration of voting rights — and the right to sit on a jury and run for elective office — to more than 200,000 felons. His executive action likely violates the state constitution as well as the previous requirement of a waiting period and individualized review of petitioners.
+
+Doubtless, McAuliffe knows that a large percentage of those felons will be back in prison before the 2020 elections. He apparently has no interest in learning who among the 200,000 has really “turned over a new leaf” and taken responsibility for their actions.
+
+Ironically, while McAuliffe apparently believes felons can be trusted to act responsibly in the voting booth and the jury box, he does not trust them in the community at large. He specifically refused to restore their Second Amendment right to own or possess a handgun.
+
+If felons deserve automatic restoration of their voting rights because they have “paid their debt” and it will help “reintegrate” them into civil society, shouldn’t all their rights be restored? Advocates such as McAuliffe apparently don’t think so. This has led some to infer that they are more interested in votes than the well-being of convicted felons.
+
+Felons should have the ability — and an incentive — to prove they deserve to exercise their right to vote, serve on a jury and own a gun. But that can only happen if there is a waiting period after they are back in society and if there is an individualized review of their record.
+
+Sadly, we know that all too many of them will fail to change their ways and reintegrate into civil society. Instead, they will go back to prison, where an “I voted!” sticker should not be part of the uniform.
+
+This piece was originally distributed by InsideSources
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1AdrUx7tMg2cZFiZ5V5rXyGj2P7",
+  "object": "chat.completion",
+  "created": 1687865351,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Sorry, I don't see a clear argument in the given text."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1718,
+    "completion_tokens": 14,
+    "total_tokens": 1732
+  }
+}

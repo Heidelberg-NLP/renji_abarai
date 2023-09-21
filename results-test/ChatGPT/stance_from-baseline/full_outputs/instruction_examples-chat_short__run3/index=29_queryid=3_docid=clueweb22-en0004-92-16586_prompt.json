@@ -1,0 +1,117 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should insider trading be allowed?
+Text: What is Insider Trading? | InsiderTrades.com
+
+What is Insider Trading?
+
+What is Insider Trading?
+
+The words “insider trading” are one of the more exciting financial phrases to be uttered in the news. It brings to mind images of elite stock market traders in suits and ties, engaged in shady back room meetings to make millions, if not billions of dollars. But behind the sensationalized narrative, what exactly is insider trading?
+
+7 Infamous Insider Trading Cases and Scandals
+
+What is Insider Trading?
+
+As you may very well know, publicly traded companies sell shares of ownership in their company on the stock market. This allows both institutional investors (like big banks and investment firms) and consumers to buy and sell stocks.
+
+There are a number of ways to make money on stocks, and one of them includes collecting dividends. Dividends are a small share of company profits paid to each shareholder based on the number of stocks they own in that company. Though, the most glamorous stock investment method is to capitalize on market movements through buying low and selling high.
+
+How do investors know if and when a particular security is about to take off? Nobody has a crystal ball to make such predictions, but there are a few tools and strategies that can be used to make an educated guess.
+
+Serious investors conduct market research and perform fundamental analysis of the companies they invest in.
+
+For example, when the Coronavirus pandemic started, certain financial analysts predicted that healthcare stocks would be a solid purchase. An investor conducting their market research might then turn to more specific market research of a security, such as looking at a company that manufactures hospital equipment and examining its debt to equity ratio and other metrics to see if it’s a good buy. Some traders have even created elaborate analytical programs or software that crunch numbers and deliver statistically backed predictions about what to buy and what to sell.
+
+
+27 U.S. Cities Where Stocks Yield 26% a Year
+What’s the highest-yielding stock you’ve ever owned? The dividends for these stocks have risen so fast over the years that they’re now yielding us an average of 26%!
+
+When you start getting paid 26% on your money, your financial problems tend to pretty much evaporate.
+Get in on the action here.
+
+
+These are all perfectly legal methods of deciding what to buy and sell on the stock market, but what about investors who gain an unfair edge over others through non-public material information about a company? In other words, what about individuals with access to “inside information”?
+
+These individuals learn what others on the market cannot, giving them an unfair advantage that they can then abuse for their own financial gain. This is called insider trading.
+
+Why is Insider Trading Illegal?
+
+By now you may be wondering what is so bad about one person having insider information. What is unfair about someone having material information that will help them decide whether to buy or sell shares of a particular stock?
+
+Let’s take a step back to look at the stock market at large. These markets rely on a fair playing field to function, where anyone with the ability to pay can come and purchase a share or shares within a company or companies of their choice. Oftentimes, the price of these stocks will be influenced by how many people are buying or selling the stock. For example, if investors rush to purchase shares of a company, that can drive up the price. If people are rushing to sell off their shares, that can drastically lower the price.
+
+Someone with insider knowledge who then acts on that knowledge to buy or sell large quantities of a stock can influence the market, artificially manipulating the value of the stock and creating a financially inaccurate representation of its true worth. This, in turn, can create a bubble that, when it pops, leaves many investors at a loss. All due to self-serving investment choices made with non-public insider information.
+
+This chain of events can erode consumer investor confidence in the market and impede its overall health. One of the main goals of the stock market is for businesses to raise capital by selling stock. If investors don’t have confidence in the veracity of their investment, they won’t buy stocks, and companies won’t get the funding they had hoped for.
+
+Another reason that insider trading is illegal is because it involves the inside trader placing their own interests above others to whom they might own a fiduciary duty. These could be other investors in their company or even financial clients if the perpetrator manages others’ investment portfolios.  
+
+It’s important to keep in mind that some forms of insider trading are legal. When corporate insiders of the company issuing stock buy and sell those stocks, that is perfectly acceptable. The only requirement to legitimize these trades is that certain forms must be filled out with the Securities and Exchange Commission (SEC) within two days of the transaction. According to the SEC, in these instances, anyone with 10 percent stake or more in a company is considered an insider.
+
+How is Insider Trading Proven?
+
+As you might guess, insider trading involves an inside tip; not one broadcast to the public. This tip might come in the form of a verbal conversation over lunch, a phone call, text, or email. But how exactly can you prove, beyond a reasonable doubt, that someone was involved in insider trading?
+
+Written tips carry the danger of becoming evidence, should an investigation result from the suspicion of insider trading. The SEC is not able to read people’s private text messages or a company’s internal communications arbitrarily. Instead, they conduct market surveillance activities using sophisticated software to flag suspicious looking trades. Such trades might occur around momentous events, like a corporate development or earnings report. The trades themselves are usually indicative of a hope to strike it big, such as a trade placed before a massive price fluctuation.
+
+Another way the SEC tracks insider trading is through tips and complaints from unhappy investors who got the short end of the stick on a trade. In most cases, these angry calls will come from irate option writers.
+
+Options involve trading contracts to buy or sell stocks. If these option writers are out of the loop on what is actually going to happen to a stock price, they can suffer a loss. Moreover, inside traders sometimes make more money on options contracts than they would buying or selling shares of the stock in question. If option writers suspect foul play, they will report it to the SEC.
+
+The SEC also gets insider trading tips from whistleblowers. If a whistleblower provides useful information that leads to a conviction, they can be rewarded between 10-30 percent of the money seized from insider traders. Typically, though, insider trading arrangements involve a very limited number of people and occur as a one-off, isolated event. Whistleblowing is more common in terms of revealing widespread securities fraud. A whistleblower may be someone at the company, like an employee, or even client who becomes aware of insider trading. Though they might be intimated to share what they’ve learned, they are protected from professional retaliation by the SEC through the Occupational Safety and Health Administration (OSHA).
+
+Other alerts to insider trading can come from regulatory organizations, like the Financial Industry Regulation Authority (FINRA), or even media speculation. In these cases, insider trading can only be prosecuted when followed by an investigation from the SEC, FINRA, or a comparable organization.
+
+Once the SEC decides to pursue an investigation based on pertinent facts, the Division of Enforcement will examine trading records, subpoena witnesses to interview, and even obtain electronic records, like phone calls and emails. In some cases, insider trading may be tied to a larger enterprise operating fraudulently. If this is the case, the SEC may use more serious investigation techniques, such as wiretapping, to implicate and expose inside traders.
+
+Despite these technological tools and regulatory powers, the SEC will still need to conduct an investigation. Unless the perpetrators of insider trading willingly step forward to explain what happened, the SEC will need to gather evidence for their case, just like any other type of criminal investigation.
+
+Evidence can include anything, including seemingly innocuous lunch reservations where the perpetrators meet shortly before an astonishingly advantageous trade. It can also include more noteworthy red flags, such as large ATM withdrawals. Keep in mind that since the SEC is conducting the investigation, they will have the power to subpoena any information they need for the case.
+
+What Are the Penalties for Insider Trading?
+
+Once the investigation is complete and the SEC is ready to present their findings, they may elect to bring the case to administrative action or federal court.
+
+In administrative action, an administrative law judge will take legal considerations and facts into account and render a decision accordingly, such as a cease and desist order, monetary penalties, suspension or even revocation of financial industry accreditations and registrations. These penalties can also include disgorgement; the legally mandated repayment of all ill-gotten gains made from insider trading.
+
+If the SEC chooses to take the case to a US District Court, they may seek to impose all these penalties, as well as injunctions and sanctions limiting future financial activity.
+
+Despite the fact that the SEC has a process in place for finding and prosecuting inside traders and their tipsters, inside trading still occurs. Money is a powerful motivator, and it can be hard to ignore a helpful tip that could lead to millions or billions in profit.
+<USER>

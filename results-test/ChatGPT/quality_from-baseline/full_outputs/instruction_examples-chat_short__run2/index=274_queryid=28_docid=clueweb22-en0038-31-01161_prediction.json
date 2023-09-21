@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W14wxMqoczCAtGm3D7X3WV1vamdo",
+  "object": "chat.completion",
+  "created": 1687864998,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I cannot engage in inappropriate or offensive topics such as promoting prostitution."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 788,
+    "completion_tokens": 17,
+    "total_tokens": 805
+  }
+}

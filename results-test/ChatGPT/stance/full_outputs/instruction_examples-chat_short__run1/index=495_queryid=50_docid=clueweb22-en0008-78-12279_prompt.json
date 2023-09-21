@@ -1,0 +1,101 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: Should There Be a Universal Basic Income in the U.S.?
+
+Is a Government Paycheck the Answer to Automation and Job Losses?
+
+Mark Zuckerberg
+Facebook co-founder Mark Zuckerberg and his company's political action committee have contributed tens of thousands of dollars to political campaigns. Justin Sullivan/Getty Images News
+
+Universal basic income is a controversial proposal under which the government provides regular, permanent cash payments to each citizen with the intent of lifting everyone out of poverty, encouraging their participation in the economy and covering the costs of their most fundamental needs including food, housing and clothing. Everyone, in other words, gets a paycheck - whether they work or not.
+
+The idea of setting a universal basic income has been around for centuries but remains largely experimental. Canada, Germany, Switzerland and Finland have launched trials of universal basic income variations. It gained some momentum among some economists, sociologists and tech industry leaders with the advent of technology that allowed factories and businesses to automate the manufacturing of goods and to reduce the size of their human workforces.
+
+How the Universal Basic Income Works
+
+There are many variations of the universal basic income. The most basic of these proposals would merely replace Social Security, unemployment compensation and public-assistance programs with a basic income for every citizen. The U.S. Basic Income Guarantee Network supports such a plan, stating that the system of trying to force Americans into the workforce as a way of eliminating poverty has not proven successful.
+
+"Some estimates show that approximately 10 percent of people who work full time all year around live in poverty. Hard work and a booming economy have not comes close to eliminating poverty. A universal program like the basic income guarantee could eliminate poverty," the group states.
+
+Its plan would provide a level of income "necessary to meet their most basic needs" to every American, regardless of whether they worked, in a system is describes as an "efficient, effective, and equitable solution to poverty that promotes individual freedom and leaves the beneficial aspects of a market economy in place."
+
+A more complicated version of the universal basic income would provide about the same monthly payment to every American adult, but it would also require that about a quarter of the money be spent on health care insurance. It would also impose graduated taxes on the universal basic income for any other earnings over $30,000. The program would be paid for by eliminating public-assistance programs and entitlement programs such as Social Security and Medicare. 
+
+Cost of Providing a Universal Basic Income
+
+One universal basic income proposal would provide $1,000 a month to all 234 million adults in the United States. A household with two adults and two children, for example, would receive $24,000 a year, barely hitting the poverty line. Such a program would cost the federal government $2.7 trillion a year, according to economist Andy Stern, who writes about the universal basic income in a 2016 book, "Raising the Floor."
+
+Stern has said the program could be funded by eliminating about $1 trillion in antipoverty programs and reducing spending on defense, among other methods.
+
+Why Universal Basic Income Is a Good Idea
+
+Charles Murray, a scholar at the American Enterprise Institute and the author of "In Our Hands: A Plan to Replace the Welfare State,” has written that a universal basic income is the best way to maintain a civil society amid what he described as " a coming labor market unlike any in human history."
+
+"It will need to be possible, within a few decades, for a life well lived in the U.S. not to involve a job as traditionally defined. ... The good news is that a well-designed UBI can do much more than help us to cope with disaster. It also could provide an invaluable benefit: injecting new resources and new energy into an American civic culture that has historically been one of our greatest assets but that has deteriorated alarmingly in recent decades."
+
+Why Universal Basic Income Is a Bad Idea
+
+Critics of a universal basic income say that it creates a disincentive for people to work and it rewards non-productive activities.
+
+States the Mises Institution, named for the Austrian economic Ludwig von Mises:
+
+"The struggling entrepreneurs and artists ... are struggling for a reason. For whatever reason, the market has deemed the goods they are providing to be insufficiently valuable. Their work simply isn’t productive according to those who would potentially consume the goods or services in question. In a functioning marketplace, producers of goods the consumers don't want would quickly have to abandon such endeavors and focus their efforts into productive areas of the economy. The universal basic income, however, allows them to continue their less-valued endeavors with the money of those who have actually produced value, which gets to the ultimate problem of all government welfare programs."
+
+Critics also describe the universal basic income as a wealth-distribution scheme that punishes those who work harder and earn more by directing more of their earnings to the program. Those who earn the least benefit the most, creating the disincentive to work, they believe.
+
+History of Universal Basic Income
+
+The humanist philosopher Thomas More, writing in his seminal 1516 work Utopia, argued for a universal basic income.
+
+The Nobel Prize winning activist Bertrand Russell proposed in 1918 that a universal basic income, "sufficient for necessities, should be secured for all, whether they work or not, and that a larger income should be given to those who are willing to engage in some work which the community recognizes as useful. On this basis we may build further."
+
+Bertrand's view was that providing the basic needs of every citizen would free them up to work on more important societal goals and live more harmoniously with their fellow man.
+
+After World War II, economist Milton Friedman floated the idea of a guaranteed income. Friedman wrote:
+
+"We should replace the ragbag of specific welfare programs with a single comprehensive program of income supplements in cash — a negative income tax. It would provide an assured minimum to all persons in need, regardless of the reasons for their need…A negative income tax provides comprehensive reform which would do more efficiently and humanely what our present welfare system does so inefficiently and inhumanely."
+
+In the modern era, Facebook founder Mark Zuckerberg has forward the idea, telling Harvard University graduates that "we should explore ideas like universal basic income to make sure that everyone has a cushion to try new ideas."
+
+Format
+mla apa chicago
+Your Citation
+Murse, Tom. "Should There Be a Universal Basic Income in the U.S.?" ThoughtCo, Feb. 16, 2021, thoughtco.com/universal-basic-income-definition-and-history-4149802. Murse, Tom. (2021, February 16). Should There Be a Universal Basic Income in the U.S.? Retrieved from https://www.thoughtco.com/universal-basic-income-definition-and-history-4149802 Murse, Tom. "Should There Be a Universal Basic Income in the U.S.?" ThoughtCo. https://www.thoughtco.com/universal-basic-income-definition-and-history-4149802 (accessed April 25, 2022).
+<USER>

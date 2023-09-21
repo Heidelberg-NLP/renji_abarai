@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ptGkH2jcA77qZ9blvIxwwlUudR",
+  "object": "chat.completion",
+  "created": 1683105193,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2458,
+    "completion_tokens": 34,
+    "total_tokens": 2492
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There is no argumentative content in the provided text. It is purely informative. Therefore, it does not fall into any of the high, medium, or low categories."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

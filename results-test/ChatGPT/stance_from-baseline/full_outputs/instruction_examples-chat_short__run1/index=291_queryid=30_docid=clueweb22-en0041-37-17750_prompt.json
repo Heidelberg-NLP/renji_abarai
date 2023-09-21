@@ -1,0 +1,141 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should adults have the right to carry a concealed handgun?
+Text: **Attention Procedure Change - Apply online coming on MAY 1st**
+
+The CHL section of our website is undergoing a change. Some services are currently down and will not be available until May 1st. Umatilla County Sheriff's Office is in the process of switching over to an online application process (through Permitium) for handling concealed handgun license applications.  At this time we are NOT scheduling any NEW or TRANSFER appointments while we go through this transition, please return to our website on May 1st to be able to apply online and schedule appointments.   For now, all other applications can continued to be mailed in as instructed.  We are excited to begin offering this online option to our citizens and thank you for your patience as we make the change. 
+
+Also please note: CHL Fees have increased.  The increase became effective on September 26th, 2021 per Senate Bill 554. 
+
+Applications
+
+Concealed Handgun Licensing (CHL) is one of the sheriff's mandates. Oregon Law pertaining to CHLs can be found beginning at Oregon Revised Statutes (ORS) 166.291. Applicants should make sure they meet the eligibility requirements and have had handgun safety training before filling out an application. If you have further questions, check out our FAQ section. 
+
+NEW  
+This service is temporarily unavailable until May 1st. Beginning May 1st, applications will be taken online and applicant must schedule an appointment for fingerprinting and photographing in person. Fee is $115.00. Applicants must upload proof of handgun safety training, proof of residency in Umatilla County and supporting documents. Check back here after May 1st to apply online and schedule an appointment. 
+
+NEW - Out of State Applicants
+At this time, we are not accepting New Applicants from Out of State. We are hopeful to resume that service at some point, please continue to check back on this website in May for an update in service.  
+
+RENEWAL (current and expired) 
+Renewal applications are accepted by mail. You must have a current or expired CHL issued by Umatilla County Sheriff's Office. If issued in another Oregon County, see TRANSFER and RENEWAL below. Click here to download Instructions and Application for the RENEWAL of Oregon Concealed Handgun License with Umatilla County Sheriff's Office for county residents.  
+
+RENEWAL - Out of State Applicants
+Renewal applications for out of state applicants are accepted by mail IF you have a current or expired CHL issued by Umatilla County.  
+Click here to download Instructions and Application for the Renewal of Oregon Concealed Handgun License with Umatilla County Sheriff's Office for out of state applicants.
+
+TRANSFER
+This service is temporarily unavailable until May 1st. If you have recently moved to Umatilla County and are a current CHL card-holder in another Oregon county, an appointment is required to transfer your CHL to Umatilla County. Return on May 1st to submit an application online and schedule an appointment. Please change your DMV information first. The total fee is $15.00.  At the time of the appointment, you will be photographed. Your CHL will retain the same expiration date. Check back here after May 1st to apply online and schedule an appointment. 
+
+TRANSFER and RENEWAL
+This service is temporarily unavailable until May 1st. If you have recently moved to Umatilla County, have an almost expired (or expired) CHL issued in another Oregon county and need to transfer to Umatilla County Sheriff's Office;  you can both renew and transfer at the same time using the our online application.  However, because you are transferring, you MUST schedule an appointment to apply in person so you can be photographed. The total fee is $75.00.  Your new CHL will have a new expiration date. Check back here after May 1st to apply online and schedule an appointment. 
+
+ADDRESS CHANGE 
+If you are a current Umatilla County Sheriff's Office CHL card-holder and have moved within Umatilla County, you can notify us of an address change by mail.  Please change your DMV information first.  The fee for address change is $15. Click here to download an Address Change Form
+
+If you have a valid CHL issued out of Umatilla County and you...
+- Moved to another county in Oregon, contact the Sheriff's Office in that County to inquire about their procedures for an address change (TRANSFER). Do not use our form. 
+
+If you have a valid CHL issued out of Umatilla County and you...
+-Moved to another State that does not border Oregon, Oregon law does not allow for issuance of a CHL and your concealed handgun license may no longer be valid. 
+
+NAME CHANGE
+The fee to have your name changed on your CHL is $15. Please change your DMV information first. You can mail in the Name Change Form with supporting documentation to our office. 
+
+DUPLICATE (FOR LOST OR STOLEN CHL)
+The fee to replace a lost or stolen CHL card is $15. You can mail in the Duplicate Form to our office. This does not apply to expired or revoked CHLs.
+
+OUT OF STATE RESIDENCY WAIVER FORM
+If you are applying as an out of state applicant, a Residency Waiver Request Form MUST be filled out AND attached to your application EVERY time you apply, renew or transfer. A Previously issued CHL’s does not guarantee a renewal. Umatilla County Sheriff’s Office requirements have changed. This form will be used to see if you will be considered for a waiver. We are not currently accepting New Applicants from Out of State. 
+
+ 
+
+ 
+
+To top
+
+HANDGUN SAFETY TRAINING:
+
+Before an application for a concealed handgun license can be accepted, you must show completion of a training course in which handgun safety was a component of the course.  You may meet this requirement by providing any one of the following;
+
+  • A certificate of completion of any handgun safety course utilizing instructors certified by the National Rifle Association or a law enforcement agency.
+  • Documentation of completion of handgun safety training offered for security guards, investigators, reserve law enforcement officer or any other law enforcement officers.
+  • Documentation of completion of a hunter education course involving handgun safety approved by the State Department of Fish and Wildlife or similar agency of another state.
+  • Documented evidence of experience with handguns through participation in organized shooting competition or military service.
+     
+
+    A Concealed Handgun License Handgun Safety Class is available online through Oregon State Sheriff’s Association by clicking on the following link: http://oregonchl.org/ . This class has been created and reviewed by members of the Oregon Law Enforcement and Concealed Handgun License community. The class meets the statutory requirement for the Concealed Handgun License defined in ORS 166.291 (C). The class is available to all persons as an education tool free of charge. For those interested in providing proof of handgun safety training to apply for the Oregon Concealed Handgun License, the course provides a printable certificate for a $55.00 fee.
+
+    To top
+
+    ELIGIBILITY REQUIREMENTS:
+
+    To qualify for a Oregon Concealed Handgun License you must:
+
+    • Be at least 21 year of age
+    • Be a resident of Umatilla County (This may be waived for residents bordering states with a compelling business interest or legitimate demonstrated need)
+    • Be a US Citizen or have proof of application with intent to become a citizen
+    • Never have been convicted of a felony
+    • Not have been convicted of a misdemeanor within the last four years
+    • Not be a registered sex offender
+    • Not be free on any form of pre-trial release
+    • Have no outstanding warrant for arrest
+    • Not be subject to a stalking order or restraining order as defined in ORS
+    • Not have been convicted of a drug offense (although exceptions apply)
+    • Provide acceptable documentation of handgun safety training
+    • Pass a background investigation including mental health inquiry
+    • Pay appropriate fees and provide acceptable I.D. and other documentation
+
+    Additionally Oregon State Law states a sheriff may deny a concealed handgun license if the sheriff has reasonable grounds to believe that the applicant has been or is reasonably likely to be a danger to self or others, or to the community at large, as a result of the applicant’s mental or psychological state or as demonstrated by the applicant’s past pattern of behavior involving unlawful violence or threats of unlawful violence. Also any act or condition that would prevent the issuance of a concealed handgun license is cause for revoking a concealed handgun license.
+
+    To top
+
+    FEDERAL PROHIBITIONS:
+
+    Federal Law 18 U.S.C δ 922(g) in brief, prohibits possession of any firearm or ammunition by anyone who:
+
+    • Has been convicted of a crime punishable by imprisonment for a term exceeding one year
+    • Who has been discharged from the Armed Forces under dishonorable conditions
+    • Who is subject to a court order restraining the person from harassing, stalking or threatening an intimate partner or child of an intimate partner
+    • Who has been convicted in any court of a misdemeanor crime of domestic violence
+
+    PLACES CONCEALED HANDGUN LICENSE HOLDERS MAY NOT CARRY A FIREARM:
+
+    Oregon law provides a few limits on where a person with an Oregon Concealed Handgun License (CHL) can carry a firearm, and federal law contains a few more prohibitions. Be aware that even if you have an Oregon Concealed Handgun License, you cannot carry a firearm on any of the following properties in Oregon:
+<USER>

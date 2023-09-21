@@ -1,0 +1,89 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should insider trading be allowed?
+Text: Is insider trading ethical?
+
+Disclaimer: This is an example of a student written essay.
+Click here for sample essays written by our professional writers.
+
+Any opinions, findings, conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of UKEssays.com.
+
+Is insider trading ethical?
+
+Paper Type: Free EssaySubject: Business
+Wordcount: 1948 wordsPublished: 9th May 2017
+
+Reference this
+
+Is insider trading ethical? Is insider trading illegal?
+
+Insider Trading phenomena is controversial and is bringing a lot of discussion around itself. Some of the opponents claim that it’s both not ethical and legal to use information, which is not putted into public knowledge, while other opponents argue that insider trading increases market efficiency and does not any hurt to anybody. During this paper I will try to bring topic closer to the reader by providing the reasoning of both parties involved in discussion.
+
+Get Help With Your Essay
+
+If you need assistance with writing your essay, our professional essay writing service is here to help!
+
+Essay Writing Service
+
+What Insider Trading states for? Who is an insider trader?
+
+It is hard to define insider trading due to complexity of the topic, however the most common definition stands for: Insider trading is illegal when transactions like buying or selling stocks, bounds or other securities are based on information that is not available to the general public. In other words, the inside information which is used by inside traders to influence their decisions before publishing this information to public knowledge, thus giving them an edge in making the best deals, whether to buy or to sell. This competitive advantage according to the law is illegal and according to some scholar it unethical.
+
+Insider informer can take any forms. One can be a member of a company and has stock in the company, and finds out that your company is going publicly bankrupt the next day. Or, quite the opposite, if a business was to be buying out a major competitor, knowing that information before it was publicly announced would also be insider information. Paying someone to be an informant from a company is also considered as insider information and again is illegal. Insider traders are usually defined as company’s officers, directors and any beneficial owners of more than ten percent of the company’s equity securities. However, American law is not limiting anti – insider trading law only to these people. In the understanding of this law, any person who trades shares based on material non-public information in violation of some duty of trust. This duty may be imputed; for example, in many jurisdictions, in cases of where a corporate insider “tips” a friend about non-public information likely to have an effect on the company’s share price, the duty the corporate insider owes the company is now imputed to the friend and the friend violates a duty to the company if he or she trades on the basis of this information.
+
+Insider trading legal aspects.
+
+Insider trading was not always illegal. First regulation in the USA appeared only in 1929 when the USA Congress passed the laws limiting insider-trading acts, and created the Securities and Exchange Commission to enhance market oversight. Since that time much of the development of insider trading law has resulted from court decisions. Nevertheless there is still a legal dilemma about insider trading as for example: the law prohibits these “insiders” from trading on this information until the information is made public. But even then the definition of what is made public may not be what one thinks. Let’s assume that a person working for a company on a proposed merger with another company happens to mention it to a friend who works for a newspaper or news broadcaster who then “publishes” the information. Has it then become public such that everyone is now free to trade in the securities? No. There are also strict interpretations on this subject. The information has become public when the company officially publishes the information by filing it officially with the appropriate authorities, meaning the Ministry of Finance. The other alternative is for the company, itself, to arrange its publication in two public media such as newspapers, TV broadcasts, etc. Even then, individual has to wait until 12 hours after it is made public.
+
+America has been a pioneer in criminalizing insider trading, but nowadays regulations, which prohibit this phenomenon, are present in law legislation in most of the countries all over the word. As example: “In the UK, ‘the relevant laws are the Criminal Justice Act 1993 Part V Schedule 1 and the Financial Services and Markets Act 2000, which defines an offence of Market Abuse.“Just like in American law, it is also illegal to fail to trade based on inside information. The principle is that it is illegal to trade on the basis of market-sensitive information that is not generally known. No relationship to the issuer of the security is required; all that is required is that the guilty party traded (or caused trading) whilst having inside information.’In comparison in Japan first law against insider trading appeared in 1988 but even now as Roderick Seeman claims that: “many Japanese do not understand why this is illegal. Indeed, previously it was regarded as common sense to make a profit from your knowledge.”
+
+Insider trading – Ethical Dilemma.
+
+Even with existing laws and regulations, ethical dilemmas still exist and the laws are sometimes vague. When we analyze insider-trading phenomena, we can ask ourselves the question what is wrong in taking good luck and opportunity to advance in business and profit? I would answer NOTHING, except the fact that it is an illegal act.
+
+That is why some economists and authorized scholars, like “Henry Manne, Milton Friedman, Thomas Sowell, Daniel Fischel, Frank H. Easterbrook argues that laws, which makes insider trading illegal should be cancelled.”They claim that insider trading based on non-public information benefits investors, as well, by more quickly introducing new information into the market and in this way speeds up market efficiency, which is a benefit for all parties. Moreover according to some economist such control over the stock market is too much government regulation in the stock market, and in same way is harmful to capitalism. Henry Mann,‘ argues that the legislation has not stopped insider trading from happening, and that legalizing it is a sensible solution to the improper regulation that ultimately hurts the market. He also claims that if insider trading is allowed, it will allow stocks to show its actual worth, rather than have the price tempered by waiting for the information to go public.‘Another great economist Milton Friedman, laureate of the Nobel Memorial Prize in Economics, said: “You want more insider trading, not less. You want to give the people most likely to have knowledge about deficiencies of the company an incentive to make the public aware of that.” Friedman did not believe that the trader should be required to make his trade known to the public, because the buying or selling pressure itself is information for the market.”
+
+This brings me to another critical issue. Does the fact of possessing information bring necessary any value? No, because to act on any piece of information requires interpretation of that information, which in turn requires a large number of other pieces of information. Let’s imagine that for example Apple announced that that its Q4 profits have raised by 45 percent. This doesn’t really tell anyone how to perform it in the market for Apple securities, whether to buy or sell. This requires additional general knowledge about IT market, the profits of other IT companies and Apple main competitors future actions plan and so on. Only if we add to the Apple announcement information about Microsoft’s profits, which let says, could have raised by 100 percent, we can draw father conclusions. So any single piece of information about a company, however critical it may be to that company and its future, does not in itself provide clear instruction to the investor. Action requires interpretation, which requires wider knowledge.
+
+Find Out How UKEssays.com Can Help You!
+
+Our academic experts are ready and waiting to assist with any writing project you may have. From simple essay plans, through to full dissertations, you can guarantee we have a service perfectly matched to your needs.
+
+View our services
+<USER>

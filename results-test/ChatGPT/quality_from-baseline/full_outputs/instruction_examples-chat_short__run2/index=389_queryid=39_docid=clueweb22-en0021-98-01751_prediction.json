@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W18xsxDz62Fcq8wHUow7MextAnSN",
+  "object": "chat.completion",
+  "created": 1687865247,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain enough information for me to determine a rhetorical argument quality label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 793,
+    "completion_tokens": 17,
+    "total_tokens": 810
+  }
+}

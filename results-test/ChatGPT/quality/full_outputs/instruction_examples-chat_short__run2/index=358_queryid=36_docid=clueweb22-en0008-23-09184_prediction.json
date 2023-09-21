@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ofrwaTCWENKjzXhtz0KpBxrteY",
+  "object": "chat.completion",
+  "created": 1683105117,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1386,
+    "completion_tokens": 17,
+    "total_tokens": 1403
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain any rhetorical argument so it cannot be classified with a label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: can alternative energy effectively replace fossil fuel
+Text: Can alternative energy effectively replace fossil fuels? I will write a related essay on this subject. Do you have 3 topics/reasons? - Quora
+A home equity line of credit (HELOC) gives you access to cash through a portion of the equity you’ve built in your home. The amount of credit is determined by a combination of you(Continue reading)
+7 Answers
+
+Can alternative energy effectively replace fossil fuels? I will write a related essay on this subject. Do you have 3 topics/reasons?
+
+Yes. Solar pv, wind, hydro and hydrocarbons from wastes is replacing fossils fuels and will replace it some 90% or so in about 15 years at historical and current grow rates and doubling times.
+
+EV replace oil for vehicles, solar and wind plus 1 day of grid battery/pumped hydro, allows solar and wind to supply over 90% of demand, leaving hydro and hydrocarbons from wastes to fill in the final 10% grid demand.
+
+Hydrocarbons from wastes replace fossils for chemical needs
+
+Can alternative energy effectively replace fossil fuels? I will write a related essay on this subject. Do you have 3 topics/reasons?
+
+Yes. Solar pv, wind, hydro and hydrocarbons from wastes is replacing fossils fuels and will replace it some 90% or so in about 15 years at historical and current grow rates and doubling times.
+
+EV replace oil for vehicles, solar and wind plus 1 day of grid battery/pumped hydro, allows solar and wind to supply over 90% of demand, leaving hydro and hydrocarbons from wastes to fill in the final 10% grid demand.
+
+Hydrocarbons from wastes replace fossils for chemical needs, for long haul and for war aircraft as well.
+
+The combination is cheaper, 1000’s of times cleaner and less mining, free distributed fuel and all good for a billion years.
+
+Solar and wind have been the majority of new power install for the last 5 years or so, and are doubling installed capacity every 2 and 4 years for the last 30 years.
+
+Solar and wind are both available below 2 cents per KWH.
+
+Brian Donovan's answer to Can solar power become a major power source in the coming 20 years? If so, why? If not, what are your ideas?
+
+Can it? Eventually yes. Currently no. The issues ignored by the most fervent advocates of this tech are
+
+  1. Scale
+  2. Storage
+
+The scale of the problem is basically the massive amount of energy that needs to be replaced. Check out how much energy is currently used in transport as well as in electricity production. These have to be added together to understand the true demand. Just replacing electrical production is not sufficient, one has to also replace transport use either with electric cars and trains or some other tech to deliver portable energy. The scale of the problem says to any rational engineer,
+
+Can it? Eventually yes. Currently no. The issues ignored by the most fervent advocates of this tech are
+
+  1. Scale
+  2. Storage
+
+The scale of the problem is basically the massive amount of energy that needs to be replaced. Check out how much energy is currently used in transport as well as in electricity production. These have to be added together to understand the true demand. Just replacing electrical production is not sufficient, one has to also replace transport use either with electric cars and trains or some other tech to deliver portable energy. The scale of the problem says to any rational engineer, that we have to be building every non-CO2-emitting tech we can build including nuclear, as fast as we can, and researching better all the time.
+
+The storage problem is effectively the same as the “portable energy” problem. Storage of energy for transport has to be energy dense, lightweight and robust enough for use in a vehicle. You do not really want a Dewar of liquid hydrogen in your vehicle. Part of the answer to this is a chance in mode. One cannot easily build an electric self-driving truck with the tech base anywhere outside of a Tesla laboratory and possibly not really there. We have had electric rail for the past 100 years. We do it the same as we did it 100 years ago too. Why not have a 3 car freight unit, driverless, on electrified railroad track and routed automatically the way the packets are switched on the internet? Dispatchable freight? Why use the technology from 19th century Great Britain as the base for 21st century NZ?
+
+The third topic/reason on offer is conservation. The proverbial “negawatt” of electricity is that which is not consumed, and this is part of any actual answer to the overall problem and is omitted if one looks only at “renewables”. This one is anathema to the current economic system because current economics is based on a faulty understanding of what money really is and a resultant religion of growth of consumption as a sacrament. Advertising contributes nothing to the society and the economy, it is actually a negative influence overall, yet it is erroneously included in the measure (GDP) used almost universally by economists to define a “successful economy”. The result is an economics based on greed and greed is not good even without the other problems it causes.
+
+Good luck with your essay.
+
+You’ve done it. You’ve built up a little cushion in your bank account — $1,000! It feels good, right? Those days of checking your account balance in a panic are behind you. But, there are six moves you should make once your bank account gets past this magical number. ​​1. Invest in Famous A
+
+No - not with current technology. Non hydro renewables generate about 2–3% of world power. Fossil fuels 87%. Hydro and nuclear about 5% each. So the question is can the 2% replace the 87%. Not a chance - unless there is a breakthrough in technology which doesn’t seem likely. It is true that renewables are increasing but so is fossil - at an even faster rate. Germany invested heavily in renewables after deciding to phase out nuclear but found they weren’t up to the job of providing power for a modern industrial nation. So now they are investing heavily in coal. The main problems with renewables
+
+No - not with current technology. Non hydro renewables generate about 2–3% of world power. Fossil fuels 87%. Hydro and nuclear about 5% each. So the question is can the 2% replace the 87%. Not a chance - unless there is a breakthrough in technology which doesn’t seem likely. It is true that renewables are increasing but so is fossil - at an even faster rate. Germany invested heavily in renewables after deciding to phase out nuclear but found they weren’t up to the job of providing power for a modern industrial nation. So now they are investing heavily in coal. The main problems with renewables is that they are intermittent, expensive and low density.
+
+Can alternative energy effectively replace fossil fuels? I will write a related essay on this subject. Do you have 3 topics/reasons?
+
+Alternative energy (solar, wind, hydro, biomass) has to replace fossil fuels eventually. But alternative energy cannot at this time replace the energy density, consistency, and transportability of fossil fuels.
+
+Think about - to get a kilowatt of solar power I have to wait some period of time based on the size of my solar collector and sun and weather conditions. Then to use it I either have to hook up a battery and store it until I want it, or hook up wires to my p
+
+Can alternative energy effectively replace fossil fuels? I will write a related essay on this subject. Do you have 3 topics/reasons?
+
+Alternative energy (solar, wind, hydro, biomass) has to replace fossil fuels eventually. But alternative energy cannot at this time replace the energy density, consistency, and transportability of fossil fuels.
+
+Think about - to get a kilowatt of solar power I have to wait some period of time based on the size of my solar collector and sun and weather conditions. Then to use it I either have to hook up a battery and store it until I want it, or hook up wires to my point of use and be stuck at that location and time to use it, and introduce those inefficiencies related to either the battery or the wires and time of use. To get a kilowatt of fossil fuel energy I need a hole and a bucket to pull up the oil, and with the bucket I can carry around that energy until I need it - lots of energy is in that little bucket, and it is available when I want/need it, and it is easily moved.
+
+Sure fossil fuels are getting harder than hole + bucket now, but that is because the best stuff has been mostly used - which is why we HAVE to move to renewable alternative energy sources (once used, the fossil fuel is gone more or less forever), but in moving to alternative energy we are going to have to conserve more energy and put up with more inconvenience for our power supply.
+
+I think you need to learn more about the different alternatives like solar, wind, geothermal, solar hot water, etc and the advantages and disadvantages of each to answer this question. if you want my opinion: I say yes, alternative Energy can replace 100% of fossil fuels.
+
+This might sound unconventional, but hands down I’d go with blue-chip art. A Basquait painting soared 2,209,900% when it was bought for $5,000 and sold for $110,500,000. And if you think that is crazy, a Leonardo Da Vinci painting skyrocketed 5,328,894%. Although not guaranteed, if you can f
+
+For your three essays — No, No & No — because it cannot, cannot, cannot — yet, yet & yet.
+
+Be an empty vessel, learn, learn & learn, understand, understand & understand.
+
+Burn every newspaper, magazine & pamphlet that contains the term “alternative energy”.
+
+THINK very carefully before you start to write & most of all — do not believe in fairies.
+
+Nuclear could replace fossil fuels without damming every river, covering the Earth with solar panels and mirrors or ruining every scenic view with windmills and killing every bird by chopping it up or burning it out of the sky.
+
+Should we use alternative or fossil fuels?
+<USER>

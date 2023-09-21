@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3BrSBar7xMHD1UfUzlEc1rQyl9x",
+  "object": "chat.completion",
+  "created": 1683106555,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3140,
+    "completion_tokens": 23,
+    "total_tokens": 3163
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a rhetorical argument, so it does not have a well-defined level of well-writtenness."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

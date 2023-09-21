@@ -1,0 +1,71 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do violent video games contribute to youth violence?
+Text: Do Violent Video Games Contribute to Youth Violence?
+
+Video games have grown in popularity among children and adolescents in today’s society, especially violent video games. With about 6 billion kids ages 2–17 that play video games, it is a growing hobby. With the recent events such as, the Stoneman Douglas High School Shooting that occurred during February of 2018, there have been many speculations to what has caused a student to commit such a heinous act. People are now blaming the media and violent video games for the recent shootings in our school system. With many factors that can induce violence, Do violent video games contribute to youth violence?
+
+Who Do We Blame?
+
+There are two significant shortcomings when people attempt to prove video games promote violence. First, people tend to correlate that video game playing behavior and aggression to crime. This shortcoming doesn’t take into account that not everyone that plays violent video games is violent in society. Second, psychologist believes that this small factor encourages the promotion of bad behavior. With video games growing in popularity over the past decade, there hasn’t been much research on the subject and therefore should not conclude that violent video games contribute to youth violence. According to a peer-reviewed journal, “Cocooned from crime: The relationship between video games and crime,” the routine activities theory that was developed by Cohen and Felson in 1979 has provided contradictory results. The theory explains that with an increase in wealth, there is an increase in crime rates. Even though violent video games promote aggression, this does not mean everyone that plays these games is a violent individual. Most Children and Adolescents can distinguish what reality and virtual reality is. Doing violent acts, in reality, has extreme consequences that everyone knows. If you kill another human being, you could be locked up in prison for the rest of your life. If you kill someone in a video game, you can relieve stress by taking out your anger on that individual. Causing mayhem in society has severe repercussions and kids today should abide by that rule. Children and Adolescents today know the consequences of specific actions and try not to do anything that will destroy their future. Advocates for video games that claim that video games allow for an “escape,” from reality and therefore, allow them to express their frustration and aggressive behavior in a virtual world. By doing so, they can function properly like normal individuals in today’s society. Violent video games cannot be the blame for violent behavior in children.
+
+Different Factors
+
+Many factors can influence youth violence. There are different behaviors in individual races, social influences, gender differences, mental health, family background, etc. These are only some of the factors that influence youth violence. Although, it is difficult to determine youth violence due to these factors because many different combinations promote specific behaviors. According to the peer-reviewed article, “The Impact of Degree Exposure to Violent Video Games, Family Background, and other Factors on Youth Violence, DeCamp explains that”video game violence is not a meaningful predictor of youth violence, instead, support the conclusion that family and social variables are more influential factors.” A black family that raises their children in an urban area with high crime rates will be different from a white family in a suburban area with lower crime rates. The environment also influences youth, either their home or city that they are currently residing. Some children and adolescents spend a lot of their time out in public and can see a violent crime around their area and could imitate that act. Bullying can cause children to act out and possibly motivate them to commit a violent crime. Some of his classmates reportedly bullied the Stoneman Douglas High School shooter. Therefore that could be a reason why he attacked the school. Parents also play a role in their children’s violent behavior. In an experiment created by Albert Bandura in the 1960s, children were asked to view a video with a doll in it. The video shows an adult being abusive and beating the doll repeatedly. The children were then brought the toy and were told to play with it. Almost all the children that saw the doll abused imitated what they saw in the video. On the other hand, children that were shown the adult playing with the doll gently followed what the adult did and also gently played with the Bobo doll. Bandura was able to conclude that children learn by following figures of authority such as a random adult or their parents or legal guardians. With the many factors that can induce violence among our you, other factors need to be taken account for, before people blame video games for contributing to youth violence. Abusive Parents, Bullying, or even Media can influence children at a young age. As for Violent Video Games, this single factor cannot be the sole reason why children are violent.
+
+(1963) Albert Bandura’s Bobo Doll Experiment
+
+Benefits of Violent Video Games
+
+Although some may argue that violent video games influence youth violence, there are some benefits to playing them. According to a medical journal, “Video Games for Neuro-Cognitive optimization,” written by Jyoti Mishra, “video games can help drive positive neuroplasticity, accelerate learning, and strengthen cognitive function, and thereby promote mental wellbeing in both healthy and impaired brains.” One may argue that Violent Video Games provide no educational value, but Video Games also allows children and adolescents to practice hand-eye coordination, strategize different plays, and practice social skills in meeting new people online. Violent video games can also include puzzles, riddles, challenges, etc. which in return is beneficial for people by improving memory, problem-solving skills, visual-spatial reasoning, mood, productivity, collaboration, attention to detail, and lower stress levels.
+
+Improved social and problem solving skills
+
+Video Games have increased in popularity over these past decades. About 97% of today’s youth play video games for at least one hour a day in the United States. Being able to connect with a gaming community gives a sense of belonging to its players and in some cases that all that a child could fit into which is important from a psychological point of view. Violent Video Games can help improve social interactions between like-minded individuals. In a Science journal, “The benefits of playing video games,” written by the Developmental Psychological Department, “By integrating insights from developmental, positive, and social psychology, as well as media psychology, we propose some candidate mechanisms by which playing video games may foster real-world psychosocial benefits.” It is essential for our youth to be able to have advanced social skills in today’s ever-increasing technological world. By doing so, children and adolescents may be successful in dealing with specific individuals, proper coordination, and leadership skills. Learning how to have better conversations with certain individuals, how to cooperate as a team, how to problem solve quickly and efficiently, and promote positivity are only some of many skills that kids can learn from these types of games.
+
+Grand Theft Auto 5 (Released 2013)
+
+According to a study by, The American Psychological Association, “A 2013 meta-analysis found that playing shooter video games improved a player ’s capacity to think about objects in three dimensions just as well as academic courses to enhances these same skills, according to the study. This enhanced thinking was not found with playing other types of video games, such as puzzles or role-playing games.” Violent Video Games may seem like an unorthodox way to teach kids about specific skills, but these types of games will allow today’s youth to explore the endless possibilities they could become, with developing particular learning and social skills violent video games will always be in modern society. It is essential that kids learn these skills today to help them to become successful in the future. Creating more opportunities for children and adolescents will not only help themselves but also help create a better society. By being productive members of society, we can find a way to prevent events such as the Stoneman Douglas High School Shooting. Parents should have an open mind to teaching their children new techniques during social implications. Kids today can grasp technology at a very young age, unlike some adults. New ways of teaching in this growing technological world are constantly being created. For us to move forward, we must allow innovation to take control and guide us into the future.
+
+In conclusion, Violent video games may seem like an intellectually lazy activity to a person, but they provide many benefits that cannot be replicated by any other activity. Violent Video games are not the only factor that contributes to youth violence. With a combination of factors, it is difficult to determine the source of youth violence. Video Games should not be blamed for youth violence. This tool offers specific skills they can learn to help them to become a more well-rounded individual. Different factors such as social variables, environment, and family are more influential factors than violent video games. As Violent Video Game sales increase in popularity, it’s important to remind kids that there is a difference between reality and the virtual world. To prevent violent crimes from occurring in today’s youth, it is also essential to take into account their background, parents or legal guardians, and mental health. By doing so, we can progress as a society and focus on other things we need to be prosperous.
+
+Love podcasts or audiobooks? Learn on the go with our new app.
+
+Recommended from Medium
+<USER>

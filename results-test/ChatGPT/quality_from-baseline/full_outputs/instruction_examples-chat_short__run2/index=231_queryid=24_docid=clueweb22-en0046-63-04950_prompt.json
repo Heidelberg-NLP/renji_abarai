@@ -1,0 +1,121 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Constructing the effective tax rate reconciliation and income tax provision disclosure
+
+By Allison L. Evans, CPA, Ph.D.
+August 1, 2019
+
+Editor: Annette Nellen, Esq., CPA, CGMA
+
+While tax information on the financial statements presented under FASB Accounting Standards Codification (ASC) Topic 740, Income Taxes, continues to be a focus of investors and analysts, tax issues also continue to rank as one of the largest causes for financial restatements. Audit Analytics reports that Topic 740-related issues were the second-highest cause of 2017 and 2016 financial restatements (tying with revenue recognition issues in 2017). Further, an analysis by PwC reveals that 22% of 2017 SEC income tax comment letters originated from the effective tax rate (ETR) reconciliation (see Stay Informed: 2017 SEC Comment Letter Trends: Income Taxes, available at www.pwc.com). Because tax practitioners often create or audit the income tax provision and related disclosures, it is important for tax students and professionals to understand how they are constructed.
+
+Intermediate or advanced financial textbooks discuss temporary and permanent differences, deferred tax assets (DTAs), deferred tax liabilities (DTLs), and the corresponding journal entries. Tax textbooks often discuss book-tax reconciliations as they relate to Schedules M-1 or M-3 of Form 1120, U.S. Corporation Income Tax Return. However, coverage of the ETR reconciliation in either case is often high-level (or not covered at all), meaning many students enter the accounting profession without studying or preparing this important component of the financial statements.
+
+This column walks the reader through a discussion of current and deferred tax expense as a bridge to ultimately preparing the rate reconciliation. It illuminates which book-tax differences do and do not affect ETR. Further, this column offers extensions to show how valuation allowances, differences in tax rates across time, and tax credits affect the ETR and how each item is presented in the rate reconciliation. After completing the basic exercises in this primer and the comprehensive examples in the accompanying Excel workbook, the reader will have a firmer grasp on what moves ETR, providing a better understanding of tax planning tools that affect not only tax dollars paid in various periods but also the tax disclosures on the financial statements.
+
+As such, it can serve as an instructional supplement in both financial accounting and corporate tax courses. While Topic 740 applies to any entity that prepares financial statements under GAAP (including C corporations, flowthrough entities, and not-for-profits), this column focuses on publicly traded C corporations. Instructors may choose to assign the accompanying problems or to distribute the problems with solutions to serve as a study guide for the students.
+
+Prerequisite knowledge
+
+Since many tax and financial textbooks offer beneficial, in-depth analyses of common differences between financial and taxable income and how to prepare a book-tax reconciliation, this column assumes a base knowledge of common differences and whether they are temporary or permanent. Users will focus instead on how temporary and permanent differences relate to current and deferred tax expense and ultimately to the ETR calculation.
+
+Which book-tax differences affect the ETR?
+
+To best answer this question, this column considers two basic examples that also serve to review how to calculate current and deferred income tax expense. In Example 1, the company has one book-tax difference that is temporary in nature. In Example 2, another company has one book-tax difference that is permanent. Each corporation is a publicly traded, domestic corporation. Table 1 (below) illustrates the book-tax reconciliation for each company.
+
+Table 1: Book-tax reconciliation
+
+
+Example 1:
+T Corp. begins operations in year 1. It earns $500,000 in revenues in year 1 and in year 2. It incurs $300,000 in ordinary, deductible expenses for its business each year. In year 1, T incurs a $10,000 short-term capital loss. It generates $10,000 of long-term capital gains in year 2.
+
+Example 2: P Corp. begins operations in year 1. It earns $500,000 in revenues in year 1 and in year 2. It incurs $300,000 in ordinary, deductible expenses for its business each year. Each year, it also spends $10,000 for a life insurance policy on its CEO, which is not deductible for tax purposes.
+
+Current and deferred components of the income tax provision (ASC Paragraph 740-10-50-9)
+
+All entities are required to disclose the current and deferred income tax expense components of the total income tax provision from continuing operations. T and P will each calculate current tax liability and expense by multiplying taxable income by the 21% corporate tax rate enacted in the law known as the Tax Cuts and Jobs Act (TCJA), P.L. 115-97. T will also record a DTA because the capital loss carryforward will cause taxable income to be lower in the future (relative to future financial income), as Table 1 illustrates. ASC Paragraph 740-10-10-3 requires T to measure its DTA using the currently enacted rate at which the temporary difference will reverse, which under the TCJA is also 21%. Therefore, T will record a year 1 DTA of $2,100 ($10,000 × 21%). To balance the entry, it will credit deferred income tax expense, creating a benefit for the same amount.
+
+In year 2, T will reverse the DTA, which will generate a deferred tax expense that will increase total income tax expense by $2,100 that year. P will not have a deferred expense or benefit because it does not have any temporary differences. Table 2 (below) illustrates the income tax provision for T and P for federal purposes. (All journal entries corresponding to the tables in this column are found in the accompanying Excel workbook.)
+
+Table 2: Required footnote disclosure for components of income tax expense
+
+
+Calculating the ETR
+
+ETR measures the size of the company's total income tax expense relative to its financial income. T and P will calculate ETR by dividing total income tax expense by pretax financial income from Tables 2 and 1, respectively. Table 3 (below) presents the resulting ETR.
+
+An important point is illustrated by comparing the ETR for these two companies. It is a common misconception that all book-tax differences affect ETR. A comparison of T and P clearly shows this is not the case. As long as tax rates are constant over time, temporary differences do not affect ETR, which is why T's ETR of 21% equals the enacted statutory rate of 21%. Therefore, though accelerating deductions and delaying income are good tax planning strategies in terms of the time value of money and lowering the current-year tax liability, companies that care about the ETR disclosure will not find sufficient value in this approach.
+
+Table 3. Computing ETR: Which difference type causes ETR to differ from the enacted rate?
+
+
+Similarly, though having to wait to claim a loss is not ideal from a tax perspective, it will not affect the firm's ETR. It is therefore important for tax practitioners to have a clear understanding of a client's priorities (i.e., whether the client places more value on reducing its current tax liability or the ETR disclosed in the financial statements) before dispensing tax advice.
+
+In contrast, permanent differences do affect the firm's ETR, though the effect may not always be beneficial. P Corp., for example, is suffering the effect of having a nondeductible expense. It incurs a relatively higher tax burden than a corporation that could deduct every dollar of expense, even if that deduction occurs in a future tax period. If P instead earned tax-exempt income (e.g., interest on tax-exempt bonds), its ETR would be lower than the statutory 21% rate. Tax credits, another useful ETR-reducer, are discussed on p. 606.
+
+The ETR reconciliation
+
+Basic requirements (ASC Paragraph 740-10-50-12)
+
+Publicly traded entities must present a reconciliation of the company's income tax burden calculated at the statutory rate to its total income tax expense from continuing operations. The reconciliation may be disclosed as either a dollar amount or percentage (or both). As a dollar figure, the reconciliation begins from an as-if calculation, representing the tax burden as if every dollar of pretax financial income is taxable/deductible at the federal rate. The company must then show all significant reconciling items between that hypothetical number and its actual income tax expense for the year. If it is presented as a percentage, the company must reconcile from the federal statutory tax rate to its ETR.
+
+To meet the significance disclosure requirement, corporations must separately disclose items that meet or exceed 5% of the tax at the statutory rate (SEC Regulation S-X, §210.4-08(h)(2)), meaning anything affecting ETR by at least 1.05%, using the 21% statutory rate enacted by the TCJA. (Private companies must disclose the nature of significant reconciling items, but they do not need to provide a numerical reconciliation, according to ASC Paragraph 740-10-50-13.)
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2xJAz0kioBbQ8qVrofn4f1VO0PL",
+  "object": "chat.completion",
+  "created": 1683105653,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2410,
+    "completion_tokens": 111,
+    "total_tokens": 2521
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to be a well-written argumentative essay, with a clear introduction, body paragraphs containing arguments from both sides, and a conclusion. It argues that insider trading is a controversial issue with supporters claiming it benefits investors by increasing efficiency and detractors suggesting it is unethical and illegal. The author provides reasoning from each party involved, including scholars like Milton Friedman and Henry Mann, to provide multiple perspectives. Overall, the essay appears to have a good structure and presents solid evidence to support its argument. Therefore, the rhetorical argument quality can be classified as high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should any vaccine require child
+Text: Top 10 Reasons Child Vaccines Should Be Mandatory
+
+Top 10 Reasons Child Vaccines Should Be Mandatory for Everyone
+Top 10 Reasons Child Vaccines Should Be Mandatory for Everyone
+
+ 
+
+A Vaccine’s job is to stimulate the immune system to produce antibodies. Having said that, Vaccines do not cause you to become ill in order to develop these anti-bodies, unlike bacteria and viruses. There are two main types of vaccines. Active Vaccines and Passive Vaccines.
+
+ 
+
+Vaccines are one of the best ways to save yourself and your children in particular from dangerous diseases. People all around the world vaccinate their children to protect them from any life threatening disease. For example in United States of America Vaccines programs have been quite successful in reducing the number of children affected by contagious diseases like rubella, measles, pumps, diphtheria and polio.
+
+The article discusses about the ten reasons why vaccines should be mandatory.
+
+10. Controls Diseases
+
+Mandatory Childhood Vaccination Controls Disease
+Mandatory Childhood Vaccination Controls Disease
+
+ 
+
+Demolishing the disease completely is an ideal goal, however there has only been a single disease till today that has been completely eradicated. Smallpox was a threat to the entire global community, but with the help of proper vaccination program, the disease has been completely eliminated and there is no need of any further immunization anymore. Likewise, other infectious diseases can also be eliminated with the help of effective vaccination and with the availability of certain diagnostic tests. In order to eradicate a disease completely, a large group of people from every region of the worlds needs to get immunized over a long period of time with proper monitoring. Polio is the second disease that is targeted for eradication. It’s an uphill task as it is still a global issue; however the use of Oral polio vaccine has helped in eliminating type 2 poliovirus
+
+The countries themselves can also take measure to eliminate the disease without global vaccination programs. In some World health organization regions, there has been an excellent progress in eliminating measles. The spread of virus is as good as over and is no longer a threat. The reason behind this success is the two dose vaccination program that immunized 95% of population. Combination of measles, mumps and rubella vaccine initially eliminate and later on, completely eradicate the presence of this disease.
+
+ 
+
+  1. Controls complications
+Mandatory Childhood Vaccination Controls Complications
+Mandatory Childhood Vaccination Controls Complications
+
+ 
+
+There is possibility that the people who are already vaccinated might catch a disease too. The cause of them catching a disease could primarily be due to the failure of a vaccine or secondary. In these situations the individuals who are infected have a lesser impact of the disease as oppose to the ones who are not vaccinated. A study of a cellular pertussis vaccine carried out by the Germans shows that when the people who were vaccinated caught whooping cough, had a shorter duration of chronic cough as compare to the people who were not vaccinated. Varicella caused only a few skin lesions, mild fever and slight complications than the people who were not vaccinated. As for rotavirus, here too, the intensity of the disease was very less in the individuals vaccinated.
+
+ 
+
+The purpose of vaccines initially is to protect an individual from disease but it doesn’t always protect against the infection. However, there are a few vaccines out there that does both, Protect against and disease and also protects an individual from getting an infection. Hepatitis A vaccine has proved to be mighty effective in protecting from both, asymptomatic infections and symptomatic disease. Complete protection from persistent vaccine type infection has been shown for HPV vaccine.
+
+ 
+
+  1. Prevents The Unvaccinated Population
+
+ 
+
+Mandatory Childhood Vaccination Prevention is Key
+Mandatory Childhood Vaccination Prevention is Key
+
+The use of vaccines does not only protect the people who are vaccinated but it also helps reduce the diseases in individuals in the community who are not vaccinated through effects termed as either “Herd effects” or “indirect effects”. A study has shown that only less than 70% coverage of hib vaccine in Gambia was enough to kick out Hib disease. The similar kinds of findings were recorded in the population of Navajo. Another case of herd protection was In United states of America where the increase in vaccines coverage decreased the attack rate in the pre school kids faster than expected. These effects can also take place with diarrheal vaccines as has been done by cholera vaccine.
+
+ 
+
+Herd protection in people who are not vaccinated happens when significant groups of people are immunized. The decline in disease happens a lot faster than the number of people getting vaccinated because Immunization stops the flow of an infectious agent by reducing the duration of pathogen yielded by the people vaccinated stopping it from spreading.
+
+ 
+
+The rate of immunization to stop the disease from spreading solely depends on the amount of population. Diseases like Measles that are have a higher rate, needs higher coverage of vaccination in order for herd protection to take place, as oppose to the diseases are lower in rate like rubella hib or polio.
+
+ 
+
+Due to herd protection, several diseases can be completely eliminated without 100 % immunization.
+
+ 
+
+  1. The Concept Of Source Drying
+
+ 
+
+Mandatory Childhood Vaccination Vaccines Encourage Source Drying
+Mandatory Childhood Vaccination Vaccines Encourage Source Drying
+
+There is a concept called source drying. This concept is pretty similar to herd protection. It means that if a certain group of people in a country or an area is identified with an infection. Vaccines made specifically for them will drastically decrease the disease in the entire population, for example in the town of Queensland, Australia. There were a large number of people infected with hepatitis A. Babies across Queensland were vaccinated with a follow up to 6 years, had a drastic impact on the whole of Queensland with numbers of hepatitis cases dropping dramatically in the entire Queensland. The same approach was implemented in prominent countries like United States of America.
+
+ 
+
+The results obtained from source drying legitimize the vaccination of certain occupational groups like, food handlers in order to control diseases like typhoid or hepatitis A. People in contact with toddlers, for example parents, nurses, siblings, grandparents etc, should be given pertussis vaccine boosters to avoid any kind of transmission.
+
+ 
+
+  1. Protects From Other Diseases
+Mandatory Childhood Vaccination Protect All of us from Many Other Diseases
+Mandatory Childhood Vaccination Protect All of us from Many Other Diseases
+
+ 
+
+Getting vaccinated is extremely beneficial. Not only does it protect from diseases that it is suppose to protect from but also diseases related to it. For example in United States of America, Finland and several other countries, influenza vaccines also have remedy for kids with acute otitis. Besides that, Measles vaccines protect against several complications like, bacterial pneumonia, dysentery, keratomalacia and malnutrition.
+
+Infections cause several cancers. For example chronic hepatitis B could lead to liver cancer. Vaccinating properly could prevent from getting suffering the consequences.
+
+ 
+
+There is also hope for the reduction of cervical cancer cases with the help of HPV vaccines against serotypes sixteen and eighteen as the decrease in precancerous lesions has been shown in the people vaccinated. Surprisingly, 70% of the cervical cancer burden worldwide is due to serotypes 16 and 18. Cancer of any kind has taken lives on regular basis. It’s extremely dangerous and hard to treat once you are deeper in to it. It is better to be safe than sorry. Preventive measures therefore are very important. Getting vaccinated could help prevent an individual from developing cancer in his or her body. Like mentioned before, some vaccines might not be directly related to treating cancer but are indirectly involved by not letting the infections that develops cancer, grow inside our bodies.
+
+ 
+
+  1. Advantages For The Society
+
+ 
+
+Mandatory Childhood Vaccination Societal Innoculation
+Mandatory Childhood Vaccination Societal Innoculation
+
+Vaccination programs might require big investments initially, for example purchase vaccines, staffing etc, but in the long run they could actually help us pay back. For example, imagine the number of deaths caused by the diseases is a big loss. The people who died could have contributed to the economy and help it grow. Likewise, people in the hospitals, particularly government hospitals are in no condition to help the economy, in fact more and more patients could be a burden for a the government bear. Investing in the immunization programs will help prevent these people from coming to hospitals or dying and they can work towards the progress of the economy. The saving recorded with vaccines in 2003 were billions of US dollars. Malaria is causing sub Saharan Africa a loss of 100 billion dollars. However, there are several vaccines currently under development to avoid the loss.
+
+ 
+
+A lot more could be save several antigens are put together in a single vaccine. There are a lot of benefits that combination vaccines could bring you, for example injection safety, compliance and coverage.
+
+ 
+
+Vaccination programs as oppose to other public health related programs such as drinking water chlorination and wearing seat belt is a better investment and is a lot more cost effective.
+
+ 
+
+  1. Safety Of Travelers
+Mandatory Childhood Vaccination Travelers Protected
+Mandatory Childhood Vaccination Travelers Protected
+
+ 
+
+ 
+<USER>

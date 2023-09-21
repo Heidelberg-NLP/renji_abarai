@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ5wE0eDS2RE1KyAsb9GzWbSUi4t",
+  "object": "chat.completion",
+  "created": 1682691036,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2888,
+    "completion_tokens": 26,
+    "total_tokens": 2914
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There are multiple arguments from different perspectives, therefore it is difficult to provide a clear label for the rhetorical argument quality of the text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

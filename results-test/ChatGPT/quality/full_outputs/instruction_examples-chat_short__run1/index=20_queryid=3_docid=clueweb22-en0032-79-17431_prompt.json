@@ -1,0 +1,88 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Uncorporate Insider Trading
+
+Uncorporate Insider Trading
+
+Peter Molk is associate professor of law at the University of Florida Levin College of Law. This post is based on a recent article by Professor Molk, forthcoming in the Minnesota Law Review. Related research from the Program on Corporate Governance includes Insider Trading Via the Corporation by Jesse Fried (discussed on the Forum here).
+
+Insider trading has long been restricted by federal law. Corporate executives owe fiduciary duties of loyalty and care to their companies and shareholders, duties that are breached when those insiders trade in company stock or with company information. Because these fiduciary duties are a mandatory feature of corporate law, quintessential insider trading cases fall squarely within the prohibition.
+
+Now, long after the fiduciary theory of insider trading liability was developed, “uncorporate” LLC and LP substitutes to corporations have emerged as alternative ways to organize businesses. Unlike corporations, these entities can, and often do, completely waive all management fiduciary duties owed to the entities or shareholders. In my article Uncorporate Insider Trading, I analyze the implication that, through these fiduciary duty waivers, these entities can effectively waive core insider trading liability.
+
+I identify and consider the resulting implications for an insider trading liability regime premised on the existence of fiduciary duties. First, I trace the history of insider trading law’s fiduciary duty requirement, which has remained a remarkably stable requirement since 1909’s Strong v. Repide. Traditional insider trading theories base liability on a “fiduciary or similar relation of trust and confidence” between the insider and her trading partner. The more recent misappropriation theory also relies on a breach of the duty of loyalty to hold insiders liable who use nonpublic company information to trade in other companies’ shares.
+
+In core insider trading cases, the requirement that insiders have a fiduciary duty to their trading partners or the company was rarely an issue throughout insider trading doctrine’s formative years. Business was conducted through general partnerships and corporations that impose mandatory, non-waivable duties of loyalty on management. However, with the comparatively recent rise of LLCs and LPs, core executives’ insider trading liability seemingly becomes a default form of liability. Many states, like Delaware, allow these business entities to dispense entirely with all fiduciary duties. When fiduciary duties are eliminated, so too is the legal basis for insider trading liability. Significant numbers of publicly traded and privately held uncorporate entities now waive fiduciary duties in their governance agreements.
+
+As a policy matter, the resulting private ordering solution to insider trading liability may not be entirely bad. Some justify insider trading restrictions as protecting firms’ property rights in information, so leaving it to firms and their owners to determine when these restrictions are desirable could produce optimal governance arrangements. Indeed, since some of the most sophisticated investors use LLCs and LPs precisely for their governance flexibility, default insider trading liability could make sense for these investors.
+
+At the same time, I argue that giving all LLCs and LPs this apparent flexibility to waive insider trading restrictions, while still retaining mandatory insider trading liability for all corporations, would be undesirable. Some policy arguments in favor of mandatory liability, such as the need to protect relatively unsophisticated investors or the integrity of the securities markets, apply equally as well to uncorporate entities as to corporations. For instance, some publicly traded LLCs and LPs purport to waive all traditional fiduciary duties, yet their investor bases are indistinguishable from publicly traded corporations and, therefore, would benefit from the same mandatory insider trading protections. If mandatory insider trading liability is to be retained for corporations, it should also be maintained for at least some alternative entities.
+
+I conclude by considering a variety of potential reforms. More moderate solutions could work within the existing fiduciary duty framework by imposing, through state or federal law, a limited mandatory disclosure duty on alternative entity management, reinvigorating insider trading liability. I consider several ways this approach could be accomplished, ranging from solutions tailored to investors’ ability to fend for themselves to blunter approaches that simply impose liability across all entities.
+
+On the other hand, doctrinal muddles like this one could serve as a catalyst for developing major changes that harmonize the current haphazard law of insider trading. Preet Bharara’s current Insider Trading Task Force is already a step in this direction, providing the means to consider these issues.
+
+The problem of uncorporate insider trading, if unaddressed, is destined to grow as alternative organizational forms continue to become more popular. My hope is that the framework and potential reforms discussed in the article will focus attention on a system in need of reform.
+
+The complete article is available for download here.
+
+Both comments and trackbacks are currently closed.
+<USER>

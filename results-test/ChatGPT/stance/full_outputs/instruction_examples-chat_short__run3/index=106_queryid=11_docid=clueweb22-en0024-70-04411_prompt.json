@@ -1,0 +1,86 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should performance - enhance drug accept sport
+Text: Cardiovascular Effects of Performance-Enhancing Drugs | Circulation
+Skip main navigation
+
+Cardiovascular Effects of Performance-Enhancing Drugs
+
+Originally publishedhttps://doi.org/10.1161/CIRCULATIONAHA.116.022535Circulation. 2017;135:89–99
+
+    Abstract
+
+    Exercise and competitive sports should be associated with a wide range of health benefits with the potential to inspire a positive community health legacy. However, the reputation of sports is being threatened by an ever-expanding armamentarium of agents with real or perceived benefits in performance enhancement. In addition to the injustice of unfair advantage for dishonest athletes, significant potential health risks are associated with performance-enhancing drugs. Performance-enhancing drugs may have an effect on the cardiovascular system by means of directly altering the myocardium, vasculature, and metabolism. However, less frequently considered is the potential for indirect effects caused through enabling athletes to push beyond normal physiological limits with the potential consequence of exercise-induced arrhythmias. This review will summarize the known health effects of PEDs but will also focus on the potentially greater health threat posed by the covert search for performance-enhancing agents that have yet to be recognized by the World Anti-Doping Agency. History has taught us that athletes are subjected to unmonitored trials with experimental drugs that have little or no established efficacy or safety data. One approach to decrease drug abuse in sports would be to accept that there is a delay from when athletes start experimenting with novel agents to the time when authorities become aware of these drugs. This provides a window of opportunity for athletes to exploit with relative immunity. It could be argued that all off-label use of any agent should be deemed illegal.
+
+    Introduction
+
+    The health of athletes and the reputation of modern competitive sports is being challenged by performance-enhancing drugs (PEDs). Revelations of endemic use and institutional-sponsored PED programs are becoming so routine that even the most passionate fans find themselves questioning every performance. We are transfixed by the fight to be first across the line that is so pure in its simplicity and yet requires a complex and rare mix of favorable genetics, obsessiveness, and skill. However, when reflecting on the remarkable physical feats in the recent Olympics in Brazil, we are faced with the reality that some of these feats may have been assisted by the use of banned substances.
+
+    Sport is a powerful medium, and governing bodies throughout the world recognize the contribution of sports to national identity. It has been estimated that some first-world countries would invest ≈$7 million of public funding for each Olympic gold medal won.1 Yet, the economic returns from television rights, sponsorship, and infrastructure are an excellent return on this investment. From a public health perspective, there are even greater potential benefits to be realized through a health legacy in which the inspired population may be more likely to increase levels of physical activity. Relative to the general population, Olympic athletes have superb health outcomes2,3 and should be ideal ambassadors in the fight against the morbidity associated with sedentary behavior.4 However, research suggests that this trickle-down impact on public health may be more theoretical than real,5 and the disillusionment caused through rumors of ubiquitous PED use cannot be helping in translating podium success to playground inspiration. Even worse, the increasing use of PEDs among recreational athletes suggests that it is the worst aspects of professional sports that are being emulated in the community.6
+
+    It could be argued that PEDs are simultaneously a consequence of the commercialization of modern sports and a threat to their ongoing public support. Sports fans, sponsors, and sporting infrastructure are all indirectly affected by the revelations of PED abuse, but the greatest victims are undoubtedly the athletes: accolades hijacked by drug-taking winners and performances sullied by implication and the distrust of fellow competitors. What is portrayed to the public as a black-and-white choice for the athlete is far more complex. Athletes are encouraged to seek any legal advantage that does not include agents contained within the World Anti-Doping Authority’s list of banned substances. As will be discussed at length in this review, this creates a problematic gray area in which athletes may experiment with agents that are yet to be listed as a banned substance. There are ongoing health risks associated with the search for the next drug that may provide a window of advantage before detection. This issue will not be addressed by the current system of playing catch-up with a list of substances that will always be years behind. We will argue that the alternative of a short permitted list should be considered and would more accurately reflect the broadly excellent health of the young athletes who should require few or no pharmacological interventions.
+
+    This review will focus on 2 novel concepts related to the cardiovascular effects of PEDs. First, in addition to the direct effects of PEDs on the cardiovascular system, the strain imposed through an athlete’s enhanced ability to exert him- or herself at superhuman levels may be a cause of cardiac injury. Second, the risk of experimental drugs not on the World Anti-Doping Agency’s banned substance registry poses a potentially greater risk than that from the continued abuse of known drugs. We seek not only to describe the extent of the problem, but also to provide some novel suggestions on how we may be able to reduce PED use and the resultant health risks.
+
+    Direct Cardiovascular Effects of Peds
+
+    The list of potentially PEDs and performance-enhancing supplements used by competitive athletes is extensive. Table 1 summarizes many of the agents listed by the World Anti-Doping Agency (WADA) as being banned or on a watch list of commonly detected agents. Despite assertions that drug cheats will be caught, many of these drugs are not detectable with routine drug testing, or via the modern approach of the Athlete Biological Passport. Although the cardiovascular side effects of some of the drug classes can be anticipated, many athletes will use multiple agents and the effects of drug combinations is almost nonexistent. It is also critical to note that of potentially greater risk to athletes’ health are the many agents that are likely to be in use currently that are unknown to authorities. The known side effects of some of the more commonly abused agents are presented below but, given the limited evidence base, these should be considered a best guess.
+
+    Table 1. Performance-Enhancing Drugs and Potential Cardiovascular Side Effects
+
+    Substance GroupExamplesDirect Cardiovascular Side Effects
+    Oxygen-carrying modulatorsErythropoietinErythropoietin-stimulating agentsErythropoietin receptor agonistsBlood dopingSynthetic bloodThromboembolic eventsMyocardial infarctionStrokeHypertension
+    Oxygen dissociation curve modulatorsCobaltRSR13Cardiomyopathy
+    Anabolic agentsHuman growth hormone, insulin-like growth factor-1Endogenous anabolic steroids (eg; testosterone) and their metabolites (eg, 5-androstenedione; 7β-hydroxy-dehydroepiandrosterone) and exogenous steroid analogues (eg; stanazolol, nandrolone).DyslipidemiaHypertensionPathological cardiac Hypertrophy/cardiac fibrosisArrhythmias
+    β2-Adrenergic receptor antagonistsClenbuterolArrhythmias in animals
+    Phosphodiesterase type 5 inhibitorsSildenafil*Unknown in athletes
+    Selective androgen receptor modulatorsThymosin beta 4AndarineOstarineMultiple “designer peptides”*Largely unknown
+    Selective estrogen receptor modulatorsTamoxifen (counteract negative side effects of anabolic agents)Venous thrombosis, pulmonary embolism
+    Hormone/metabolic modulatorsMeldonium (mildronate)CorticosteroidsInsulin and mimeticsThyroxineβ-Alanine*Creatine*l-Carnitine*Hypertension, hyper- or hypoglycemia, dyslipidemia, many agents with untested safety profiles
+    Amphetamines/stimulantsMethylphenidate, modafinilUnknown in athletes
+    OthersGlycerol trinitrate*Tramadol*Opiates* (enables athletes to suppress pain in training and racing)Iron supplementation (especially in combination with altitude or O2-carrying modulators)*Diuretics (masking agents/making weight)Epitestosterone (masking agent, normalizes testosterone to epitestosterone ratio)Unknown in athletes
+
+    RSR13 indicates right-shifting reagent 13.
+
+    *Refers to agents not currently on the World Anti-Doping Agency list of banned substances.
+
+    Much of the medical literature focuses appropriately on the adverse health effects of PEDs, but these deterrents have proved insufficient to discourage some athletes. The evidence for efficacy of PEDs in improving performance is more limited than might be expected given the widespread belief that they are in many cases a game changer. This may relate to the fact that few scientists are willing to study PEDs given the complex ethics of providing evidence that may be used to support doping and reinforced by the refusal of some journals to accept any articles pertaining to PEDs. However, it is often argued that the drug cheats are 1 step ahead, and it could be argued that concerted efforts from reputable scientists are required to develop the knowledge base that will anticipate drug use and to develop tests that can accurately identify known and novel PEDs in the dosing regimens used in modern sports.
+
+    Oxygen-Carrying Modulators and Dissociation Curve Modulators
+<USER>

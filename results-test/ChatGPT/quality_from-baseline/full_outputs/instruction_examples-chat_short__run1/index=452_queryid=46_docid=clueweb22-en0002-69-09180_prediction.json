@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VziIvwZ90wyF8OI0VTvJfQhQkjrF",
+  "object": "chat.completion",
+  "created": 1687859750,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text provides an impartial analysis of the pros and cons of net neutrality regulations. Therefore, it does not contain a rhetorical argument."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2822,
+    "completion_tokens": 26,
+    "total_tokens": 2848
+  }
+}

@@ -1,0 +1,154 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Are social networking sites good for our society?
+Text: Last updated on: 8/17/2018 | Author: ProCon.org
+
+Pro & Con Quotes: Are Social Networking Sites Good for Our Society?
+
+PRO (yes)
+
+Pro 1
+
+Ethan Zuckerman, Associate Professor and Director of the Center for Civic Media at MIT, stated the following in his May 30, 2018 article titled “Six or Seven Things Social Media Can Do for Democracy,” available at ethanzuckerman.com:
+
+“Social media is critically important in giving voice to communities who’ve been systemically excluded from media – people of color, women, LGBTQIA people, poor people. By giving people a chance to share their under-covered perspectives with broadcast media, social media has a possible role in making the media ecosystem more inclusive and fair…
+
+The power of social media to raise money for candidates, recruit people to participate in marches and rallies, to organize boycotts of products or the overthrow of governments is one of the best-documented – and most debated – powers of social media.”
+
+May 30, 2018 - Ethan Zuckerman
+
+Pro 2
+
+Joanne Orlando, PhD, Senior Lecturer in Early Childhood Education at the University of Western Sydney, stated the following in her July 19, 2017 article titled “When It Comes to Kids and Social Media, It’s Not All Bad News,” available at theconversation.com:
+
+“Social media is a platform for sharing ideas, information and points of view. This can have important educational value: it extends the information young people can access while also giving them insight into how others think about and use that information…
+
+For those children who feel marginalised in their local community, social media can help them connect with other people who share the same interests or outlook on life.
+
+In some cases, teenagers with critical problems can turn to social networks for fast support and guidance. There are plenty of groups that offer such help online.
+
+Social media is also an important platform for driving social issues, such as racial issues, to greater national and international attention.”
+
+July 19, 2017 - Joanne Orlando, PhD
+
+Pro 3
+
+AJ Agrawal, CEO and Cofounder of Alumnify, an alumni engagement organization, wrote in a Mar. 18, 2016 article for Forbes titled “It’s Not All Bad: The Social Good of Social Media”:
+
+“Social media is not always an online distraction or procrastination platform. While some may be addicted to their social media networks, it is one of the best ways to stay informed. Major news outlets, corporations and persons of interest use social media to deliver messages to the masses. With items posting immediately, the public stays informed. Some issues cause controversy, but social media does more good than harm in retrospect…
+
+Although some parents see social media as detrimental to their children, it actually does them some good to have social media accounts. Teens want to be aware and informed just as much as adults. Using social media allows teens to follow organizations and causes that they believe in. It makes them feel like they are a part of something, even when they feel like an outcast in society.
+
+Increased teen awareness is important. Social media is one of the best outlets to reach the minds of young people to make a real difference…
+
+When natural disaster strikes and causes devastating destruction, social media is the ideal vehicle to deliver messages asking for support. Hashtags are created to help Internet users locate related stories and show their support for those affected by the disaster. This helps stories that begin locally to gain national or global attention.”
+
+Mar. 18, 2016 - AJ Agrawal
+
+Pro 4
+
+Logan Sachon, Cofounder of the Billfold, wrote in a Mar. 8, 2016 opinion piece for the New York Magazine titled “In Defense of Social Media: Talking to a Teenage Girl About Nancy Jo Sales’s American Girl“:
+
+“Alicé is 17 and met her best friend on Twitter… ‘I was lonely before Twitter,’ she says. ‘Without Twitter, I would still be depressed. No one has ever tried to be my friend…’ She connected with a girl online who was going through the same things, and that really helped. She made more of an effort to connect with people at school.
+
+Alicé has had in-person meetings with nearly 20 of her Twitter friends… ‘I would have never met the people I’m friends with without the internet,’ she says… ‘I’ve had the deepest conversations with people I’ve met on the internet… I’ve never had such support from people; I treasure them. I was dumbfounded at how much they actually cared.’
+
+True and lasting connection can and does come from social media — it is born there and it is nourished there. That second world [social media] isn’t a ghetto – it’s not even a second world. It’s an expansion of this one.”
+
+Mar. 8, 2016 - Logan Sachon
+
+Pro 5
+
+The American Congress of Obstetricians and Gynecologists wrote in their Feb. 2015 Committee Opinion titled “Professional Use of Digital and Social Media,” available from acog.org:
+
+“Social media sites are fast becoming standard tools for professional practices… The ability of social media sites to spread information beyond the capacity of traditional digital media makes them attractive tools for organizations and individual professionals…
+
+Use of professional social networks affords researchers and professionals the opportunity to share their work across larger audiences of like-minded professionals, fosters the development of new collaboration, and offers a forum for online dialogue among remote colleagues…
+
+Digital and social media are not only acceptable for the modern practicing physician, but have become necessary elements for relating to patients and practicing medicine.”
+
+Feb. 2015 - American Congress of Obstetricians and Gynecologists (ACOG)
+
+Pro 6
+
+Hilary Walters-West, Editor-in-Chief of the Odyssey, wrote in a Dec. 14, 2015 article for the Odyssey titled “Why the Benefits of Social Media Outweigh the Drawbacks”:
+
+“I believe social media has truly made our world a better place and I think overall the world has greatly benefitted from its existence for many different reasons.
+
+In a time where traveling for work has become the norm and so many people are required to be in a different place multiple times each month, social media allows individuals the chance to stay close with their family and friends. It allows them to share what’s going on in their life in the most convenient way… Social media accounts enable people from all over the world to foster and maintain relationships without letting distance become a barrier.
+
+Social media has also created an exciting outlet for people to see news and stay updated on current events in the world…
+
+[S]ocial media has given our society a better way of life and it has aided people in their daily lives. Social media is not the enemy; it is our ally and it has provides us with resources that we never knew before.”
+
+Dec. 14, 2015 - Hilary Walters-West
+
+Pro 7
+
+Victoria Betton, PhD, mHabitat Programme Director at Leeds and York Partnership NHS Foundation Trust, Rohan Borschmann, PhD, McKenzie Research Fellow at the University of Melbourne (Australia), Mary Docherty, Member of the Royal College of Physicians and Psychiatrists (MRCP, MRCPsych), Academic Clinical Fellow at King’s College London (UK) at the time of the quote, Stephen Coleman, PhD, Professor of Political Communication at the University of Leeds (UK), Mark Brown, Development Director at Social Spider CIC, and Claire Henderson, PhD, Clinical Senior Lecturer at King’s College London (UK), wrote in a June 2015 editorial “The Role of Social Media in Reducing Stigma and Discrimination” for the British Journal of Psychiatry:
+
+“[S]ocial media are inexpensive and easy to use. They signify a trend towards more interaction whereby people create as well as consume content. It is possible to share stories, produce other content and influence the media environment…
+
+A striking aspect of social media sites such as Twitter is that a spontaneous burst of protest can be initiated by one individual in a single post and widely shared… [S]haring experiences and having one’s voice heard on social channels can create a sense of empowerment – of feeling less alone with a personal struggle, and more confidence in showing a part of the self that might usually remain hidden.”
+
+June 2015 - Rohan Borschmann, PhD
+Mary Docherty, MRCP, MRCPsych
+Stephen Coleman, PhD
+Mark Brown
+Claire Henderson, PhD
+Victoria Betton, PhD
+
+Pro 8
+
+Tomer Simon, MPH, founder of Ready.org.il, Avishay Goldberg, PhD, Deputy Rector at Ben-Gurion University of the Negev, Limor Aharonson-Daniel, PhD, Head of the PREPARED Center for Emergency Response Research at Ben-Gurion University of the Negev, Dmitry Leykin, MA, Statistics and Research Methods Consultant at Tel Hai Academic College, and Bruria Adini, PhD, Head of the Emergency Response Training Program at Ben-Gurion University of the Negev, wrote in the Aug. 25, 2014 article “Twitter in the Cross Fire – The Use of Social Media in the Westgate Mall Terror Attack in Kenya” in PLoS ONE:
+
+“Social media offer an accessible, widely available means for a bi-directional flow of information between the public and the authorities. In the crisis, all emergency responders used and leveraged social media networks for communicating both with the public and among themselves…
+
+In recent years, the social media, and especially Twitter, have emerged as important, near real-time communication channels and technologies during emergency response. Social media consist of tools that enable open and online exchange of information through conversation, interaction and exchange of user generated content…
+
+The different social media channels have become an integral tool in the response of official authorities and the general public to emergency situations.”
+
+Aug. 25, 2014 - Tomer Simon, MPH
+Avishay Goldberg, PhD
+Limor Aharonson-Daniel, PhD
+Dmitry Leykin, MA
+Bruria Adini, PhD
+
+Pro 9
+<USER>

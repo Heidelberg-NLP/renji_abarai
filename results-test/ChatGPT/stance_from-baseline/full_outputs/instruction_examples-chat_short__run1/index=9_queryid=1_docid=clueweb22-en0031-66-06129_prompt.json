@@ -1,0 +1,94 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should teachers get tenure?
+Text: Tenure Skip to main content
+Full Menu
+
+Tenure
+
+Gaining tenure is an important milestone. Having tenure means you can’t be terminated without due process and you’re entitled to a hearing if the Department of Education takes disciplinary action.
+
+Under New York State law, public school teachers must serve a probationary period of four years and a day from the date of their appointment. Upon completion of their probationary period, teachers are granted tenure. Tenure isn't automatically granted. To be granted tenure, you must:
+
+  • Be on track to complete all your state certification and city licensing requirements;
+  • Be on track to receive professional certification
+  • file an application;
+  • have a record of acceptable service during your probationary period; and
+  • be recommended for tenure by your principal.
+
+Your tenure becomes permanent only after you complete all your certification requirements.
+
+There are many steps you can take to prepare for your tenure decision.
+
+  • Know your tenure date. To find it, check with your payroll secretary, your principal or the HR director at your borough office. You may also verify your tenure status by requesting a Comprehensive Employment Verification Report. You’ll want to be proactive in meeting with your principal in advance of your tenure decision to review your work.
+  • Confirm your license code matches the subject and level in which you are teaching. In New York City, tenure is granted in your license appointment area, and those pieces of information must match.
+
+The Tenure Decision-Making Framework encourages principals and superintendents to review multiple measures of teacher effectiveness across three categories:
+
+  • Student learning focuses on evidence of student growth as determined by New York State Standards.
+  • Teacher practice focuses on teacher planning and preparation, classroom environment, instruction and professional responsibilities.
+  • Professionalism focuses on professional growth and reflection, collaboration and engagement with the school community, communication with families, management of non-instructional responsibilities and general professional conduct.
+
+There are many ways you can organize this information. Some teachers choose to build tenure portfolios using binders organized into subsections where they store lesson plans, student work and assessments, observation reports, certificates from professional learning activities and other records.
+
+Other teachers recommend digital record-keeping, using online resources to organize files. Dropbox, Google Drive or iCloud are all services you can use to store your work.
+
+If you are up for tenure and your principal asks you to agree to extend your probationary period, you should contact your chapter leader or a UFT representative to help ensure that your rights are protected.
+
+There are two ways to reduce your probationary period:
+
+  • If you worked as a regular substitute in the same license and at the same school level, you can reduce the normal probationary period by up to two years. This is called Jarema Credit, and you should apply if you think you are eligible. The application form is online.
+  • Another way to reduce your probationary period is called “traveling tenure.” If you received tenure from the DOE in one license area and elect to take an appointment in a new license area, you should apply to have your probationary period reduced by one year.
+
+If you think you are eligible for either of these options, or have any questions, please contact the UFT at 212-331-6311. The UFT offers tenure workshops in its borough offices. Check the UFT events calendar for details.
+
+What is tenure?
+Under New York State law, appointed teachers achieve tenure after completing a probationary period (usually four years) and fulfilling all the requirements for the professional certificate. In New York City, tenure is granted in your license appointment area. Having tenure means you may not be disciplined or terminated without due process for reasons other than failure to complete the requirements for your professional certificate. As a tenured teacher, you have the right to a hearing before an independent arbitrator regarding any charges brought against you. This due process right protects you from being fired for personal, arbitrary or political reasons.
+How do I achieve tenure?
+The process for determining whether or not you will get tenure is rigorous, and tenure is not automatic at the end of the probationary period. You must: 1) complete all your state certification and city licensing requirements; 2)file an application and receive professional certification (although you can be tenured while holding an initial certificate, you can be terminated without the right to due process for failure to complete the requirements for the professional certificate in the same license area); 3) have a record of acceptable service during your probationary period; and 4) be recommended for tenure by your principal.
+Will I receive tenure if I resign my DOE teaching position after my fourth year of teaching?
+You must work one day past your probation completion date. If you finish your fourth year at the end of June, you must return for at least part of the following year to receive tenure. Your probation is not complete until the first day of school the following year. You maintain that tenure as long as there is no gap in your state certification following a subsequent return to service if you resign.
+What is traveling tenure?
+
+Traveling tenure may reduce your probationary period. If you received tenure from the DOE in one license area and elect to take an appointment in a new license area, your probationary period will be reduced by one year. If you are eligible, contact your UFT borough office for more information. 
+
+What is Jarema credit? How may I apply for it?
+
+You may receive credit to reduce your probationary time if you worked as a regular substitute or as an appointed teacher in t
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C362cflRniY1M1PuK6HBrcdvZfmM",
+  "object": "chat.completion",
+  "created": 1683106194,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2661,
+    "completion_tokens": 21,
+    "total_tokens": 2682
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be informative rather than an argument, therefore no argument quality can be assigned to it."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

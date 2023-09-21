@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C36LRNsLOaOHHeWudHWIPVEfZj4F",
+  "object": "chat.completion",
+  "created": 1683106213,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2643,
+    "completion_tokens": 34,
+    "total_tokens": 2677
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text is well-written with proper sentence structure and easy to follow, and there are no profanity or typos. Therefore, I would categorize it as high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

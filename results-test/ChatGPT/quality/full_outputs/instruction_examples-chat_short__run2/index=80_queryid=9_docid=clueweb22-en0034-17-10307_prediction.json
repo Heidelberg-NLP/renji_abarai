@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ayrvhjToPzQAGYWi6yqQwYPRep",
+  "object": "chat.completion",
+  "created": 1683104268,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1419,
+    "completion_tokens": 26,
+    "total_tokens": 1445
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, there is no clear rhetorical argument in this text and the last part seems to be a technical issue regarding spam."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

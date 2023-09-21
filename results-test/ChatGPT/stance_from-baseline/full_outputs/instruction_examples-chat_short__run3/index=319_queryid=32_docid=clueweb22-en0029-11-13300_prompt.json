@@ -1,0 +1,128 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do electronic voting machines improve the voting process?
+Text: What are the risks of electronic voting
+
+The idea of electronic voting has gained significant ground in the past few years, but it’s far more complex than it appears at first. This article will delve into the different types of electronic voting and the various security challenges that surround them.
+
+We will cover types of voting that involve electronic systems in any way, known as e-voting, as well as i-voting, which refers to voting online.
+
+Before we jump in, it’s important to understand some of the background on voting systems, what we require from them, and why security is so important.
+
+What do we want from our voting systems?
+
+A useful voting system needs to balance out a range of key features. Security is definitely one of the most critical factors, because we want to prevent any adversaries or self-interested parties from being able to manipulate the results.
+
+We also want to ensure that the counted votes are authentic. Otherwise, the result won’t be fair and democratic.
+
+Despite how crucial security is to the voting process, it still needs to be balanced out with other requirements. For the final vote count to accurately represent the will of the people, the other properties that need to be considered in voting systems are:
+
+  • Accuracy – We want the final vote count to accurately represent the choices of the people.
+  • Verifiability – It’s important to be able to check the accuracy of the vote and determine whether an election has been tampered with. If any manipulation is found, a new election can be conducted.
+  • Anonymity – The need for anonymity in voting is complex, because we don’t want anonymity in all aspects. We need to be able to verify who is voting in order to prevent people from voting multiple times or committing other types of fraud. However, we want the votes themselves to be anonymous. If the government, opposing party, or anyone else could find out who an individual voted for, it may lead to intimidation or coercion. This would compromise the integrity of the vote.
+  • Accessibility – Accessibility needs to take all voters into account. It would be great to allow everyone to vote from the comfort of their own homes to make the process easier. At the same time, we don’t want a system that is too technical and makes it difficult for some segments of the population to vote.
+  • Speed – It’s best if we can receive the results in a relatively short period of time. If it took a year to calculate the final vote tally, the will of the people at the time of the results may be very different from what it was at the time when the votes were cast.
+  • Cost-effectiveness – We could have the most secure or accurate system in the world, but if it costs 10 times a nation’s GDP to implement, it wouldn’t be practical.
+
+One of the main issues is that many of these properties compete against each other. If you make the system excessively secure, it may also be too hard to use for most of the population. You could also build a system that is incredibly fast but has a high error rate. This would also be useless.
+
+The main ideas that we will be focusing on are security, verification, and anonymity. One of the largest complications is that an anonymous vote makes it very difficult to verify whether the result is accurate or if there has been a security compromise.
+
+The easiest way to verify whether an election was tampered with would be to keep a database of everyone’s votes so that they can look up their name and see whether their vote was recorded accurately.
+
+Unfortunately, such a system would not be anonymous and could lead to coercion. The challenge of verifying the vote while also maintaining anonymity is one of the key stumbling blocks involved in electronic voting.
+
+There’s a lot at stake in elections
+
+Another major consideration is just how valuable elections are. The GDP of the US for 2019 was estimated at $21 trillion by the IMF. It’s a value so large that it’s beyond most people’s comprehension. To give you a vague idea, it’s enough to buy Apple 21 times.
+
+The winner of an election has a significant influence over the future of a country, its alliances, its trade, its taxes and its regulations. When you consider the amount of money and power at stake, this is a pretty big deal for other nations, major businesses and other interest groups.
+
+Foreign actors have been trying to influence the outcomes of elections in their favor for a very long time. This became extremely evident in 2016, with Russia’s multi-pronged campaign to disrupt the US elections and sow discord among the US population.
+
+This included targeted propaganda campaigns through social media platforms such as Facebook, hacking into political databases and strategically releasing the information, as well as attacks on voter databases and electronic voting machines themselves.
+
+If we can secure banks, surely we can secure the vote, right?
+
+A common argument for electronic voting is “If we can secure online banking, then we should be able to make online voting secure.” There are a few issues with statements like this. If we are looking at it from a personal perspective, most people’s bank accounts simply aren’t worth enough to justify attacking them.
+
+It would be irresponsible to use the same level of security to protect the few thousand dollars in an individual’s bank account and for an election that is worth trillions. Even if there wasn’t such a huge difference, accounts are hardly as safe as people think. Criminals are constantly coming up with ways to drain people’s bank accounts.
+
+If we level things up and talk about corporate banks and other major transactions between financial institutions, these aren’t overly safe either. The Carbanak cybergang is alleged to have stolen up to $1 billion by targeting these transactions.
+
+You would be right in saying that the majority of times, the security systems in place for these banks are effective and everything runs smoothly. The occasional large-scale attack may be covered by insurance or treated as a cost of business in exchange for the efficiencies that come with using online systems.
+
+When it comes to elections, the problem is that you can’t really insure them. Can a country afford to have its election manipulated by enemies? What if an election was compromised and the people never found out?
+
+Given just how valuable an election can be, and the proven desire that other nations have to influence them in their own favor, we have to recognize just how significant the threat to our democracies is. This is why our election systems need such high security standards in place.
+
+What is electronic voting?
+
+When we talk about electronic voting, it’s important to know what we are actually referring to. There are two types, e-voting and i-voting, each of which can be implemented in a range of ways. These variations have their own unique advantages and complications.
+
+E-voting
+
+electronic-voting-2
+
+An e-voting machine. Tally Voting by 34esmond licensed under CC0
+
+E-voting still takes place at central polling locations, with observers overlooking the process. The difference between e-voting and paper voting is that e-voting involves using technology in any of the following processes:
+
+  • Ballot casting – E-voting systems may use technology for casting the vote itself. They can include direct-recording electronic (DRE) voting machines, which have touchscreens or other interfaces that voters can cast their ballots on.
+  • Tabulation – A paper-based voting system can also be considered e-voting if machines are used in the counting process. Systems that involve punch cards or coloring in a box can be termed e-voting if they use machines such as optical scanners to count the votes.
+  • Transmission – It can also be considered e-voting if paper-based votes are used alongside human counting, but the results of polling stations are sent via the internet or other networks to the central tallying location.
+
+I-voting
+
+Remote e-voting, also known as i-voting, uses the internet to allow people to vote from essentially anywhere. It can be done with computers, smartphones and other devices. It’s probably what most people think of when they hear the term electronic voting.
+
+I-voting has the most appeal, because participants don’t have to leave their home to vote. One of the main downsides is that many key processes occur away from the eyes of human observers, so it can be impossible to know whether or not a vote has been manipulated.
+
+What are the security issues involved in e-voting?
+
+When e-voting is involved in the ballot casting process, it generally involves systems such as direct-recording electronic (DRE) voting machines. These systems typically have a touchscreen display or some buttons that voters can use to choose their preference.
+
+When a person votes through the interface, their choice is recorded directly on the machine. When the election finishes, the machines total their votes and then store them on removable memory cards and as printouts. The results are then transferred to a central counting location either physically or over a local network.
+
+There are a number of benefits to these systems. The main ones are that they speed up the vote counting process, they make it easier for those with disabilities to vote, they can make the election process cheaper in the long run, and they can help to reduce waste. These machines also eliminate the ambiguity of paper ballots that have been marked improperly.
+
+Despite this, they come with a number of different issues. The most significant one is how can we know whether the final result is an accurate representation of the votes that were cast?
+
+There is a common maxim in the computer security world that you can only trust software that you programmed yourself. Since most people aren’t programmers, how can the population trust these systems?
+<USER>

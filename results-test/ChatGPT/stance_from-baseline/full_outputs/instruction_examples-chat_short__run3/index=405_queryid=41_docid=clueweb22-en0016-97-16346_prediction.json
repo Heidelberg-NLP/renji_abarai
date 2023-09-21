@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W4FLWXTv7m7uqIcX2mnKbWLSgNGb",
+  "object": "chat.completion",
+  "created": 1687877175,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text is not related to the query, and hence the answer cannot be determined. Therefore, the label should be \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2755,
+    "completion_tokens": 27,
+    "total_tokens": 2782
+  }
+}

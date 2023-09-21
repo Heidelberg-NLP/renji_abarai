@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ZpWBFor7yd8uFXc9M32Ns4vMZn",
+  "object": "chat.completion",
+  "created": 1683104197,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 62,
+    "total_tokens": 2101
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Based on the given text, the argument quality is low. The text lacks a clear and structured argument for whether insider trading is ethical or not. The text provides various opinions without much reasoning or supporting evidence to back up the claims. Therefore, it is difficult to identify a proper rhetorical argument quality in this text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzIfZNthvxFAOzCVogm922avXhdh",
+  "object": "chat.completion",
+  "created": 1687858161,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The Yes points argue that same-sex marriage should be legal due to minority discrimination, importance of government, serving the state, and inadequacy of alternative categories. They also argue that not legalizing it reinforces negative stereotypes and discourages people from their identity. On the other hand, the No points argue that forcing change in liberal democracies is itself illiberal, moral and legal pluralism in relation to same-sex marriage is acceptable, and it creates a social backlash that damages substantive equality for homosexuals. They also argue that the exclusive nature of marriage is fine, and aggressive policies may retard gradual social change. Overall, the argument is of a high rhetorical quality with strong points from both sides."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2725,
+    "completion_tokens": 138,
+    "total_tokens": 2863
+  }
+}

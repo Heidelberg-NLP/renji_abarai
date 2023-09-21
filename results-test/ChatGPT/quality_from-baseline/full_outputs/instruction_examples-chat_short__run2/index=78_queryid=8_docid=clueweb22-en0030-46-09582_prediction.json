@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0i9G94FR5Yr9rCiiH59GHeWb9Th",
+  "object": "chat.completion",
+  "created": 1687863585,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but I cannot provide a rhetorical argument quality prediction as there is no argumentative content in this text. This text simply presents two opposing views on the topic of abortion without presenting an argument."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2495,
+    "completion_tokens": 41,
+    "total_tokens": 2536
+  }
+}

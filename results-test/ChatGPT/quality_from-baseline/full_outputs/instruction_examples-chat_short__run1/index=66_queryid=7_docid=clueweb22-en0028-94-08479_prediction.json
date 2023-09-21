@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz2rZ8KWwIHgqwjrLfsVGQ9Zze6C",
+  "object": "chat.completion",
+  "created": 1687857181,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to report facts about a change in Florida law that allows convicted felons to vote in the upcoming presidential election after completing their sentences. It provides background information and quotes from a pastor who voted for the first time in 42 years. It also mentions a legal dispute over the requirement to pay legal financial obligations before being allowed to vote and the challenges that some convicted felons face to obtain accurate information on what they owe. The text seems neutrally written and does not express a clear rhetorical argument, therefore, it has no quality label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1621,
+    "completion_tokens": 109,
+    "total_tokens": 1730
+  }
+}

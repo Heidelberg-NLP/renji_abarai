@@ -1,0 +1,117 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: The 16th Amendment: A Historical Guide of the U.S. Federal Income Tax
+  • Home |
+  • The 16th Amendment: A Historical Guide of the U.S. Federal Income Tax
+
+The 16th Amendment: How the U.S. Federal Income Tax Became D.C.'s Favorite Political Weapon
+
+You're free to republish or share any of our articles (either in part or in full), which are licensed under a Creative Commons Attribution 4.0 International License. Our only requirement is that you give Ammo.com appropriate credit by linking to the original article. Spread the word; knowledge is power!
+
+The 16th Amendment: How the U.S. Federal Income Tax Went From Temporary to Political WeaponThe American Revolution was sparked in part by unjust taxation. After all, the colonists in Boston rebelled against Britain for imposing “taxation without representation,” and summarily tossed English tea into the harbor in protest in 1773.
+
+Nowadays Americans collectively spend more than 6 billion hours each year filling out tax forms, keeping records, and learning new tax rules according to the Office of Management and Budget. Complying with the byzantine U.S. tax code is estimated to cost the American economy hundreds of billions of dollars annually – time and money that could otherwise be used for more productive activities like entrepreneurship and investment, or just more family and leisure time.
+
+The majority of these six billion hours sacrificed by Americans to Washington each year goes to complying with a tax that didn’t even exist until 100 years ago – the federal income tax.
+
+Worse still, this tax has become a political weapon for Washington to incentivize certain activities (home ownership, charitable giving, etc.) and to punish others. It’s a tax that follows Americans wherever they go in the world, and it’s one that was originally sold to the American people by President Woodrow Wilson as a means of “soaking the rich” during the so-called Gilded Age.
+
+How did a country that was founded on the concept of limited government come to embrace such a draconian policy? And what does it say about Washington that tax reform has become synonymous with class warfare and corporate lobbyists?
+
+Read on to learn the history of the 16th Amendment – which authorized the federal collection of an income tax – and how that power has ultimately meant the growth of Washington at the expense of just about everyone else.
+
+Early Attempts to Implement an Income Tax
+
+Related Podcast
+
+Or listen on your favorite app:
+
+Could you imagine a time in the U.S. when roads were being paved, there was zero national debt, and the federal government was completely operational – all without income taxes? This may sound like a Libertarian fantasy, but it’s actually an image of the America of yesteryear. Before the advent of the income tax, the U.S. government relied exclusively on tariffs and user fees to finance operations.
+
+Unsurprisingly, operations were much smaller compared with today’s extravagant government programs like welfare, social security, and subsidies. But even though spending was more conservative during the Republic’s early years, certain political events motivated the government to consider more direct ways of reaching into the pockets of its citizens.
+
+One of these political events was the War of 1812. This war may have inspired Francis Scott Key to write "The Star-Spangled Banner" as he famously watched the rockets red glare over Fort McHenry, but it was also straining our fiscal resources and the war effort needed to be financed.
+
+Enter the idea of a progressive income tax – based on the British Tax Act of 1798 (which should have been our first warning). Fortunately for the time, the War of 1812 came to a close in 1815, and the discussion of enacting an income tax was tabled for the next few decades.
+
+Ever so stubborn, progressive individuals were hell-bent on enacting income taxes, and they eventually found a way to do this at a local and state level. In time, they would reignite a new movement for the adoption of the federal income tax.
+
+State Versions of the Income Tax
+
+The 16th Amendment: How the U.S. Federal Income Tax Went From Temporary to Political WeaponWith state governments increasingly embarking on public infrastructure projects and introducing compulsory public education, the money for these programs had to come from somewhere. For the income tax advocates whose hopes were dashed during the War of 1812, state income taxes served as a consolation prize. In turn, income tax supporters immediately got to work and started to chip away at state legislatures.
+
+In the mid-19th century, the fruits of the income tax crowd’s labor began to pay off as several states got the ball rolling. Some of these states included:
+
+Slow but sure, income taxes started to make their way from one state legislature to the next. But once the 1860s arrived, income taxes got a tremendous push from one of the most destructive and pivotal events in U.S. history.
+
+Did the income tax supporters finally get their wish?
+
+The Civil War’s Boost for a Federal Income Tax
+
+To say the U.S. was divided during the 1860s would be an understatement.
+
+Ripped apart at the seams by a bloody Civil War (1861-1865), the Union government was desperate for funds to finance its ambitious quest to restore order to the beleaguered nation. Like the War of 1812, proposals for income tax were on the menu. Unlike the preceding war period, however, the U.S. was able to successfully enact an income tax.
+
+Abraham Lincoln signed the Revenue Act of 1861 as a means to finance the expensive war effort. This was followed up with other measures like the Revenue Act of 1862 and Revenue Act of 1864, which created the nation’s first progressive income tax system and the precursor to the Internal Revenue Service (IRS).
+
+What seemed like a monumental victory for income tax supporters who hoped for a long-lasting income tax system would vanish into the ether once the Civil War ended. No longer needing a massive army to put down rebels and stitch the country back together, the U.S. government let Civil War era income taxes expire once Reconstruction was in full swing. The pro-income tax crowd would have to reassess its tactics and look at other avenues for political change.
+
+The American People Push Back
+
+The 16th Amendment: How the U.S. Federal Income Tax Went From Temporary to Political WeaponHow did the U.S. government go from embracing massive government expansions during the Civil War to later reverting back to its Constitutional roots of limited government during the next decade? Was it benevolent politicians who, in an act of political kindness, decided to hit the reset button and give Americans their cherished rights back? Or was there something else at play?
+
+Upon further inspection, there is reason to believe that taxes in the 19th century tended to be temporary in nature given the American people’s ideological propensities. Most people were still skeptical of government overreach, especially during the Civil War – a time where habeas corpus was suspended, and the first income tax was implemented. Shell-shocked from a horrific experience that laid waste to countless urban centers and left hundreds of thousands of Americans dead, the American populace wanted a return to normalcy. And that meant scaling back government as much as possible.
+
+Even Henry Ward Beecher, the brother of the famous author Harriet Beecher Stowe, was skeptical of the Radical Republicans’ zealous plans to grow government during the Reconstruction period. Historian Tom Woods in The Politically Incorrect Guide to American History exposed Beecher’s thoughts on the matter:
+
+"The federal government is unfit to exercise minor police and local government, and will inevitably blunder when it attempts it...To oblige the central authority to govern half the territory of the Union by federal civil officers and by the army, is a policy not only uncongenial to our ideas and principles, but pre-eminently dangerous to the spirit of our government.”
+
+Many Americans would agree with Stowe’s assessment – above all, members of Congress who sought to reassert Congressional dominance throughout the rest of the 19th century. But with the arrival of the Progressive Era, the rules of the political game began to change. Soon, ideas of expansive government, which were routinely scoffed at by intellectuals, politicians, and the American population at large throughout the first half of the 19th century, made a fierce comeback during the latter half of the 19th century.
+
+This time around, these ideas began to have considerable staying power.
+
+The Income Tax: A Child of the Progressive Era
+
+Decades of legislative pressure and constant hand-wringing finally began to pay off for income tax supporters.The arrival of the Progressive Era was like Christmas for political figures in favor of an activist state. This was a time when reformers actively pushed for an energetic government to solve all of society’s ills, most notably poverty and income inequality.
+
+Although they were shut out from the federal government throughout the Gilded Age, Progressives focused their attention on local and state races. Additionally, academia became more receptive to the technocratic message of Progressivism, as numerous academics like John Dewey gained prominence during this period and made progressive ideas popular in the Ivory Tower circles.
+
+Many will scoff and think that Ivory Tower ideas have no impact in changing, that these ideas are simply too dense and inaccessible to the masses. However, free market economists like Nobel laureate F.A. Hayek understood the indispensable role ideas play in politics. In his work, The Intellectuals and Socialism, Hayek argued that when certain ideas promoting activist government become prominent among the academia and general culture, they eventually consume the political class whole.
+<USER>

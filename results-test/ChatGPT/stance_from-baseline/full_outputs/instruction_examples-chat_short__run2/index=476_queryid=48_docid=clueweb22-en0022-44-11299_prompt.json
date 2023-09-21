@@ -1,0 +1,83 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the voting age be lowered?
+Text: Should The Voting Age Be Lowered To 16?
+
+In April 2018, Greens Senator Jordan Steele-John announced that he would introduce a Bill that would allow 16 and 17-year-olds to vote if they wished to do so.  Numerous other countries, including Brazil and Austria, have 16 as the minimum age to vote. The question of whether the Australian voting age should be lowered to 16 has received intermittent attention over the years.
+
+The right to vote is governed by the Commonwealth Electoral Act. Section 93 of that act sets out who is entitled to vote in Australia. Broadly, the section states that you are entitled to vote once you have turned 18 and provided you are an Australian citizen. It also sets out various circumstances in which a person can be excluded from voting.
+
+Why lower the voting age?
+
+Proponents of lowering the voting age argue that 16 and 17-year-olds should have the right to vote in elections which effect their lives and futures. These voices point out that by the age of sixteen, a person can drive, be employed (and therefore pay tax), get married and join the military. Some young people by the age of 16 or 17 are working full time and are financially independent. Furthermore, people in this age group have been increasingly outspoken about political issues and have even taken on leadership roles in fights for law reform. The youth-led gun law reform movement in the United States and the high level of engagement of teenagers in the Same Sex Marriage debate are two recent examples of this. Supporters of lowering the voting age also argue that such a change would encourage more young people to take an interest and be involved in politics.
+
+Opponents of the move claim that young people aged 16 and 17 are not mature enough to exercise voting rights and lack life experience and an understanding of the civic process.
+
+Senator Steele-John, who at 23 is the youngest person ever to hold a seat in the Senate, explained the basis for the Bill, saying it is ‘an exciting chance to reinvigorate the way we teach civics education by bringing democratic participation into the classroom in a whole new way.’
+
+Under the proposed law, voting would be voluntary for 16 and 17-year-olds, with no penalty if they choose not to vote.
+
+Previous attempts to lower the voting age
+
+In 2015, ALP leader Bill Shorten called for the voting age to be lowered to 16, arguing that young people were not represented by Parliament and should be allowed a voice in decisions that are going to shape their futures.
+
+A New Zealand senator proposed a similar bill in 2008, but this was abandoned for lack of support. Calls for such a  change in New Zealand have resumed this year, with the Children’s Commissioner among others to claim that children’s voices need to be heard and that a lower voting age would be likely to lead to improved policies concerning young people.
+
+Voting ages around the world
+
+The majority of countries worldwide have 18 as the minimum ages for voting.  However, a significant minority of countries have a voting age of 16, while others have the age set at 17, 19, 20 or 21. Interestingly, Iran has twice lowered its voting age to 15, but then reverted to a voting age of 18.
+
+Who else is excluded from voting?
+
+Under the Commonwealth Electoral Act, there are several situations in which a person is rendered temporarily or permanently ineligible to vote.
+
+A person serving a sentence of imprisonment of three years or more is not entitled to vote during the period they are serving that sentence (Section 93(8)AA). However, prisoners who are serving a sentence of less than three years are entitled to vote and can do so by postal vote.
+
+If a person is found guilty of treason or treachery he or she is made permanently ineligible to vote (Section 93(8))
+
+A person can be found to be ineligible to vote if they are of unsound mind and therefore incapable of understanding the nature and significance of voting (Section 93(8)(a)).
+
+If you believe that a person is ineligible to vote for any of the above reasons, you can lodge an Objection claim that an elector should not be enrolled with the Australian Electoral Commission.
+
+Failure to vote
+
+Voting is compulsory for Australians aged 18 and over (Section 245). However, this is only enforceable once a person is enrolled to vote. Failing to vote, once you are on the electoral roll, is an offence punishable by a fine of one penalty unit (currently $210) in a Federal election. Penalties for failing to vote in state and local government elections are governed by state electoral acts and vary from $55.00 in New South Wales to $126.00 in Queensland.
+
+Failing to vote results in the issue of a Failure to Vote Notice. This gives you the opportunity to explain your reason for failing to vote. In the event you do not have a reasonable explanation for not voting, or if you do not respond to the notice, an Infringement is issued. Failure to pay can lead to a criminal conviction.
+<USER>

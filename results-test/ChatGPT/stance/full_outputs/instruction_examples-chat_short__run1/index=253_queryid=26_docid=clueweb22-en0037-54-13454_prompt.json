@@ -1,0 +1,155 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: standardize test improve education
+Text: Back to Top Skip to main content Skip to sub-navigation
+
+San Antonio Market to Standardize, Optimize Local Healthcare
+
+Image of Military personnel unveiling flags. Click to open a larger version of the image. Army Lt. Gen. Ronald J. Place, director of the Defense Health Agency, unfurls the DHA flag as Air Force Brig. Gen. Jeannine M. Ryder, 59th Medical Wing commander and San Antonio Market director, unveils the new San Antonio Market flag during the market establishment ceremony at Brooke Army Medical Center, Fort Sam Houston, Texas, July 16, 2021. Army Command Sgt. Maj. Michael L. Gragg, Defense Health Agency senior enlisted leader, and Air Force Chief Master Sgt. Marc Schoellkopf assist in unveiling the flags. (U.S. Army photo by Jason W. Edwards)
+
+Recommended Content:
+
+Military Health System Transformation | DHA Health Care Market Structure | Direct Reporting Markets | Multi-Service Markets: Our Pathway to the Health Care Market Structure
+
+After years of collaboration, San Antonio’s military treatment facilities officially unified as a market with the Defense Health Agency during a ceremony at Brooke Army Medical Center at Joint Base San Antonio, Fort Sam Houston, Texas.
+
+The newly designated San Antonio Market will work together to optimize personnel and resources and improve access to care for more than 250,000 military beneficiaries across the region, explained Army Lt. Gen. Ronald Place, DHA director.
+
+"The San Antonio Market has always been one of the largest and most influential multi-service markets in the Military Health System," said Place during the ceremony. "For decades, the men and women of the San Antonio Market have been leaders in showing the rest of the Military Health System what effective joint operations can look like."
+
+The San Antonio Market is sprawled across the region, encompassing Brooke Army Medical Center, Wilford Hall Ambulatory Surgical Center, 10 stand-alone military treatment facilities, and more than 100 specialty services - staffed by about 11,000 Army, Navy, Air Force, civilian and contract personnel.
+
+As the Department of Defense's only Level I Trauma Center, the market partners with the community's trauma system to administer critical care to civilian emergency patients across 22 counties in Southwest Texas. Additionally, all military medical enlisted forces train at the Medical Education Training Campus on Fort Sam Houston.
+
+"The San Antonio Market is a big deal," said Place, also citing the market's cutting-edge research, clinical and specialty care. "It's a diverse military community with profound responsibility for our nation's defense; a community that's proud of its tradition in delivering the full spectrum of services our forces demand."
+
+While formally established on Friday, July 16, the market has been fostering cooperative efforts for nearly a decade as an enhanced multi-service market, or eMSM, noted Air Force Brig. Gen. Jeannine Ryder, San Antonio Market director and commander, 59th Medical Wing. As an eMSM, the 59th Medical Wing and Brooke Army Medical Center, a flagship of military medicine, have collaborated to deliver safe, quality health care to more than 250,000 beneficiaries since 2013.
+
+"There is no doubt we are better together," she said. "I cannot express the pride I feel, being part of an outstanding and cohesive market team working toward the purpose of unified effort for an integrated health system."
+
+The market's cooperative efforts have never been more apparent than over the past 18 months, Ryder noted.
+
+"Faced with a global public health crisis, we seamlessly worked together and alongside our military and community partners to combat the pandemic through patient care, diagnostic testing, vaccinations, research efforts and more," she said. "The initiatives were here in San Antonio as well as across the nation...our medics met the call when needed."
+
+Ryder also thanked all of the market's community partners for their support. The San Antonio market has always benefited from a strong relationship with our community partners," she said.
+
+Moving forward as a market, "we will leverage the best of our capabilities and expertise to optimize the continuity, standardization and access to care for our patients ... because they deserve nothing less," she said.
+
+Place agreed. "This is why we standardize and integrate our health services - to improve the care we provide, and to be prepared to provide it in combat," he said. "As our beneficiaries seek care throughout this community, they'll see more and more common processes, a common health record, and a simplified means to access care; whether that's in a military or civilian setting."
+
+The San Antonio Market is the seventh market to stand up over the past year. DHA assumed administration and management responsibilities of military hospitals and clinics from the Army, Navy and Air Force on Oct. 1, 2019. Since then, these facilities have gradually transitioned from being supported by the military medical departments to the DHA through the stand up of medical markets.
+
+"The collaboration you demonstrated to get to this moment was extraordinary and not a 'given,'" Place said. "Today is an acknowledgement of this team; line leaders, medical leaders, staff, our federal colleagues and private sector partners; and the commitment they made to the health of the military community."
+
+"As a market, we look forward to expanding on our partnerships with a common goal in mind: providing the highest quality and continuity of care for our military and civilian patients," said Army Col. Michael Wirt, BAMC commander.
+
+You also may be interested in...
+
+MHS GENESIS: Commanders Say Electronic Health Records Foster Improved Care
+
+Article
+4/20/2022
+An Army soldier and patient actor sports a mock impalement while providing simulated medical information to test out a new electronic medical record system designed to virtually document medical encounters in the field. The mock scenario was part of the U.S. Navy’s Rim of the Pacific exercise in 2018. (Photo: Ana Allen, U.S. Army)
+
+MHS GENESIS improves health care for military beneficiaries across the enterprise.
+
+Recommended Content:
+
+Military Health System Transformation | Electronic Health Record: MHS GENESIS
+
+MHS GENESIS Now Deployed at 66 of 138 Military Hospital and Clinic Commands
+
+Article
+4/8/2022
+Air Force Col. Dolphis Hall, 4th Medical Group commander, left, and Chief Master Sgt. Kaleah Belin, 4th MDG senior enlisted leader, pose for a photo at the Thomas Koritz Medical Clinic at Seymour Johnson Air Force Base, North Carolina, March 19, 2022. (Photo: Air Force Senior Airman Kimberly Barrera)
+
+MHS GENESIS is now live at Waves Bragg and Wave Hood.
+
+Recommended Content:
+
+Electronic Health Record: MHS GENESIS | Military Health System Transformation | MHS GENESIS
+
+The New Public Health Director Talks about His Goals for Force Readiness
+
+Article
+4/5/2022
+Rear Admiral Brandon Taylor of the U.S. Public Health Service Commissioned Corps in dress whites at the 2019 National Independence Day Parade where he represented the U.S. Surgeon General as a presiding official with the other services. Taylor was named in February as the new director of the Defense Health Agency’s Public Health directorate. (Photo: Tanisha Blaise, Armed Forces Health Surveillance Division senior public relations and media specialist)
+
+Rear Adm. Brandon Taylor was recently appointed to be the new director for the Defense Health Agency’s Public Health directorate. In an interview, he discussed how he is approaching his new role, his goals for Public Health within DHA, and the importance of Public Health to a medically ready force and a ready medical force.
+
+Recommended Content:
+
+Public Health | Health Readiness | Military Health System Transformation
+
+Continuing Implementation for Reform of the Military Health System
+
+Policy
+
+This memorandum directs the continued implementation of the Military Health System organizational reform required by law, extending the authority, direction and control of all military hospitals and clinics not currently under Defense Health Agency authority to the DHA, to include military hospitals and clinics in overseas areas.
+
+BAMC Earns Re-Verification as Level I Trauma Center
+
+Article
+1/28/2022
+Trauma personnel receive an extracorporeal membrane oxygenation or ECMO patient into the Emergency Department at Brooke Army Medical Center, Joint Base San Antonio-Fort Sam Houston, Texas, Jan. 24, 2022. BAMC has been re-verified as a Level I Trauma Center by the American College of Surgeons for its dedication to providing optimal care for injured patients.
+
+Brooke Army Medical Center at Joint Base San Antonio-Fort Sam Houston in Texas has been re-verified as a Level I Trauma Center by the American College of Surgeons.
+
+Recommended Content:
+
+Direct Reporting Markets | Military Hospitals and Clinics | Ready Reliable Care
+
+How Standing Up Regional Markets is Improving Access to Health Care
+
+Article
+1/11/2022
+Air Force Maj. Megan George, a registered nurse assigned to the 633d Medical Group based at Joint Base Langley-Eustis, Virginia, retrieves medical supplies from a storeroom at Hennepin Healthcare in Minneapolis, Minnesota during COVID-19 response operations, Dec. 7. The DHA has seen early success in replacing deployed personnel in their assigned markets (Photo by Navy Petty Officer 2nd Class Michael H. Lehman).
+
+Modernizations set in motion in 2021 will optimize care and sharing of medical resources across services and the entire MHS, says U.S. Public Health Service Capt. Tracy Farrill.
+
+Recommended Content:
+
+Military Health System Transformation | DHA Health Care Market Structure | Electronic Health Record: MHS GENESIS | MHS GENESIS
+
+SSO Market Standup
+
+Photo
+12/20/2021
+SSO Market Standup
+<USER>

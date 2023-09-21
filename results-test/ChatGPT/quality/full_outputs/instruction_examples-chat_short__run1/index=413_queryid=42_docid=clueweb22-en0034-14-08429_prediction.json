@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJTsmOfpQ07xX3P7ZzCnL02LHAye",
+  "object": "chat.completion",
+  "created": 1682692520,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1572,
+    "completion_tokens": 121,
+    "total_tokens": 1693
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text is an emotional recount of the Blackhawks honoring Troy Murray on Hockey Fights Cancer Night, and highlights the team's frustration at not being able to win the game. It also contains quotes and reactions from players, such as Patrick Kane and Connor Murphy, who express their admiration for Murray and how they played the game for him. Finally, the text reports on the Blackhawks' performance during the game and how, despite their best efforts, they were unable to score any goals. Overall, the text reads as a tribute to Troy Murray and his battle with cancer, as well as a recap of the game."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

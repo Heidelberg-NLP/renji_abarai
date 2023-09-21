@@ -1,0 +1,157 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should student loan debt easier discharge bankruptcy
+Text: Can Your Debts Be Erased in Student Loan Bankruptcy? Yes, Here’s How | Student Loan Hero
+
+Can Your Debts Be Erased in Student Loan Bankruptcy? Yes, Here’s How
+
+ December 22, 2020
+How Student Loan Hero Gets Paid
+
+How Student Loan Hero Gets Paid
+
+Student Loan Hero is compensated by companies on this site and this compensation may impact how and where offers appear on this site (such as the order). Student Loan Hero does not include all lenders, savings products, or loan options available in the marketplace.
+
+Advertiser Disclosure
+
+Student Loan Hero Advertiser Disclosure
+
+Student Loan Hero is an advertising-supported comparison service. The site features products from our partners as well as institutions which are not advertising partners. While we make an effort to include the best deals available to the general public, we make no warranty that such information represents all available products.
+
+Editorial Note: The content of this article is based on the author’s opinions and recommendations alone. It may not have been reviewed, commissioned or otherwise endorsed by any of our network partners.
+
+student loan bankruptcy
+Logo
+
+We’ve got your back! Student Loan Hero is a completely free website 100% focused on helping student loan borrowers get the answers they need. Read more
+
+How do we make money? It’s actually pretty simple. If you choose to check out and become a customer of any of the loan providers featured on our site, we get compensated for sending you their way. This helps pay for our amazing staff of writers (many of which are paying back student loans of their own!).
+
+Bottom line: We’re here for you. So please learn all you can, email us with any questions, and feel free to visit or not visit any of the loan providers on our site. Read less
+
+Note that many student loan lenders and servicers are offering relief options during the coronavirus outbreak, so be sure to also check out our Student Loan Hero Coronavirus Information Center for additional information.
+
+*         *         *
+
+Can you file bankruptcy on student loans? Although it’s rarely an easy process, yes, it is possible to discharge either federal or private student loans in court, though you’d have to prove undue hardship to do so.
+
+About 4 out of 10 Americans who file for bankruptcy are able to have their student loans discharged, yet only 0.1% of student loan borrowers even attempt to, according to a study by the American Bankruptcy Law Journal.
+
+If you’re successful, your outstanding student loan debt may be partially or fully discharged. However, it doesn’t always work. Here’s what you need to know before filing bankruptcy on student loans:
+
+Can you file bankruptcy on student loans?
+
+Filing bankruptcy on student loans is possible, but you’ll have to go through a difficult process to do so. To discharge your student loan debt through bankruptcy, you have to prove that you can’t pay back your student loans without it having an extremely negative impact on you and your dependents.
+
+Courts are left with some room to interpret your eligibility. Most, but not all, federal courts of appeal evaluate hardship using a set of standards known as the Brunner Test, which was established as the result of a 1987 federal court ruling, Marie Brunner v. New York State Higher Education Services Corp.
+
+Can you file bankruptcy on student loans? First, can you pass the Brunner test?
+
+The factors of the Brunner test are outlined by the U.S. Department of Education’s Federal Student Aid office and include three main points:  
+
+  • You wouldn’t be able to maintain a basic standard of living if you had to pay back your federal student loans.
+  • You can prove that the hardship will last for a substantial portion of your repayment period.
+  • You honestly tried to repay your federal student loans before this point.
+
+Other courts, namely the 1st U.S. Circuit Court of Appeals and the 8th U.S. Circuit Court of Appeals, rely on a different standard, known as the “totality of circumstances,” which considers your past, present and future financial resources; reasonable living expenses; and other relevant factors related to bankruptcy proceedings.
+
+There has been some movement in Washington, D.C. to provide some clarity to the qualifications to discharge student debt through bankruptcy. Most recently, the House Judiciary Committee introduced the Consumer Bankruptcy Reform Act of 2020 that would replace Chapter 7 and Chapter 13 bankruptcy proceedings with a Chapter 10 that makes discharging student debt easier.
+
+For now, since it is up to each bankruptcy court to interpret the standards, the results can vary. Last spring, the Department of Education released a request for public comment on factors for evaluating undue hardship and whether the existence of two sets of standards results in inequality for borrowers seeking to discharge their student loan debt.
+
+In Congress, proposed legislation in 2018, H.R. 5549, or the Higher Ed Act, proposed expanding the definition of undue hardship, which would help more borrowers qualify for discharged or reduced student loan bills. Currently, it is up to courts to determine what qualifies for undue hardship and there is no federal standard.
+
+Proving undue hardship in student loan bankruptcy
+
+For now, the burden is on borrowers to establish their qualifications for undue hardship that satisfy the court they’re in front of. While it might seem easy to prove financial dire straits, that isn’t always the case, according to Michael Fuller, a bankruptcy attorney.
+
+“You have to be in a somewhat extreme situation,” Fuller said. “It is often people who are sick, people who are on disability or people who have an extreme financial situation that is not going to improve.”
+
+For instance, Fuller said he recently worked pro bono with a single mother of four kids who owed several hundred thousand dollars on student loans. While she was employed, the woman was unable to make payments on her loans. When filing bankruptcy on her student loans, Fuller was able to demonstrate the debt caused undue hardship for her and her dependents and had her outstanding loans discharged.
+
+How student loan bankruptcy discharge works
+
+  1. Understand your situation
+  2. Consider hiring a lawyer
+  3. File for an adversary proceeding
+  4. Decide which type of bankruptcy to file for
+  5. Get an outcome
+
+1. Understand your situation
+
+If you are determined to try to erase your student loan debt through bankruptcy, you’ll have to follow a very specific procedure. It is important to have all of your student loan records and personal financial paperwork in order. You need to be organized if you hope to successfully make your case.
+
+When it comes to filing bankruptcy on student loans, it doesn’t make a difference if your loans are federal or private. If you’re past due on your loans and you’ve missed payments, it will be easier to prove undue hardship.
+
+2. Consider hiring a lawyer
+
+While you don’t technically have to go through a lawyer when filing bankruptcy on student loans, bankruptcy can be an incredibly complex process. It requires determining which type of bankruptcy you’ll file for and submitting an extra lawsuit, called an adversary proceeding (more on that later). Going through it all alone could mean extra time, incorrect filings and, possibly, a lost case.
+
+However, one thing to consider is that hiring a student loan lawyer could actually hurt your chances for discharging your student loans in bankruptcy, according to Fuller. That’s because some judges may feel that if you can afford fees for an attorney, then you can afford to be paying back something on your loans, which would disqualify you from experiencing undue hardship.
+
+If you don’t know a lawyer, don’t worry. You can find one through the American Bar Association. You might be eligible for a lawyer at no cost to you (also known as pro bono) through the Legal Services Corporation, an independent nonprofit created by Congress that offers financial support for civil legal aid to low-income Americans. Just make sure you pick a lawyer that specializes in bankruptcy and has very good reviews.
+
+If you opt to handle your case yourself, a recent study by the American Bankruptcy Journal noted that debtors without a lawyer were just as likely to have their student loans discharged by a bankruptcy judge as those who worked with an attorney.
+
+3. File for an adversary proceeding
+
+Whether you hire a lawyer or go it alone, you’ll need to file for an adversary proceeding, which is a hearing to determine the possibility of discharging your student loan debt. You’ll have a hearing in bankruptcy court and your creditors are required to be present. At that hearing, you’ll need to provide evidence that you qualify for undue hardship standards.
+
+This is part of the process that is unique to bankruptcy and student loans. Note that you can’t proceed with a student loan bankruptcy without this step.
+
+4. Decide which type of bankruptcy to file for
+
+Next, on your own or with your lawyer, you’ll need to decide whether to file for Chapter 7 or Chapter 13 bankruptcy. Student loan bankruptcy can be addressed under either Chapter 7 or Chapter 13 bankruptcy, though it’s treated differently under the two categories.
+
+Below is a breakdown of some of the qualifications and how each type of bankruptcy treats student loan debt:
+
+Chapter 7 bankruptcy
+
+  • You must prove you have little disposable income available to pay off your debt.
+  • Most unsecured debt can get wiped out.
+  • Student loan debt may be eligible for discharge.
+  • The process can take about four months.
+
+Chapter 13 bankruptcy
+
+  • You have some income to use to repay some of your debts.
+  • Your debt will be restructured, and some of it will need to be repaid.
+  • Student loan debt may be eligible — but your repayment will be restructured, not discharged.
+  • The court process can last from two to six months, and the repayment plan can take three to five years.
+<USER>

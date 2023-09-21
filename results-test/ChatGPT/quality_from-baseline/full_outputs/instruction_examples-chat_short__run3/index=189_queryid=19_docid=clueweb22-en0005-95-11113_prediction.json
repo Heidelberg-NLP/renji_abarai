@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1LR0kxvhKCnxsEfysbzHPeuuOln",
+  "object": "chat.completion",
+  "created": 1687866021,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text contains arguments in favor of legalizing same-sex marriage and also arguments against it, therefore it presents a balanced perspective on the issue. The style of speech is clear and easy to follow, without the use of profanity or typos. Thus, I would classify it as medium."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2725,
+    "completion_tokens": 58,
+    "total_tokens": 2783
+  }
+}

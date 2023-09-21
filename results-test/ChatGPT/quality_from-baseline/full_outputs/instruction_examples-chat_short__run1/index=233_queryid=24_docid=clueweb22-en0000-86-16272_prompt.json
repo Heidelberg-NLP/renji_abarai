@@ -1,0 +1,109 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Tax Assured and Tax Gap for the Federal Personal Income Tax System - Canada.ca
+
+Tax Assured and Tax Gap for the Federal Personal Income Tax System
+
+This report is also available in PDF format (4507 KB).
+
+Executive Summary
+
+  • Acting on the Minister of National Revenue’s commitment to work to estimate the tax gap, in June 2016, the Canada Revenue Agency (CRA) released two reports: Tax Gap in Canada: A Conceptual Study, and Estimating and Analyzing the Tax Gap Related to the Goods and Services Tax/Harmonized Sales TaxFootnote 1.
+    • The first report examined key considerations for tax administrations undertaking tax gap estimation, outlined the approaches used by tax administrations in other countries, and discussed the advantages and limitations of tax gap estimation.
+    • The second report was prepared by the Department of Finance and examined the tax gap for Canada’s Goods and Services Tax/Harmonized Sales Tax (GST/HST). It estimated that on average, between 2000 and 2014, 5.6% of potential GST/HST revenues were foregone due to non-compliance.
+  • Building on these previous reports, this paper reviews the personal income tax system and provides an in-depth analysis of the level of compliance with Canada’s federal personal income tax laws using the concepts of tax assured and tax gap. Tax assured is a concept developed by the Organisation for Economic Co-operation and Development (OECD), which identifies portions of the tax base where the tax administrator has assurance of a low risk of non-compliance. The tax gap indicators presented in this report include the tax gap related to the non-payment of personal income taxes, and the gap resulting from unreported income earned in the domestic underground economy (UE).
+  • In reviewing the key systemic features of the personal income tax system, this paper finds that extensive third-party information reporting in combination with other features contribute to a tax base that is largely assured or at low risk of non-compliance with minimal direct CRA intervention. For the 2014 tax year, the report finds that 86% of income assessed, 74% of deductions reported and 83% of credits claimed were assured.
+  • These findings support CRA’s risk-based compliance strategy which aims to minimize compliance burden for the vast majority of taxpayers reporting correctly while dedicating valuable resources to high-risk areas.
+  • Using tax gap analysis, this report then estimates: 1) assessed taxes not collected by the CRA at about $2.2 billion for the 2014 tax year; and, 2) the contribution of domestic unreported income earned in certain key UE activities to federal tax loss at about $6.5 billion in the 2014 tax year. Combined, these tax gaps amount to $8.7 billion or 6.4% of personal income tax revenues in 2014.
+  • Of note, self-employment income is a completely non-assured income base, due to a near-complete lack of third-party reporting and a more complex reporting process. As well, the analysis in this paper suggests that self-employed individuals may contribute disproportionately to tax loss resulting from UE activity. While this does not mean that all self-employment income is reported inaccurately, it is at higher risk of reporting non-compliance, be it unintentional or intentional. Such findings have helped inform CRA outreach and the design of compliance efforts in this area of higher compliance risk.
+  • This report does not estimate the international component of the tax gap. The CRA is carefully studying the matter and is committed to producing a study on this issue in 2018.
+
+Introduction
+
+An effective personal income tax system depends on taxpayers reporting and paying the right amount of tax at the right time. While a significant majority of Canadians do meet this standard, some do not. Whether intentional or not, this non-compliant behaviour can lead to a tax gap.
+
+The tax gap represents the difference between the taxes that would be paid if all obligations were fully met in all instances, and the tax actually paid and collected. As a tool, tax gap estimates, combined with other data on non-compliant behaviour, can provide tax administrations and governments with valuable insights into the general health of the tax system and the levels of non-compliance with tax laws.
+
+Building on the research presented in previous reports, this paper will review the key characteristics of the personal income tax system and provide an in-depth analysis of the level of compliance with Canada’s federal personal income tax laws using the concepts of tax assured and tax gap.
+
+As discussed in the conceptual tax gap paper published in June 2016, direct tax gaps like income tax gaps are best measured using bottom‐up methodologies that rely on a tax administrator’s internal administrative data to estimate the amount of taxes theoretically owing. A statistically representative sub‐set of taxpayers is used to estimate non-compliance, usually through a random audit program, and the results are then extrapolated to the full taxpayer population to produce a tax gap estimate.
+
+While the CRA does have a random audit program to estimate non-compliance for small- and medium-sized businesses (both self-employed individuals and incorporated businesses), the CRA’s compliance strategy for personal income taxes does not include a comprehensive random audit program that covers the remainder of the individual population. Instead, the CRA applies a risk-based approach to compliance efforts, audits and review processes, and dedicates resources to targeted audits where the risk of non-compliance is greater. This approach helps to minimize the compliance burden on taxpayers, while ensuring a high degree of compliance.
+
+In light of the above, this paper takes the following complementary approaches to analyzing personal income tax non-compliance. It first uses a tax assured framework to identify the portions of the assessed tax base that are at low risk of non-compliance. The tax assured concept was coined by the Organisation for Economic Co-operation and Development (OECD)Footnote 2 as being a “very strong measure because it summarises information on core compliance outcomes. It demonstrates where there is voluntary compliance, which is just as useful as identifying where there is non-compliance. The tax assured analysis presented in this paper involves identifying income, deduction and credit amounts that are assessed and verified by the CRA by matching information reported by taxpayers with information provided by arm’s-length third parties (e.g., T4 slips issued to employees by their employer).Footnote 3 It is worth noting that our definition of tax assured is a conservative one in that the CRA carries out a number of verification activities beyond matching of third-party information that also lower the risk of non-compliance prior to intervention, but which are not added to tax assured amounts. Nevertheless, about 86% of income assessed in 2014 was considered tax assured. While the remaining 14% of income was considered to be at a higher risk of non-compliance than assured income, it does not necessarily mean it was reported inaccurately as it would have been subject to other compliance activities.
+
+To discuss federal tax loss due to non-compliance, the report uses tax gap analysis to estimate assessed taxes not collected by the CRA, and to estimate the contributions to the tax gap of unreported income earned in the underground economy (not detected by the CRA).
+
+Overall, this report finds that a relatively high proportion of amounts reported to the CRA is assured or reported accurately with minimal CRA intervention. The findings are consistent with CRA’s risk-based compliance strategy which has the objectives of minimizing compliance burden on the vast majority of taxpayers reporting correctly while dedicating valuable resources in high-risk areas.
+
+The report also finds the tax gap related to the activities of the underground economy within the scope of this report to be about $6.5 billion while the gap related to payments is estimated to be about $2.2 billion for the 2014 tax year. Combined, these gaps amount to $8.7 billion, 0.4% of GDP or 6.4% of personal income tax revenues in 2014.
+
+Of note, this report does not estimate the international component of the tax gap. The CRA is carefully studying the matter and is committed to producing a study on this issue in 2018.
+
+The report is organized as follows. Section 2 first reviews the fundamental features of the personal income tax administration system, types of non-compliance and how to measure compliance. Section 3 presents the report’s first set of compliance indicators: tax assured indicators that reflect CRA’s confidence that tax information is reported correctly. This discussion complements the subsequent discussion of a second set of indicators: tax gap estimates. Section 4 presents an estimate of the payment gap and Section 5 presents estimates of the tax gap related to income earned in the underground economy. Concluding thoughts are presented in Section 6.
+
+2. Canada’s Self-Assessment System for Personal Income Taxes
+
+“A well-functioning tax system is the foundation stone of the citizen-state relationship, establishing powerful links based on accountability and responsibility.”Footnote 4
+
+Angel Gurría, Secretary-General,
+Organization for Economic Co-operation and Development
+<USER>

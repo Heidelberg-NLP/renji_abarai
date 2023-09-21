@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3DBlqrdanvNn0IDOO4U0a3bGKEE",
+  "object": "chat.completion",
+  "created": 1683106637,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1572,
+    "completion_tokens": 39,
+    "total_tokens": 1611
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text doesn't have a clear rhetorical argument quality level to predict. It is a news article reporting on an event and a hockey game, with some quotes from players, coaches, and broadcasters."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2e4U7PdWglPQw4z3VCLOerL1c6L",
+  "object": "chat.completion",
+  "created": 1687871020,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Both \"yes they should\" and \"not much reason to make it harder for them to become citizens\" arguments suggest a \"pro\" stance, while \"No, it should be harder.\" and \"Illegal immigrants should not have an easier path to citizenship\" suggest a \"con\" stance. Overall, it seems like the text contains both pro and con arguments, making the stance \"neutral\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3513,
+    "completion_tokens": 78,
+    "total_tokens": 3591
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2wrbLOv64aGKUjFglkKU4LagLh4",
+  "object": "chat.completion",
+  "created": 1683105625,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1610,
+    "completion_tokens": 20,
+    "total_tokens": 1630
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is an advertisement, not a rhetorical argument. Therefore, it does not have a quality label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

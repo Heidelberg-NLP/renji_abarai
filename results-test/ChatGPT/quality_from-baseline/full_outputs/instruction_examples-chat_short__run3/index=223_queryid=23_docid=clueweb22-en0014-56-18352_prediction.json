@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1MFAjziCfH9WyIbcCOL7pBwDzIc",
+  "object": "chat.completion",
+  "created": 1687866071,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be a general reference that contains arguments from both sides of the debate, and therefore cannot be labeled as either pro or con with regards to physician-assisted suicide."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2723,
+    "completion_tokens": 36,
+    "total_tokens": 2759
+  }
+}

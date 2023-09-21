@@ -1,0 +1,121 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Last updated on: 9/25/2008 | Author: ProCon.org
+
+How Are Votes from Electronic Voting Machines Tabulated?
+
+General Reference (not clearly pro or con)
+
+The Government Accountability Office (GAO) 2005 report titled “Elections: Federal Efforts to Improve Security and Reliability of Electronic Voting Systems Are Under Way, But Key Activities Need to Be Completed,” included the following description:
+
+“DRE systems offer various configurations for tallying the votes. Some contain removable storage media that can be taken from the voting device and transported to a central location to be tallied. Others can be configured to electronically transmit the vote totals from the polling place to a central tally location.”
+
+2005 - US Government Accountability Office (GAO)
+
+The State of California Elections Code, in sections 15200-13 and 19380-6 from its division 15 titled “Semifinal Official Canvass, Official Canvass, Recount, and Tie Vote Procedures,” (accessed Sep. 25, 2008) mandates:
+
+“As soon as the polls are closed, the precinct board, in the presence of the watchers and all others lawfully present, shall immediately lock the voting machine against voting and open the counting compartments, giving full view of all counter numbers… If the machine is provided with a recording device, in lieu of opening the counter compartment the precinct board shall proceed to operate the mechanism to produce the statement of return of votes cast record in a minimum of three copies…
+
+If the ballots are to be counted at a central counting place, no fewer than two precinct board members shall, following the close of the polls, deliver the ballots, in a sealed container, to the central counting place or a designated receiving station. There may be two or more central counting places… The vote tabulating device may be located at any place within the state approved by the elections official of the county or other political subdivision using the device. The same device may be jointly owned, borrowed, leased, or used by two or more counties, cities, or other political subdivisions to tabulate ballots cast in any election.
+
+All proceedings at the central counting place, or counting places, if applicable, shall be open to the view of the public but no person, except one employed and designated for the purpose by the elections official or his or her authorized deputy, shall touch any ballot container. Access to the area where electronic data processing equipment is being operated may be restricted to those persons authorized by the elections official…
+
+Any magnetic or electronic storage medium used for the ballot tabulation program and any magnetic or electronic storage medium containing election results shall be kept in a secure location and shall be retained for six months following any local election and 22 months following any federal election or so long thereafter as any contest involving the vote at the local or federal election remains undetermined.”
+
+Sep. 25, 2008 - State of California Elections Code, Sec. 19380-6 State of California Elections Code, Sec. 15200-13
+
+The National Academy of Sciences’ 2005 report “Asking the Right Questions About Electronic Voting” included the following description:
+
+“Initial tabulation refers to the first round of vote counting. Results from the initial tabulation are the basis for challenges, such as recounts or auditing. The first step in tabulation is sealing the voting machines to prevent any more votes from being cast after the polls close. Then, totals for the polling location are ascertained and produced for the individual precincts if the polling location supports more than one precinct. The process used varies from jurisdiction to jurisdiction…The votes from each precinct may be counted at the precinct or in a central location. Most states require a polling place total to be generated and in some states, the totals are required to be posted. For both central count and precinct count systems, the polling location information is transferred to a central location for tabulation or aggregation of the precinct sub-totals. Also, votes cast through absentee or early voting must be counted as well, and these are mostly typically counted at the central location.
+
+Final tabulation (also known as the canvass) usually takes place some days after Election Day and refers to vote totals that have been obtained from a careful canvass of all votes by precinct, resolving problem votes, and counting all valid votes (votes cast through absentee and other pre-Election Day processes, votes cast on the regular Election Day, and valid votes cast provisionally during Election Day). In practice, unless the election outcome is contested, the canvass also includes a reconciliation of the poll books against the total number of ballots counted.
+
+Individual votes can be directly counted by a central authority, or aggregated at the level of the individual voting station. Either case entails communication between the voting machines at each location and…the tabulation authorities. There are only three ways for this task to be accomplished: manually at each station (e.g., by someone reading vote totals at each station and transferring the numbers to a notebook or ledger or talking into a telephone); by the physical removal of some computer-readable media form the station that contains vote totals; and by direct transmission over some wired or wireless medium such as a modem and telephone lines and computer network. These methods may also be used in combination. For instance, if security were an issue, a wired or wireless medium might be used to provide preliminary data, while the official data might be transported via secure couriers carrying flash memory cards.”
+
+2005 - National Academy of Sciences (NAS)
+
+Doug Jones, PhD, Associate Professor of Computer Science at the University of Iowa, described the vote tabulation process in “The Evaluation of Voting Technology,” a chapter in the 2003 book entitled Secure Electronic Voting:
+
+“In a precinct-count system, all votes cast in a particular precinct are counted at that precinct, and the precinct totals are then delivered from the precinct polling place to the central election offices…Direct recording electronic [DRE] voting systems have been configured as precinct-count systems…
+
+In a central-count system, all ballots voted in each precinct are transmitted to a central location for counting…New direct recording electronic voting systems usually function as central count systems, retaining redundant electronic images of all ballots cast on each machine, and including provisions to automatically consolidate the ballots collected by each machines [sic] at a precinct for either a precinct count or for transmission to a central counting center.
+
+This means that the machines include provisions for local communication within the precinct as well as remote communication from the precinct to a counting center. It is worth noting in-precinct communication and remote communication between direct recording electronic voting systems need not involve the same technology. For local communication within a precinct, for example, the Election Systems and Software iVotronic system uses hand-carried data cartridges. For communication between the polling place and the counting center, [the iVotronic system] offers printouts of the precinct vote totals and modem transmission of ballot images.”
+
+2003 - Douglas W. Jones, PhD
+
+Diebold Election Systems’ July 30, 2003 paper “Checks and Balances in Elections Equipment and Procedures to Prevent Alleged Fraud Scenarios” stated:
+
+“Election results are either electronically transmitted by the election judges or hand carried by the election judges to election headquarters. Electronically transmitted results are never deemed ‘official’ election results.
+
+After the election, a canvass is conducted to review accumulated votes. Results from individual voting units are uploaded into a new election and compared with the totals on election night.”
+
+July 30, 2003 - Diebold Election Systems, Inc.
+
+Paul Boutin, former Senior Editor at Wired magazine, in his June 2004 PC World article “Is E-Voting Safe?” wrote:
+
+“To report results, most systems collect votes onto one voting machine or PC at the polling place. That machine then dials in to a PC at election headquarters and transfers that precinct’s tallies over an encrypted modem-to-modem connection. Later, poll workers deliver the memory cards along with a printout of the results.”
+
+June 2004 - Paul Boutin
+ 
+ 
+conversation-loading
+<USER>

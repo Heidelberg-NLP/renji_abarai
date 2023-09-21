@@ -1,0 +1,180 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should any vaccines be required for children?
+Text: Govt mandates vaccines for staff at any business where vaccine passports are required for entry
+Watch: The Government announces an additional vaccine mandate. © Video - Newshub; Image - Getty Images. Watch: The Government announces an additional vaccine mandate.
+
+There are 79 new community cases on Tuesday, with four of these being in Waikato.
+
+According to the Ministry of Health's latest 1pm update, there were 10,660 doses of the Pfizer vaccine administered nationally on Monday, with just 4937 being in Auckland.
+
+It comes as students in years 11 to 13 return return to onsite learning on Tuesday in preparation for exams. But not every school is opening their doors, with some saying their community is too vulnerable to have students back in large gatherings.
+
+Skip Ad 5
+Video Player is loading.
+Ad
+Current Time 0:00
+Duration -:-
+Loaded: 0%
+0
+Live: Govt mandates vaccines for staff at any business where vaccine passports are required for entry
+'Would set a dangerous precedent': Politicians pen letter urging Ardern to stop accused murderer's extradition to China
+UP NEXT
+'Would set a dangerous…
+NaN
+Live: Govt mandates vaccines for staff at any business where vaccine passports are required for entry
+What to watch next
+
+What you need to know 
+
+  • There were 79 new cases on Tuesday, with 75 in Auckland and four in Waikato
+  • Vaccines will be mandated for staff at any business where vaccine passports are required for entry
+  • Students in years 11 to 13 in alert level 3 areas can return to school on Tuesday with a large number of health measures in place
+  • The Deputy Prime Minister says vaccine certificates should be ready to go by the time Auckland DHBs hit 90 percent double dose
+  • Auckland will remain at the first step of alert level 3 for at least another week, while Waikato is scheduled to be at the traditional level 3 until at least Wednesday night
+  • The Government announced on Friday a new COVID traffic light system and beefed up financial support. Vaccine certificates will be used under the new traffic light system. 
+  • Click here for all the locations of interest.
+
+These live updates have finished.
+
+9:10pm - About 40 percent of New Zealand's workforce will need to be fully vaccinated after the Government announced a sweeping vaccine mandate on Tuesday afternoon.
+
+The compulsory vaccinations apply to businesses like hospitality, retail, hairdressers and gyms.
+
+Basically if under the traffic light system the business uses vaccine passports then all staff will need to get two jabs.
+
+The Prime Minister says if a customer has to be vaccinated, staff should be too. And she has signalled there could be more mandates to come for the public sector.
+
+Read and watch the full story from Newshub political reporter Amelia Wade here.
+
+8:40pm - Several Waikato mayors have banded together to call for the region's district health board to improve its vaccination drive and consult better with those on the ground.
+
+Locals are increasingly frustrated that the region remains in the strictest version of level 3.
+
+"We need to have a more coordinated approach," Waipa District Mayor Jim Mylchreest says.
+
+"Councils are sitting waiting to help. We've got the local contacts, we can assist the hospital board - we are not being asked to."
+
+He's supported by Ōtorohanga Mayor Max Baxter and Waikato District Mayor Allan Sanson.
+
+Read and watch the full story from Newshub's Karen Rutherford here.
+
+8:10pm - One of today's positive cases is in the town of Waiuku, on the outskirts of Auckland.
+
+But news of the case hasn't shocked locals, one of whom says it was "inevitable" the virus would reach them.
+
+"It's just another day in Waiuku and life goes on," they told Newshub.
+
+"It's everywhere, isn't it. It's going to go everywhere so the best thing to do is just get get vaccinated," another said.
+
+Waiuku Health Centre announced its first positive test result today, saying it is a household contact of another recent case.
+
+The swab was taken on Saturday. The person didn't enter the building but was tested outside in their car. All staff were wearing PPE.
+
+The centre has increased swabbing capacity and says anyone who needs a test should book an appointment.
+
+Clinical lead, Dr Lychhun Kouch, said they were twice as busy as usual today.
+
+"We did roughly maybe 150 today, normally we do about 80."
+
+He said everyone's thoughts are with the family.
+
+Waiuku College had been due to reopen today but remained closed for now "to alleviate any stress and confusion in the community".
+
+7:50pm - National's COVID-19 response spokesperson Chris Bishop says it's time to end "the lottery of human misery" that is MIQ.
+
+"More than 100 people with COVID are isolating at home in Auckland right now, yet fully vaccinated travellers with no COVID have to spend 14 days in MIQ. This system makes no sense. It is unfair and illogical," he says.
+
+"Data I revealed last week shows that fully vaccinated travellers to New Zealand present a negligible risk to the community, particularly a community with COVID already circulating. Just two out of thousands of fully vaccinated travellers to New Zealand have tested positive for COVID in MIQ on day eight or later since August 23."
+
+Bishop says thousands of New Zealanders have been shut out of the country thanks to the "inequitable lottery" and the Government needs to make "substantial changes" to the system.
+
+"A good place to start would be to implement National's plan of fully vaccinated travellers with negative pre-departure tests and negative post-arrival tests being allowed to either isolate at home for a week (from medium-risk jurisdictions) or be free to go without self-isolation altogether," he says.
+
+"National's plan would allow thousands of Kiwis to come home for Christmas, reuniting families and boosting tourism and business.
+
+"It's time to reopen New Zealand to the world. We can't remain stuck in isolation forever. It's time to start tearing down the barriers of Fortress New Zealand and bring Kiwis home."
+
+© Provided by Newshub
+
+7:20pm - Professor Nikki Turner, director of the Immunisation Advisory Centre at the University of Auckland, says since New Zealand has chosen to have a broader vaccine mandate, this needs to work with balanced supportive strategic approaches.
+
+She says international evidence for the effectiveness of vaccination mandates is mixed - if they are poorly directly, implemented in isolation, or without supportive community approaches in place, they are at risk of backfiring by polarising communities, creating entrenched attitudes and potentially marginalising further.
+
+"It is vital that we continue to focus on genuinely listening to local communities and the range of reasons why some are not taking up vaccination options, and being compassionate to the historic and current reasons behind why some communities have lower trust and lower engagement with health services to avoid wherever possible further marginalisation," she says.
+
+"The recently announced extra funding into local service delivery particularly for Māori communities is important to allow communities to create their own solutions with their own local health services. Successful immunisation uptake across multiple diverse communities is a complex balance."
+
+6:45pm - Auckland hospitals may start discharging COVID-positive patients as the system reaches "tipping point".
+
+The region's hospitals have been told COVID-positive patients can now be sent home as long as they can leave hospital without spreading the virus to others.
+
+"The system is tipping into community management because of the high number of cases we're now seeing with COVID," says Royal NZ College of GPs medical director Dr Bryan Betty.
+
+"If that continues to increase, this trend will continue so it is a very, very fast-moving situation at this point."
+
+Read and watch the full story from Newshub's investigations reporter Michael Morrah here.
+
+6:25pm - There are several new locations of interest. They are: 
+
+  • New World Southmall, October 17 from 12:15pm to 1:40pm
+  • Black Bull Liquor Albany, October 18 from 1pm to 2pm
+  • Z Albany Service Station, October 19 from 10am to 10:30am
+  • Rosedale Bakery & Cafe Albany, October 19 from 10:30am to 11am
+  • Green and Grocery World The Avenue Albany, October 19 from 4:30pm to 5pm
+  • FreshChoice Te Awamutu, October 19 from 4:39pm 5:15pm
+  • Countdown Ponsonby Grey Lynn, October 20 from 5:25pm to 5:35pm
+  • Countdown Greenlane, October 22 from 7pm to 9pm
+  • East Tamaki Health Pharmacy, October 24 from 8:15pm to 8:30pm
+  • Chemist Warehouse Henderson, October 25 from 8:56am to 9:15am.
+
+6:10pm - National is calling on the Government to ditch vaccine certificates after 90 percent of the eligible population has been vaccinated against COVID-19. 
+
+Judith Collins, who earlier on Tuesday said she supported vaccine certificates but also didn't want "two classes of people" in society, later added that she believes the certificates should no longer be required once 90 percent of the eligible population is jabbed.
+
+"The National Party doesn't agree with the Government in their plan to impose restrictions with the mandatory use of vaccine certificates after we have hit their vaccine target of 90 percent across all DHBs," Collins said. 
+
+"Once the target is achieved, National supports the existing rights of all private businesses to choose who they do business with. Some businesses will choose to require proof of vaccination. Others will not."
+
+Read the full story here.
+
+6pm - It's time for Newshub Live at 6pm for the latest on the COVID-19 outbreak. Watch online here or on Three.
+
+5:50pm - Auckland Mayor Phil Goff says the Government's vaccine mandate is a practical step that will help keep the community safe as the city begins to open up under the new COVID-19 Protection Framework.
+<USER>

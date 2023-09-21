@@ -1,0 +1,134 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should more gun control law enact
+Text: Missouri Enacts Law Prohibiting Police From Enforcing Federal Gun Laws That Violate Second Amendment - The Police Tribune
+  • Search
+Sponsored:
+
+Sponsored:
+
+Missouri Enacts Law Prohibiting Police From Enforcing Federal Gun Laws That Violate Second Amendment
+
+Lee’s Summit, MO – Missouri Governor Mike Parson has signed off on a bill prohibiting state and local law enforcement from cooperating with enforcement of federal gun laws that violate citizens’ Second Amendment rights.
+
+House Bill 85, known as the Second Amendment Preservation Act, was signed into law on Saturday outside the Frontier Justice gun shop and gun range, KRDO reported.
+
+“Throughout my law enforcement career and now as Governor of the state of Missouri, I have and always will stand for the Constitution and our Second Amendment rights,” Parson said, according to KY3.
+
+Sponsored:
+
+“This legislation today draws a line in the sand and demonstrates our commitment to reject any attempt by the federal government to circumvent the fundamental right Missourians have to keep and bear arms to protect themselves and their property,” he declared.
+
+“It is our time to protect the Second Amendment,” Parson added, according to KRDO. “This is exactly what this bill does and it’s time to get this thing signed and get it made into law.”
+
+The bill was co-sponsored by Missouri Senator Eric Burlison (R-Greene and Christian Counties).
+
+Burlison noted that the main point of the Second Amendment Preservation Act is to protect “Missourians’ rights that we’re guaranteed in the Constitution,” KRDO reported.
+
+Sponsored:
+
+“All of our rights are threatened when we don’t have the Second Amendment. It’s the one right that upholds all the other rights to make sure those rights are never going to be taken away,” Burlison told KRDO.
+
+Under the new law, state and local law enforcement officers in Missouri are prohibited from cooperating with federal officials if they are trying to enforce any orders, rules, laws, or actions that violate citizens’ rights under the Second Amendment.
+
+Any agency or officer who knowingly enforces or assists in enforcing laws that deprive Missourians of their Second Amendment rights could be subject to a $50,000 lawsuit, KRDO reported.
+
+“We are making sure that whatever President [Joe] Biden does by executive order, we are not going to enforce,” Burlison said. “In essence, by signing this bill today, we are telling President Biden to go pound sand.”
+
+Sponsored:
+
+Shortly after President Biden took office, he issued a multifaceted executive order instituting new gun control measures he said were aimed at reducing gun violence in the wake of a spate of recent mass shootings.
+
+President Biden said he asked Attorney General Merrick Garland “to prioritize” gun violence, which he said has become “a public health crisis” in the United States.
+
+He further claimed that gun violence costs American taxpayers $280 billion per year, and said stripping gun manufacturers of liability protection will be among his top priorities, CNN reported.
+
+“For a fraction of the cost of gun violence, we can save lives, create safe and healthy communities, and build economies that work for all of us,” President Biden quipped.
+
+Sponsored:
+
+The President called for an all-out “ban” on all “assault weapons and high-capacity magazines.”
+
+“We should also ban assault weapons and high-capacity magazines in this country,” he declared. “For that 10 years we had it done, the number of mass shootings actually went down.”
+
+“Even law enforcement officials have told me and other champions of this legislation that they sometimes feel outgunned by assault weapons with large capacity magazines,” he claimed. “There’s no reason someone needs a weapon of war with 100 rounds – 100 bullets – that can be fired from this weapon. Nobody needs that. Nobody needs that.”
+
+He said banning such weapons and magazines has been a “hobby horse” of his for a long time.
+
+Sponsored:
+
+President Biden said he will close the “Charleston loophole” and that he will require buyers to undergo background checks at gun shows.
+
+President Biden claimed that Second Amendment advocates wouldn’t be able to put a stop to his gun control initiatives because “nothing, nothing I’m about to recommend in any way impinges on the Second Amendment.”
+
+“They’re phony arguments suggesting that these are Second Amendment rights at stake from what we’re talking about,” the President continued. “But no amendment, no amendment to the Constitution is absolute.”
+
+The Biden administration and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) are pushing for a rule to regulate pistol-stabilizing braces, which they say increase the accuracy of AR-15-style rifles, KRDO reported.
+
+Sponsored:
+
+“That is simply an accessory, like any other accessory that goes with a firearm,” Frontier Justice owner Mike Brown told the news outlet. “For the government to tell us that we can’t have this brace, and that we can’t use it because they deem it somehow more dangerous than any other accessory on any other firearm is a complete overreach.”
+
+Brown said he believes the ATF’s proposed new rule will likely be the first test of Missouri’s newly-minted Second Amendment Preservation Act.
+
+“It will probably be tested on that if the ATF does in fact does move forward and try to take that right away from the American people,” he told KRDO.
+
+Missouri House Minority Leader Crystal Quade (D-Springfield) released a statement on June 11 in opposition of HB85, calling the measure “radical, dangerous and obviously unconstitutional,” KY3 reported.
+
+Sponsored:
+
+“When people are looking for real solutions on crime, policing and public safety, Governor Parson and the Republican legislature have instead chosen to preserve Missouri’s growing reputation for extremist and dangerous laws,” Quade wrote. “The new law even allows criminals who violate federal gun law to sue our local law enforcement officers for a minimum $50,000 fine if they in any way assist with federal investigations. It quite literally defunds the police and gives that taxpayer money to convicted criminals.”
+
+“It is long past time for Republicans in Jefferson City to stop the political grandstanding, take their jobs as leaders seriously and pass real solutions to crime in our state,” she added.
+
+Written by
+Holly Matkin
+
+Holly is a former probation and parole officer who is married to a sheriff’s deputy. She is a regular contributor to Signature Montana magazine, and has written feature articles for Distinctly Montana magazine.
+
+View all articles
+
+Newsletter
+
+Sign up to our daily newsletter so you don't miss out on the latest events surrounding law enforcement!
+
+Follow Me
+
+Follow us on social media and be sure to mark us as "See First."
+<USER>

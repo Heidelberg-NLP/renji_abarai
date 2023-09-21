@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ3sDuw2KWfHX2o6S1Dh3FVVBxp1",
+  "object": "chat.completion",
+  "created": 1682690908,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 880,
+    "completion_tokens": 31,
+    "total_tokens": 911
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Unfortunately, there is no clear rhetorical argument made in this text. There is a topic presented, but no clear stance or argument to evaluate the quality of."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

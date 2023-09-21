@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3BV3H0hA2zud9OawTaAqwxcVM3f",
+  "object": "chat.completion",
+  "created": 1683106533,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2334,
+    "completion_tokens": 1,
+    "total_tokens": 2335
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "high"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

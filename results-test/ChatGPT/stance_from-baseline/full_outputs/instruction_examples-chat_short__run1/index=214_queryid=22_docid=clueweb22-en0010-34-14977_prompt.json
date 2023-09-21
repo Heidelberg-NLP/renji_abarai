@@ -1,0 +1,132 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?
+Text: Top 10 Pro & Con Perspectives on the Israeli-Palestinian Conflict - Israeli-Palestinian - ProCon.org
+Last updated on: 2/4/2016 | Author: ProCon.org
+
+Top 10 Pro & Con Perspectives on the Israeli-Palestinian Conflict
+
+ 
+
+ 
+
+ARCHIVED WEBSITE
+
+This site was archived on Aug. 3, 2021. The two-state solution is no longer the most popular solution among the jurisdictions involved. A reconsideration of the topic on this site is possible in the future. 
+
+ 
+
+1. Israeli Perspectives on the Two-State Solution
+
+“Israeli recognition of Palestinian statehood will tangibly advance the two-state vision and will eliminate the dangerous one-state vision that extremists on the right and the left are advancing, among us and among the Palestinians. We have to be honest with ourselves. There is simply no option beyond a two-state solution that will preserve the Zionist dream. One state would be the end of the Zionist dream and it would eliminate the dream of the Palestinians to have a state of their own. With this, we would doom ourselves to perpetual conflict, a lose-lose situation.”
+
+Yehiel Hilik Bar, MA
+Member of the Israeli Knesset for the Labor Party
+“Time to Recognize the Palestinian State,”
+Jewish Week,
+Jan. 5, 2015
+
+“If partition of this contested land was ever the just solution to the conflict, it ceased the moment one side refused. It was not a mere rejection: they launched repeated assaults to take it all by force. Returning Israel to its indefensible nine-mile waistline would once again place us in mortal danger, while rewarding the aggressor…
+
+In Judea and Samaria there is ample room for many Jews, many Palestinians and peaceful coexistence… After 20 years of failed attempts to reach a two-state solution, isn’t it time we admit our failures and move on? The time has come to invest in new, innovative paths to peace that unite people through acts of mutual respect.”
+
+Dani Dayan, MSc
+Former Chief Foreign Envoy of the Council of Jewish Communities in Judea, Samaria and Gaza (the Yesha Council)
+“What You Call ‘Settlements’ Are on Solid Moral Ground,”
+The Guardian
+June 7, 2013
+
+ 
+
+2. Palestinian Perspectives on the Two-State Solution
+
+“The Israeli-Palestinian conflict has reached a critical stage. For more than two decades, the two-state solution has been the basis of international efforts to make peace in the region… A failure of the two-state solution will generate further instability in the region, strengthen rejectionist elements on both sides and likely mean that the conflict will drag on for generations…
+
+The Palestinian leadership remains committed to a peaceful, negotiated settlement to our conflict with Israel based on the two-state solution.”
+
+Hanan Ashrawi, PhD
+Elected Member of the Palestinian Legislative Council (PLC)
+“Israeli Actions Jeopardize Two-State Solution,
+Los Angeles Times
+Nov. 15, 2010
+
+“Support for one state is hardly a radical idea; it is simply the recognition of the uncomfortable reality that Israel and the occupied Palestinian territories already function as a single state. They share the same aquifers, the same highway network, the same electricity grid and the same international borders… The one-state solution… neither destroys the Jewish character of the Holy Land nor negates the Jewish historical and religious attachment (although it would destroy the superior status of Jews in that state). Rather, it affirms that the Holy Land has an equal Christian and Muslim character. For those who believe in equality, this is a good thing.”
+
+Michael Tarazi, PhD
+Former Legal Advisor to the Palestine Liberation Organization (PLO)
+“Two Peoples One State,”
+New York Times
+Oct. 4, 2004
+
+ 
+
+3. Neighboring States’ Perspectives on the Two-State Solution
+
+“The two-state solution is the only way to end the conflict and establish security and stability for the entire region. Israel’s security will not be achieved without… the establishment of a sovereign, geographically contiguous, Palestinian state along the 5 June 1967 lines, according to international accords and the Arab Peace Initiative, with East Jerusalem as its capital.”
+
+King Abdullah II
+King of the Hashemite Kingdom of Jordan Jumana Ghneimat for Al Ghad,
+“Interview with His Majesty King Abdullah II,”
+kingabdullah.jo
+Aug. 10, 2014
+
+“The Zionist regime and the Zionists are a cancerous tumour… The nations of the region will soon finish off the usurper Zionists in the Palestinian land… A new Middle East will definitely be formed. With the grace of God and help of the nations, in the new Middle East there will be no trace of the Americans and Zionists.”
+
+Mahmoud Ahmadinejad
+Former President of Iran
+“‘Cancerous Tumour’ Israel Will Soon Be Destroyed, Says Ahmadinejad,”
+france24.com
+Aug. 17, 2012
+
+ 
+
+4. UN Perspectives on the Two-State Solution
+
+“Today marks the launch of the International Year of Solidarity with the Palestinian People. This will be a critical year for achieving the two-State solution, bringing an end to the occupation that started in 1967, and securing an independent, viable and sovereign State of Palestine living in peace and security with the State of Israel where each recognizes the other’s legitimate rights.
+
+I call on all members of the international community and, in particular, Israelis and Palestinians, to work together for justice and a durable peace. Israel and Palestine need to live up to their commitment to a negotiated two-State solution and resolve all permanent status issues, in accordance with Security Council resolutions, the Madrid principles, the Road Map, the 2002 Arab Peace initiative and existing agreements between the parties.”
+
+Ban Ki-Moon, MPA
+Secretary General of the United Nations
+“Secretary-General on Launch of International Year of Solidarity with Palestinian People, Calls on Israel, Palestine to Honour Commitment to Two-State Solution,”
+un.org
+Jan. 16, 2014
+
+“I see it [the one-state solution] as a bold and courageous experiment in living together that is the only alternative to the perpetuation, 
+<USER>

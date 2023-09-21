@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2mmMsDyPvgJagoEovvHaMHYE4b1",
+  "object": "chat.completion",
+  "created": 1683105000,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1907,
+    "completion_tokens": 70,
+    "total_tokens": 1977
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "ProCon.org is a source that provides a variety of opinions regarding the manufacturers of electronic voting machines. The website presents information from a number of sources, including statements by John R. Patrick, the Voting Industry website, CorpWatch, the Verified Voting Foundation, and the Election Technology Council. Therefore, it is not clearly pro or con on the issue."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

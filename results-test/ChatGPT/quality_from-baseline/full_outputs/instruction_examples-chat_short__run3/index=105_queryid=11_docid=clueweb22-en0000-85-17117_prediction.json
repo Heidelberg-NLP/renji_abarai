@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1IG0M79JqkTSscRDZ7Ib1pMw6pf",
+  "object": "chat.completion",
+  "created": 1687865824,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text presents a main point only, therefore it is difficult to rate its rhetorical argument quality."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 880,
+    "completion_tokens": 20,
+    "total_tokens": 900
+  }
+}

@@ -1,0 +1,111 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should euthanasia or physician-assisted suicide be legal?
+Text: Last updated on: 5/15/2018 | Author: ProCon.org
+
+Should Euthanasia or Physician-Assisted Suicide Be Legal?
+
+General Reference (not clearly pro or con)
+
+The Merriam-Webster Online Dictionary, in an entry updated on Apr. 2, 2018 and available at merriam-webster.com defined “euthanasia” as:
+
+“[T]he act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy…
+
+The word comes from the Greek euthanatos, which means ‘easy death.’ In English, euthanasia has been used in exactly this sense since the early seventeenth century, when Francis Bacon described the phenomenon as ‘after the fashion and semblance of a kindly & pleasant sleepe.’ Nowadays, the word usually refers to the means of attaining such a death.”
+
+Apr. 2, 2018 - Merriam-Webster Online
+
+The Oxford English Dictionary Online (2nd edition, 1989; online version Sep. 2011) provides the following definitions of euthanasia:
+
+“A gentle and easy death… [T]he means of bringing about a gentle and easy death…
+
+In recent use: The action of inducing a gentle and easy death. Used esp. with reference to a proposal that the law should sanction the putting painlessly to death of those suffering from incurable and extremely painful diseases.”
+
+Sep. 2011 - Oxford English Dictionary (OED) Online
+
+The Merriam-Webster Online Dictionary, in an entry accessed on Apr. 11, 2018 and available at merriam-webster.com, defined “physician-assisted suicide” as:
+
+“[S]uicide by a patient facilitated by means (such as a drug prescription) or by information (such as an indication of a lethal dosage) provided by a physician aware of the patient’s intent.”
+
+Apr. 11, 2018 - Merriam-Webster Online
+
+Michael Manning, MD, author, defined physician-assisted suicied in his 1998 book Euthanasia and Physician-Assisted Suicide: Killing or Caring?:
+
+“A physician providing medications or other means to a patient with the understanding that the patient intends to use them to commit suicide.”
+
+1998 - Michael Manning, MD
+
+Michael Manning, MD, in his 1998 book Euthanasia and Physician-Assisted Suicide: Killing or Caring?, traced the history of the word euthanasia:
+
+“The term euthanasia… originally meant only ‘good death,’ but in modern society it has come to mean a death free of any anxiety and pain, often brought about through the use of medication. Most recently, it has come to mean ‘mercy killing’ — deliberately putting an end to someone’s life in order to spare the individual’s suffering.”
+
+1998 - Michael Manning, MD
+
+The American Geriatrics Society’s website defined physician-assisted suicide in its position paper on the subject (accessed Apr. 6, 2006):
+
+“When a physician provides either equipment or medication, or informs the patient of the most efficacious use of already available means, for the purpose of assisting the patient to end his or her own life.”
+
+Apr. 6, 2006 - American Geriatrics Society
+
+BBC News stated in its July 1, 1999 special report titled “A Euthanasia Glossary”:
+
+“Euthanasia has many definitions. The Pro-Life Alliance defines it as: ‘Any action or omission intended to end the life of a patient on the grounds that his or her life is not worth living.’ The Voluntary Euthanasia Society looks to the word’s Greek origins – ‘eu’ and ‘thanatos,’ which together mean ‘a good death’ – and say a modern definition is: ‘A good death brought about by a doctor providing drugs or an injection to bring a peaceful end to the dying process.’ Three classes of euthanasia can be identified — passive euthanasia, physician-assisted suicide and active euthanasia — although not all groups would acknowledge them as valid terms.”
+
+July 1, 1999 - BBC (British Broadcasting Corporation)
+
+Sissela Bok, PhD, Senior Visiting Fellow at the Harvard Center for Population and Development Studies, in her chapter “Physician-Assisted Suicide” from the 1998 book Euthanasia and Physician-Assisted Suicide: For and Against, explained:
+
+“The term ‘physician-assisted suicide’ is a neologism, perhaps less than ten years old, employed in challenges to laws prohibiting doctors (as well as all others) from being direct accessories to suicide… Depending on who is speaking, it has been used for activities as different as physicians prescribing pills for a patient and explaining what amounts would be needed to bring about death, and Dr. Jack Kevorkian’s far more active part in construction and operating the contraptions used for the ‘patholysis’ that he has dramatized, photographed, and videotaped, with the patient executing the last step.”
+
+1998 - Sissela Bok, PhD
+
+Ian Dowbiggin, PhD, Professor of History at the University of Prince Edward Island, wrote in his 2005 book A Concise History of Euthanasia: Life, Death, God, and Medicine:
+
+“The influential scientist and philosopher Francis Bacon (1561-1626)… was the first in history since Roman historian Suetonius (c. 70-140 AD)… to use the term ‘euthanasia’… [B]oth Bacon and Suetonius employed the word in its etymological meaning, that is, to signify an easy death through the mitigation of pain rather than a death hastened by a physician through the administration of poison.”
+
+2005 - Ian Dowbiggin, PhD
+
+Kathleen Foley, MD, Professor of Neurology, and Herbert Hendin, MD, Professor of Psychiatry, wrote in the introduction to their 2002 book, The Case Against Assisted Suicide: For the Right to End-of-Life Care:
+
+“In physician-assisted suicide, the patient self-administers the lethal dose that has been prescribed by a physician who knows the patient intends to use it to end his or her life. Both the terms ‘physician-assisted suicide’ and ‘euthanasia’ are often avoided by their advocates, who prefer the nonspecific euphemism ‘assistance in dying.'”
+
+2002 - Herbert Hendin, MD Kathleen Foley, MD
+
+Margaret P. Battin, PhD, Professor of Philosophy, and Timothy E. Quill, MD, Professor of Medicine, wrote in the introduction to their 2004 book, Physician-Assisted
+<USER>

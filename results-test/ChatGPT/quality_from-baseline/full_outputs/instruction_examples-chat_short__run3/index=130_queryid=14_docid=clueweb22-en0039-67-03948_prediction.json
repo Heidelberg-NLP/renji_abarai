@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1Jldf2eomhIP3mI8aX5Jei5azwl",
+  "object": "chat.completion",
+  "created": 1687865917,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The argument quality in this debate is low due to the fact that there are many opinions that are not backed up by evidence or logical reasoning. Some opinions are even offensive and discriminatory towards the LGBTQ+ community. However, there are a few arguments that provide evidence to support the idea that sexual orientation is determined at birth, but they are not well-developed arguments and are overshadowed by the low-quality arguments in the debate."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2479,
+    "completion_tokens": 84,
+    "total_tokens": 2563
+  }
+}

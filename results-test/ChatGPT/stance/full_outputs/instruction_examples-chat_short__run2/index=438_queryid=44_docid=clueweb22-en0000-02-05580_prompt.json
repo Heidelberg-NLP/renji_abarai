@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should election day national holiday
+Text: Should Election Day Be a Holiday?
+
+March 31, 2019
+
+Less than half of eligible voters typically vote in national elections in the U.S.. The House of Representatives has passed a bill to encourage voter participation by making Election Day a national holiday. This activity explores the arguments for and against this and other proposals for making it easier for people to vote. 
+
+To The Teacher:
+ 
+
+Should all Americans get off from work on Election Day? In March 2018, the House of Representatives passed a piece of legislation that, if it became law, would make Election Day a federal holiday. In a country where less than half of eligible voters typically cast ballots in national elections, the idea of the new bill is to encourage more people to get to the polls by removing one major obstacle that prevents people from voting on election day: work. The legislation has met with opposition from Republicans in Congress, who have called the new bill a "power grab." 
+
+This lesson features two readings that take a closer look at the idea of making Election Day a federal holiday, as well as other proposals for encouraging participation in elections. The first reading looks at the debate around the recent proposal for the holiday. The second reading considers other measures that might increase voter participation in our democracy—including automatic voter registration, provisions for early voting, or mandatory voting. Questions for discussion follow each reading.
+
+ 
+
+Vote here
+By Erik Hersman 
+
+ 
+
+
+ 
+
+Reading 1:
+Should Election Day be a Holiday?
+ 
+
+Should Americans all get off from work on Election Day? In March 2018, the House of Representatives passed a piece of legislation that, if it became law, would make Election Day a federal holiday. As reporter Matthew Haag wrote in a January 31, 2019, article for the New York Times, the proposal for making Election Day a national holiday is a part of a larger bill designed by lawmakers to improve the way our elections function. Haag explained:
+
+[A] House of Representatives bill titled For the People Act of 2019 is the first major legislation by the new Democratic-controlled House and puts forward seven major changes to elections nationwide. The proposals are wide ranging, including changes to how people register to vote and new requirements for states to secure voting systems….
+
+The bill also seeks to remove a major hurdle that prevents people from voting: work. A census survey of roughly 19 million registered voters who did not participate in the 2016 election found that 14.3 percent, or about 2.7 million people, said they were too busy to vote. The legislation proposes making Election Day, the first Tuesday in November, a public holiday just like Washington’s Birthday, Independence Day and Christmas.
+
+It would grant the federal government’s two million full-time employees a paid day off, and would make companies, many of which shut down on federal holidays, more likely to grant their workers a day off.
+
+[https://www.nytimes.com/2019/01/31/us/politics/election-day-holiday-mcconnell.html]
+
+ 
+
+While the legislation aims to increase participation in our democracy, it has met with opposition in Congress, which makes it unlikely that the bill will pass the Senate, at least for now. In a January 17, 2019 opinion article for the Washington Post, Senate Majority Leader Mitch McConnell (R-Tennessee) denounced the bill as a “power grab” and derided Democrats for trying to give federal workers more time off than they already have:
+
+[House Democrats have] been hard at work angling for more control over what you can say about them and how they get reelected. They’re trying to clothe this power grab with clichés about “restoring democracy” and doing it “For the People,” but their proposal is simply a naked attempt to change the rules of American politics to benefit one party. It should be called the Democrat Politician Protection Act….
+
+Democrats would also like you to pay for generous new benefits for federal bureaucrats. Their bill proposes making Election Day a new paid holiday for government workers and six additional days’ paid vacation for federal bureaucrats to work the polls during any election. This is the Democrats’ plan to “restore democracy”: extra taxpayer-funded vacation for bureaucrats to hover around while Americans cast their ballots.
+
+[https://www.washingtonpost.com/opinions/call-hr-1-what-it-is-the-democrat-politician-protection-act/2019/01/17/dcc957be-19cb-11e9-9ebf-c5fed1b7a081_story.html]
+
+ 
+
+Progressive lawmakers fired back at McConnell. Senator Kirsten Gillibrand (D-NY) tweeted: "Voting isn’t a 'power grab.' It’s democracy, and it’s literally the entire point of our representative government."
+
+According to the Pew Research Center, there is actually bipartisan support for making Election Day a holiday: 71% of Democrats and 59% of Republicans favor it.
+
+The main effect of the bill would likely be to bring more people out to the polls. In a story for USA Today on February 1, 2019, reporter Alia Dastagir quoted Kristen Clarke of of the Lawyers Committee for Civil Rights on this point: "Making election day a holiday would transform the culture around voting in our country and most inevitably improve turnout and participation rates across the board.  Enduring long lines, obtaining access to child care, finding the money to take public transportation to the polls are all real barriers that make it harder for people to exercise their voice on Election Day. By clearing away some of those hurdles, we would inevitably make it easier for people to participate."  Writes Dastagir:
+
+According to a United States Census Bureau survey of about 19 million registered voters who did not vote in the 2016 general election, 14.3 percent said busy schedules was the main reason they didn't cast a ballot. A little more than 60% of U.S. citizens cast ballots in the 2016 presidential election, according to Pew, and whites made up 73.3% of them. Those who did not vote "were more likely to be younger, less educated, less affluent, and nonwhite.”
+
+[Kristen Clarke of of the Lawyers Committee for Civil Rights] said it's difficult to speculate whether Democrats or Republicans would benefit more from an election holiday, but she would expect to see some specific groups with higher participation rates. "I think you would need real data over a few elections to make an assessment about partisan impact, if any," she said. "But what I can say is that more working mothers, more young people, more low-income workers with long hours, more of our emergency personnel are all constituencies who we would see participating in higher rates if Election Day were a holiday."
+
+In the 2016 presidential election, 53% of Americans making under $30,000 a year voted Democratic and 49% voted Republican. Among voters aged 18-29, 55% voted Democratic and 37% Republican.
+
+[https://www.usatoday.com/story/news/investigations/2019/02/01/election-day-federal-holiday-mcconnell-democracy-voter-turnout-democrats-republicans-voting-rights/2736634002/]
+ 
+
+Would providing federal employees with an extra paid holiday be worthwhile if it means that more people vote? Our elected officials will continue debating the costs and benefits.
+
+ 
+
+For Discussion:
+
+  1. How much of the material in this reading was new to you, and how much was already familiar? Do you have any questions about what you read?
+  1. What are some of the arguments for and against making Election Day a federal holiday? Which ones did you find most convincing?  
+
+     
+  2. Why could making Election Day a holiday be seen as favoring one party over another? Do you think this is a legitimate concern? Why or why not?
+     
+  3. If Election Day were a federal holiday, do you think you and your family would be more likely to vote? Or would the day become like any other day off?
+
+ 
+
+
+ 
+
+Reading 2:  Should Voting Be Required?
+ 
+
+The proposal to make Election Day a federal holiday is just one of a number of steps that could be taken to improve low turnout for U.S. elections. Some countries that have significantly higher levels of voter participation than the United States have automatic voter registration. Others actually require people to vote. 
+
+The aim of automatic voter registration is to increase turnout by simply removing the sometimes cumbersome step of registering to vote from the process. GQ staff writer Jay Willis explained the idea in a November 14, 2018 article:
+
+What is automatic voter registration?
+
+A pretty simple concept, actually: A federal law in place since the Clinton administration requires state agencies—so, departments of motor vehicles, primarily—to provide residents with the "opt-in" opportunity to register to vote when filling out paperwork. Usually, this takes the form of a little box on your application to renew a driver license. By checking it, you authorize the agency to update your voter registration information, or, if you're new to the state, to enter your name into the rolls. If you don't check it, you remain registered at your old address, or, if you're new to the state, not at all.
+
+"Automatic voter registration" means switching to an opt-out structure; by default, everyone who interacts with a state agency is automatically registered to vote, unless you check the little box, which directs state employees not to update your information. Most AVR schemes also do away with paperwork, and instead instruct agencies to electronically submit information to the relevant election officials….
+
+(https://www.gq.com/story/automatic-voter-registration-house-democrats)
+<USER>

@@ -1,0 +1,68 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should animals be used for scientific or commercial testing?
+Text: Should Animals Be Used in Laboratory Testing? (Op-Ed) | Live Science Skip to main content
+Skip advert
+Expert Voices
+
+Should Animals Be Used in Laboratory Testing? (Op-Ed)
+
+A sad dog next to an empty food bowl.
+You trying to trick me? (Image credit: <a href="http://www.shutterstock.com/gallery-622945p1.html"> chalabala</a>, <a href="http://www.shutterstock.com/index-in.mhtml">Shutterstock</a>)
+
+Marc Bekoff, emeritus professor at the University of Colorado, Boulder, is one of the world's pioneering cognitive ethologists, a Guggenheim Fellow, and co-founder with Jane Goodall of Ethologists for the Ethical Treatment of Animals. This essay is adapted from one that appeared in Bekoff's column Animal Emotions in Psychology Today. He contributed this article to LiveScience's Expert Voices: Op-Ed & Insights.
+
+People's relationships with other animals are a messy and confusing affair. Some people say without hesitation that they love nonhuman animals (animals) and then intentionally harm them in education, research, entertainment, for food and clothing, and for sport. I always say I'm glad they don't love me.
+
+Some people argue — or simply claim — we need to harm other animals to learn about them even if we cause suffering and then kill them in the name of science. While most researchers who support animal testing seem to feel this is a regrettable but necessary practice, some, such as Dr. John VandeBerg, director of the Texas Biomedical Research Institute in San Antonio, Texas, show little or no concern at all. To quote Dr. VandeBerg, "I think of the chimpanzees in the same way that I think of a library. There are many books in the library that will never be used this year or next year ... Many of them might never be used again. But we don't know which ones will be needed tomorrow, next year or the year after." Oh my.
+
+I often find myself scratching my head wondering what in the world is going on. Do people really need more research on animals, who are known to have rich and deep emotional lives, to learn more about our own rich and deep emotional lives — or in commercial testing? We know, for example, from scientific research published in prestigious peer-reviewed journals, that mice, rats, and chickens display empathy and that rats like to be tickled and laugh, but they are still used and abused by the millions in various types of research and are not protected by the Federal Animal Protection Act in the U.S. Indeed, those animals are not even considered to be animals.
+
+Appealing to, and extending, the precautionary principle to people's interactions with other animals, one can easily argue that society knows all we need to know right now to use such information on behalf of other animals. While more research might expand society's knowledge base, why is this research necessary and how can it be justified? [When Animals Suffer, the Country Pays a Price (Op-Ed ) ]
+
+If you're a topical expert — researcher, business leader, author or innovator — and would like to contribute an op-ed piece, email us here.
+
+These are not anti-scientific questions, but rather they may, or will, move some people out of their comfort zones and ask them to discuss why they do what they do. While there don't seem to be "right" and "wrong" answers, perhaps on-going discussions will show that there are "better" and "worse" answers. At the very least, researchers and non-researchers will have to make clear why they take the positions they do.
+
+I recently learned about a new website on ProCon.org that is presents, in detail, both sides of the daunting and vexing question, "Should animals be used for scientific or commercial testing?" We really need frank and open discussions about this question with which many people are wrestling. Just this week, I did an interview with a Brazilian newspaper about these issues and I know that there is worldwide interest in this question.
+
+What I like about the ProCon.org forum is that it presents updated information about how many animals are used, and why, and clearly considers the pros and cons of animal testing in considerable detail. I hope it gets a lot of traffic and that people will actively participate in on-going discussions and debates. As I wrote above, at the very least, researchers and non-researchers will have to make clear why they take the position they do. This is not asking too much.
+
+Bekoff's most recent Op-Ed was "The Dog's Telltale Tail" This article was adapted from "'Should Animals Be Used for Scientific or Commercial Testing?" in Psychology Today. The views expressed are those of the author and do not necessarily reflect the views of the publisher. This version of the article was originally published on LiveScience.
+<USER>

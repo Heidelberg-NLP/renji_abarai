@@ -1,0 +1,133 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should fight allow hockey
+Text: Why are there so many fights in ice hockey? - Quora
+We've put together a list of 8 money apps to get you on the path towards a bright financial future.
+13 Answers
+
+The Code
+
+No-one speaks of The Code. In fact, just by telling you, the secret Canadian hockey police could come and take me away in the middle of the night, so this is between you and me.
+
+In a nutshell, The Code is the way for players to offset the fact that at most levels of the game, refereeing is pitiful. It’s not the referees’ fault mind you - there are 12 players on the ice at a given time and usually only one referee who can call penalties, so a lot gets missed.
+
+So, when someone take a cheap shot that isn’t caught by the referee, The Code is invoked. The te
+
+The Code
+
+No-one speaks of The Code. In fact, just by telling you, the secret Canadian hockey police could come and take me away in the middle of the night, so this is between you and me.
+
+In a nutshell, The Code is the way for players to offset the fact that at most levels of the game, refereeing is pitiful. It’s not the referees’ fault mind you - there are 12 players on the ice at a given time and usually only one referee who can call penalties, so a lot gets missed.
+
+So, when someone take a cheap shot that isn’t caught by the referee, The Code is invoked. The team sends out its “enforcer” who challenges the offender to a fight. If the challenge is accepted, they fight, they both go to the penalty box, and honour is served. If the challenge is not accepted, it’s accepted that you’re essentially dooming your team’s biggest stars to open season at the hands of the other team.
+
+The history of fighting in hockey
+
+As with all sports, the origins of the sport and rules formed gradually through a natural evolution as people play the game.
+
+Hockey is a fast, graceful, but brutally violent sport. The speed that you can get on skates combined with newer rules allowing for forward passes and the neutral zone made the neutral zone a lot more violent. Defenders didn’t allow people through the neutral zone without taking a punishment. Tempers flared and the enforcer class was born to try to check the violent play against the more skilled players.
+
+The lack of officiating and rules ma
+
+The history of fighting in hockey
+
+As with all sports, the origins of the sport and rules formed gradually through a natural evolution as people play the game.
+
+Hockey is a fast, graceful, but brutally violent sport. The speed that you can get on skates combined with newer rules allowing for forward passes and the neutral zone made the neutral zone a lot more violent. Defenders didn’t allow people through the neutral zone without taking a punishment. Tempers flared and the enforcer class was born to try to check the violent play against the more skilled players.
+
+The lack of officiating and rules made fighting a part of the game as players took matters into their own hands. A quality goon would make you think twice about taking a shot at the top line center.
+
+As the NHL was expanding through the US in the late 70s and 80s, fights sky rocketed. People loved the fights at the time. Ever heard the expression “I watch hockey for the fights?” The peak of fights per game was during this time.
+
+Teams with superstars like Gretzky would have their goons fight to clear space for the talent to move. Originally, the penalty for fighting would remove both pugilists from the ice creating a 4-on-4 allowing Gretzky to score at will with plenty of open ice. In the mid eighties a rule change was made where both players were removed, but they had to be replaced on the ice, keeping it a 5-on-5. [1]
+
+More recently, fights have been on the decline:
+
+The reasons for this are many fold. Referees have taken better control of the game. More skill players are emerging. In order to counter a speedy player with good hands teams do not have the space to hold onto a goon. Fans don’t like it as much as they used to. Now that the sport is at least a couple of decades old in most markets, the fans are educated on the sport enough to not just watch it for the fights (which really do suck, it’s like two grown men spinning in a circle until they’re taken to the box).
+
+Instigator rules have also been put in place to further punish a guy that starts the fight, they add an additional minor penalty to the 5 for fighting and sometimes can be an additional major and match penalty. This season was especially strange with it’s implementation as the added minor was often arbitrary making teams very wary about letting their guys fight since they might take an additional penalty as a result.
+
+A few people have looked at the results of fights. It turns out there might be a momentum swing from a fight, but it’s entirely unpredictable to whom the swing favors. Realizing that, also, you might as well just play out the game rather than risk losing worse.[2]
+
+Back to the original question
+
+There were a lot of fights in hockey because it was part of the rules. People liked it, until they didn’t.
+
+Some people cling to the stupid “tradition” of it, but in the end, fights are on the way out.
+
+Footnotes
+
+"I can fit into my daughters jeans again."
+
+Because it’s allowed.
+
+Athletes are extremely competitive and emotional. When they come into contact with each other, that passion can quickly come to punches. Most sports’ rules have fighters ejected from the game and may get further suspensions. However, in professional ice hockey, the penalty is 5 minutes in the box. The enforcers were* typically 4th, maybe 3rd, line players, and wouldn’t see as much ice time as the 1st and 2nd lines, so 5 minutes in the “sin bin” is just a different bench to warm.
+
+(*) I used the past tense “were” as fighting just doesn’t happen all that much anymore in the NH
+
+Because it’s allowed.
+
+Athletes are extremely competitive and emotional. When they come into contact with each other, that passion can quickly come to punches. Most sports’ rules have fighters ejected from the game and may get further suspensions. However, in professional ice hockey, the penalty is 5 minutes in the box. The enforcers were* typically 4th, maybe 3rd, line players, and wouldn’t see as much ice time as the 1st and 2nd lines, so 5 minutes in the “sin bin” is just a different bench to warm.
+
+(*) I used the past tense “were” as fighting just doesn’t happen all that much anymore in the NHL. The last full season, 2018 - 2019, saw around .2 fights per game, and that can be further broken down by team. Some teams still maintain the enforcer, while others prefer more talented skaters. The age of the enforcer has come to an end, or is at least dwindling.
+
+Well, not as much anymore. One thing all the other answerers failed to mention is that unlike the other major sports, you play with a weapon aka hockey stick. When European players started coming over in the 1970s, they quickly learned that stick work would be punished.
+
+Don’t necessarily disagree, but lots of good players could fight. Bobby Orr didn’t need a Semenko or McSorley, he could fight his own fights. Ever hear of a Gordie Howe Hat Trick? Guys like Wensink (pictured) or Dave Schultz or Knuckles Nilan have 20 goal seasons on their resume. They were the goons of the 70–90s. The goons of t
+
+Well, not as much anymore. One thing all the other answerers failed to mention is that unlike the other major sports, you play with a weapon aka hockey stick. When European players started coming over in the 1970s, they quickly learned that stick work would be punished.
+
+Don’t necessarily disagree, but lots of good players could fight. Bobby Orr didn’t need a Semenko or McSorley, he could fight his own fights. Ever hear of a Gordie Howe Hat Trick? Guys like Wensink (pictured) or Dave Schultz or Knuckles Nilan have 20 goal seasons on their resume. They were the goons of the 70–90s. The goons of the 21st century rarely scored this way. The officiating wasn’t as strict, but the rules weren’t as tough back then. However, I believe the CTE issue and the early deaths of many enforcers is a big concern to the NHL.
+
+In my experience fights can happen for a number of reasons:
+
+  • rivalry between teams or players
+  • trash-talking
+  • to shift momentum in a game
+  • to protect an important player
+  • to intimidate the opposing team
+  • to excite the crowd
+If you suffer from any type of muscle pain. Use this roller on the affected areas and it should help.
+
+although we don't get ice Hockey in Britain for what I see of it on the Olympics games is they punch each other because they have helmets on, to us Brits, that's the most interesting part of it, .sorry mate but 95 percent of American sports do not interest us in England..we prefer Football where there is a Netted goal each end of the pitch and 2 goalkeepers ⚽️
+
+The players in hockey are very young, loaded with testosterone, and have a club.
+
+There aren’t “so many” fights in hockey. Fighting is a relatively rare occurrence and usually only happens after a player from 1 team cheap shots a player from another team, resulting in an injury to the other player while the player who performed the cheap shot gets away with it while the refs turn a blind eye to the action. In this case, obviously, the other team would seek some form of retribution to avenge their loss, and this is where the fight escalates. Fighting can also be a way to boost morale. When the game is tied, and your team’s best player gets into a scuffle with the best player
+<USER>

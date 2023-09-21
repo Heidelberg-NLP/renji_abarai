@@ -1,0 +1,153 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should people become vegetarian?
+Text: Persuasive speech on why you should become vegetarian Free Essays | Studymode
+
+"Persuasive speech on why you should become vegetarian" Essays and Research Papers
+
+Sort By:
+Satisfactory Essays
+Good Essays
+Better Essays
+Powerful Essays
+Best Essays
+Page 1 of 50 - About 500 Essays
+  • Good Essays
+
+    If I told you that you were‚ on a daily basis‚ consuming food that could potentially give you serious health issues‚ would you still eat it? The human body is in fact‚ designed to sustain a vegetarian diet. Most of you are‚ on a daily basis eating meat‚ poultry or fish – which have also been linked to a large number of chronic diseases and cancers. Alongside this‚ animals are treated extraordinarily cruelly and inhumanely when it comes to satisfying us humans. This is wrong and needs to be fixed
+
+    Free Nutrition Meat Vegetarianism
+
+    • 731 Words
+    • 3 Pages
+    Good Essays
+  • Good Essays
+
+    Having a vegetarian diet has been a topic that creates conflicting opinions‚ and it seems that the controversy gets bigger as time goes on. In the times that we are living in today‚ where we are constantly bombarded with information through television or internet‚ it makes it hard to know who is right and who is wrong on this issue. On one hand‚ we have the ones who believe that eliminating meat and processed foods from our diets and replacing them with vegetables and fruits is the solution to
+
+    Free Nutrition Meat Vegetarianism
+
+    • 1132 Words
+    • 5 Pages
+    Good Essays
+  • Good Essays
+
+    always held the view that killing an animal for food is morally wrong due to having being brought up as a vegetarian. Although I will maintain this lifestyle for as long as I live‚ I have begun to understand why the majority of people find vegetarianism a mystery. Around two million land animals are slaughtered everyday in the UK alone to be devoured by humans #. Whether this is a surprise to you or not‚ this is a big proportion of livestock and there is bound to be millions of more animals being
+
+    Premium Meat Cattle Rainforest
+
+    • 952 Words
+    • 4 Pages
+    Good Essays
+  • Good Essays
+
+    Should people become vegetarians? Today people have many concerns in their lives so their attentions to what they eat decreases day by day. In this chaotic world eating meat-based diet cannot be good for people and the world around them. Switching to a vegetarian diet is the most effective thing that people can do to make this world a kinder‚ fairer‚ and better place to live and this can improves health. As Albert Einstein said‚ "Nothing will benefit
+
+    Free Nutrition Meat
+
+    • 761 Words
+    • 4 Pages
+    Good Essays
+  • Good Essays
+
+    Why people become vegetarians? According to the growing population on Earth‚ there are approximately 17 million vegetarians in the world. Vegetarians are people who have decided to say “NO” to products of an animal origin. Today vegetarianism also is considered a slimming diet. But in origin‚ about a thousand years ago‚ the idea of animal origin product refusal had more religious character. The first vegetarians were ancient religion and the philosophical representatives‚ which supported
+
+    Free Meat Vegetarianism Developed country
+
+    • 2094 Words
+    • 6 Pages
+    Good Essays
+  • Satisfactory Essays
+
+    Become a Vegetarian
+
+    • 522 Words
+    • 3 Pages
+
+    Become a Vegetarian! Shatia Davis General Purpose: To persuade. Specific Purpose: Today‚ I will persuade you why you should become a vegetarian. Thesis statement: I will tell you first where some meat really comes from; second I will tell you how some animals are slaughtered; lastly I will try to persuade you to become a why vegetarian. * Attention-getter: How many people in here eat meat? Well I’m sure some of you can’t imagine a day without meat‚ that’s why I’m here today to persuade
+
+    Free Meat Ethics of eating meat
+
+    • 522 Words
+    • 3 Pages
+    Satisfactory Essays
+  • Good Essays
+
+    Should all people become vegetarians ? As we can now observe‚ vegetarianism has become something fashionable‚ and the number of people who reject eating meat is constantly increasing. In Britain‚ for instance‚ over 5 million people have done it so far. It is obviously connected with the recent animal diseases‚ but this tendency is likely to spread on the other regions of the world. However‚ it is not only a fashion or fear of illnesses. I myself became a vegetarian about 2 years ago‚ and I can
+
+    Free Meat Ethics of eating meat Vegetarianism
+
+    • 806 Words
+    • 4 Pages
+    Good Essays
+  • Powerful Essays
+
+    transforming into a better student‚ which made me wonder why I wanted to become a better student. Students should become better in their studies to achieve higher self-esteem about themselves and their education‚ to help themselves financially‚ and to challenge themselves to become critical thinkers‚ creative individuals‚ better problem solvers‚ and hard workers to prepare themselves for the future. Wondering and figuring out why I wanted to become a better student continued me on my path of improvement
+
+    Premium Self-esteem Problem solving High school
+
+    • 1564 Words
+    • 7 Pages
+    Powerful Essays
+  • Better Essays
+
+    Why Not to be a Vegetarian
+
+    • 1671 Words
+    • 7 Pages
+
+    Why Not To Be a Vegetarian? The English College in Prague - Anglické gymnázium‚ o.p.s. Abstract In this essay I will discuss and explain why not to be a vegetarian. Nowadays more and more people decide to become a vegetarian and I have written out the main reasons why people become vegetarians. Then I have explained which nutrients are not in vegetarian diet. I have also pointed out some benefits of being a vegetarian and then written out reasons why is human meant not to be a vegetarian and
+
+    Premium Meat Nutrition Ethics of eating meat
+
+    • 1671 Words
+    • 7 Pages
+    Better Essays
+  • Good Essays
+
+    Semi-Vegetarianism Specific Purpose: to persuade my audience to adopt a semi-vegetarian diet Central Idea: To explain to my audience the health‚ animal‚ and environmental benefits of eating a diet with limited meat intake Introduction I. Did you know 70% of Americans die prematurely of 3 killer diseases? Heart disease‚ stroke‚ and cancer. Fortunately for us‚ many of these deaths can be prevented by switching to a semi vegetarian diet II. For four years now‚ I’ve been a semivegetarian. I’ve learned
+
+    Premium Nutrition Meat Vegetarianism
+
+    • 308 Words
+    • 2 Pages
+    Good Essays
+Previous
+Page 1 2 3 4 5 6 7 8 9 50
+<USER>

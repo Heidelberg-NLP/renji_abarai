@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ZYA0g5jnZm2DyBDPCdr9n7Su4S",
+  "object": "chat.completion",
+  "created": 1683104180,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2267,
+    "completion_tokens": 21,
+    "total_tokens": 2288
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Low - This text is an advertisement for House of Vape and does not contain an argumentative perspective."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ3ijfJ263RQc7nTXn5DXl5AjN9B",
+  "object": "chat.completion",
+  "created": 1682690898,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2918,
+    "completion_tokens": 17,
+    "total_tokens": 2935
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The arguments provided are from the Pro position, in support of mandatory vaccines for children."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

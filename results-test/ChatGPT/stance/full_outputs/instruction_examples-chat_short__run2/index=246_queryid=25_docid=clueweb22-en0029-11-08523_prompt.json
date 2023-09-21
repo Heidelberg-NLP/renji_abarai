@@ -1,0 +1,122 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should education free
+Text: Primary education
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+School children in primary education, Chile
+Total net enrollment rate in primary education, 2015[1]
+
+Primary education is typically the first stage of formal education, coming after preschool/kindergarten and before secondary school. Primary education takes place in primary school, the elementary school or first and middle school depending on the location.
+
+The International Standard Classification of Education considers primary education as a single-phase where programmes are typically designed to provide fundamental reading, writing, and mathematics skills and establish a solid foundation for learning. This is ISCED Level 1: Primary education or first stage of basic education.[a][2]
+
+Definition[edit]
+
+The ISCED definition in 1997 posited that primary education normally started between the ages of 5 – 8 and was designed to give a sound basic education in reading, writing, and mathematics along with an elementary understanding of other subjects. By 2011 the philosophy had changed, the elementary understanding of other subjects had been dropped in favour of "to establish a solid foundation for learning".[2]
+
+The United Nations Children's Fund (UNICEF), believes that providing children with primary education has many positive effects. It:
+
+The ages cited cover a rapidly developing phase of child development. This is studied in the discipline of developmental psychology, which attempts to describe how children learn.
+
+In the United Kingdom, reception, the first year of primary school, is part of the Early Years Foundation Stage.
+
+The philosophy of education—teaching and learning—has, over the millennia, occupied many great minds. It attempts to say what children should be taught.
+
+History[edit]
+
+In pre-agrarian cultures, children learnt by following their instinct to play. There was no need for enforced education.[4] In agrarian cultures, agriculture, husbandry, bartering, and building skills can be passed on from adults to children or master to apprentice. Societies agree on the need for their children to learn and absorb their cultural traditions and beliefs. They attempt to do this informally in the family or by gathering the children together and employing a tutor to handle the task. This worked well for the landowners, but the children of the landless would be employed from the age of seven as servants. In one source from the turn of the 15th century, a French count advised that nobles' huntsmen should "choose a boy servant as young as seven or eight" and that "...this boy should be beaten until he has a proper dread of failing to carry out his masters orders." The document listed chores that the boy would perform daily and that the boy would sleep in a loft above the kennels to attend to the hounds' needs.[4][5]
+
+Religious communities became providers of education and defined the curriculum. Learning to recite passages from their holy text is a priority. For their society to advance, the oral tradition must be superseded by written texts; some students must write down the passages. Monasteries students needed to read out what is written in the religious language and not just the vernacular. This led to formal education in madrassas and schools. Martin Luther declared that salvation depends on each person's own reading of the Scriptures.[4] Trading and management create a demand for accountancy. Basic skills thus included literacy and numeracy. This was the core of Elementary Education.
+
+Formal primary education[edit]
+
+In mid 17th century America, Massachusetts became the first colony to mandate schooling for this purpose. Beginning in 1690, children there and in adjacent colonies learned to read from the New England Primer, known colloquially as "The Little Bible of New England".[4]
+
+In England, 1870 was the beginning of compulsory state education.[6] Elementary schools in England and Wales were publicly funded schools which provided a basic standard of education for children aged from six to 14 between 1870 and 1944. These were set up to enable children to receive manual training and elementary instruction, and provided a restricted curriculum with the emphasis on reading, writing and arithmetic (the three Rs). The schools operated on a monitorial system, whereby one teacher supervised a large class with the assistance of a team of monitors, who were quite often older pupils. Elementary school teachers were paid based on students' results. Their pupils were expected to achieve precise standards in reading, writing and arithmetic: such as reading a short paragraph in a newspaper, writing from dictation, and working out sums and fractions.[7] To achieve this, a dual education system was initiated, consisting of both voluntary denominational schools and non-denominational state schools (Board schools) to supplement rather than replace schools already run by the churches, guilds, and private individuals or organisations.[6]
+
+Before 1944 around 80 percent of the school population attended elementary schools through to 14. The remainder transferred either to secondary school or to junior technical school at age 11. The school system was changed with the Education Act 1944. Education was restructured into three progressive stages, which were known as primary education, secondary education and further education.[8]
+
+Timeline of 20th century English education[edit]
+
+  • 1912 – Maria Montessori publishes The Montessori Method.
+  • 1915 – John and Evelyn Dewey publish School of Tomorrow.
+  • 1918 – Education Act 1918 ends all fees for elementary education and raises the school leaving age from 12 to 14.
+  • 1919 – The Burnham Committee introduces national pay scales for elementary teachers.
+  • 1923 – Piaget publishes The Language and Thought of the Child.
+A S Neill opens Summerhill.
+  • 1944 – Elementary education split by age into primary and secondary. A tripartite system with an eleven plus exam.
+  • 1955 – The last gas lamps are removed from London schools.
+  • 1957 – Britain's first school TV was broadcast by Associated Rediffusion in May,
+  • 1958 – BBC Schools TV broadcasting
+A S Neill's Summerhill published.
+  • 1963 – London and Manchester end 11-plus.
+  • 1967 – The Plowden Report advocates the expansion of nursery schooling.
+  • 1968 – The Newsom Report on public schools calls for integration with state schools.[9]
+
+Child development during the primary education phase[edit]
+
+Jean Piaget was responsible for establishing the framework that describes the intellectual, moral and emotional development of children.[10] He received a doctorate in 1918 and did post-doctoral research in Zürich and Paris. [11] His thoughts developed in four phases:
+
+  1. the sociological model of development- where children moved from a position of egocentrism to sociocentrism. he noticed there was a gradual progression from intuitive to scientific and then socially acceptable responses.
+  2. the biological model of intellectual development -this could be regarded as an extension of the biological process of the adaptation of the species, showing two ongoing processes: assimilation and accommodation.
+  3. the elaboration of the logical model of intellectual development, where he argued that intelligence develops in a series of stages related to age and are progressive because one stage must be accomplished before the next can occur. For each stage of development, the child forms an age-related view of reality.
+  4. the study of figurative thought- this included memory and perception. Piaget's theory is based upon biological maturation and stages; the notion of readiness is important. Information or concepts should be taught when the students have reached the appropriate stage of cognitive development and not before.[12]
+
+Using this framework, the child's staged development can be examined. Lev Vygotsky's theory[13] is based on social learning, where a more knowledgeable other (MKO) helps a child progress within their zone of proximal development (ZPD). Within the ZPD, there are skills that the child could do but needs to be shown to move from yearning to independent proficiency.[13] The assistance or instruction becomes a form of Instructional scaffolding; this term and idea was developed by Jerome Bruner, David Wood, and Gail Ross.[14] These are in the realms of the:[15]
+
+  • Intellectual
+  • Physical
+  • Learning skills
+  • Language
+  • Emotional
+
+International interpretations[edit]
+
+Millennium Development Goals[edit]
+
+A poster at the United Nations Headquarters in New York City, New York, United States, showing the Millennium Development Goals
+
+The United Nations Millennium Development Goal 2 (2002) was to achieve universal primary education by 2015. By that time, they aimed to ensure that all children everywhere, regardless of race or gender, could complete primary schooling.[16]
+
+Because the United Nations specifically focused on Sub-Saharan Africa and South Asia, as they are both home to the vast majority of children out of school, they hypothesized that they might not have been able to reach their goal by 2015. According to the September 2010 fact sheet, this was because there were still about 69 million school-age children who were not in school with almost half of the demographic in sub-Saharan Africa and more than a quarter in Southern Asia.[17]
+
+In order to achieve the goal by 2015, the United Nations estimated that all children at the official entry age for primary school would have had to have been attending classes by 2009. This would depend upon the duration of the primary level and how well the schools retain students until the end of the cycle.
+<USER>

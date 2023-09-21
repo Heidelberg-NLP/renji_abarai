@@ -1,0 +1,119 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is homework beneficial?
+Text: Why homework is bad - Reasons why homework is not necessary
+Select Page
+
+The question of whether homework is bad or good has been the subject of debate for many years. The argument for homework is that it prepares students for higher education, helps them to understand and apply concepts taught in class, and provides extra practice. On the other hand there are also arguments against homework: it causes too much stress on children, it takes away from family time, and forces children to learn at a time when they should be relaxing. Unfortunately, due to its long history of controversy, this issue has not yet been completely resolved.
+
+Is homework bad or good?
+
+The first reason parents should not have their child do homework is that most assignments do not help prepare a student for later life in any way. Schools assign homework because it seems like the right thing to do; however there is no actual proof that doing so increases student’s knowledge or leads to better grades. For example, a study by Michael Shaughnessy at Francis Marion University found that students who had daily homework and attended class regularly had slightly lower grades than those who only came to class and did not do any additional work. In addition, Harvey Daniels and Kennard Crippen of the University of Florida studied over 2,000 high school students and found no relationship between homework completion and final grades (Brown).
+
+Need help with essays, dissertations, homework, and assignments? Stop wasting time and post your project on tutlance and get a real professional to do your work at CHEAP prices. Watch while Tutlance experts outbid each other.
+
+SAVE MY TIME!
+
+As for learning concepts in class, Homework does help some children. It is unlikely many students could learn all they need in an hour-long session of reading from a textbook while sitting quietly at their desks three times a week. However most teachers understand this; they assign supplementary practice as part of the learning process. Therefore children should not have more homework, but rather they should be given better quality assignments.
+
+For example, on September 25 2009 in a middle school math class, twenty-five minutes were spent reviewing for an upcoming quiz and completing an assignment to find all possible combinations of two numbers that total a certain value (Mullis). The teacher could just as easily have assigned a worksheet asking students to solve one problem each day leading up to the quiz. This would be much more beneficial to students because it is more difficult and takes significantly longer. However many teachers do not give extra practice problems; instead they simply assign several pages from the book to read nightly. Homework is often redundant and unnecessary.
+
+Why homework is bad
+
+This leads into the second reason why homework is bad: it causes too much stress for children. A study done by Sarah Allen and her colleagues at the University of Michigan found that of the more than 4,000 students surveyed across four schools, 86% said they experienced academic pressure as a result of homework (Brown). Furthermore, Sheena Lyengar, a professor at Columbia University’s Graduate School of Business claims after surveying 1,100 parents and their three to ten-year-olds that roughly 70 percent are concerned about their kids’ heavy workloads (Lieber). Homework takes up valuable time that could be spent traveling with friends, playing sports or games, having dinner with family members, watching television or simply relaxing.
+
+Susan Engel has conducted studies at Williams College on the negative emotional effects homework has on both students and teachers. For example, in one experiment she timed how long a group of third-, fourth-, and fifth-graders worked when they were told to complete as many addition problems as possible before a bell rang. The results were that only 10 percent of the students could complete a significant amount; however when told not to worry about time, every student was able to finish (Lieber). The conclusion drawn from this study is that forcing children who are not interested in an assignment to work for long periods of time limits their ability to actually learn. Furthermore, there are other ways besides homework that can help children enhance their problem solving skills such as playing games or just having fun with each other.
+
+In another study, Engel observed forty-three sixth grade teachers and concluded that the more homework they assigned the more difficulty they had controlling their classes (Lieber). This is because children are exhausted from working hard at home and therefore restless in class which makes it difficult for them to sit still. In addition, when students have too much work they must do after school, this leaves less time for studying and reviewing material.
+
+Susan Engel’s final conclusion is that, “More homework does not necessarily mean better results but it does mean more stress.” Many studies agree with her such as Professor Harris Cooper from Duke University who found that the average student spends nearly six hours a week on homework (Brown). However Cooper also has stated this number has increased significantly since the 1960s. If this is true, then why have students’ test scores remained relatively similar over the last forty years?
+
+Many people do not find anything wrong with a bit of additional practice to better understand concepts taught in class; however long essays and complex problems are unreasonable and unnecessary for most children. Teachers need to listen more carefully to what their students think about homework. One solution would be to provide teachers with more time for planning and creating more effective activities instead of forcing them to spend so much time grading papers (Lieber).
+
+Do the Benefits of Homework Outweigh the Costs?
+
+Homework has both positive and negative effects on students’ academic success. When a student gets proper restorative sleep each night their ability to focus increases dramatically which will result in an overall better performance on schoolwork and tests (Cherney). Furthermore, there are two types of responses to stress: fight-and-flight or rest-and-digest (Selya). This concept indicates that children who have less work would have the energy to engage in fun activities rather than fight-or-flight responses.
+
+Standard benefits of homework:
+
+  • Get a better understanding of the material.
+  • Practice skills that will be useful in future classes.
+  • Gain independence and responsibility.
+
+Emotional benefits of homework:
+
+  • Learn to take care of yourself without your parents’ help.
+  • Show off to friends by telling them you’re doing homework on a Friday night!
+
+Reasons why homework is bad:
+
+  • Waste time.
+  • Make kids feel tired and stressed on a Saturday morning.
+  • Cuts into family time, television watching, or active playtime.
+  • Add to stress levels of children who already have too much homework.
+  • Creates resentment toward parents and siblings for giving them so much work.No one likes having to complete more work every night when they come home from school
+  • Homework makes the child feel like their parent doesn’t care about them anymore because all they do is give them homework constantly!
+  • Not only does this cause problems within the family but also with friendships as well because if your best friend comes over after school you may not be able to sit down and play with them because you have homework to do.
+  • If parents constantly make their kids complete hours of homework a night, then the child will find it difficult to fall asleep and end up being tired the next day which can lead to depression and even drug abuse.
+  • Homework is bad for health: When children come home from school they are exhausted and just want to relax but instead they have an endless amount of work that needs to be done for the following night. Then when they get assigned more for a second night in a row, this isn’t good for anybody’s health.
+
+Final Thoughts on Why Homework Is Bad
+
+In conclusion, there are hundreds of thousands of parents who feel like Susan Engel does that “homework is out of control.” Homework overload can cause too much stress for both students and teachers resulting in many negative impacts on a child’s life.
+
+Homework should not be given during weekends or nights because that is family time where everyone should be able to spend time together until bedtime.
+
+Even though homework is supposed to be for practice, it interrupts this time.
+
+Homework causes a lot of tension within families because if one siblings has to much then the other one gets mad and vice versa.
+
+If in school students are forced to do an hour or two hours of homework a night before their parents realize how hard it actually is for them they will start to get behind. This can cause troubles with work for younger grades that are just starting out at schools.
+
+As well as, making older ones feel depressed about doing more work even though there going through enough already.
+
+Even though there are certain benefits when completing homework such as improved grades and learning skills, there are also many negative effects it has on children. In an article written by Emily Yoffe, homework is seen to have a bad effect on students with ADD or ADHD because they lose their ability to “focus and learn”.
+
+The majority of the time homework is bad for children because it has negative effects on their health.
+
+Furthermore, research has shown that homework is no more effective than practice at home. Meaning that if students don’t complete work at school they won’t be able to finish it later either. For these reasons, I stand by my statement that homework is bad for most children.
+
+Stop struggling with your academic work! Why not post your project and get 100% authentic work done at your price? Click the button below to choose your expert for free.
+
+Find a Tutor
+<USER>

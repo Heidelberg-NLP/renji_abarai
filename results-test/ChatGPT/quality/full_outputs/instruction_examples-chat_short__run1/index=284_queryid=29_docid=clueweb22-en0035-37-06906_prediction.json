@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJQS3v77E5lYUJ8EGxKlgVLTV3Zl",
+  "object": "chat.completion",
+  "created": 1682692308,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2902,
+    "completion_tokens": 82,
+    "total_tokens": 2984
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There are arguments on both sides of this debate, with some arguing that illegal immigrants should be granted legal citizenship because they are human beings deserving of equal rights and opportunities. Others argue that they should not be rewarded for breaking the law and that it is unfair to those who have gone through the legal process. The language and structure of the arguments vary, but overall the debate appears to be of medium rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

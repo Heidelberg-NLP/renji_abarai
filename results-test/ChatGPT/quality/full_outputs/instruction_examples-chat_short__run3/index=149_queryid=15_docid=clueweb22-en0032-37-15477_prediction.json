@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C32NtpWeu6PbaJWSQVqwbivuJhTY",
+  "object": "chat.completion",
+  "created": 1683105967,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1960,
+    "completion_tokens": 51,
+    "total_tokens": 2011
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The given text contains multiple arguments for both sides of the debate on whether animals should be used in testing new drugs and procedures. There is an attempt to present both sides fairly with some supporting evidence. Therefore, it can be considered as a medium quality argument."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

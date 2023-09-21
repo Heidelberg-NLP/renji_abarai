@@ -1,0 +1,178 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should churches remain tax-exempt?
+Text: Tax exempt number - How To Discuss
+
+Tax exempt number
+
+Tax exempt number
+
+How to get a non profit tax exempt number?
+
+  • Types of exempted organizations
+  • Conditions tax exemption. Nonprofits that qualify for IRS tax exemptions are exempt from most federal income taxes.
+  • Tax exemption status registration. First of all, you need to register a letter in your country to start your non-profit.
+  • Benefits of Tax Exemption.
+
+How do you check your tax exempt status?
+
+Another way to verify your business tax exemption is to call the IRS at 18778295500. The IRS agent will determine your legal status by providing your name, address, and employer identification number. You can also request an assessment letter from the IRS from a company that recognizes it as tax-exempt.
+
+Are tax exempt numbers the same as Ein numbers?
+
+The government tax identification number is also known as the Employer Identification Number (EIN). Most companies are required to obtain an EIN. Individual entrepreneurs are an exception to this. Sole proprietors can use their citizen service number (BSN) to file their tax return. The company must have an EIN, but not necessarily a tax exemption number.
+
+What is the difference between a federal tax ID and tax-exempt number?
+
+The federal taxpayer identification number and the tax exemption number are very different. A state taxpayer identification number identifies a business regardless of IRS registration status, just as a Social Security number identifies an individual.
+
+Home Depot Tax Exempt
+
+Does a nonprofit need tax exempt status?
+
+The status of a non-profit organization may lead to the organization receiving certain benefits such as: B. Exemption from sales tax, property tax and income tax. However, this corporate status does not automatically provide exemptions from federal income tax. In order to be tax exempt, most organizations must file an application with the Internal Revenue Service for tax exemption recognition to receive a tax return notice or letter confirming the tax exemption.
+
+What is the difference between nonprofit and tax exempt?
+
+Since the concepts are completely different, it is important to understand the difference. Nonprofit organization status refers to status under state law. Tax-exempt status is associated with federal income tax exemptions under the Internal Revenue Code ("the Code") and certain state taxes.
+
+:eight_spoked_asterisk: How do you look up a tax exempt number?
+
+Another way to verify your business tax exemption is to call the IRS at 18778295500. The IRS agent will determine your legal status by providing your name, address, and employer identification number.
+
+How to check a tax exempt number?
+
+You can check the nonprofit tax exemption number to make sure the organization is legal. Collect information about the organization, including name, address, city, state, and zip code. Visit the IRS website and go to the Charities and Nonprofits page. Select Search Charities and go to Search Now.
+
+Form 990 pf instructions
+
+:diamond_shape_with_a_dot_inside: How to get a non profit tax exempt number for business
+
+How do I find my business tax exemption number? You can also find and verify a tax-exempt company number. Visit the dedicated website. Visit the Department of Revenue or Comptroller's website for nonprofit health information.
+
+:diamond_shape_with_a_dot_inside: Non-profit tax exempt form 1023
+
+IRS Form 1023 is classified as a statement of exemption under Section 501(c)(3) of the Internal Revenue Code. To qualify for a federal income tax exemption under Section 501(c)(3) of the IRS Code, qualified organizations or nonprofits must complete Form 1023. Purpose of IRS Form 1023.
+
+When to file IRS Form 1023?
+
+Form 1023 must typically be filed within 15 months of the organization's incorporation. For practical reasons, many organizations prefer to apply as soon as possible after the training. Extensions for 15 months are possible under various circumstances.
+
+What are the fees to file Form 1023?
+
+Organizations that file Standard Form 1023 will pay a $600 filing fee when filing with the IRS. Organizations that complete Form 1023EZ will pay a reduced registration fee of $275.
+
+Home Depot Pay Stub
+
+Where can I find a nonprofit's Form 1023?
+
+If you need help filling out Form 1023 on your own, I highly recommend visiting Donate there (much less than a lawyer) and you will find many resources. NOLO Publishing is really good at helping people in the early stages of starting a nonprofit.
+
+How to get a non profit tax exempt number in texas
+
+A Texas nonprofit, whether an unregistered corporation or association, is not automatically exempt from federal or state taxes. To qualify for a tax exemption, an organization must meet certain requirements and file an application with the IRS and the Texas Comptroller.
+
+:eight_spoked_asterisk: Can a nonprofit organization claim a sales tax exemption in Texas?
+
+If a nonprofit organization qualifies for a tax exemption from the Comptroller's Office, it may request a tax exemption for the purchase of a taxable item by providing the seller with a properly completed Form 01339. , Texas Sales and Use Tax Exemption Certificate. (back) (PDF).
+
+How do I get an exemption for a religious organization in Texas?
+
+Complete and submit Form AP209, Texas, Application for Exemption - Religious Organizations (PDF) to the Office of Controllers and submit all required documents identified in the application. Non-registered organizations must have a copy of the organization's founding document, for example: B. Articles of Association or Foundation.
+
+Duty free
+
+:brown_circle: How do I get an exemption from the Texas Comptroller?
+
+IRS Form 1023 (PDF) Exemption Statement and Instructions (PDF). Information about the reporting requirements of Form 990N for small, tax-exempt organizations whose gross income is typically less than $50,000. The Texas Tax Credit Comptroller's Guide Page.
+
+How do I get a tax exemption for a charitable organization?
+
+To qualify for federal tax exemption as a nonprofit, your articles of incorporation must include a mandatory factual clause and asset depreciation. IRS Publication 557 (PDF,), Tax Exempt Status for Your Organization.
+
+How to get a non profit tax exempt number lookup
+
+The IRS does not issue numbers to tax-exempt organizations in particular. Tax-exempt organizations can be churches, charities, private foundations, charities, professional associations, community clubs, fraternities, charities, veterans organizations and politicians, etc. Organization, visit your government finances.
+
+:brown_circle: Non-profit sales tax exempt
+
+In some states, a charity is exempt from sales tax in most cases when the transaction relates to the charity for which it was established. In other states, the exception depends on the number of sales the nonprofit has made or made in a given year, and the nature of those sales.
+
+Tax Treatment Of Life Insurance Payments
+
+Do nonprofits collect sales tax?
+
+In most states, nonprofits must pay sales tax on their purchases and collect sales tax on the items they sell. Some states allow nonprofits, such as charities, to apply for a special exemption, but these benefits generally only cover purchases the organization makes for tax-exempt purposes.
+
+:eight_spoked_asterisk: What taxes do non profits pay?
+
+While the income of nonprofits may not be subject to federal tax, like any commercial business, nonprofits pay employee taxes (Social Security and Health Care). Millions Number of Nonprofits Registered with the IRS in 2016, According to the National Center for Charity Statistics.
+
+Do nonprofits file tax returns?
+
+Steps Determine if you need to make a deposit. Some tax-exempt (non-profit) businesses are exempt from filing an annual tax return. Decide which form you want to submit. The income tax return your nonprofit has filed depends largely on how much money your organization made in that tax year. Fill in the income tax return form.
+
+Do nonprofit organizations pay taxes?
+
+Nonprofits are not subject to federal income taxes, but they still pay payroll and property taxes, as well as local and municipal taxes.
+
+How to get a non profit tax exempt number search
+
+You can also find and verify a tax-exempt company number. Visit the dedicated website. Visit the Department of Revenue or Comptroller's website for nonprofit health information.
+
+What organizations are tax exempt?
+
+There are many organizations that can be exempt from tax. Here are some common tax-exempt organizations: churches and religious organizations. Educational organizations. Social protection organizations. Brotherhoods, clubs and associations.
+
+:brown_circle: How to get a non profit tax exempt number look like
+
+To apply for an Exemption Number (E), nonprofit organizations must submit Form STAX1, Request for Tax Exemption and attach a copy of the following: Articles of Association, if registered. Letter from the organization, if not registered. Minutes of the organizations. A short story that explains the organization's goals, functions, and activities.
+
+:diamond_shape_with_a_dot_inside: How do I apply for tax-exempt status?
+
+After following the steps on this page, you need to determine what type of tax exemption you want. Remark. Beginning January 31, the IRS requires that applications for recognition of exemptions be submitted electronically online using Form 1023.
+
+Po number meaning
+
+:diamond_shape_with_a_dot_inside: How do I check if an organization is currently tax-exempt?
+
+To check if an organization is currently recognized as tax-exempt by the IRS, call Customer Records at (877) 8295500 (toll free). From the drop-down menu, select the Internal Revenue Code (IRC) section that describes the type of organization that is generally exempt from federal income tax.
+
+How do I check the status of my tax return application?
+<USER>

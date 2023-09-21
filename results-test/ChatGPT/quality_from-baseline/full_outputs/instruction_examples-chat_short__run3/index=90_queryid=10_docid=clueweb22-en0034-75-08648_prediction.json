@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1HrFRADRi2f1oHwI4PcAz2mnOoN",
+  "object": "chat.completion",
+  "created": 1687865799,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "These quotes seem to primarily support the idea that vaccines should be required for children. So, PRO."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2918,
+    "completion_tokens": 20,
+    "total_tokens": 2938
+  }
+}

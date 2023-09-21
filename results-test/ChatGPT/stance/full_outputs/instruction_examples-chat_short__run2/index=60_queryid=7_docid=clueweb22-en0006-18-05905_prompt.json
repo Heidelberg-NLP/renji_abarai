@@ -1,0 +1,97 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should felon who have complete they sentence allow vote
+Text: US-NEWS-HIGH-COURT-ASKED-TO-LIFT-DBN.jpg
+
+Felons deserve the right to vote.
+
+When a person is convicted of a felony, they lose some of their rights. They’re barred from traveling abroad, owning firearms and pursuing certain jobs like teaching or childcare.
+
+They also lose the right to vote.
+
+Many of the other consequences make sense. Felons may pose a threat if they’re allowed to own a gun or teach in a classroom. Voting poses no threat. It allows felons to engage in their civic rights and even build back the life they may have lost when convicted.
+
+Felons should be allowed to vote. Voting is an inalienable human right, civic duty and pillar of democracy. Voter disenfranchisement of felons is a large part of the injustices ingrained in the U.S.’s voting system. If we can recognize felons’ right to vote while standing up to the recent attacks on mail-in voting and repealing voter suppression laws, there may still be a chance to restore integrity to our voting system.
+
+Each state has its own laws regarding the subject. In Maine and Vermont, a felon will never lose their right to vote. On the contrary, in 11 states — including Virginia — felons who have completed their sentence must take action to regain the right. In other states, the right to vote is automatically restored after incarceration or the completion of their sentence. There must be a national effort to fix this so that felons, and all prisoners, never lose their voting rights.
+
+Violation of human rights
+
+In America, the right to vote is a human right. In the past, prisoners would experience a sort of “civic death” while they were behind bars. However, in recent years, steps have been taken to restore livelihood to incarcerated people. They’re allowed religious freedom and political opinions.
+
+Most importantly, the Supreme Court decided in 1958 that no one can lose their status of citizenship as punishment for a crime. If voting is the constitutional right of every American citizen, felons must be allowed to do so as well. Justice Earl Warren put it simply during the Trop v. Dulles case that ensured citizenship for felons.
+
+“Citizenship is not a right that expires upon misbehavior,” Warren said.
+
+Voting shouldn’t be one either.
+
+The U.S. makes up only 5% of the world’s population. Despite this, it also accounts for 20% of the world’s incarcerated people, with 2.3 million Americans in prison. That’s about 2.3 million people who aren’t able to vote.
+
+Discrimination against racial minorities
+
+Barring felons from voting also disproportionately affects racial minorities. In studies conducted in 2017, the adult — or voting age — population in the U.S. is 64% white, but only 30% of prisoners are white. On the contrary, Black citizens are 12% of the population but account for 33% of prisoners, and Hispanics are 16% of the population and 23% of prisoners.
+
+Racial inequality affects many institutions, but it shouldn’t affect any citizen’s fundamental right to vote. Because of our broken and racist justice system, along with many subtler forms of voter suppression, people of color are more likely to be imprisoned and stripped of their right to vote.
+
+What’s worrying regarding the coming election is that many Black Lives Matter protestors have been imprisoned since the protests erupted in late May. Many of them are convicted of felonies or may be spending years in prison.
+
+In some states, lawmakers are working to pass legislation that would dictate some acts of protest as felonies. In Tennessee, a bill has been sent to the Republican governor which would punish those who illegally camp on state property with a Class E felony — or 1-5 years in prison — rather than a misdemeanor.
+
+“If you want to overthrow our government through violent revolution, you shouldn’t have the right to vote,” Sen. John Stevens (R-Tenn.) said.
+
+This statement is incorrect for many reasons. While acts of rioting and violent destruction have spread across the country, a large number of the protests have been peaceful. Most protestors aren’t trying to “overthrow our government,” either. To criminalize a gathering on public property would be a disproportionate punishment on those practicing their First Amendment rights.
+
+If people are gathering in the streets to demand change, the last thing that should happen is to take away their vote.
+
+Tennessee Sen. Brenda Gilmore (D) said that, if passed, the proposed legislation would bring shame to the state for generations to come.
+
+“This bill is one of those things in 55 years we will be ashamed of in how we treated these young protestors and practicing their right to feel,” Gilmore said.
+
+With unrest still flooding the cities of America and thousands of protestors — many of them Black or people of color — being arrested in the streets, there’s never been a more urgent need to restore felons’ right to vote.
+
+To aggressively ignore the humanity, individuality and futures of 2.3 million people incarcerated in the U.S. isn’t democratic at all. It’s a violation of human rights and counteracts America’s constitutional ideals.
+
+Vote and take action 
+
+It’s important to learn about all kinds of voter suppression laws, fight them and make clear that every citizen must be given equal opportunity to vote. Contacting one’s representatives and senators to demand equality for their constituents can bring about great and lasting change.
+
+All eligible voters should register to vote and consider requesting an absentee ballot. If one decides to vote early, they should be aware of their state’s deadline for early voting as well.
+
+Charlotte Matherly is a junior media arts & design major. Contact Charlotte at mathercg@dukes.jmu.edu
+<USER>

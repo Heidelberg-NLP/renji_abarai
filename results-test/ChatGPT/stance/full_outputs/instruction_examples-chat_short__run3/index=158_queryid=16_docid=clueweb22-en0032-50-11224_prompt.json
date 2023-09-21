@@ -1,0 +1,113 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prescription drug advertise directly consumer
+Text: Why You See Such Weird Drug Commercials on TV All the Time
+
+Jason Hoffman Thrillist illustration of a man receiving pills from a pharmaceutical ad
+Jason Hoffman/Thrillist&nbsp;
+
+If you consume any kind of media in America, you've probably seen your fair share of pharmaceutical ads. Most follow a familiar pattern: do you feel [insert symptom]? Has [insert ailment] been holding you back? Roll footage of sad people.
+
+Then there's the invitation to "talk to your doctor" about whatever pill will cure you, along with a couple gaily galloping beachside on horseback, a smiling woman gardening, or a man who's relieved that he doesn't need to urinate during his daughter's wedding. Finally, you hear a string of potential side effects, which could be as mild as dry mouth or as serious as sudden death, and are sometimes so lengthy and ridiculous that you aren't sure whether you're watching a real commercial or a Saturday Night Live rerun.
+
+Prescription drug ads are ubiquitous, to such a degree that most Americans likely don't even think it's strange that patients are asked to recommend drugs to their doctors... which kind of should be the other way around, right? Even stranger, the United States is the only country, besides New Zealand, that legally permits "direct-to-consumer" pharmaceutical advertising. With America in the midst of an opioid epidemic fueled in part by prescription painkillers, it's worth asking how we became a nation that can from one side of the mouth declare a war on drugs, and from the other spew ad copy telling people to take drugs.
+
+click to play video
+YouTube/Mirapex
+
+America has a long history of drug pushing
+
+Before you can wrap your head around drug ads, you have to understand why there's an agency to regulate food and drugs. The Food and Drug Administration was established in the beginning of the 20th century, when all manner of drug-ish concoctions were marketed en masse; this was the era of patent medicines, a time when charlatans hawked cure-all snake oil tonics.
+
+One drug, for example, was marketed as a post-surgical antiseptic, then a floor cleaner, then a cure for gonorrhea, before it finally succeeded as a breath freshener -- today you can still buy Listerine in pretty much any pharmacy when you need to amp up your oral hygiene. Don't you miss the days when your floor cleaner could turn into a mouthwash?
+
+With some exceptions, the average patent medicine was a thinly veiled intoxicant, garnished by herbs with spotty medical benefits. Case in point: Lydia E. Pinkham's Vegetable Compound, which was meant to treat menstrual cramps, and contained a few semi-legit ingredients that mostly amounted to a mild anti-inflammatory and diuretic. The problem was that Lydia's tonic also contained about 25% alcohol, with "problem" being subjective, of course. Other "health tonics" from this time period include Coca-Cola -- which you may know originally contained cocaine, a surefire way to get people hooked.
+
+click to play video
+YouTube/Lipitor
+
+So if the FDA was supposed to stop this, why doesn't it?
+
+The FDA’s stated goals in 1906 (it wasn't known as the FDA until 1930) were roughly the same as they are now: "[the organization] protects public health by assuring the safety, effectiveness, and security of a wide range of products, including prescription drugs."
+
+Despite its lofty ambitions, the FDA was relatively toothless until 1962, when Congress endowed the FDA with some real power to ensure that drug companies didn't make false claims (otherwise known as lies) about their products' effectiveness, and to enforce penalties for any misleading statements or claims. Drug companies were finally held responsible for demonstrating "substantial evidence" for the effectiveness of their products.
+
+Fast-forward to the 1980s: while Ronald Reagan was telling Americans to "Just Say No," the feds cozied up to the pharmaceutical industry, and relaxed their legal restrictions. Direct-to-consumer marketing (DTCM), what you probably know as "drug commercials," was first given the seal of approval in the US in 1985.
+
+Even though pharmaceutical companies were legally allowed to advertise new drugs directly to consumers, the law still required a full list of side effects; this mandate meant DTCM ads were mostly restricted to print, then the only medium that could provide enough space to tell people they might get night sweats and night terrors and night cravings and night terror cravings.
+
+Drug commercials as you know them really only began in 1997, when constraints were further loosened, and new meds began to feature in television commercials. For its part, the FDA notes that no federal law has ever outlawed drug ads, justifying its progressively lax regulation.
+
+click to play video
+YouTube/Cialis
+
+Drugs (and drug ads) have become a HUGE business
+
+In 2014, drug companies spent $4.5 billion on DTCM. Pharmaceutical advertising has spiraled so far out of control that the American Medical Association last year proposed an outright ban on it, arguing that "a growing proliferation of ads is driving demand for expensive treatments despite the clinical effectiveness of less costly alternatives."
+
+An AMA representative elaborated on this position in an email, writing that "the high cost of prescription drugs remains the public’s top health care priority. In the past few years, prices on generic and brand-name prescription drugs have steadily risen and experienced a 4.7 percent spike in 2015."
+
+Pharmaceutical companies like to say that the revenue they generate, thanks in part to advertising and price increases, helps fund further innovations; but despite the astronomical costs of developing new drugs, the drug industry is still one of the most profitable in the world. It would likely do just fine without the ads.
+
+click to play video
+YouTube/Xifaxan
+
+It's not just about the money
+
+All these dollar signs make it easy to forget that the health of real, living people is at stake, and the ramifications of drug ads go far beyond some pharma rep's huge mansion or one-of-a-kind hip-hop album. Prescription drug advertisements contribute to misinformed patients, since they've been shown to increase drug consumption without measurable health benefits.
+
+Prescription-happy doctors might be even scarier than misinformed patients -- after all, patients aren't the ones who spend nearly a decade training to become medical professionals. Reviews of DTCM show that patients tend to be more familiar with a drug's benefits than with its risks, which is bad enough. What's worse is that patients tend believe pills really are the solution to every problem, which can lead to a prescription even when physicians try to discourage their patients. In fact, though there's some lip service paid to lifestyle factors, no drug ads claim that a condition could be resolved through lifestyle changes alone.
+
+This leads to the twin problems of manufacturing illness and over-diagnosis. One of the more common examples of this is erectile dysfunction; the market for the top-three ED drugs tops $1 billion per year, yet only 10% of American men have the actual condition. Meaning a lot of guys on Viagra or Cialis may have had a problem well within the normal range of sexual function... which should be good news!
+
+On the manufacturing illness side, menopause has become a condition with treatable symptoms, rather than a normal part of aging. Hot flashes? You're not getting older, you're sick and need drugs!
+
+click to play video
+YouTube/ABILIFY
+
+In lieu of a law change, treat drug ads like drugs themselves
+
+In the rest of the developed world (again, except for New Zealand... weird, right?), drug ads are illegal. As long as there have been medicines marketed in America, their benefits have been exaggerated, or outright invented -- we're a proud nation of salespeople, but that doesn't mean everyone should be a gullible consumer.
+
+Drug companies will say whatever they can get away with to sell their stuff, just as they always have. As long as we allow them to do so, we’re the ones lining their pockets... and if you choose to buy into the pharma industry's logic that drug ads educate and empower consumers, consider this the necessary list of side effects.
+
+Sign up here for our daily Thrillist email, and get your fix of the best in food/drink/fun.
+
+John Marshall is a contributing writer at Thrillist who sells snake oil that, uh, fell off a truck. Follow him down alleyways, or at @brunodionmarsh.
+<USER>

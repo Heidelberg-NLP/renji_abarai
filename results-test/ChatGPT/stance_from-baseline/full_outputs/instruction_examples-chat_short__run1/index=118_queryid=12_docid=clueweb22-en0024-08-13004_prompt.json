@@ -1,0 +1,98 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should birth control pills be available over the counter?
+Text: Doublex
+
+Of Course Birth Control Pills Should Be Sold Over the Counter
+
+No, they do not interact badly with antibiotics.
+
+Birth control pills
+Birth control pills
+
+Photograph by Barr Laboratories/Getty Images.
+
+With Mitt Romney’s flippant comment last week about defunding Planned Parenthood to cut the deficit (“Planned Parenthood, we’re going to get rid of that“) and the reluctance of religious institutions and hospitals to cover the cost of contraceptive services, the time is ripe for women to make it as easy as possible to get oral contraceptives themselves. The obvious solution is to make the Pill available over the counter. But isn’t that dangerous? Don’t certain oral contraceptives interact in scary ways with other common medications, such as antibiotics? And don’t we need a doctor to help us navigate this complicated maze of information?
+
+Advertisement
+
+Not exactly. First, there are clear guidelines easily available online to determine which women shouldn’t take the Pill at all and which women should have physician oversight. The guidelines are really medical history questions; other than a blood pressure check, a woman can look through the list on her own and determine if she’s a candidate for the Pill. With the combination pill, for example, which contains both estrogen and progestin, women over 35 who smoke and those with chronic medical conditions (including high blood pressure or diabetes, liver disease, specific types of migraines, or a history of blood clots) may be advised not to take the Pill or to take it only with medical supervision. The progestin-only “minipill” can be a good option for women who cannot take an estrogen-containing Pill, since it has fewer risks. User-friendly online guidelines plus a very clear list of risks spelled out on the pill package could make this information easily accessible.  Even serious complications such as blood clots and allergic reactions are not a reason not to make the Pill more easily available. Those are extremely rare, and women would have them whether they got the Pill with a doctor’s prescription or not.
+
+Advertisement
+Advertisement
+Advertisement
+Advertisement
+Advertisement
+
+Second, the belief that all antibiotics render the Pill less effective is false. Despite years of anecdotal reports, the only antibiotic that’s been implicated through scientific evidence is rifampin (and rifampin-related drugs). When combination-Pill users take these antibiotics, used mostly in tuberculosis treatment, they do need backup protection. But there’s simply no definitive evidence that other antibiotics interfere with Pill effectiveness. Aside from those taking rifampin, Pill users should use backup protection with drugs that increase liver microsomal enzyme activity, such as anti-seizure drugs and at least one herbal supplement, St. John’s wort (hypericum). Clear pill package labeling, public education campaigns, accessible online information, and counseling from pharmacists should keep women informed about what interacts with the Pill and what doesn’t.
+
+Advertisement
+
+In many ways having the Pill available over the counter would make it more effective, not less. While the Pill has an impressively low failure rate on paper—0.3 percent in the first year; in practice, the actual failure rate is about 8 percent. One important—and fixable—reason: missed pills and gaps in prescriptions. Some physicians won’t provide a refill prescription unless a woman comes in for an appointment (with some doctors insisting on an often unnecessary pelvic and Pap in many cases). And so for women who can’t get an appointment when they need one, or lack health insurance and can’t afford to see a doctor, or can’t get time off of work to get to an appointment, the story is sadly familiar: missed pills, less effective backup methods, and unintended pregnancies.
+
+Advertisement
+Advertisement
+Advertisement
+
+Making the Pill available over the counter could solve this problem, according to some groups and columns in the New York Times, Los Angeles Times, and Bloomberg News. The easiest way to do this, according to Dr. Daniel Grossman, an OB-GYN on faculty at UCSF and a senior associate at Ibis Reproductive Health, would be to start with the progestin-only minipill. With a new study confirming a low prevalence of contraindications, he told me that “it’s a no-brainer that the minipill should be available over the counter right away.”
+
+Advertisement
+Advertisement
+
+On March 22-23, the FDA will hold a public hearing on possibly changing the paradigm under which medications are considered for over-the-counter status, along with determining “conditions of safe use.” Dr. Grossman and his colleagues are hoping to make the case for the combined Pill. The combined Pill—while also safe for most women—has a longer list of cautions than the progestin-only minipill to take into consideration. These “conditions of safe use” would create a system of evaluating such cautions, including blood pressure. A pharmacy might have, say, a computerized kiosk—a variation of the blood pressure kiosk, or the medication-dispensing kiosk—where a woman interested in an over-the-counter Pill would fill out a simple checklist about her relevant medical history and then pop her arm in a blood-pressure cuff. If she is deemed OK to start the Pill, Dr. Grossman told me, the kiosk might spit out a voucher for birth control pills.
+
+Advertisement
+Advertisement
+Advertisement
+
+Pharmacies in metropolitan Seattle have experimented with another model of “safe use”—the Direct Access study—of making contraceptives available over the counter, in which community pharmacists were permitted to dispense hormonal contraceptives after a woman completed a self-administered screening tool and had weight and blood pressure measurements; both women and pharmacists were satisfied with this experience. Pharmacists already often counsel patients about medications, so it makes sense that they could also play a key role in helping women choose whether an oral contraceptive over the counter would be a good option. Other studies have made it clear that both women and pharmacists would welcome this option: In one study, 68 percent of women interviewed were interested in over-the-counter hormonal contraception, and 63 percent believed that pharmacist screening for safe use was an important part of the process. Pharmacist involvement provides another level of checks and balances, and is especially helpful for women with low health literacy.
+
+Advertisement
+Advertisement
+
+Australia has a new model that closes some of the gap called “medication continuance.” Thanks to their National Health Amendment, which passed in the Australian Senate earlier this month, Australian pharmacists will soon be able to prescribe a one-month supply of oral contraceptives to women who are unable to see the doctor for a visit before their current prescription will expire. The pharmacist is required to write to the doctor to inform him within 24 hours.
+
+Advertisement
+
+The point is, it’s possible to experiment with different options and see what works, as many countries already have. This interactive global map highlights where in the world a woman needs a prescription for oral contraceptives (Iceland, Taiwan), where there may be exceptions (in France, a pharmacist will refill a Pill prescription for up to six months past its expiration), where she does not need a prescription (in Tanzania, no prescription is necessary, but screening by a pharmacist is required), and where oral contraceptives are available without a prescription (Morocco, Tajikistan).
+
+It seems impossible that we would have landed at a moment when our presidential candidates are dubious about birth control, even though 99 percent of women say they have used it. Birth control is not something women in the 21st century thought they would have to fight for. We need to ensure that birth control—that is, birth control beyond condoms and sponges—is always available. It’s something like the strategy of hiding in plain sight. Put the pills on the shelf alongside Tums and toothbrushes and they will be much harder to get rid of.
+
+Advertisement
+<USER>

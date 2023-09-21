@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C38Sp0DB0u1HAPpcFxwdfFTCXFNB",
+  "object": "chat.completion",
+  "created": 1683106344,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1138,
+    "completion_tokens": 84,
+    "total_tokens": 1222
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text argues that obesity lacks a universal concomitant group of symptoms and signs and the impairment of function which would characterize it as a disease according to traditional definitions. Therefore, the author concludes that labeling obesity as a disease may be expedient, but it is not a necessary step in a campaign to combat obesity and it may be interpreted as self-serving advocacy without a sound scientific basis. So, the answer is No."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

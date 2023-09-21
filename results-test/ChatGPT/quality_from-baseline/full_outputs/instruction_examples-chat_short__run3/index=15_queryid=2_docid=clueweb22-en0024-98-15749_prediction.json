@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1FLe7cZg0RCwdzgy19MFO3bCVi9",
+  "object": "chat.completion",
+  "created": 1687865643,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text provides factual information about vaping and its potential use as a tool to quit smoking. It does not include any argumentative statements or opinions, therefore, it is neutral."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1185,
+    "completion_tokens": 35,
+    "total_tokens": 1220
+  }
+}

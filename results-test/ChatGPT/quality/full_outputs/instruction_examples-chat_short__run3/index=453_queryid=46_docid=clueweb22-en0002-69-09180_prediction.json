@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3EYKLt8V57wWzcPRwfDNVPQ6Haw",
+  "object": "chat.completion",
+  "created": 1683106722,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2822,
+    "completion_tokens": 65,
+    "total_tokens": 2887
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides a comprehensive overview of the arguments for and against net neutrality. The quality of the rhetorical argument is high as it presents clear and well-organized arguments along with supporting evidence. The sentence structure is proper and easy to follow, making the text quite accessible to most readers. Therefore, the rhetorical argument quality is high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should performance-enhancing drugs be accepted in sports?
+Text: Why Performance Enhancing Drugs Should Not be Legal? - Free Essay Example - 2555 Words | StudyDriver.com
+
+Why Performance Enhancing Drugs should not be Legal?
+
+Well, when I think of steroids I think of an image. You have the advantage over someone, which is a form of cheating. I guess it wouldn’t be right unless it was legal for everybody. Reason it’s not legal for everybody is because it can hurt people seriously. Evander Holyfield. Performance enhancing drugs are a big problem in sports. Some people don’t realize this and don’t see much harm in the use of them. These drugs have been a problem in sports for a long time. Big name athletes such as Anderson Silva and Lance Armstrong have been caught doping which is another word for the use of performance enhancing drugs. These are only a few of major athletes who have been caught doping and there are many more athletes who haven’t been caught. Performance enhancing drugs should not be legal in sports because they put the health of the athletes at risk, they influence the younger athletes, and they affect the integrity of sports.
+
+Don't use plagiarized sources. Get your custom essay on
+
+“Why Performance Enhancing Drugs should not be Legal?”
+
+Get custom essay
+
+One of the biggest reasons that doping is illegal is because of all the harmful effects it can have on the body. According to law.marquette.edu The use of steroids can have serious health repercussions, including affected liver, endocrine, and reproductive function, tumors of the liver and kidneys, heart conditions, and psychiatric symptoms. These are only a few of the harmful effects that can happen if you use steroids. The chances of these side effects increase when the drugs are used more than the recommended amount and this usually always happens because people think that the more they take the bigger they are going to get and don’t consider anything else like how they have to eat right and have a workout plan. Many people think they can just take these performance enhancing drugs and automatically get a huge strong built body by doing nothing. Taking these drugs will change the consumers whole life style. How they eat, how they train, and most importantly how their are harming themselves.
+
+Steroids are a very common type of performance enhancing drugs. These drugs are used quite common in sports and bodybuilding. A big problem when taking these is they aren’t supposed to be consumed alone. There are many other products you take with these drugs such as a system support and many other pills that will decrease the harmful effects the steroids put on your body but they still make taking steroids harmful to your body. Many of the people who take these don’t realize that they should be supported with other pills and just take them alone. These are drugs so many people do sell these illegally and smuggle them into the U.S. This makes people sell counterfeits of the drug. Just like other drugs such as cocaine and marijuana where people put in a bunch of other substances in it to make it weigh more so they can get more money out of it.
+
+According to anabolic.org counterfeit steroids are copies of real anabolic/androgenic steroid products, which are made from illicit producers. These drugs are intended for sale on the black market, ultimately to consumers who believe they are buying a legitimate pharmaceutical item from the labeled company. Most of the time these counterfeit drugs don’t even contain any steroids at all and are just full of inert carriers, fillers, and binders. They mark their bottles to where they look identical to a legitimate brand of steroids and most people can’t tell the difference. Some people make the argument to legalize steroids so they won’t sell counterfeits anymore. Doing this would most likely cut down the buying of these counterfeits but still the main issue of steroids is the health risks and people would abuse this harmful drug.
+
+The side effects of the steroids can be different from a man and woman. According to www.webmd.com Men who take anabolic steroids may: Develop breasts, Get painful erections, Have their testicles shrink, Have decreased sperm count, Become infertile, and Become impotent. Women who take anabolic steroids may: Grow excessive face and body hair, Have their voices deepen, Experience menstrual irregularities, Have an enlarged clitoris, Have reduced breast size, and Have a masculinized female fetus. The effects can also be different on children such as being shorter and females can suffer from masculinization. These drugs have a lot of risk when taking them and yet they are still a very common used drug. Most of the effects of these drugs won’t happen right away it will take time for these risks to really do damage to the human body. These drugs can be prescribed by the doctor if someone has suffered muscle loss from a disease such as cancer. Also if someone is suffering from hormonal issues. There is some good use in these drugs but most of the time people abuse these drugs.
+
+Most of the people who use these drugs are athletes or body builders. They think using this drug will make them better than everyone else and usually that is the case but it is also considered cheating by all of the professional associations. According to www.drugabuse.gov The majority of people who misuse steroids are male weightlifters in their 20s or 30s. There are many ways to take these drugs such as a pill, injecting them into the muscle, and using them as a gel substance. Usually these doses are like ten times the strength of a prescribed dose from the doctor. Not only do these drugs have an effect on the body but also the brain. These drugs can cause some to be paranoid, extreme aggression, delusions, and impaired judgment. These drugs can have a very big impact on someone’s life just because they wanted to be better than everyone else when they were younger. The long term effects of these drugs are kidney problems, liver damage, tumors, enlarged heart, high blood pressure, and blood clots.
+
+There are many risks when someone decides to use these drugs and they can even be addictive to some people. These drugs don’t cause a high like others but they still can be overused. People want to be bigger and better so they just keep taking them over and over. Some even take other drugs, like opiods, to help with the sleep problems steroids have gave them. People also will have withdrawals when they stop taking steroids after they have been consistently taking them for a while. These include fatigue, restlessness, loss of appetite, sleep problems, decreased sex drive, and steroid cravings. There even have been some cases of users who have had depression and suicide attempts. Steroids have been blamed for some cases of young adults killing themselves but usually there is not enough evidence to prove this. Another risk to the use of steroids is the needle. If the consumer injects himself with a needle that needle could result in the needle not being clean and then getting hepatitis or HIV. There are a lot of risks when taking these drugs but that doesn’t mean that people are guaranteed to get these side effects but they really increase the chances of getting these. “It is like Russian roulette. Five people may take them and have no long-term problem. The sixth may end up dead.” Kenneth Mautner.
+
+Another big reason for the professional athletes not to do performance enhancing drugs is they can put a big influence on the younger athletes. Many of the younger athletes have someone they look up to who is a professional athlete. They model their game after them and want to be them. If this athlete is caught doing these drugs or admits to it, it will send a message to the younger generation. It will send a message saying that performance enhancing drugs are the only way to be good at a sport and the only way to make it. It also could crush the younger players dreams and everything that they wanted to be.
+
+There have been many incidents were a professional athlete has been caught using performance enhancing drug. Some of the big name athletes who have been caught using these drugs such are Alex Rodriguez, Tonya Harding, Lance Armstrong, Pete Rose, and Anderson Silva. Getting caught using these drugs usually results in suspension or being banned from whatever professional league they are in. Alex Rodriguez was a huge star in Major League Baseball and he was the youngest player to hit 500 home runs. He was a very loved baseball star and had a lot of fame. After he was caught using performance enhancing drugs everyone was against him. The MLB suspended Rodriguez for 211 games. This forced him to miss the remainder of his 2013 season and all of 2014 season with no pay. He was forced to miss almost two years and got no pay for abusing these drugs. There are serious consequences for using these drugs and the leagues make it clear that if there is any use of these drugs then you will be punished.
+<USER>

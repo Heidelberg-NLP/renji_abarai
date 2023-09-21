@@ -1,0 +1,202 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: lower federal corporate income tax rate create job
+Text: Adobe Stock, igorkol_ter
+November 14, 2019
+
+2020 Tax Brackets
+
+See New Tax Brackets
+
+On a yearly basis the IRS adjusts more than 40 tax provisions for inflation. This is done to prevent what is called “bracket creep,” when people are pushed into higher income tax brackets or have reduced value from credits and deductions due to inflation, instead of any increase in real income.
+
+The IRS used to use the Consumer Price Index (CPI) to calculate the past year’s inflation.[1] However, with the Tax Cuts and Jobs Act of 2017, the IRS will now use the Chained Consumer Price Index (C-CPI) to adjust income thresholds, deduction amounts, and credit values accordingly.[2]
+
+2020 Federal Income Tax Brackets and Rates
+
+In 2020, the income limits for all tax brackets and all filers will be adjusted for inflation and will be as follows (Table 1). The top marginal income tax rate of 37 percent will hit taxpayers with taxable income of $518,400 and higher for single filers and $622,050 and higher for married couples filing jointly.
+
+2020 Federal Income Tax Brackets and Rates for Single Filers, Married Couples Filing Jointly, and Heads of Households
+RateFor Single IndividualsFor Married Individuals Filing Joint ReturnsFor Heads of Households
+10%Up to $9,875Up to $19,750Up to $14,100
+12%$9,876 to $40,125$19,751 to $80,250$14,101 to $53,700
+22%$40,126 to $85,525$80,251 to $171,050$53,701 to $85,500
+24%$85,526 to $163,300$171,051 to $326,600$85,501 to $163,300
+32%$163,301 to $207,350$326,601 to $414,700$163,301 to $207,350
+35%$207,351 to $518,400$414,701 to $622,050$207,351 to $518,400
+37%$518,401 or more$622,051 or more$518,401 or more
+
+Source: Internal Revenue Service
+
+Standard Deduction and Personal Exemption
+
+The standard deduction for single filers will increase by $200, and by $400 for married couples filing jointly (Table 2).
+
+The personal exemption for 2020 remains eliminated.
+
+Table 2. 2020 Standard Deduction
+
+Source: Internal Revenue Service
+
+Filing StatusDeduction Amount
+Single$12,400
+Married Filing Jointly$24,800
+Head of Household$18,650
+
+Alternative Minimum Tax
+
+The Alternative Minimum Tax (AMT) was created in the 1960s to prevent high-income taxpayers from avoiding the individual income tax. This parallel tax income system requires high-income taxpayers to calculate their tax bill twice: once under the ordinary income tax system and again under the AMT. The taxpayer then needs to pay the higher of the two.
+
+The AMT uses an alternative definition of taxable income called Alternative Minimum Taxable Income (AMTI). To prevent low- and middle-income taxpayers from being subjected to the AMT, taxpayers are allowed to exempt a significant amount of their income from AMTI. However, this exemption phases out for high-income taxpayers. The AMT is levied at two rates: 26 percent and 28 percent.
+
+The AMT exemption amount for 2020 is $72,900 for singles and $113,400 for married couples filing jointly (Table 3).
+
+Table 3. 2020 Alternative Minimum Tax Exemptions
+
+Source: Internal Revenue Service
+
+Filing StatusExemption Amount
+Single Individuals$72,900
+Married Filing Jointly$113,400
+
+In 2020, the 28 percent AMT rate applies to excess AMTI of $197,900 for all taxpayers ($98,950 for married couples filing separate returns).
+
+AMT exemptions phase out at 25 cents per dollar earned once taxpayer AMTI hits a certain threshold. In 2020, the exemption will start phasing out at $518,400 in AMTI for single filers and $1,036,800 for married taxpayers filing jointly (Table 4).
+
+Table 4. 2020 Alternative Minimum Tax Exemption Phaseout Thresholds
+
+Source: Internal Revenue Service
+
+Filing StatusThreshold
+Single Individuals$518,400
+Married Filing Jointly$1,036,800
+
+Earned Income Tax Credit
+
+The maximum Earned Income Tax Credit in 2020 for single and joint filers is $538, if there are no children (Table 5). The maximum credit is $3,584 for one child, $5,920 for two children, and $6,660 for three or more children. All these are relatively small increases from 2019.
+
+Table 5. 2020 Earned Income Tax Credit Parameters
+
+Source: Internal Revenue Service
+
+Filing Status No ChildrenOne ChildTwo ChildrenThree or More Children
+Single or Head of HouseholdIncome at Max Credit$7,030$10,540$14,800$14,800
+Maximum Credit$538$3,584$5,920$6,660
+Phaseout Begins$8,790$19,330$19,330$19,330
+Phaseout Ends (Credit Equals Zero)$15,820$41,756$47,440$50,954
+Married Filing JointlyIncome at Max Credit$7,030$10,540$14,800$14,800
+Maximum Credit$538$3,584$5,920$6,660
+Phaseout Begins$14,680$25,220$25,220$25,220
+Phaseout Ends (Credit Equals Zero)$21,710$47,646$53,330$56,844
+
+Child Tax Credit
+
+The child tax credit totals at $2,000 per qualifying child and is not adjusted for inflation. However, the refundable portion of the Child Tax Credit is adjusted for inflation but will remain at $1,400 for 2020.
+
+Capital Gains Tax Rates (Long Term Capital Gains)
+
+Long-term capital gains are taxed using different brackets and rates than ordinary income.
+
+2020 Capital Gains Tax Rates (Long Term Capital Gains)
+
+Source: “2020 Tax Brackets,” Tax Foundation and IRS Topic Number 559
+
+ For Unmarried IndividualsFor Married Individuals Filing Joint ReturnsFor Heads of Households
+ 
+
+Taxable Income Over
+
+0%$0$0$0
+15%$40,000$80,000$53,600
+20%$441,450$496,600$469,050
+ 
+
+Additional Net Investment Income Tax
+
+3.8%MAGI above $200,000MAGI above $250,000MAGI above $200,000
+
+Qualified Business Income Deduction (Sec. 199A)
+
+The Tax Cuts and Jobs Act includes a 20 percent deduction for pass-through businesses against up to $163,300 of qualified business income for single taxpayers and $326,600 for married taxpayers filing jointly (Table 7).
+
+Table 7. 2020 Qualified Business Income Deduction Thresholds
+
+Source: Internal Revenue Service
+
+Filing StatusThreshold
+Single Individuals$163,300
+Married Filing Jointly$326,600
+
+Annual Exclusion for Gifts
+
+In 2020, the first $15,000 of gifts to any person is excluded from tax. The exclusion is increased to $157,000 for gifts to spouses who are not citizens of the United States.
+
+See New Tax Brackets
+
+
+[1] Internal Revenue Service, “Revenue Proc. 2019-44,” https://www.irs.gov/pub/irs-drop/rp-19-44.pdf.
+
+[2] Robert Cage, John Greenlees, and Patrick Jackman, “Introducing the Chained Consumer Price Index,” U.S. Bureau of Labor Statistics, May 2003, https://www.bls.gov/cpi/additional-resources/chained-cpi-introduction.pdf.
+
+Banner image attribution: Adobe Stock, igorkol_ter
+
+Inflation is when the general price of goods and services increases across the economy, reducing the purchasing power of a currency and the value of certain assets. The same paycheck covers less goods, services, and bills.
+
+Inflation is sometimes referred to as a “hidden tax,” as it leaves taxpayers less well-off due to higher costs and “bracket creep,” while increasing the government’s spending power.
+
+A pass-through business is a sole proprietorship, partnership, or S corporation that is not subject to the corporate income tax; instead, this business reports its income on the individual income tax returns of the owners and is taxed at individual income tax rates.
+
+A tax bracket is the range of incomes taxed at given rates, which typically differ depending on filing status. In a progressive individual or corporate income tax system, rates rise as income increases. There are seven federal individual income tax brackets; the federal corporate income tax system is flat.
+
+A tax exemption excludes certain income, revenue, or even taxpayers from tax altogether. For example, nonprofits that fulfill certain requirements are granted tax-exempt status by the IRS, preventing them from having to pay income tax.
+
+The standard deduction reduces a taxpayer’s taxable income by a set amount determined by the government. It was nearly doubled for all classes of filers by the 2017 Tax Cuts and Jobs Act as an incentive for taxpayers not to itemize deductions when filing their federal income taxes.
+
+An individual income tax (or personal income tax) is levied on the wages, salaries, investments, or other forms of income an individual or household earns. The U.S. imposes a progressive income tax where rates increase with income. The Federal Income Tax was established in 1913 with the ratification of the 16th Amendment. Though barely 100 years old, individual income taxes are the largest source of tax revenue in the U.S.
+
+A capital gains tax is levied on the profit made from selling an asset and is often in addition to corporate income taxes, frequently resulting in double taxation. Capital gains taxes create a bias against saving, leading to a lower level of national income by encouraging present consumption over investment.
+
+Bracket creep occurs when inflation pushes taxpayers into higher income tax brackets or reduces the value of credits, deductions, and exemptions. Bracket creep results in an increase in income taxes without an increase in real income. Many tax provisions—both at the federal and state level—are adjusted for inflation.
+
+A tax credit is a provision that reduces a taxpayer’s final tax bill, dollar-for-dollar. A tax credit differs from deductions and exemptions, which reduce taxable income, rather than the taxpayer’s tax bill directly.
+
+Taxable income is the amount of income subject to tax, after deductions and exemptions. For both individuals and corporations, taxable income differs from—and is less than—gross income.
+
+The Alternative Minimum Tax (AMT) is a separate tax system that requires some taxpayers to calculate their tax liability twice—first, under ordinary income tax rules, then under the AMT—and pay whichever amount is highest. The AMT has fewer preferences and different exemptions and rates than the ordinary system.
+<USER>

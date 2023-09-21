@@ -1,0 +1,81 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Chapter 2
+Why do governments privatize?
+
+https://doi.org/10.1016/0166-4972(88)90051-XGet rights and content
+
+Abstract
+
+In the 1980s there has been a world-wide trend towards privatization: the transfer of assets from the public to the private sector. This paper examines governments ' motives for privatization, which include increased efficiency, market pressures, lessened political interference, reduced power of trade unions, expanded opportunities for private enterprise, and governments' financed needs.
+
+Résumé
+
+Pendant les années quatre-vingts il y a eu une tendance globale vers la privatisation: le transfert des avoirs du secteur publique au secteur privé. Cet article examine les motifs des gouvernements pour la privatisation, y compris la recherche d'une efficacité augmentée, les contraintes du marché, une intrusion politique diminuée, le pouvoir réduit des syndicats, l'expansion de possibilités pour l'entreprise privée et enfin les besoins financiers des gouvernements.
+
+Zusammenfassung
+
+Während der achtziger Jahre entwickelte sich eine weltweite Tendenz zur Privatisierung: die Übertragung von Vermögen des öffentlichen zum privaten Sektor. Dieser Artikel untersucht die Privatisierungsmotive der Regierungen, darunter der Wunsch nach erhöhter Leistungsfähigkeit, die Zwänge des Marktes, verringerte politische Einmischung, die beschränkte Macht der Gewerkschaften, erweiterte Gelegenheiten für Privatuntenehmen und die finanziell unterstützten Ausgaben der Regierungen.
+
+Resumen
+
+En los an̈os 80 ha habido una tendencia mundial hacia la privatización: el traspaso de bienes del sector público al sector privado. Este documento examina los motivos que han tenido los gobiernos para la privatización, entre, los que se inclnyen la eficacia, presiones del mercado, menor interferencia política, reducido poder de los sindicatos, mayores oportunidades para la empresa privada y necesidades financiadas de los gobiernos.
+<USER>

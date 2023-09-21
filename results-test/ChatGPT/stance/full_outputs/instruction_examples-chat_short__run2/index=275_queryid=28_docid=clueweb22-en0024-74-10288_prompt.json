@@ -1,0 +1,61 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prostitution legal
+Text: Should Prostitution Be Legal? - Free Essay Example on SupremeStudy
+
+Should Prostitution Be Legal?
+
+Prostution is identified as one of the oldest professions in the world and even though society has tried to eliminate it, women (and some men) still sell their bodies. In recent years, the argument connecting the legalization or criminalization of prostitution has begun to become a popular issue. There are numerous reasons as to why the legalization of selling sex would be beneficial. Some of the most convincing are that there would be a growth in the forestalling of the spread of sexually transmitted diseases like HIV or AIDS. People in favor of decriminilizing prostitution also claim that it would reduce sex trafficking. Sex trafficking is the act of illegaly forcing people into prostitution.
+
+The idea is that legalizing prostitution would reduce the amount of sex trafficking because then victims would not be scared to report assaults or violations to the authorities since what they are doing would not be illegal. Others, however, say that decriminalization actually increases violence towards prostitutes, which would most likely be due to an increase in discrimination and stigmatism. Opponents also argue that making prositution legal will increase sex trafficking. The legalization of prostitution has been tried in Germany, Sweden, Australia, India, New Zealand, and in part of the U.S. state of Nevada, and some data on the results are becoming available. People on both sides of this issue are passionate in their beliefs, especially about how this issue affects women. So, the debate we are going to examine is, should prostitution be legalized?
+
+Some countries like, New Zealand, decided to legalize prostitution and noticed subsequently that, “Condom use among sex workers rose above 99 percent…” (Bazelon). India’s sex worker collectives also provide evidence to support this; “the collectives first proved adept at helping to slow the spread of H.I.V…” Melinda Gates says. Gates also wrote in The Seattle Times, about Gita the sex worker who, along with other sex workers, “have helped to increase condom use from zero to 70 percent in their district, and to reduce H.I.V infection rates to 7 percent- compared with the rates as high as 66 percent among sex workers elsewhere.”
+
+The proof that Bazelon shows is very powerful because other articles usually provide evidence based on theories about how the outcome will be. This is built on the fact that they tried this in various countries and it has generated the same result. For The New York Times to have published this author’s article demonstrates that it should be a reliable and credible source since the articles they post go through many background and plagiarism checks. The article appears to be well-researched and is well-written since it gives counterarguments and comprehends that there are reasons to maintain the other side but choose to stick with the decriminalization of prostitution since the advantages outweigh the damages.
+
+Some of the most relevant evidence that has a lot of research for both sides of the argument is data about sex trafficking. The people in favor of the decriminalization of selling sex say that it will decrease sex trafficking because women wouldn’t be as scared to go to the authorities if they’re trafficked or assaulted since what they’re being forced to do would no longer be illegal. One of Bazelon’s most used sources of evidence on this subject’s topic is Munos, a former dominatrix who is now involved with a group called Abeni which helps women who either want to flee the business or carry on working in that certain field in a more cautious way. According to Bazelon, “Munos didn’t exactly seem like a trafficking victim…
+
+But looking back, she says that’s the way she sees herself. ‘Because the work I was doing was illegal, he [boyfriend / pimp] started to hold it over my head. He blackmailed me by threatening to tell everyone, including my family.’ …. Munos told the crowd that she thinks decriminalization would have benefits for many people by bringing the sex trade out from underground.” The source that Bazelon brings up is a strong and reliable source since prositution is Munos’ area of expertise. Munos is a former prostitute , which only strengthens her evidence because she knows what the life is like and can actually relate to the issue . She speaks of what she went through and how the legalization of prostitution at that time would have helped her overcome some of her past problems. Although the author provides Munos as a strong source, the author does not provide different evidence to counter Munos’ conclusions. This shows that the author doesn’t acknowledge the counterargument.
+
+Others who support the decriminalization of prostitution suggest it might decrease violence towards women. Erin Fuchs’ article, which sides with legalizing prostitution, gives evidence as to why legalization can be a damage more than a benefit to women. According to Fuchs, “Prostitutes in America (mostly women) are vulnerable to violence from customers and pimps. A study in San Francisco found that 82% had been assaulted and 68% had been raped while working… Another study of prostitutes in Colorado Springs found they were 18 times more likely to be murdered than non-prostitutes their age and race.” Although this article gives reasonable and understandable evidence, it is not reliable because it does not give any specifics as to where they got the statistics from and a “San Francisco study” is a very general and broad term. This study does provide relevant evidence, if true, but similar evidence from different geographic locations would make her argument more acceptable. Another weakness is that the author doesn’t provide a counter argument for most reasons, which shows that she’s not acknowledging the opposing view and that conveys that Fuchs thinks that her argument isn’t strong enough to refute the counterargument. One strength is that it does provide evidence towards the reason. Another strength would be that the article provides multiple reasons supporting its argument such as reducing violence towards women, ameliorate the workers’ and clients’ health, and benefiting the government’s tax revenue.
+
+Providing different reasons and evidence is a good quality since supplying all the possible reasons shows the logic behind your judgement. Even though the evidence isn’t as reliable as it could be, the author’s credentials, dependability and use of multiple reasons support her conclusions. According to “Business Insider” she was a “senior reporter at Law360.com, where she covered the Supreme Court, sex-bias lawsuits, and legal battles…” this shows that she has some knowledge in the field she’s researching and has studied relevant issues to this one, which is prostitution, multiple times. Opponents that say that decriminalization of prostitution would increase violence towards prostitutes provide no such evidence towards their argument and all their examples are hypothetical scenerios. This makes their argument weak because the other side has strong and reliable evidence since it has been tried in different parts of the world, unlike their evidence which are guesses on what might happen, but they don’t know that for sure.
+
+Many people who believe that keeping prostitution illegal will only benefit everyone involved trust that it is the best way to keep things at peace. Julie Bindel thinks that decriminalizing prostitution will only enable pimps to hide from the law and will therefore increase the number of cases of sex trafficking because such trafficking is still happening in places where prostitution has been legalised, like Nevada. According to the text, “What I discovered, while researching campaigns for the legalisation or decriminalisation of prostitution in the Netherlands, Ireland and the UK, is that sex industry bosses have an influential voice in such campaigns…” she thinks that the people “representing” these women and their desires for what they think will make it safer for them are usually, “just as likely to be a voice for pimps.” Bindel provides the evidence that is happening in a brothel in Nevada with a young woman that, “ was being sold… and seen as a business… meant that the pimp was able to present herself as doing her employee a favour by giving her a job.” This shows that the statement that she said before is true and that pimps are hiding behind their funds is true.
+<USER>

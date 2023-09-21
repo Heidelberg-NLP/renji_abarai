@@ -1,0 +1,168 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: drink milk healthy human
+Text: SHARE
+Can Dogs Drink Human Breast Milk Safely
+
+The advantages of breastfeeding for a woman and her newborn child are numerous. But can dogs drink breast milk of humans, and is breast milk for dogs safe to consume? As odd a question as that may seem, some people think about giving extra milk to their dogs, and sometimes dogs accidentally get into stored breast milk. Let's examine this further and see what this means.
+
+If you've been wondering, “can I give my dog breast milk,” the answer is NO – breast milk is not recommended for dogs, mostly because it contains lactose and generally, dogs cannot digest or process lactose well. Although similar to humans, some dogs may be lactose intolerant while others aren't, so it depends on individual dog.
+
+Growing puppies need their own set of specific nutrition which they get from canine breast milk of their mother. The composition of that milk is way different to that of humans (1).
+
+Breast milk is not deadly to dogs, generally speaking. Lactose is the only issue that a dog will encounter in breast milk and in most cases will have trouble digesting. So a better question would be, is there any reason to give a dog breast milk? Let's take a look.
+
+WHAT TO USE: Top 5 Best Puppy Milk Replacers
+
+What is breast milk?
+
+Can my dog drink breast milkBreastfeeding with breast milk is one method in which a mother may feed her newborn baby. Breast milk is extremely nutritious (2) and it provides babies with every single nutrient (except Vitamin D) that they require in the first few months of life.
+
+The woman's diet has a very limited effect on the composition of breast milk (3). An ounce of breast milk will contain anywhere between 20-25 calories, made up of approx. 5% protein, 30% fat and 30% carbohydrates, most of which are lactose (4).
+
+Even though human breast milk contains tons of nutrients, their composition and ratio is not made up for what dogs require. The lactose in human breast milk is the largest issue with giving breast milk to dogs, because a dog's body will most likely not tolerate it.
+
+READ: 15 Tips on Dog Pregnancy and Whelping
+
+Breast Milk for Dogs 101
+Can Dogs Drink Breast Milk?
+
+Can I give my dog breast milkAs we have established, dogs should not be drinking breast milk of humans. Even though a little breast milk may not kill your dog, it's best not to give any because it's likely to cause your dog discomfort and many other problems associated with lactose intolerance.
+
+Although lactose intolerance is similar to that of humans in that it depends on the individual, majority of dogs will be lactose intolerant. Not only that, but studies have found that dairy products are one of the most common food allergens in dogs (5, 6).
+
+Further research has confirmed that in lactose in dairy products and beef are the two primary suspects contributing to cutaneous adverse food reactions in dogs (7, 8).
+
+While “dairy products” refer to cow's milk based products, human breastmilk has similar components, in particular lactose, which prevents it from being good to dogs.
+
+There are no benefits of breast milk for dogs.
+
+As puppies, dogs receive all the milk nutrients they need when nursing from their mothers. After being weaned, dogs no longer need milk in their diets.
+
+All nutrients and antibodies found in breast milk should be readily available in your dog’s food, which is a better, more natural way for him to consume and use those elements.
+
+4 Potential Side Effects of Breast Milk for Dogs
+
+We've discussed above the main side effect of human breastmilk for dogs, and why it's best to avoid giving it to your canine. Studies clearly show that dogs may be allergic to dairy products because they contain lactose, which is also found in human breast milk.
+
+Here's a brief of four potential side effects from feeding breast milk to dogs:
+
+1. Many dogs are lactose intolerant, leading to gastrointestinal disorders.
+
+Like people, some dogs can consume milk products with little trouble, while most others suffer terribly. Studies show that dogs and cats who are lactose intolerant have great difficulty digesting lactose, a sugar nutrient found in dairy and dairy products (9).
+
+In humans, the small intestine is responsible for producing the enzyme called lactase, which breaks down lactose and absorbs it into the bloodstream. A lactose intolerant dog is unable to convert lactose into a viable sugar, which is the case with most dogs.
+
+Lactose intolerant dogs may experience acute intestinal distress in the form of vomiting, diarrhea, bloating, loss of appetite, lethargy, and severe gas. It's an bad experience.
+
+2. Some dogs are allergic to the protein found in breast milk.
+
+Cow's milk ingestion may cause an allergic reaction in a dog as the above studies have demonstrated. This often manifests itself in the dog's skin but other symptoms may also occur shortly or much later after the dog has ingested human breast milk.
+
+Some symptoms of a milk allergy are:
+
+  • itchy skin
+  • red skin
+  • dry skin
+  • excessive licking and scratching
+  • hot spots
+  • ear infections
+  • skin infections
+  • bald patches
+  • vomiting
+  • flatulence
+  • constipation
+
+More rare and severe symptoms are seizures, bronchitis, and chronic obstructive pulmonary disease in canines.
+
+3. Breast milk may lead to obesity and pancreatitis.
+
+If you regularly feed your dog breast milk, he will consume too many fats and natural sugars. This is because human babies require completely different nutrient composition from breast milk than dogs and puppies do.
+
+Canine obesity is a serious problem that can result in orthopedic disease, heart disease, urinary disorders, and even cancer.
+
+Pancreatitis, an inflammation of the pancreas where this organ malfunctions, is another potential issue. Pancreatitis causes significant discomfort for your dog who may lose his appetite, frequently vomit, and exhibit a swollen, painful stomach.
+
+4. In rare circumstances, dogs many contract listeriosis from breast milk.
+
+Although the odds are small, feeding breast milk to your dog can expose him to listeriosis, a serious infection caused by consuming food with the bacterium Listeria monocytogenes.
+
+Listeriosis may spread from the mother’s cultured breast milk to the dog that drinks it. While dogs of any age can develop this infection from eating raw food products, listeriosis is more damaging to puppies and senior dogs because of their weak immune systems.
+
+A puppy eating dog breast milk
+
+Other symptoms of this infection are:
+
+  • nausea and vomiting
+  • lethargy
+  • fever
+  • stiff neck
+  • muscle soreness and weakness
+  • lack of coordination
+  • skin infections
+
+If your dog does not have a healthy immune system, listeriosis can quickly become a fatal condition if not immediately treated.
+
+What if my dog drinks breast milk?
+
+If your dog accidentally gets into stored breast milk or licks some spilled milk off the floor, do not fret – it is unlikely to cause any significant health concerns. The worst that can happen is that he'll experience some stomach discomfort and pass gas.
+
+Consuming more than just a tiny bit of human breast milk by your dog may result in more serious problems and symptoms listed above. It's best to call your vet if you know that your dog has consumed a large amount of human breastmilk.
+
+Always be sure to store breast milk in an area that your dog cannot access.
+
+RELATED: Can Dogs Eat Marshmallows?
+
+Summary:
+Can My Dog Drink Breast Milk?
+
+In conclusion, it’s not a good idea to feed your dog human breast milk.
+
+Can Dogs Drink Human Breast MilkDogs drink their own mother’s milk for the first four weeks of their lives, then switch over to whole foods because that's what supplies them with the nutrients they need as they grow to adulthood.
+
+There is not enough puppy-specific nutritional value in human breast milk to justify feeding it to a dog, and there's too many other components not suitable for dogs.
+
+Remember that many dogs are lactose intolerant or allergic to milk, so steer clear of giving your dog breast milk and save him from potential discomfort and illness.
+
+References
+
+Click here to see study citations and references
+
+Footnotes, study citations and further reading:
+<USER>

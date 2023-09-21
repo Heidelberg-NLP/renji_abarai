@@ -1,0 +1,51 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prescription drug advertise directly consumer
+Text: Pressured by US congressmen John Dingell and Bart Stupak, Pfizer announced last week that it would end its current advertising campaign for Lipitor – the one featuring Robert Jarvik, of artificial heart fame. I read Pfizer’s press release, then saw how the news was reported by The New York Times.
+
+First, as someone who’s been translating management-speak for over two decades, I have to note the Times’ rewording and selective quoting, which yield an admission of deceit and a resolve to change far deeper and more sweeping than were actually expressed by Pfizer. (If these aren’t obvious, let me know and I’ll point them out.) But even more disappointing is the Times’ failure to seize on the real issue here and highlight the need for public debate on it. What’s really at the heart of this matter is not the time-honored institution of the celebrity pitchman and how he should be presented. It’s the question of whether big pharma should be marketing prescription drugs to consumers at all.
+
+Now that is an interesting question, particularly at this moment in American history. On the one hand, there is a broad distaste for pharmaceutical profits and a suspicion that, in going around the traditional channel of the family doctor, these firms are just looking for an easier mark. On the other hand, there is a growing belief that consumers must take more control of their health care, as their interactions with medical providers become more dispersed and transactional. (If you believe the latter, it’s hard to argue that drug marketing – long a source of relevant information to physicians – should be confined to physicians going forward.)
+
+Pfizer apparently wants to engage in that debate. In its press release, it states its position up front: “Direct-to-consumer advertising is an important way to provide consumers with information about their health and treating disease, and at least 29 million Americans have talked to their physicians about a health condition for the first time after seeing a pharmaceutical advertisement.” It’s interesting that its antagonists’ angle of attack is less straightforward.
+
+With regard to the sins Pfizer does admit it is hard to work up a high moral dudgeon. An actor sat in for Jarvik in a scenic rowing shot – and it’s a sport he doesn’t engage in. Jarvik takes Lipitor personally, but only started doing so when he’d accepted the offer to endorse it. Jarvik graduated medical school after embarking on a career as a medical device engineer, but never went on to practice medicine – a fact that, if disclosed, might have made the viewer more skeptical of his authority. Don’t get me wrong: I hate deceptive advertising as much as the next consumer. But in an era of undisclosed product placements and stealthy word-of-mouth agents, this doesn’t seem like the marketer to go after. Unless, again, drug companies shouldn’t be talking to consumers at all.
+
+What do you think?
+<USER>

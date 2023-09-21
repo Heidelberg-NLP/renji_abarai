@@ -1,0 +1,123 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is vaping with e-cigarettes safe?
+Text: Category: Safe Vaping
+
+If you're concerned about health and safe vaping, check out these helpful, informative articles that will answer your questions.
+
+What is Popcorn Lung? Can You Get it From Vaping?
+
+Last updated on February 10th, 2022 Does Vaping Flavored E-liquids Cause Popcorn Lung? You may be worried about the safety of e-liquids if you vape, or are considering vaping. While many e-juice companies list their ingredients, you may wonder if there are hidden chemicals such as Diacetyl – a flavor additive that has been linked to …
+
+Continue reading
+
+What Makes An E-Liquid Organic? The Truth Is Out!
+
+What Makes an E-Liquid Organic?
+
+Last updated on November 14th, 2021My Interview with the CEO of Organic E-Liquid Company -Kind Juice After many years researching and reviewing e-liquids, I’ve found that most people are looking for e-liquids that have pure ingredients. But what does “pure” really mean? Is it because the e-liquid is free from dangerous chemicals? Does it mean …
+
+Continue reading
+
+Can You Buy E-Cigarettes That Are Formaldehyde Free?
+
+Hand holding vaporizer and formaldehyde formula
+
+Last updated on May 20th, 2022 Can You Buy Vaping Products That Are Formaldehyde Free?   You may have read an article reporting that e-cigarettes and e-liquids contain formaldehyde. For those of you who are wary of fake-news, you may be wondering if it’s true, or whether it only applies to some, and not all …
+
+Continue reading
+
+How Does Nicotine Affect the Body? Is it Easy to Get Nicotine Poisoning?
+
+How Does Nicotine Affect the Body? Featured Image 765x471
+
+Last updated on November 14th, 2021 Whether you’re smoking or vaping, nicotine does affect the body. But can you get sick or even get nicotine poisoning? How do you know you’re getting too much nicotine? What are the first symptoms? Is vaping nicotine just as bad as smoking? We’ll give you the answers, but first you …
+
+Continue reading
+
+Are You Sure Your Vape Mod Isn’t a Clone?
+
+Are you sure your vaporizer isn't a clone?
+
+Last updated on February 22nd, 2022 Some of the Most Popular Vape Mods Are Fakes E-Cigarette regulations are at hand, but you can still fall prey to unscrupulous retailers, or those who unknowingly sell you a look-alike Vape Mods. Fake ecigs are known as “clones” or “knockoffs“. Clones have been described as a “third-party rendition of …
+
+Continue reading
+
+What Are the Chances My E-Cigarette Will Explode?
+
+exploded e-cig batteries in hand
+
+Last updated on February 10th, 2022What Are the Chances My E-Cigarette Will Explode? You’re probably reading this article because you’re wondering if your e-cigarette, or vape MOD will explode. Maybe you read a story, (or several for that matter) about an e-cigarette that blew up in a man’s face…or in his pants, or while he …
+
+Continue reading
+
+E-Cigarette Batteries with Safety Features
+
+Ecig-Batteries-with-Safety-Features-Featured-Image
+
+Last updated on February 22nd, 2022  Are Your Ecig Batteries Safe? If you’re considering vaping, you’re probably wondering which e-cigarette vape batteries, or e-cigarette brands are the safest. You’re most likely looking for products that have built-in safety features. That’s smart – after all, there have been some sensational stories about exploding ecig batteries. Why Do …
+
+Continue reading
+
+All About Sub-Ohm Vaping – The Perks and the Problems
+
+woman blowing big clouds of vapor
+
+Last updated on February 10th, 2022 Is Sub-Ohm Vaping Safe or Dangerous? Sub-ohm vaping is becoming very popular, especially with advanced vapers who want more control of their vaporizers. They want to create greater flavor and cloud production. Although advanced vaporizers capable of handling the heat generated by these “low resistance” coils are available from reputable …
+
+Continue reading
+
+Where to Buy ECig E-Liquids That Are Diacetyl, Acetoin and Acetyl Propionyl Free
+
+Eliquid chemical testing
+
+Last updated on February 10th, 2022 Are you a vaper who’s concerned about dangerous chemicals like Diacetyl in your ecigarette e-juice? Are you looking for diketone free e-liquid? There have been scientific reports from even the most pro-e-cig scientists, including Dr. Konstantinos Farsalinos warning vapers that some compound flavors such as vanilla custard (one of …
+
+Continue reading
+
+Dangerous Chemicals in E-Cigarettes
+
+Dangerous Chemicals in E-Cigarettes
+
+Last updated on April 6th, 2022  Are There Really Dangerous ECigarette Chemicals? There’s a great deal of concern regarding the ingredients in e-cigarettes, especially since there are many conflicting reports flooding the media about the chemicals in e-liquids.  If you smoke and are considering switching to electronic cigarettes you may be wondering if they’re even worth …
+
+Continue reading
+
+Best-E-Cigarette-Guide
+<USER>

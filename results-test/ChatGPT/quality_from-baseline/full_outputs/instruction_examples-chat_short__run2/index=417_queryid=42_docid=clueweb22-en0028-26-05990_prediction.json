@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W19nOcyUd1BwxcXLnZqQGbrdWYp2",
+  "object": "chat.completion",
+  "created": 1687865299,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to provide a neutral discussion of the pros and cons of fighting in hockey. Therefore, it does not present a clear argument and cannot be assigned a rhetorical argument quality label."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2882,
+    "completion_tokens": 37,
+    "total_tokens": 2919
+  }
+}

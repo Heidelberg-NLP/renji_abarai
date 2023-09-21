@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJU2m9134A0QSXOo8uBsAcAVCJlI",
+  "object": "chat.completion",
+  "created": 1682692530,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1420,
+    "completion_tokens": 21,
+    "total_tokens": 1441
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I'm not sure what you are asking me to do. Can you please clarify?"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

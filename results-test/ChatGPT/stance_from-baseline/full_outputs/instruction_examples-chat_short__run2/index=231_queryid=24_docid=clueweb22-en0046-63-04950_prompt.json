@@ -1,0 +1,100 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: Constructing the effective tax rate reconciliation and income tax provision disclosure
+
+By Allison L. Evans, CPA, Ph.D.
+August 1, 2019
+
+Editor: Annette Nellen, Esq., CPA, CGMA
+
+While tax information on the financial statements presented under FASB Accounting Standards Codification (ASC) Topic 740, Income Taxes, continues to be a focus of investors and analysts, tax issues also continue to rank as one of the largest causes for financial restatements. Audit Analytics reports that Topic 740-related issues were the second-highest cause of 2017 and 2016 financial restatements (tying with revenue recognition issues in 2017). Further, an analysis by PwC reveals that 22% of 2017 SEC income tax comment letters originated from the effective tax rate (ETR) reconciliation (see Stay Informed: 2017 SEC Comment Letter Trends: Income Taxes, available at www.pwc.com). Because tax practitioners often create or audit the income tax provision and related disclosures, it is important for tax students and professionals to understand how they are constructed.
+
+Intermediate or advanced financial textbooks discuss temporary and permanent differences, deferred tax assets (DTAs), deferred tax liabilities (DTLs), and the corresponding journal entries. Tax textbooks often discuss book-tax reconciliations as they relate to Schedules M-1 or M-3 of Form 1120, U.S. Corporation Income Tax Return. However, coverage of the ETR reconciliation in either case is often high-level (or not covered at all), meaning many students enter the accounting profession without studying or preparing this important component of the financial statements.
+
+This column walks the reader through a discussion of current and deferred tax expense as a bridge to ultimately preparing the rate reconciliation. It illuminates which book-tax differences do and do not affect ETR. Further, this column offers extensions to show how valuation allowances, differences in tax rates across time, and tax credits affect the ETR and how each item is presented in the rate reconciliation. After completing the basic exercises in this primer and the comprehensive examples in the accompanying Excel workbook, the reader will have a firmer grasp on what moves ETR, providing a better understanding of tax planning tools that affect not only tax dollars paid in various periods but also the tax disclosures on the financial statements.
+
+As such, it can serve as an instructional supplement in both financial accounting and corporate tax courses. While Topic 740 applies to any entity that prepares financial statements under GAAP (including C corporations, flowthrough entities, and not-for-profits), this column focuses on publicly traded C corporations. Instructors may choose to assign the accompanying problems or to distribute the problems with solutions to serve as a study guide for the students.
+
+Prerequisite knowledge
+
+Since many tax and financial textbooks offer beneficial, in-depth analyses of common differences between financial and taxable income and how to prepare a book-tax reconciliation, this column assumes a base knowledge of common differences and whether they are temporary or permanent. Users will focus instead on how temporary and permanent differences relate to current and deferred tax expense and ultimately to the ETR calculation.
+
+Which book-tax differences affect the ETR?
+
+To best answer this question, this column considers two basic examples that also serve to review how to calculate current and deferred income tax expense. In Example 1, the company has one book-tax difference that is temporary in nature. In Example 2, another company has one book-tax difference that is permanent. Each corporation is a publicly traded, domestic corporation. Table 1 (below) illustrates the book-tax reconciliation for each company.
+
+Table 1: Book-tax reconciliation
+
+
+Example 1:
+T Corp. begins operations in year 1. It earns $500,000 in revenues in year 1 and in year 2. It incurs $300,000 in ordinary, deductible expenses for its business each year. In year 1, T incurs a $10,000 short-term capital loss. It generates $10,000 of long-term capital gains in year 2.
+
+Example 2: P Corp. begins operations in year 1. It earns $500,000 in revenues in year 1 and in year 2. It incurs $300,000 in ordinary, deductible expenses for its business each year. Each year, it also spends $10,000 for a life insurance policy on its CEO, which is not deductible for tax purposes.
+
+Current and deferred components of the income tax provision (ASC Paragraph 740-10-50-9)
+
+All entities are required to disclose the current and deferred income tax expense components of the total income tax provision from continuing operations. T and P will each calculate current tax liability and expense by multiplying taxable income by the 21% corporate tax rate enacted in the law known as the Tax Cuts and Jobs Act (TCJA), P.L. 115-97. T will also record a DTA because the capital loss carryforward will cause taxable income to be lower in the future (relative to future financial income), as Table 1 illustrates. ASC Paragraph 740-10-10-3 requires T to measure its DTA using the currently enacted rate at which the temporary difference will reverse, which under the TCJA is also 21%. Therefore, T will record a year 1 DTA of $2,100 ($10,000 × 21%). To balance the entry, it will credit deferred income tax expense, creating a benefit for the same amount.
+
+In year 2, T will reverse the DTA, which will generate a deferred tax expense that will increase total income tax expense by $2,100 that year. P will not have a deferred expense or benefit because it does not have any temporary differences. Table 2 (below) illustrates the income tax provision for T and P for federal purposes. (All journal entries corresponding to the tables in this column are found in the accompanying Excel workbook.)
+
+Table 2: Required footnote disclosure for components of income tax expense
+
+
+Calculating the ETR
+
+ETR measures the size of the company's total income tax expense relative to its financial income. T and P will calculate ETR by dividing total income tax expense by pretax financial income from Tables 2 and 1, respectively. Table 3 (below) presents the resulting ETR.
+
+An important point is illustrated by comparing the ETR for these two companies. It is a common misconception that all book-tax differences affect ETR. A comparison of T and P clearly shows this is not the case. As long as tax rates are constant over time, temporary differences do not affect ETR, which is why T's ETR of 21% equals the enacted statutory rate of 21%. Therefore, though accelerating deductions and delaying income are good tax planning strategies in terms of the time value of money and lowering the current-year tax liability, companies that care about the ETR disclosure will not find sufficient value in this approach.
+
+Table 3. Computing ETR: Which difference type causes ETR to differ from the enacted rate?
+
+
+Similarly, though having to wait to claim a loss is not ideal from a tax perspective, it will not affect the firm's ETR. It is therefore important for tax practitioners to have a clear understanding of a client's priorities (i.e., whether the client places more value on reducing its current tax liability or the ETR disclosed in the financial statements) before dispensing tax advice.
+
+In contrast, permanent differences do affect the firm's ETR, though the effect may not always be beneficial. P Corp., for example, is suffering the effect of having a nondeductible expense. It incurs a relatively higher tax burden than a corporation that could deduct every dollar of expense, even if that deduction occurs in a future tax period. If P instead earned tax-exempt income (e.g., interest on tax-exempt bonds), its ETR would be lower than the statutory 21% rate. Tax credits, another useful ETR-reducer, are discussed on p. 606.
+
+The ETR reconciliation
+
+Basic requirements (ASC Paragraph 740-10-50-12)
+
+Publicly traded entities must present a reconciliation of the company's income tax burden calculated at the statutory rate to its total income tax expense from continuing operations. The reconciliation may be disclosed as either a dollar amount or percentage (or both). As a dollar figure, the reconciliation begins from an as-if calculation, representing the tax burden as if every dollar of pretax financial income is taxable/deductible at the federal rate. The company must then show all significant reconciling items between that hypothetical number and its actual income tax expense for the year. If it is presented as a percentage, the company must reconcile from the federal statutory tax rate to its ETR.
+
+To meet the significance disclosure requirement, corporations must separately disclose items that meet or exceed 5% of the tax at the statutory rate (SEC Regulation S-X, §210.4-08(h)(2)), meaning anything affecting ETR by at least 1.05%, using the 21% statutory rate enacted by the TCJA. (Private companies must disclose the nature of significant reconciling items, but they do not need to provide a numerical reconciliation, according to ASC Paragraph 740-10-50-13.)
+<USER>

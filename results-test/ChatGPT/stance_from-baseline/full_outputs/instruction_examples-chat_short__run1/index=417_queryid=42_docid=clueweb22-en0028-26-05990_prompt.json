@@ -1,0 +1,167 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should fighting be allowed in hockey?
+Text: Fighting in Hockey – Top 3 Pros and Cons
+
+Pro/Con Arguments | Discussion Questions | Take Action | Sources | More Debates
+
+“Referees attempt to break up a fight around the Tampa Bay goal during the first ice hockey playoff game between the Ottawa Senators and the Tampa Bay Lightning for the 2006 Stanley Cup.”
+Source: leoniewise, “Ottawa v Tampa Bay Refs Goal Fight April 22 2006,” wikimedia.org, Apr. 22, 2006 Creative Commons license
+
+“I went to a fight the other night, and a hockey game broke out,” the late comedian Rodney Dangerfield once joked. [1]
+
+In the 2016-2017 National Hockey League (NHL) season, there were 372 fights out of 1,230 games – an average of 0.3 fights per game. [2] Fighting in hockey has been banned nearly everywhere outside of the NHL, including youth games, college play, and the Winter Olympics. [3][4]
+
+Fighting has been part of NHL hockey since the league’s formation in 1917 and its 1922 rule about what was then called “fisticuffs” (that’s an old-fashioned word for fighting). [5][6] The current NHL rulebook addresses fighting in Rule 46, which defines a fight as at least one player punching or taking a swing at another player repeatedly, or players wrestling in a way that is difficult to break up. Players who fight are sent to the penalty box during the game, and may be subject to additional fines or suspensions. [6][7]
+
+In the early 1960s, there was a fight in about 20% of NHL games. That percentage increased to 100% by the 1980s, when there was an average of one fight every game. [8] In 1992, the NHL introduced an instigator rule adding an extra two minutes in the penalty box for anyone caught starting a fight. [9]
+
+Fighting has since decreased: a fight broke out in 29-40% of NHL games from the 2000/2001 season to the 2013/2014 season. Games with fights have steadily decreased since, from 27% of games in the 2014/2015 season to 17% in the 2018/2019 season. [2]
+
+Should Fighting Be Allowed in Hockey?
+
+Pro 1
+
+Allowing fighting makes the sport safer overall by holding players accountable.
+
+Professional hockey is a fast-moving sport, and referees often miss illegal body checking, hits with hockey sticks, and other aggressive plays. Retaliation by fighting brings accountability and prevents more of those dangerous plays from happening. [10]
+
+Hockey players don’t fight just for the sake of violence; combat within the context of the game serves as a deterrent to hurting star players because the aggressors know there will be pay back.
+
+Steven Stamkos, a forward for the Tampa Bay Lightning, said, “You have to police yourselves sometimes on the ice… When you see a fight now it’s a response, someone didn’t like something that was done on the ice. I think you need that. It’s healthy.” [11]
+
+NHL Commissioner Gary Bettman stated that fighting may prevent other injuries in a fast-moving, emotional, and intensely physical game. [12] Former professional player Brandon Prust agreed, stating, “If they take fighting out… I guarantee more people will get hurt from an increase in open-ice body checks.” [13]
+
+Read More
+
+Pro 2
+
+Fighting draws fans and increases the game's entertainment value.
+
+A majority of hockey fans oppose a fighting ban and think the on-ice scuffles are a significant part of the game at the pro level, according to a poll in the Toronto Star newspaper. [19] Travis Hughes, SB Nation hockey writer, said, “Fighting exists in hockey because we enjoy watching people fight.” [20]
+
+Hockey fight clips get shown on ESPN’s SportsCenter and have millions of views on YouTube. [21] Brawls increase attendance: an economic study of hockey found that “violence, specifically fighting, tends to attract fans in large numbers across the United States and Canada.” [22] Fights help the NHL stand out from other sports because no other team sports sanction brawling.
+
+SportsCenter anchor John Buccigross wrote, “Fights can add entertainment value, change a game and have fans talking for days.” [23]
+
+Rich Clune, a Maple Leafs forward and long-time fighter, said, “I think the NHL is cognizant of the fact that they can’t eliminate it and turn it into a non-contact sport because I don’t think it’ll sell… especially in America where the game is still growing.” [24]
+
+Read More
+
+Pro 3
+
+Fighting is a hockey tradition that exists in the official rules and as an unwritten code among players.
+
+98% of NHL players surveyed in 2012 said they do not want to ban fighting in hockey. [30] Fighting is an essential part of the professional game, and it is governed by the NHL rulebook. [7]
+
+Ross Bernstein, the author of the book The Code: The Unwritten Rules of Fighting and Retaliation in the NHL, stated that “hockey is, and always has been, a sport steeped in a culture of violence. Players have learned, however, to navigate through its mazes and labyrinths of physical contact by adhering to an honor code of conduct.” [10]
+
+The code dictates who can fight and for what reasons, and has reportedly existed for over 100 years. [10] The fact that fights happen less in the postseason, when teams are focused on winning the championship, shows that players adhere to an unwritten code. [29]
+
+Read More
+
+Con 1
+
+Fighting in hockey leads to concussions, mental health problems, and death.
+
+Charles H. Tator, PhD, MD, neurosurgeon, believes fighting causes 10% of all concussions in hockey. [14]
+
+NHL officials expressed in private emails their views that fighting can lead to concussions, long-term health problems, and heavy use of pain medication. Bill Daly, NHL Deputy Commissioner, wrote, “Fighting raises the incidence of head injuries/concussions, which raises the incidence of depression onset, which raises the incidence of personal tragedies.” [15]
+
+Former NHL player Derek Boogaard filled an unofficial role known as an enforcer, which is a player whose purpose is to fight as a means of responding to dirty plays by the opposing team. [16] After he died at age 28 in 2011, doctors examined Boogaard’s brain and determined that he had chronic traumatic encephalopathy, which is believed to be caused by repeated head injuries. [17]
+
+Two other enforcers died within four months of each that same year, raising concerns about the physical, as well as mental and emotional, toll that fighting takes on players. [18]
+
+Read More
+
+Con 2
+
+Fighting at the professional level sets a bad example for kids.
+
+Even though fighting in youth leagues is banned, young hockey players constantly imitate the tactics used by professionals, both legal and illegal. [25]
+
+The damaging physical effects of fighting are even more significant for young players, since their brains are not fully developed. For younger players, concussions can cause permanent learning and cognitive disabilities, many of which may not be recognized until they grow up. [26]
+
+Young hockey players are already susceptible to catastrophic spinal cord and brain injury, at nearly four times the rate of young football players. [27]
+
+Michael Cusimano, MD, neurosurgeon, said, “Whatever is done at a professional level in sports is emulated almost immediately by children who idolize their heroes. NHL players also have to be aware of this and set a better example for our kids.” [28]
+
+Most of what players are trying to accomplish through fighting can be done by having the referees call more penalties during the game, which sends a better message to kids about conflict resolution. [29]
+
+Read More
+
+Con 3
+
+Fighting in hockey glorifies violence.
+
+Matthew Sekeres, writer at Globe and Mail, said that “Hockey is a sport that solves its problems with violence.” [32]
+
+Allowing hockey players to fight creates a culture in which fighting is respected and valued, according to a study in the journal Men and Masculinities, which stated, “The findings of this study indicate that interpersonal aggression is common in the lives of these hockey players, both on and off the ice.” [31]
+
+When the use of violence is approved and legitimized among hockey players, they are more likely to participate in other forms of violence.
+
+For instance, a study found that people seeking a career in professional hockey are more likely to commit sexual assault and have abusive relationships than non-hockey players and people who play hockey as a hobby. [33][37][38]
+
+Researchers have found that hockey violence makes fans more hostile in the stands and off the rink. [34][35][36]
+
+Read More
+Click for an Encyclopaedia Britannica video about hockey.
+
+Discussion Questions
+
+1.Should fighting be allowed in hockey? Explain your answer.
+
+2. Should fighting be allowed in any sport? Which sports? Why or why not?
+
+3. How should inter-player conflicts be resolved in hockey and other sports? Explain your answer(s).
+
+Take Action
+
+1. Consider this NBC Sports article with explanations from hockey players about why they fight.
+
+2. Evaluate the NHL’s rules on “fisticuffs.”
+
+3. Examine ESPN’s Greg Wyshynski’s argument that fighting in hockey is at a low and should stay that way.
+
+4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+
+5. Push for the position and policies you support by writing US national senators and representatives.
+
+Sources
+<USER>

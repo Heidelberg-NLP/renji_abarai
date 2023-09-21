@@ -1,0 +1,115 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: Adobe Stock
+August 14, 2018
+
+The Benefits of Cutting the Corporate Income Tax Rate
+
+Key Findings
+
+  • One of the most significant provisions of the Tax Cuts and Jobs Act is the permanently lower federal corporate income tax rate, which decreased from 35 percent to 21 percent.
+  • Prior to the Tax Cuts and Jobs Act, the United States’ high statutory corporate tax rate stood out among rates worldwide. Among countries in the Organisation for Economic Co-operation and Development (OECD), the U.S. combined corporate income tax rate was the highest. Now, post-tax reform, the rate is close to average.
+  • A corporate income tax rate closer to that of other nations will discourage profit shifting to lower-tax jurisdictions.
+  • New investment will increase the size of the capital stock, and productivity, output, wages, and employment will grow. The Tax Foundation Taxes and Growth model estimates that the total effect of the new tax law will be a 1.7 percent larger economy, leading to 1.5 percent higher wages, a 4.8 percent larger capital stock, and 339,000 additional full-time equivalent jobs in the long run.
+  • Economic evidence suggests that corporate income taxes are the most harmful type of tax and that workers bear a portion of the burden. Reducing the corporate income tax will benefit workers as new investments boost productivity and lead to wage growth.
+  • If lawmakers raised the corporate income tax rate from 21 percent to 25 percent, we estimate the tax increase would shrink the long-run size of the economy by 0.87 percent, or $228 billion. This would reduce the capital stock by 2.11 percent, wages by 0.74 percent, and lead to 175,700 fewer full time equivalent jobs.
+
+Introduction
+
+Prior to the Tax Cuts and Jobs Act (TCJA), the United States corporate income tax was widely regarded as uncompetitive for three main reasons: cost recovery, worldwide application, and a high statutory rate. Lawmakers made significant changes to each of these factors in the new tax law enacted in December 2017. The long-run positive effects expected from the TCJA–increases in investment, output, and wages–are entirely due to the reduction in the corporate tax rate, because other pro-growth provisions are scheduled to expire.
+
+Before the TCJA, the United States had the highest combined statutory corporate income tax rate among Organisation for Economic Co-operation and Development (OECD) countries, at 38.9 percent (federal plus the average of state corporate income tax rates). The TCJA reduced the federal corporate income tax rate from 35 percent to 21 percent, dropping the U.S. combined rate from 38.9 percent to 25.7 percent and placing the U.S. nearer to the OECD average.
+
+A permanently lower federal corporate income tax rate will lead to several positive economic effects. The benefits of a lower rate include encouraging investment in the United States and discouraging profit shifting. As additional investment grows the capital stock, the demand for labor to work with the new capital will increase, leading to higher productivity, output, employment, and wages over time.
+
+Why Does the Corporate Tax Rate Matter?
+
+Under a neoclassical economic view, the main drivers of economic output are the willingness of people to work more and to deploy capital—such as machines, equipment, factories, etc.[1] Taxes play a role in these decisions; specifically, the corporate income tax rate is an important determinant in how much people are willing to invest in new capital, and in where they will place that new capital.
+
+Evidence shows that of the different types of taxes, the corporate income tax is the most harmful for economic growth.[2] One key reason that capital is so sensitive to taxation is because capital is highly mobile. For example, it is relatively easy for a company to move its operations or choose to locate its next investment in a lower-tax jurisdiction, but it is more difficult for a worker to move his or her family to get a lower tax bill. This means capital is very responsive to tax changes; lowering the corporate income tax rate reduces the amount of economic harm it causes.
+
+A common misunderstanding is that corporations bear the cost of the corporate income tax. However, a growing body of economic literature indicates that the true burden of the corporate income is split between workers through lower wages and owners of the corporation.[3] As capital moves away in response to high statutory corporate income tax rates, productivity and wages for the relatively immobile workers fall. Empirical studies show that labor bears between 50 and 100 percent of the burden of the corporate income tax.[4] In the long run, it is split evenly by both capital and labor.[5]
+
+To understand why the lower corporate tax rate drives growth in capital stock, wages, jobs, and the overall size of the economy, it is important to understand how the corporate income tax rate affects economic decisions. When firms think about making an investment in a new capital good, like a piece of equipment, they add up all the costs of doing so, including taxes, and weigh those costs against the expected revenue the capital will generate.
+
+The higher the tax, the higher the cost of capital, the less capital that can be created and employed.[6] So, a higher corporate income tax rate reduces the long-run capital stock and reduces the long-run size of the economy.[7] Conversely, lowering the corporate income tax incentivizes new investment, leading to an increase of the capital stock.
+
+Figure 1: Lower Corporate Tax Rate Reduces the Cost of Capital
+
+Capital formation, which results from investment, is the major force for raising incomes across the board.[8] More capital for workers boosts productivity, and productivity is a large determinant of wages and other forms of compensation. This happens because, as businesses invest in additional capital, the demand for labor to work with the capital rises, and wages rise too.[9] It is because of these economic effects that, of all the permanent elements considered during the tax reform debates, reducing the corporate tax rate was the most pro-growth.[10]
+
+Corporate Tax Rates around the World
+
+The last time the United States reduced the federal corporate income tax was in 1986, but since then, countries throughout the world significantly reduced their statutory rates. From 1980 to 2017, the worldwide corporate tax rate declined from an average of 38 percent to about 23 percent.[11] Over this period, the United States maintained a comparatively high, and uncompetitive, corporate income tax rate.
+
+Top Corporate Income Tax Rate, United States vs. OECD 1983-2018
+
+Of 202 jurisdictions surveyed in 2017, the United States had the fourth highest statutory corporate income tax rate.[12] And among OECD nations, the United States had the highest combined statutory corporate income tax rate at 38.9 percent.[13] This was approximately 15 percentage points higher than the OECD average, excluding the United States at 23.8 percent.
+
+Tax rate differences, such as that between the United States and other OECD countries, create incentives for firms to earn more income in low-tax jurisdictions and less income in higher-tax jurisdictions.[14] Because the United States had a corporate income tax rate that was much higher than the norm, the U.S. was especially susceptible to base erosion through profit shifting.[15] Thus the United States needed a corporate tax rate that was closer to the norm in order to reduce the incentive for firms to shift profits or physical capital and jobs to lower-tax jurisdictions.
+
+The Tax Cuts and Jobs Act Improved the Corporate Income Tax
+
+The Tax Cuts and Jobs Act reduced the federal corporate income tax rate from 35 percent to 21 percent, dropping the U.S. combined rate from 38.9 percent to 25.7 percent. This puts the United States slightly above the OECD average of 24 percent, but slightly below the average weighted by GDP.
+
+According to the Tax Foundation’s Taxes and Growth Model, the combined effect of all the changes in the Tax Cuts and Jobs Act will increase the long-run size of the U.S. economy by 1.7 percent.[16] The larger economy would result in 1.5 percent higher wages, a 4.8 percent larger capital stock, and 339,000 additional full-time equivalent jobs in the long run.
+
+Table 1: Economic Impact of the Tax Cuts and Jobs Act
+
+Source: Tax Foundation Taxes and Growth Model, November 2017.
+
+Change in long-run GDP                           1.7%
+Change in long-run capital stock4.8%
+Change in long-run wage rate1.5%
+Change in long-run full-time equivalent jobs339,000
+
+The reduction in the corporate tax rate drives these long-run economic benefits by significantly lowering the cost of capital.
+
+Table 2: The Corporate Tax Rate Reduction is Key Provision Increasing Economic Growth, 2018-2027
+ProvisionLong-run GDP Growth
+
+Source: Tax Foundation Taxes and Growth Model, November 2017. Note: This long-run GDP growth figure is larger than the 1.7 percent of total growth from the plan because several other provisions have negative growth effects. A full list of economic effects by provisions is found in Table 5 of Preliminary Details and Analysis of the Tax Cuts and Jobs Act.
+
+Lower the corporate income tax rate to 21 percent2.6%
+
+The TCJA Encourages Other Countries to Have More Competitive Tax Structures
+
+The international corporate tax landscape has changed over the past several decades, as noted above, and the average statutory rates in all regions saw a net decline between 1980 and 2017.[17] Once the highest rate in the OECD, the United States corporate income tax rate is now closer to the middle of the pack. This will encourage other countries to move away from high taxes on capital toward more competitive corporate income tax rates.
+<USER>

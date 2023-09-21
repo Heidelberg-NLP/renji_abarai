@@ -1,0 +1,124 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the government allow illegal immigrants to become citizens?
+Text: Should illegal immigrants be granted legal citizenship? | Debate.org
+  • Does It Really Matter?
+
+    If they pay taxes, and aren't felons. How are they any different than someone born in the United States? The difference is surprisingly small. About the same as someone born in one state, and not in another. We were founded completely on immigration.
+
+    Anyone remember this ?
+
+    “Give us your tired, your poor, your hungry, your huddled masses yearning to be free”
+
+    Carved into the statue of liberty. Maybe we should go back to our roots, and realize what made our country the best on the planet.
+
+  • Immigrants are people.
+
+    It does not matter if they're from a different country or Latin America. Some people have been born in America as a U.S citizen and are being thought of as immigrants! It truly does not matter! They are still people of this world and have a family, a story, and a life! The constitution clearly states "all men are equal". God created us not to be racist! But to be kind and to treat each other equal.
+
+  • EVERYONE SHOULD HAVE EQUAL RIGHTS AND BE GRANTED THE PRIVILEGE TO THOSE WHO WORK FOR IT !
+
+    If you work for something, you should always have the award to be rewarded with high qualities. Americans who discriminate are just IGNORANTS! WHO DON'T REALIZE THAT THEY HAVE LIVED A SPOILED LIFE AND DON'T KNOW HOW TO LIVE LIFE WITHOUT HAVING HELP OF OTHERS!! Yes I agree that those immigrants who break the law should face their consequences, yet that doesn't mean they all have to pay for once action!
+
+  • Immigrants are not criminals
+
+    All immigrants have one reason to be here. Their biggest dream is to have a better future for themselves and for their children. All the immigrants do is come here to work. Most of them work in the fields because the people from here dont even want to spend all day in the ugly weather. So all immigrants have to suffer just to achieve their dream.
+
+  • More People, More Taxes.
+
+    In my opinion, it seems that immigrants are going to come whether it be legally or illegally. If they're here anyways working and living their lives in America, why would we not allow them to become legal citizens in order to receive the same rights we do for the same work they do. I also do not see why we as Americans, who all live in a country FOUNDED by immigrants, are so quick to try and shun the immigrants we see today. Doesn't make much sense does it?
+
+  • Everyone deserves a chance
+
+    They could have smart great ideas and make us Americans money and then they could finally get the life they wanted. No not everyone is cold hearted so they should at least have a chance at a new life her whether they are legal or not. Say yes if you agree.
+
+  • Most immigrants have horrible living conditions
+
+    It isn't safe in some of the communities these immigrants live in, so why not try to help these people? These people have traveled for WEEKS trying to get to the US and then we just turn them back around? Put yourself in these people's positions would you want to stay in a country that isn't safe even for children? Or living in poverty? Or even have to walk miles just to get fresh water? HELP THESE PEOPLE!
+
+  • No of course not
+
+    Now, they wouldn't be "illegal" immigrants without the citizenship now would they? But the only people who should be allowed migrate without one are refugees since they need to escape any war or genocide from their country. In Australia, there is a crisis on it going on so it is important to say the difference. To those who vote yes because of the refugees, that is a good reason but they are not the same.
+
+  • Gays Have Rights Then So should Immigrants
+
+    The Hispanic community Deserves Papers Those that have Family here and Work hard for what they have. Americans are wrong wen they say that we are a threat to the U.S. NO We are not Many work picking crop and probably get a $1 per bucket and are chasedout the country as if we were criminals. Most terroristic acts Are COMMITED by Middle Easters. Or other Races that are not Hispanic so How Are we a treat? It wasn't till long ago that Homosexuals Got the right to marry? Is not a violation To not give us are citizenship? We pay bills,taxes, tickets everything So we deserve to be here like any other Race
+
+  • I Believe They Should Be Granted Legal Status
+
+    Most people that are willing to risk there lives and everything they had for the "american dream" are not going to be stupid and ruin it by "commiting crimes" although i do acknowladge that there are people who do cross these borders with drugs, or commit crimes while here, you should not judge a whole race for a persent of people who have done something bad. Thats steriotyping. If you say illegal immigrants dont belong here, why dont you start by taking a hard look at yourself, you claim to be american right?, but are you really?, because if i recall this nation is based on the pure ideals of immigration. Trying to escape an unwanted place in search of something greater. Thats all any immigrant want, that equal opportunity, and who are you to take that away from him/her, if you youself or your ancestors came with that same mindset.
+
+  • They do nothing but take jobs, get money and a free minivan for doing nothing but drugs, and their kids get free food and benefits
+
+    Theyre illegal for a reason. They dont pay taxes, they sit home and dont work, their kids get free lunch and benefits, they steal bikes, bring down the society, bring in swine flu and drigs, and they dont even try. Theyre rude, crude, and annoying. They dont belong here. Stupid mexicans
+
+  • No, have to go through the citizenship hoops like everyone else.
+
+    People shouldn't be rewarded for their illegal actions. I don't think they should be immediately deported BUT they should have to go through the citizenship process like everyone else. They should have to go through all of the important steps to become a citizen and if they aren't willing to do this the they should return to their country of origin.
+
+  • Should illegal immigrants be granted legal citizenship?
+
+    Illegal aliens are very bad for the united states economy. They commit crimes, take jobs, and use valuable tax payer resources. They are mostly unskilled, unintelligent folks have have no opportunity in their home country. They come to America looking for unskilled labor, but these jobs would otherwise be filled by Americans.
+
+  • Only if they receive the same treatment as felons
+
+    Only if they are treated as felons for 20 years. Not able to buy firearms, vote, etc. Etc. They broke federal laws to get here, they should not be rewarded for it.
+
+    No reason that we are starting to treat our natural-born American generations as second-rate citizens. I'm sure i'm coming off as arrogant. They should be excluded from any job that prohibits felons as well.
+
+  • NO! Granting them citizenship is a slap in the face for those that legally immigrated here!
+
+    We should not grant illegal immigrants legal citizenship! It is a slap in the face for those that legally immigrated here. My family was able to legally immigrate to the US back in 1976 when Asians were despised by White America, but they still did it the right way. How can we expect these people to lead productive law abiding lives when they can't even enter the country legally? There is a reason its called ILLEGAL immigration. By doing so, we are only showing the world that we reward criminals. When most people immigrate to the US they want to be Americans. Nowadays many are coming here saying they want to live a better life but are not assimilating to American culture, they are simply bringing their bad habits here and pretty much lowering our standards. Our current presidency wants to create a Socialist Society, but as we've seen in other countries, this does not work. Why do you think China is slowly becoming a Capitalist Society? The current powers that be are taking something good, taking it apart and going backwards! We need to stand up against this by all uniting together and tell our government the practice of giving away citizenship to anyone that asks for it, is not only wrong, but harmful to the future of America and law abiding citizens.
+
+  • Damn bad mexicans
+
+    The mexicans are taking jobs that americans would love to have. Plenty of good immigrants are waiting to come into this great nation legally. Why should we reward the ones that broke the system. They don't pay taxes but send there kids to school and use roads that are contributed by good citizens. If we make them citizens it will tell many other immigrants to cheat the system and come here illegally. We can not reward criminals
+
+  • Statistics don't lie
+
+    Studies have been done in California, on of the most populated areas by illegal immigrants, and this statistic says that, "Legalizing undocumented immigrants would cost the government $6.3 trillion in the long run. Therefore we are hurting ourselves more than helping. Immigrants have benefits but do they outweigh the harms?
+
+  • Driving down wages
+
+    I have worked in construction most of my life. I was able to make a decent living and made sure most of the money I spent was with local people and business in my area. Since the illegal mexican invaders have shown up wages have dropped around 40% and many local contractors have gave up. I am 58 years old. What am I supposed to do go back to school for training so I can start my new career at 62. They should be granted a boot in the ass back to their third world failure of a country.
+
+  • It isn't fair.
+
+    It's extremely unfair to legal immigrants and those trying to get into the country legally. Another huge misstatement I've heard on the Yes side is that it's racist to say No to allowing illegal immigrants to become citizens. Illegal immigrants are not the same as Hispanics living in the united states. It is in fact racist to assume that all illegal immigrants are Hispanic.
+<USER>

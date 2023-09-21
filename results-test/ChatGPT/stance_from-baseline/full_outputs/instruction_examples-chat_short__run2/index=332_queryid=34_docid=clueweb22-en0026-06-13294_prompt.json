@@ -1,0 +1,65 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Are social networking sites good for our society?
+Text: Are social networking sites good for our society? ProCon.org updates popular website on social media
+
+=”font-family:>
+
+The 47% of Americans who use social media sites like Facebook, Twitter, and LinkedIn have spent billions of minutes social networking in 2012.
+
+The increasing prevalence of social communication via computers, apps, and mobile devices has been constant and controversial. Is social media advancing beneficial social, political, and business changes, or is it causing a harmful dependence on screen-based technology and spawning less meaningful interpersonal relationships? Are we better off in our new world of constant social connectivity, or has more social media communication brought more problems?
+
+ProCon.org, a nonpartisan research organization devoted to critical thinking on controversial issues, debuts its revamped website, socialnetworking.procon.org, and delves into the pros and cons of the core question “Are social networking sites good for society?”
+
+Proponents of social networking sites say that the online communities promote increased interaction with friends and family; offer teachers, librarians, and students valuable access to educational support and materials; facilitate social and political change; and disseminate useful information rapidly.
+
+Opponents of social networking say that the sites prevent face-to-face communication; waste time on frivolous activity; alter children’s brains and behavior making them more prone to ADHD; expose users to predators like pedophiles and burglars; and spread false and potentially dangerous information.
+
+In addition to in-depth research on the pros and cons of social media, the revamped ProCon.org social networking website contains a historical background section, videos, photos, over 200 footnotes and sources, and Did You Know? facts including:
+
+  1. Social networking sites are the top news source for 27.8% of Americans, ranking below newspapers (28.8%) and above radio (18.8%) and print publications (6%).
+  1. Students who used social media had an average GPA of 3.06 versus non-users who had an average GPA of 3.82. Students who used social networking sites while studying scored 20% lower on tests.
+  1. 35 global heads of state, every US Cabinet agency, 84% of US state governors, every major candidate for US President, and more than 40% of top global religious leaders are on Twitter.
+  1. 10% of people younger than 25 years old respond to social media and text messages during sex.
+  1. In July 2012 Americans spent 74.0 billion minutes on social media via a home computer, 40.8 billion minutes via apps, and 5.7 billion minutes via mobile web browsers for a total of 121.1 billion minutes on social networking sites in one month.
+
+For pros, cons, and related research on whether or not social networking is good for society, visit socialnetworking.procon.org.
+
+conversation-loading
+<USER>

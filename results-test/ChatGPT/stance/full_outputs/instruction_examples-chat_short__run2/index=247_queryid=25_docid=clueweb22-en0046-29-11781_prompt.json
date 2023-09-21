@@ -1,0 +1,115 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should education free
+Text: Statistics education
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+Statistics education is the practice of teaching and learning of statistics, along with the associated scholarly research.
+
+Statistics is both a formal science and a practical theory of scientific inquiry, and both aspects are considered in statistics education. Education in statistics has similar concerns as does education in other mathematical sciences, like logic, mathematics, and computer science. At the same time, statistics is concerned with evidence-based reasoning, particularly with the analysis of data. Therefore, education in statistics has strong similarities to education in empirical disciplines like psychology and chemistry, in which education is closely tied to "hands-on" experimentation.
+
+Mathematicians and statisticians often work in a department of mathematical sciences (particularly at colleges and small universities). Statistics courses have been sometimes taught by non-statisticians, against the recommendations of some professional organizations of statisticians and of mathematicians.
+
+Statistics education research is an emerging field that grew out of different disciplines and is currently establishing itself as a unique field that is devoted to the improvement of teaching and learning statistics at all educational levels.
+
+Goals of statistics education[edit]
+
+Statistics educators have cognitive and noncognitive goals for students. For example, former American Statistical Association (ASA) President Katherine Wallman defined statistical literacy as including the cognitive abilities of understanding and critically evaluating statistical results as well as appreciating the contributions statistical thinking can make.[1][2]
+
+Cognitive goals[edit]
+
+In the text rising from the 2008 joint conference of the International Commission on Mathematical Instruction and the International Association of Statistics Educators, editors Carmen Batanero, Gail Burrill, and Chris Reading (Universidad de Granada, Spain, Michigan State University, USA, and University of New England, Australia, respectively) note worldwide trends in curricula which reflect data-oriented goals. In particular, educators currently seek to have students: "design investigations; formulate research questions; collect data using observations, surveys, and experiments; describe and compare data sets; and propose and justify conclusions and predictions based on data."[3] The authors note the importance of developing statistical thinking and reasoning in addition to statistical knowledge.
+
+Despite the fact that cognitive goals for statistics education increasingly focus on statistical literacy, statistical reasoning, and statistical thinking rather than on skills, computations and procedures alone, there is no agreement about what these terms mean or how to assess these outcomes. A first attempt to define and distinguish between these three terms appears in the ARTIST website[4] which was created by Garfield, delMas and Chance and has since been included in several publications.[5][6] Brief definitions of these terms are as follows:
+
+  1. Statistical literacy is being able to read and use basic statistical language and graphical representations to understand statistical information in the media and in daily life.
+  2. Statistical reasoning is being able to reason about and connect different statistical concepts and ideas, such as knowing how and why outliers affect statistical measures of center and variability.
+  3. Statistical thinking is the type of thinking used by statisticians when they encounter a statistical problem. This involves thinking about the nature and quality of the data and, where the data came from, choosing appropriate analyses and models, and interpreting the results in the context of the problem and given the constraints of the data.
+
+Further cognitive goals of statistics education vary across students' educational level and the contexts in which they expect to encounter statistics.
+
+Statisticians have proposed what they consider the most important statistical concepts for educated citizens. For example, Utts (2003) published seven areas of what every educated citizen should know, including understanding that "variability is normal" and how "coincidences… are not uncommon because there are so many possibilities."[7] Gal (2002) suggests adults in industrialized societies are expected to exercise statistical literacy, "the ability to interpret and critically evaluate statistical information… in diverse contexts, and the ability to… communicate understandings and concerns regarding the… conclusions."[8]
+
+Non-cognitive goals[edit]
+
+Non-cognitive outcomes include affective constructs such as attitudes, beliefs, emotions, dispositions, and motivation.[9] According to prominent researchers Gal & Ginsburg,[10] statistics educators should make it a priority to be aware of students' ideas, reactions, and feelings towards statistics and how these affect their learning.
+
+Beliefs[edit]
+
+Beliefs are defined as one's individually held ideas about statistics, about oneself as a learner of statistics, and about the social context of learning statistics.[11] Beliefs are distinct from attitudes in the sense that attitudes are relatively stable and intense feelings that develop over time in the context of experiences learning statistics. Students' web of beliefs provides a context for their approach towards their classroom experiences in statistics. Many students enter a statistics course with apprehension towards learning the subject, which works against the learning environment that the instructor is trying to accomplish. Therefore, it is important for instructors to have access to assessment instruments that can give an initial diagnosis of student beliefs and monitor beliefs during a course.[10] Frequently, assessment instruments have monitored beliefs and attitudes together. For examples of such instruments, see the attitudes section below.
+
+Dispositions[edit]
+
+Disposition has to do with the ways students question the data and approach a statistical problem. Dispositions is one of the four dimensions in Wild and Pfannkuch's[12] framework for statistical thinking, and contains the following elements:
+
+  • Curiosity and Awareness: These traits are a part of the process of generating questions and generating ideas to explore and analyze data.
+  • Engagement: Students will be most observant and aware in the areas they find most interesting.
+  • Imagination: This trait is important for viewing a problem from different perspectives and coming up with possible explanations.
+  • Scepticism: Critical thinking is important for receiving new ideas and information and evaluating the appropriateness of study design and analysis.
+  • Being logical: The ability to detect when one idea follows from another is important for arriving at valid conclusions.
+  • A propensity to seek deeper meaning: This means not taking everything at face value and being open to consider new ideas and dig deeper for information.
+
+Scheaffer states that a goal of statistics education is to have students see statistics broadly. He developed a list of views of statistics that can lead to this broad view, and describes them as follows:[13]
+
+  • Statistics as number sense: Do I understand what the numbers mean? (seeing data as numbers in context, reading charts, graphs and tables, understanding numerical and graphical summaries of data, etc.)
+  • Statistics as a way of understanding the world: Can I use existing data to help make decisions? (using census data, birth and death rates, disease rates, CPI, ratings, rankings, etc., to describe, decide and defend)
+  • Statistics as organized problem solving: Can I design and carry out a study to answer specific questions? (pose problem, collect data according to a plan, analyze data, and draw conclusions from data)
+
+Attitudes[edit]
+
+Since students often experience math anxiety and negative opinions about statistics courses, various researchers have addressed attitudes and anxiety towards statistics. Some instruments have been developed to measure college students' attitudes towards statistics, and have been shown to have appropriate psychometric properties. Examples of such instruments include:
+
+  • Survey of Attitudes Towards Statistics (SATS), developed by Schau, Stevens, Dauphinee, and Del Vecchio[14]
+  • Attitude Toward Statistics Scale, developed by Wise[15]
+  • Statistics Attitude Survey (SAS), developed by Roberts and Bilderback[16]
+
+Careful use of instruments such as these can help statistics instructors to learn about students' perception of statistics, including their anxiety towards learning statistics, the perceived difficulty of learning statistics, and their perceived usefulness of the subject.[17] Some studies have shown modest success at improving student attitudes in individual courses,[18][19] but no generalizable studies showing improvement in student attitudes have been seen.
+
+Nevertheless, one of the goals of statistics education is to make the study of statistics a positive experience for students and to bring in interesting and engaging examples and data that will motivate students. According to a fairly recent literature review,[17] improved student attitudes towards statistics can lead to better motivation and engagement, which also improves cognitive learning outcomes.
+
+Primary–secondary education level[edit]
+
+New Zealand[edit]
+
+In New Zealand, a new curriculum for statistics has been developed by Chris Wild and colleagues at Auckland University. Rejecting the contrived, and now unnecessary due to computer power, approach of reasoning under the null and the restrictions of normal theory, they use comparative box plots and bootstrap to introduce concepts of sampling variability and inference.[20] The developing curriculum also contains aspects of statistical literacy.
+
+United Kingdom[edit]
+<USER>

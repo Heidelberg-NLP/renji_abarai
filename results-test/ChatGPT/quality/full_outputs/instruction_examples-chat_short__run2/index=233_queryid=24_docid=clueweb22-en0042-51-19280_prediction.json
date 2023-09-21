@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2eZHBNttn8kScQp4UiloIgPAKrm",
+  "object": "chat.completion",
+  "created": 1683104491,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1324,
+    "completion_tokens": 88,
+    "total_tokens": 1412
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides information about the 2020 federal income tax brackets and rates. It explains how the IRS adjusts tax provisions for inflation to prevent bracket creep and how it will use the C-CPI to adjust income thresholds, deduction amounts, and credit values accordingly. The text also includes a table showing the income limits for all tax brackets, the top marginal income tax rate, and the standard deduction for single filers and married couples filing jointly."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

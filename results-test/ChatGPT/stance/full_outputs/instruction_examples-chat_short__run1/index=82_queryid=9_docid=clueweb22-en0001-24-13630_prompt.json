@@ -1,0 +1,138 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should student have wear school uniform
+Text: should students have to wear school uniforms - English bibliographies - Cite This For Me
+
+These are the sources and citations used to research should students have to wear school uniforms. This bibliography was generated on Cite This For Me on
+
+  • Website
+
+    School Uniforms - ProCon.org
+
+    2017
+
+    A bulletin published by the National Association of Secondary School Principals stated that "When all students are wearing the same outfit, they are less concerned about how they look and how they fit in with their peers; thus, they can concentrate on their schoolwork.
+
+    In-text: (School Uniforms - ProCon.org, 2017)
+
+    Your Bibliography: School-uniforms.procon.org. 2017. School Uniforms - ProCon.org. [online] Available at: <http://school-uniforms.procon.org/> [Accessed 20 April 2017].
+
+  • Website
+
+    School Uniforms - ProCon.org
+
+    2017
+
+    In Long Beach, CA, after two years of a district-wide K-8 mandatory uniform policy, reports of assault and battery in the district's schools decreased by 34%, assault with a deadly weapon dropped by 50%, fighting incidents went down by 51%, sex offenses were cut by 74%, robbery dropped by 65%, possession of weapons (or weapon "look-alikes") decreased by 52%, possession of drugs went down by 69%, and vandalism was lowered by 18%.
+
+    In-text: (School Uniforms - ProCon.org, 2017)
+
+    Your Bibliography: School-uniforms.procon.org. 2017. School Uniforms - ProCon.org. [online] Available at: <http://school-uniforms.procon.org/> [Accessed 20 April 2017].
+
+  • Website
+
+    School Uniforms - ProCon.org
+
+    2017
+
+    A 2007 study from Oxford Brookes University in the United Kingdom found that uniforms "often directly contributed to a feeling of school pride." [45] Christopher P. Clouet,
+
+    In-text: (School Uniforms - ProCon.org, 2017)
+
+    Your Bibliography: School-uniforms.procon.org. 2017. School Uniforms - ProCon.org. [online] Available at: <http://school-uniforms.procon.org/> [Accessed 20 April 2017].
+
+  • Website
+
+    Should Students Have to Wear School Uniforms? - School Uniforms - ProCon.org
+
+    2017
+
+    Interestingly, what most excites children going to school for the first time is usually their uniform. Every five-year-old can appreciate wearing a school uniform is a powerful rite of passage, and an equally powerful statement of belonging.
+
+    In-text: (Should Students Have to Wear School Uniforms? - School Uniforms - ProCon.org, 2017)
+
+    Your Bibliography: School-uniforms.procon.org. 2017. Should Students Have to Wear School Uniforms? - School Uniforms - ProCon.org. [online] Available at: <http://school-uniforms.procon.org/view.answers.php?questionID=001903> [Accessed 19 April 2017].
+
+  • Website
+
+    Stephens, C.
+
+    Should Students Have to Wear School Uniforms? - School Uniforms - ProCon.org
+
+    2017
+
+    f it means teenagers will stop killing each other over designer jackets, then our public schools should be able to require their students to wear school uniforms. ... A uniform is not the same thing as a dress code... No endless back and forth between child, parents and school.
+
+    In-text: (Stephens, 2017)
+
+    Your Bibliography: Stephens, C., 2017. Should Students Have to Wear School Uniforms? - School Uniforms - ProCon.org. [online] School-uniforms.procon.org. Available at: <http://school-uniforms.procon.org/view.answers.php?questionID=001903> [Accessed 19 April 2017].
+
+  • Website
+
+    Whelan, B.
+
+    School uniforms save money, avoid problems
+
+    2017
+
+    There are many reasons to have school uniforms in public schools. School uniforms will help save parents money. It can help them save money because they have to buy the same outfit for every day, which means five outfits that are the same, and costing the same price
+
+    In-text: (Whelan, 2017)
+
+    Your Bibliography: Whelan, B., 2017. School uniforms save money, avoid problems. [online] The Daily Gazette. Available at: <https://dailygazette.com/article/2010/05/14/0514_bwhelan> [Accessed 20 April 2017].
+
+Click here to start building your own bibliography
+Keep on Citing!
+Cite This For Me:
+The Easiest Tool to Create your Bibliographies Online
+Join Us!
+
+Save Time and Improve Your Marks with Cite This For Me
+
+10,587 students joined last month!
+
+  • ✔ Save your bibliographies for longer
+  • ✔ Quick and accurate citation program
+  • ✔ Save time when referencing
+  • ✔ Make your student life easy and fun
+  • ✔ Pay only once with our Forever plan
+  • ✔ Use plagiarism checker
+  • ✔ Create and edit multiple bibliographies
+Join
+<USER>

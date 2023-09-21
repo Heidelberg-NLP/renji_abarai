@@ -1,0 +1,121 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: social networking site good society
+Text: Should schools block social networking sites: Should schools block student's access to social networking sites? | Debate.org
+
+Should schools block social networking sites: Should schools block student's access to social networking sites?
+
+  • Of Course It Should
+
+    The social networks like instagram/twitter/snapchat/ext. Can be very distracting at it can hurt the kids brain by looking at a bright screen all day. Also the social media can be a reason that some kids fail, because they are just rushing to do their work because they want to check up on their social media. It is also not fair to the kids who don't have social media or a phone.
+
+  • Yes it should block them
+
+    The reason why is because when dose a child have time in class to get on the computers and type in snapchat or instagram ? They have no time right even in class because the student should be listening to the teacher. Also i am a student my self in the 8 grade
+
+  • Communicate with others
+
+    Some people might say that social networking is a distraction but nowadays kids don't watch the news so that is basically the only way they know about things not only that but school is very time consuming with homework and all not allowing them to social network at home, which means that they don't see their far away relatives very often.
+
+  • The latest gossip is not a class topic
+
+    I don't understand why a student "needs" (quoting several prior opinions) access to social media during classroom time. Teachers are battling enough other distractions their students face, they don't need another. Internet use (as controlled by the teacher) is definitely a valuable educational tool and should be encouraged.
+
+    I am not opposed to students controlling their own mobile devices, but free wifi should be shut off during classroom time. It can be turned back on during lunch, before and after school, etc. That way, students who think they need to be texting, sending videos, watching programs, etc can all do so on their own (parent provided and paid for) data plans. This forces the conversations about appropriate Internet use to the parties that should be having it (the parents and their children) while maintaining communication access at reasonable times.
+
+    As a parent who bans social media on the devices I own and are used by my children, I don't need the school district enabling social media on the school-issued devices. It inhibits my rights as a parent to raise my children as I see fit. Cyber bullying is very real and it is happening every day - I choose to limit the bullying exposure to those instances that occur in the hallway, not to those of some coward hiding behind the anonymity of a screenname, or the distance of the Internet. Sexual predators are getting younger and younger (by definition of law, boys asking female recipients to send nudes is illegal). Sexual harassment is becoming the new way to introduce oneself. Posting inappropriate images is becoming the new way to define oneself.
+
+    Part of the education students should be getting is when are the appropriate times and places for using social media. When they enter the work place, they better set the phone down, or they will be fired. If we don't establish this fact and behavior early in life, we are doing a disservice to our children and our future workforce. Another part of a student's education is how to communicate to real live humans, in face-to-face conversation, pauses, interruptions and all; soft skills that cannot be taught in any classroom.
+
+    In the end, who is in charge of the classroom? The student (the tail) or the teacher/school system (the dog)? Let's give our educators a fighting chance to do their jobs, and supporting them by instructing our children to put the phone away. And let's give our children a fighting chance to obtain meaningful employment by steering them away from leaving an electronic history of poor decisions by which future employers can judge them.
+
+  • Definitely should be banned
+
+    Social networking and media sites should be banned.They should be banned at schools because it can be distracting and can relatively cause cyber bullying. School is about learning, not taking selfies and posting them on Instagram. If people really want social media sites and networking they should do it at home because school is an educating environment and if we want a future, we need to focus and get it right.
+
+  • Yes yes yes yes yes
+
+    What do u think its freedom of speech, I'm a kid and all social media at school is blocked so I came to this website to get ideas on why we should because I want to persuade my school staff to agree on unblocking. Well in the end they did and they wouldn't have if I didn't use ur ideas on this website which is also technically social media.
+
+  • Social Media should be blocked
+
+    In schools social media is very distracting for kids. They mainly focus and share about it distracting others. They sometimes use it to distract others. Youtube makes kids distracted and then they cant take things seriously. So that is why i think social media is bad for schools and kids.
+
+  • Parents can't protect their kids if schools allow it
+
+    Social media sites are so dangerous! Children are being found by pedophiles and setting are common and these things are being normalized so kids developing brains are being marred by their peers on social media in ways that are extremely damaging. Even parents who don't allow cell phones, have no control because schools do and they don't even block Facebook, snap chat, kick etc. all of which pornography can be accessed.
+
+  • Social Network is needed in Schools
+
+    I thinks schools should not block social networking sites because the would violate one of our basic freedoms of expression. I also think that these social networking sites provide an avenue for students to express their feelings whether good or bad. Not being able to vent can lead to behavioral issue or increased stress.
+
+  • Yes, they are distracting.
+
+    Yes, schools should block social networking sites at school, because they are not helpful to the learning process. There is nothing that a child can learn while social networking at school that they cannot learn in a classroom. But social networking can cause a lot of destruction during the day, such as hurt feelings and bullying. Schools are better off without social media.
+
+  • It sucks like poop
+
+    My son is using all his data and i have to pay for it and i am really really really really really upset i have spent 223,456,869,769765 dollers a day ever single day and snapchatting pepole and instagram and facebook and i am fed up with all of this crap
+
+  • Absolutely not at all!
+
+    Devices with Cellular Data are becoming more and more popular around the world! Even with the sites blocked, students can still access them using their data. To keep classism and debt down, keep the sites unblocked. When it comes to data usage, parents want their kids to do something they’re not going to do. Parents want their kids off cellular data. The kids are gonna go on Cellular Data.
+
+  • Why can't we?
+
+    The reason I say no to this is because student's rights have diminished 10-fold recently. There's no reason that students can't use things like snapchat, because it's a changing world, and even though adults don't understand it, it's a new part of life. There's also a problem with it that goes beyond morals. Legally, the schools should have to run it through the parents who are the tax payers.
+
+  • No, school SHOULD NOT block social media
+
+    School should not block social media because it something personal, like if students have access to their iPhone or iPad, or depending on device thy are using, school should not block or look at private stuff. Because, I feel like it should be private and school should only block non-social media websites beside blocking social media since kids don’t need protection and especially if parent need to talk to their kid if something serious.
+
+  • It Should defiantly not be Banned.
+
+    There is no point in banning social media in schools. Students deserve to do what they want in their free time. School faculty cannot come to your house and sleep in your bed with you to see if you are on social media. Also, students will just make fake accounts on social media. It is the parents job to make sure their children aren't doing anything bad on social media.
+
+  • Of Course It Should
+
+    The social networks like instagram/twitter/snapchat/ext. Can be very distracting at it can hurt the kids brain by looking at a bright screen all day. Also the social media can be a reason that some kids fail, because they are just rushing to do their work because they want to check up on their social media. It is also not fair to the kids who don't have social media or a phone.
+
+  • No, I don't think that it should be banned.
+
+    Phones in my school are prohibited for the whole day, which incredibly sucks. A lot of my classmates break this rule, and use phones anyway. The older students in our school are allowed their phones in break, which is unfair. After school, though, we're able to use social media, but who wants to stay after school just for social media? Some schools, like my school, take this useful tool away from us! Social media is important for the newer generations. I get it - Cyber bullying and sexual predators are a thing. But trying to reduce problems in that way, isn't going to stop them.
+
+    I think that apps like whatsapp, messenger and whatsapp are useful to text people, and youtube, for example, could be used for educational purposes! Apps like Facebook and Instagram are pretty useless when it comes to that, though. But you’re forgetting one thing; Banning social media on the school INTERNET is stupid. We could just get off the internet and access social media with ease!
+<USER>

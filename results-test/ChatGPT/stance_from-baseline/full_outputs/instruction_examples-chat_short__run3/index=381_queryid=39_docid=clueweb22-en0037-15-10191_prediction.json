@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W4EobWuM3Wp006ZXhhZlcZN7P0TQ",
+  "object": "chat.completion",
+  "created": 1687877142,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "pro (for increasing federal minimum wage) / con (against athletes using steroids)"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1784,
+    "completion_tokens": 16,
+    "total_tokens": 1800
+  }
+}

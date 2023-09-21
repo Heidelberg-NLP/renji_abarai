@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C34xCZza39z3tWUSIgQVMoX9TECt",
+  "object": "chat.completion",
+  "created": 1683106127,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2697,
+    "completion_tokens": 21,
+    "total_tokens": 2718
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is an informational article and does not contain a rhetorical argument, so it cannot be assigned a label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

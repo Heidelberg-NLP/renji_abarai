@@ -1,0 +1,82 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should students have to wear school uniforms?
+Text: Should schools require students to wear uniforms? | Debate.org
+  • Kids should have uniforms
+
+    You would know what school the kid is from by looking at their uniform that the kid is wearing that way your child would not get lost. They would also leran that they need to respect school policy because people can see that this school is not good for education.
+
+  • Dfrtyhbv cf dfrtgv
+
+    Cfrt dfrt67u tyujnb tyuijnb uikjnbvgt uhgvcft67 ycft y7u cfgty ijnbb jb bhijunbljkm k cm mgkjtkm mbkigbm mbgkjm mbvgjm mnjvgvm mjvvn njvvn nvjfnv nvjvn vnjvn nvjvn nvhfvn nvhfn nvhn nvjfvn vhfnv vhfvn vhfn nvhfn nvhfn nhvn nvhn nvhn nvh nvh nvh nvh nvh nvhnvh nvhfn nvhjn nhvn vnhn nvhn nvh nb
+
+  • Its much better because
+
+    Students wuldnt buy many clothes and waist their money on alot of clothes, Reason 1, Reason 2 is students may waist their time on choosing an outfit because there is alot of clothes, Reason 3, Students may get lost outside the school like in field trips or something else, Uniforms are much better.
+
+  • They should be required
+
+    ;ldkvabn[orbn'isklgna[roigjq[]koqrgoq[u3r] hola fk kfje jdnfjwoc n;efnqewlkj f. F k jrq; krng'oq3rng orenqogno;3r[hg aoiprhq[hg epqgiuoh qerg qeg3raevgqerg teqb;q f h 4r e gr rf r e4tgvreqa qa3rg q3gv 5rg hbqt5gr q3r h4t6hn 2q56h q4anyhn wrnyj 5r, Mi74 wa4t e6t w54t 4t2 3wn5y y y ut rt e yjki hnf r un f
+
+  • Uniforms should be mandatory
+
+    What is wrong with it? It provides one with a sense of discipline which is what we learn in school. You are showing the respect towards your school and one knows that you are from this school. It shows that we are united in spirit. It shall also display us a sense of identity and school pride.
+
+  • Uniforms should be required
+
+    Uniforms should be required to prevent bullying over the newest sneakers and hottest jacket. They save the student time in the morning when choosing what to wear and the parents money because 4 pants and 5 shirts will last a school year. It also pushes students to express themselves and show their uniqueness in new ways like writing, singing, dancing, sports, etc.
+
+  • Students should be able to wear uniforms
+
+    As i have heard before and i will say, students with uniforms don't need to worry about being picked on for what they wear. Lots of kids i know wake up 30 minutes earlier just to pick out the "right" outfit for the day. With my opinion i think that schools should choose uniforms to release the stress of picking out clothing for the day. I can see how the other side looks at the situation though, i know lots of people want the right to pick out their clothing and i respect that. I do want to say one last thing though, with uniforms you only have to pay for one set of clothes (or two, depending on P.E.) and you don't have to constantly buy new clothes for school each year.
+
+  • Schools should be required to wear uniforms
+
+    Schools should be required to wear uniforms because it causes less teasing about what the student chooses to wear. It also gives the student more focus on their schools work instead of worrying about what they wear or how they look like. Furthermore, buying individual clothing pieces may cost more money to be spent, but if a uniform is bought, less money is spent on buying clothes.
+
+  • Schools should require students to wear uniforms
+
+    Schools should require students to wear uniforms. This is because of the fact that there have been studies on students who wear school uniforms versus students who follow a dress code or none, and the results have shown that the students are more obedient, less distracted, and less unruly when they wear uniforms.
+
+  • Uniforms Are Better
+
+    I believe schools should require uniforms for students. I think this makes it easier for the students and can help create a more neutral environment. People often say that uniforms cost to much money, but this simply isn't true. Shirts are generally sold for $8-$15 dollars and the slacks can be found for the same price as jeans.
+
+  • Wow, Wow, Wow, Wow
+<USER>

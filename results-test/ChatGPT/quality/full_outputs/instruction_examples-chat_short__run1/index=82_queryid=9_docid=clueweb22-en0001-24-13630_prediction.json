@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ3GdtEmoVVh0QaPRIRPsgTIn5h9",
+  "object": "chat.completion",
+  "created": 1682690870,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1899,
+    "completion_tokens": 22,
+    "total_tokens": 1921
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is a bibliography and not a rhetorical argument, so it is not possible to classify its persuasive quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

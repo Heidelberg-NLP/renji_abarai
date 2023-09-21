@@ -1,0 +1,153 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should death penalty allow
+Text: Last updated on: 9/20/2021 | Author: ProCon.org
+
+Should the Death Penalty Be Legal?
+
+General Reference (not clearly pro or con)
+
+John Gramlich, Senior Writer and Editor at Pew Research Center, in a July 19, 2021 article, “10 Facts about the Death Penalty in the U.S.,” available at pewresearch.org, stated:
+
+“Six-in-ten U.S. adults strongly or somewhat favor the death penalty for convicted murderers, according to the April 2021 survey. A similar share (64%) say the death penalty is morally justified when someone commits a crime like murder.
+
+Support for capital punishment is strongly associated with the view that it is morally justified in certain cases. Nine-in-ten of those who favor the death penalty say it is morally justified when someone commits a crime like murder; only a quarter of those who oppose capital punishment see it as morally justified.”
+
+July 19, 2021
+
+Ian Millhiser, Senior Correspondent at Vox, in a Dec. 30, 2020 article, “The Decline and Fall of the American Death Penalty,” available at vox.com, stated:
+
+“Fewer people were executed in 2020 than in any year for nearly three decades, and fewer people were sentenced to die than at any point since the Supreme Court created the modern legal framework governing the death penalty in 1976…
+
+One significant reason so few people were executed in 2020 is the Covid-19 pandemic — which has slowed court proceedings and turned gathering prison officials and witnesses for an execution into a dangerous event for everyone involved. But even if 2020 is an outlier year due to the pandemic, DPIC’s [Death Penalty Information Center’s] data shows a sharp and consistent trend away from the death penalty since the number of capital sentences peaked in the 1990s.
+
+In total, only 17 people were executed in 2020, a number that would be much lower if not for the Trump administration resuming federal executions this year for the first time in nearly two decades. 2020 is the first year in American history when the federal government executed more people than all of the states combined: 10 of the 17 people executed in 2020 were killed by the federal government.
+
+Only five states — Texas, Alabama, Georgia, Missouri, and Tennessee — conducted executions in 2020. And of these five states, only one, Texas, killed more than one person on death row.
+
+The trend away from new death sentences and executions has continued despite two recent significant pro-death penalty opinions from the Supreme Court. The Court’s decisions in Glossip v. Gross (2015) and especially in Bucklew v. Precythe (2019) make it much more difficult for death row inmates to claim their executions violate the Constitution’s prohibition on cruel and unusual punishments.”
+
+Dec. 30, 2020
+
+The late Roger Hood, PhD, Professor at the Centre for Criminological Research at the University of Oxford, in an Encyclopaedia Britannica entry, “Capital Punishment,” last edited on Mar. 25, 2021 and available at britannica.com, stated:
+
+“[C]apital punishment, also called death penalty, [is the] execution of an offender sentenced to death after conviction by a court of law of a criminal offense. Capital punishment should be distinguished from extrajudicial executions carried out without due process of law. The term death penalty is sometimes used interchangeably with capital punishment, though imposition of the penalty is not always followed by execution (even when it is upheld on appeal), because of the possibility of commutation to life imprisonment”
+
+Mar. 25, 2021
+
+PRO (yes)
+
+Pro
+
+Jeffrey A. Rosen, JD, Former Deputy Attorney General in the Trump Administration, in a July 27, 2020 article, “The Death Penalty Can Ensure ‘Justice Is Being Done,'” available at nytimes.com, stated: 
+
+“The death penalty is a difficult issue for many Americans on moral, religious and policy grounds. But as a legal issue, it is straightforward. The United States Constitution expressly contemplates ‘capital’ crimes, and Congress has authorized the death penalty for serious federal offenses since President George Washington signed the Crimes Act of 1790. The American people have repeatedly ratified that decision, including through the Federal Death Penalty Act of 1994 signed by President Bill Clinton, the federal execution of Timothy McVeigh under President George W. Bush and the decision by President Barack Obama’s Justice Department to seek the death penalty against the Boston Marathon bomber and Dylann Roof.
+
+The recent executions reflect that consensus, as the Justice Department has an obligation to carry out the law. The decision to seek the death penalty against Mr. Lee was made by Attorney General Janet Reno (who said she personally opposed the death penalty but was bound by the law) and reaffirmed by Deputy Attorney General Eric Holder.
+
+Mr. Purkey was prosecuted during the George W. Bush administration, and his conviction and sentence were vigorously defended throughout the Obama administration. The judge who imposed the death sentence on Mr. Honken, Mark Bennett, said that while he generally opposed the death penalty, he would not lose any sleep over Mr. Honken’s execution.”
+
+July 27, 2020
+
+Pro
+
+Charles Stimson, JD, Acting Chief of Staff and Senior Legal Fellow of the Heritage Foundation, in a Dec. 20, 2019 article, “The Death Penalty Is Appropriate,” available at heritage.org, stated:
+
+“There are, to be sure, heartfelt arguments for people to be against the death penalty, not the least of which are religious, moral, or other reasons and beliefs. There are also valid arguments regarding the historical use of the death penalty against minorities, especially in the South.
+
+Yet a majority of Americans, quite reasonably, support the death penalty in appropriate cases, and believe that, despite its imperfections, it is constitutional…
+
+But for the death penalty to be applied fairly, we must strive to make the criminal justice system work as it was intended. We should all agree that all defendants in capital cases should have competent and zealous lawyers representing them at all stages in the trial and appeals process.
+
+Any remnant of racism in the criminal justice system is wrong, and we should work to eliminate it. Nobody is in favor of racist prosecutors, bad judges or incompetent defense attorneys. If problems arise in particular cases, they should be corrected—and often are.
+
+That said, the death penalty serves three legitimate penological objectives: general deterrence, specific deterrence, and retribution.”
+
+Dec. 20, 2019
+
+Pro
+
+George Brauchler, JD, District Attorney of the 18th Judicial District in Colorado, wrote in a Mar. 1, 2019 opinion article titled “Coloradans Should Have the Final Say on the Death Penalty (and I’d Hope They Keep It),” available at denverpost.com:
+
+“There are good reasons to maintain capital punishment in our state…
+
+The paramount goal of sentencing is the imposition of justice. Sometimes, justice is dismissing a charge, granting a plea bargain, expunging a past conviction, seeking a prison sentence, or — in a very few cases, for the worst of the worst murderers — sometimes, justice is death…
+
+A drug cartel member who murders a rival cartel member faces life in prison without parole. What if he murders two, three, or 12 people? Or the victim is a child or multiple children? What if the murder was preceded by torture or rape? How about a serial killer? Or a terrorist who kills dozens, hundreds or thousands?
+
+The repeal of the death penalty treats all murders as the same. Once a person commits a single act of murder, each additional murder is a freebie.
+
+That is not justice.”
+
+Mar. 1, 2019 - George Brauchler, JD
+
+Pro
+
+Paul Muschick, columnist, reporter, and editor at The Morning Call, wrote in his June 28, 2018 opinion article titled “Pennsylvania’s Death Penalty System Should Be Strengthened, Not Abolished, Amid Newly Raised Concerns,” available at mcall.com:
+
+“Sometimes, there is no doubt that people are killers because their sins are recorded by surveillance cameras or bystanders’ phones. With that evidence, other than mental illness, there’s no reason not to execute those who commit the most horrific crimes…
+
+While executions are rare, having the death penalty can be a bargaining chip for authorities as they investigate crimes…
+
+It’s also necessary to have capital punishment because some crimes simply are so horrific that any other punishment, including life in a cage, is insufficient.”
+
+June 28, 2018 - Paul Muschick
+
+Pro
+
+Anne Marie Schubert, JD, Sacramento County District Attorney, stated the following in her July 20, 2016 article titled “California’s Broken Death Penalty System Can Be Fixed,” available at sacbee.com:
+
+“In our experience, most survivors want ‘justice’ for the murderers of their family members. Repealing the death penalty will not heal these peoples’ wounds; it keeps them permanently open…
+
+Moreover, victims’ families will always be haunted by the specter that an inmate sentenced to life without parole will suddenly ask the governor to reduce a sentence – as happened recently in the case of a Fresno murderer who waited 36 years and applied for clemency. As long as an inmate sentenced to life without parole lives, the governor could reduce the sentence and a murderer may be released on the streets…
+
+[It] is dead wrong to assert that the death penalty has been conclusively shown not to deter crime. Experience and common sense confirm a deterrent effect.”
+
+July 20, 2016 - Anne Marie Schubert, JD
+
+Pro
+
+Donald J. Trump, 45th President of the United States, stated the following in a May 11, 2016 appearance on Fox & Friends, available at YouTube.com:
+
+“The death penalty. It should be brought back and it should be brought back strong… They say it’s not a deterrent. Well, you know what, maybe it’s not a deterrent but these two [men convicted of killing two police officers in Hattiesburg, MS] will not do any more killing. That’s for sure.”
+
+May 11, 2016 - Donald J. Trump
+
+Pro
+<USER>

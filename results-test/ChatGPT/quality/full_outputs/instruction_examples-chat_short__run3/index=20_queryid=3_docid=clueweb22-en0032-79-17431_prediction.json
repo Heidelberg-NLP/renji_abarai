@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2x5xKGTadVd3pU5ECihxzRW1EYU",
+  "object": "chat.completion",
+  "created": 1683105639,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1740,
+    "completion_tokens": 35,
+    "total_tokens": 1775
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is informative and analytical in nature, and not intended as a rhetorical argument. Therefore, assigning a level of \"well-writtenness\" does not apply in this case."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a college education worth it?
+Text: Is College Worth It? | Why a College Education Still Matters
+0
+
+COVID-19 UPDATE:   Latest CSU Global Updates
+
+Colorado State University Global - 100% Online Degrees & Certificates
+
+IS COLLEGE WORTH IT?
+
+Want to learn more?
+
+Fill out the form below and we'll contact you and answer all of your questions.
+
+By submitting this form, I agree that representatives of CSU Global may contact me about educational services via email, phone, or text message including automated technology. Message and data rates may apply.
+
+Is College Worth It?
+
+Is a degree still worth the time and money necessary? Do employers value a college education as much as they once did? Read on to see if a university degree is a smart investment for you.
+
+ 
+
+THE NEW MINIMUM REQUIREMENT FOR EMPLOYMENT
+
+Burning Glass Technologies, a Boston-based labor analytics firm, found that employers are increasingly use the bachelor's degree credential as a rule of thumb for recruiting employees.
+
+The firm’s report, "Moving the Goalposts: How Demand for a Bachelor’s Degree is Reshaping the Workforce,” said, “Credential inflation [requiring a post-high school degree] is affecting a wide range of jobs from executive assistants to construction supervisors.” Economists refer to this trend as "degree inflation," and it is becoming more common in America's job market.
+
+PROTECTION IN TOUGH ECONOMIC TIMES
+
+Economies rise and fall, but whatever the financial climate, both national and international businesses need educated employees. Data derived from a reportfrom the Bureau of Labor Statistics confirms the numbers — in 2013, those with high school degrees had an unemployment rate of 7.5 percent, in contrast to those with bachelor’s degrees, with an unemployment rate of 4 percent.
+
+FACTOR IN LONG-TERM EARNING POTENTIAL
+
+According to a paper published in the journal Science, while college is a significant investment, over the long run, college is “cheaper than free.” The study states that not going to college will cost you about $500,000 over your lifetime — after deducting tuition costs.
+
+Another study by the Pew Research Center, titled “The Rising Cost of Not Going to College,” shows that the earning gap between those with and without a college degree is the widest it’s been in 50 years. The study also states that college graduates, regardless of generation, earn more than those without a degree.
+
+OVERALL FULFILLMENT
+
+Since most people spend roughly a third of their time working, job satisfaction may improve the quality of life. For almost all of us, it's necessary to have a job. What a degree can do is help you find a career that fulfills you personally.
+
+Degree-holders have the freedom to work in industries of their choice by combining personal passions with professional skills. If you’re not sure which direction to take, click here for help with deciding which career is best for you.
+
+I
+
+ROI infographic
+
+IS A DEGREE FROM CSU GLOBAL WORTH IT?
+
+Again - yes. A recent economic impact study revealed that on average, for every dollar invested in a CSU Global degree, graduates see a return on investment of four dollars.
+
+If you’re starting to see the value of a degree, contact us at CSU Global for help choosing a major.
+
+GET THE CAREER YOU DESERVE
+
+HOW MUCH WILL MY DEGREE COST?
+
+USE THE COST CALCULATOR
+
+Make 2022 The Year You Move Forward
+
+Application Fee Waiver Code
+
+Are you ready to move forward with your education? We’re here to help.
+Complete the form below and we’ll email you a code waiving the $25 application fee.
+
+
+By submitting this form, I agree that representatives of CSU Global may contact me about educational services via email, phone, or text message including automated technology. Message and data rates may apply.
+
+* Required Fields
+<USER>

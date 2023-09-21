@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3BZNA1OoLEbkm0DDtAZ59YtiB2y",
+  "object": "chat.completion",
+  "created": 1683106537,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 19,
+    "total_tokens": 2058
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Sorry, I'm an AI language model and my capabilities are limited to text prediction and generation."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJSZToq1bEZWY4GvkvhmT0Gt3KQU",
+  "object": "chat.completion",
+  "created": 1682692439,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1082,
+    "completion_tokens": 39,
+    "total_tokens": 1121
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry but I am not clear on what kind of input you are expecting from me as an AI language model. Can you please provide more details about what you would like me to do?"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

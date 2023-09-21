@@ -1,0 +1,187 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should recreational marijuana legal
+Text: States Where Recreational Marijuana Is Legal | Leafly Loading…
+
+Get local results
+
+ Current general location:  Use current location
+Enter your location to see results closest to you.
+-or-
+We do not share your location with anyone.
+Leafly
+Welcome to Leafly.
+Thanks for stopping by.
+
+Are you at least 21?
+
+By accessing this site, you accept the Terms of Use and Privacy Policy.
+
+Recreational marijuana laws in the United States
+
+Recreational marijuana laws in the United States - Leafly
+
+Although marijuana is illegal at the federal level in the United States, over a dozen states have opted to legalize cannabis for adult use, colloquially known as “recreational marijuana.”
+
+While most states have limited legalization efforts to medical marijuana access only, adult use is steadily picking up steam and spreading across the country.
+
+Learn more about recreational cannabis legalization by browsing through the sections below.
+
+What is recreational marijuana?
+
+“Recreational marijuana,” or adult-use cannabis, is legal marijuana sold in licensed dispensaries to adults ages 21 and older. It can be in the form of smokable flower, concentrates (e.g. vape cartridges, hash, wax, shatter, tinctures), edibles, or topicals.
+
+In 2012, Colorado and Washington became the first two states in the US to legalize cannabis for adult use. Since then, other states have followed suit. States and territories with legal recreational markets also operate legal medical marijuana programs that cater to patients with qualifying conditions.
+
+Related
+Top 9 arguments in support of marijuana legalization and regulation
+
+What is the difference between recreational and medical marijuana legalization?
+
+Most states in the US that have legal access to cannabis have granted it to valid medical marijuana patients only. As of April 12, 2021, 18 states plus Washington, DC and Guam have legalized recreational marijuana. About two dozen states plus Puerto Rico and the US Virgin Islands, by contrast, have a legal medical marijuana program, but each state’s program varies considerably in terms of access, qualifying conditions, and type of products available.
+
+Rec vs. MMJ: age restrictions
+
+When a state legalizes cannabis for adult use, only adults ages 21 and older with valid identification may legally buy cannabis from licensed dispensaries. Medical marijuana legalization restricts purchases to valid patients—typically ages 21 and up, although some programs allow patients ages 18+, as well as minors who have a qualifying condition, a doctor’s authorization, and a parent or guardian to dispense medication.
+
+Medical marijuana patients must also renew their doctor’s authorization—most commonly annually, although it varies by each state’s program—in order to maintain a valid medical cannabis card.
+
+Rec vs. MMJ: purchase and possession limits
+
+Recreational marijuana customers are limited by the amount of cannabis they can purchase at one time, as well as the total amount of marijuana they may possess and where they can possess it.
+
+While medical marijuana patients are also limited by the amount of cannabis they can purchase, many states allow patients to purchase and possess more cannabis than recreational consumers since cannabis is being used medicinally.
+
+Rec vs. MMJ: homegrow differences
+
+Some states that prohibit or limit home growing for personal adult use may make exceptions for medical marijuana patients—they can often grow/possess more plants, especially if they live a certain distance away from the nearest licensed dispensary.
+
+Rec vs. MMJ: tax exemptions
+
+Medical marijuana patients are often exempt from paying certain additional taxes that are leveed on cannabis products in recreational markets. For example, in Seattle, Washington, recreational customers must pay a combined 10.1% sales tax on their purchases (6.5% state sales and use tax rate, plus 3.6% local/county tax) while valid medical marijuana patients do not.
+
+Rec vs. MMJ: product selection and potency limits
+
+When it comes to product selection, there tends to be very little difference between medical and recreational menus.
+
+At either store type, you’re bound to find the shelves full of various ediblesdrinkablesvaporizerstopicalsstrains, and concentrates. Some state medical marijuana laws, however, may restrict the form factor allowed to patients, so certain products—like smokable flower—may be unavailable to them.
+
+Rec vs. MMJ: shopping experience and customer support
+
+Medical and recreational dispensaries tend to have similar shopping experiences. Qualified medical marijuana patients will need to present both their ID to prove they’re legally old enough to purchase cannabis, as well as their valid medical cannabis card. Some medical dispensaries also have a waiting room where patients sit and are called back one at a time to ensure privacy. They may also offer discounts and tax breaks to medical patients.
+
+Recreational dispensaries also check ID, and like medical marijuana dispensaries, they often only accept cash or debit cards due to the lack of banking services set up for the cannabis industry.
+
+Oftentimes, recreational stores are not permitted to provide medical advice to customers, although you can still shop at them as a medical patient. Some shops are also dual-licensed, meaning they can cater to the needs of both recreational and medical consumers. Medical dispensaries and dual-licensed shops are better equipped to answer patient questions.
+
+Marijuana legalization map
+
+image/svg+xml
+
+States where recreational marijuana is legal
+
+Below is a list of states and territories that have legalized marijuana for adult use. Click on the name of the state to navigate to more information about its marijuana laws.
+
+StateLegalization statusAdult use?Medical marijuana?Decriminalized statewide?
+AlaskaAdult useYesYesYes
+ArizonaAdult useYesYesN/A
+CaliforniaAdult useYesYesYes
+ColoradoAdult useYesYesYes
+ConnecticutAdult useYesYesYes
+GuamAdult useYesYesN/A
+IllinoisAdult useYesYesYes
+MaineAdult useYesYesYes
+MassachusettsAdult useYesYesYes
+MichiganAdult useYesYesN/A
+MontanaAdult useYesYesN/A
+NevadaAdult useYesYesYes
+New JerseyAdult useYesYesN/A
+New MexicoAdult useYesYesYes
+New YorkAdult useYesYesYes
+OregonAdult useYesYesYes
+VermontAdult useYesYesYes
+VirginiaAdult useYesYesYes
+WashingtonAdult useYesYesN/A
+Washington, DCAdult useYesYesYes
+
+How to buy cannabis in a legal recreational state
+
+Making your first legal cannabis purchase may feel a bit awkward and intimidating, but it’s a simple and safe process. Follow the steps below and you’ll be ready to walk into a recreational cannabis shop with confidence and emerge with the right products for you.
+
+Step 1: Find a cannabis dispensary near you
+
+Note: You must be age 21+ with valid identification to purchase cannabis in any state that has legalized recreational adult-use cannabis.
+
+First, assess which shops are near you. Use Leafly’s store locator tool for a bird’s eye view of stores nearby. Click to view their details at a glance, or dive into their full dispensary page to check out reviews, deals, and menus.
+
+Don’t be afraid to explore a few different dispensaries. Every shop has a unique staff, atmosphere, deals, and product selection. Consider scrolling through a few user-submitted reviews to get a feel for what customers liked (or didn’t like) about the shop.
+
+Once you’ve found a store you love, be sure to leave a review and follow it on Leafly. Maybe you appreciated how helpful the staff was, enjoyed the atmosphere, or found a product you know you’ll want to come back for. Whatever your positive experience looked like, it’s good to take note!
+
+Step 2: Learn the cannabis basics
+
+After you’ve selected a shop, you have one of two options as a first-time buyer:
+
+  1. You can go in and speak with a budtender to ask for product recommendations.
+  2. You can do a little research ahead of time to get a better idea of which products may be better suited for you.
+
+You’re welcome to head straight to a dispensary and ask the staff for help. Many dispensaries provide ongoing training and certification programs for budtenders to ensure they stay updated on the latest products and best practices for helping customers choose the right products.
+
+Keep in mind, however, that your local dispensary may carry a lot of products, and you may find yourself overwhelmed by the options available. Furthermore, dispensaries are often busy, so you may have to wait in line while budtenders help other customers.
+
+Alternatively, you can browse a dispensary’s menu of products ahead of time if they have a listing on a site like Leafly. Some locations even allow you to order ahead of time and reserve your purchase for pickup, which is great for skipping long lines.
+
+If you’re not sure which strain or product to try, look through these resources to help narrow down options:
+
+You can also try our Virtual Budtender tool, which is a quick and easy guide that narrows down strain options based on how you answer a few brief questions about the experience you want.
+
+Step 3: Choose and pick up your products
+
+Once you’ve familiarized yourself with cannabis strains, dosing, and consumption methods, revisit the Leafly menu of your local dispensary. You can sort this menu by any desirable criteria such as:
+
+  • Flower (if you want to smoke or vaporize)
+  • Concentrates (if you want to try a discreet vape pen)
+  • Edibles (if you want a high that will last longer)
+  • Pre-rolls (if you want something that’s easy and portable)
+  • Other (e.g. suppositories, bath soaks, topicals, and more)
+
+Reserve products you want to try or head into the dispensary and pick out and purchase them onsite, then take them home and try them out.
+
+Remember, every strain and product delivers a unique experience, so don’t be afraid to be adventurous and try a few different types and brands until you find the products you absolutely love.
+<USER>

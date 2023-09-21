@@ -1,0 +1,66 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: obesity disease
+Text: AMA House of Delegates Adopts Policy to Recognize Obesity as a Disease
+
+
+Published Date: June 19, 2013
+
+
+
+
+DENVER (June 19, 2013)—The Obesity Medicine Association (OMA) applauds the American Medical Association (AMA) for its decision on June 18 to adopt policy that recognizes obesity as a chronic disease state.
+
+The AMA House Delegates (HOD) voted on a resolution to adopt a new policy recognizing obesity as a “disease requiring a range of medical interventions to advance obesity treatment and prevention.”
+
+This decision followed testimonies both Tuesday and Sunday from OMA Delegate Dr. Ethan Lazarus (Denver), who is representing the Society at this week’s AMA 2013 Annual Meeting in Chicago. In this victory, Dr. Lazarus also received backing from his home state of Colorado and the Western Mountain States delegation.
+
+“First, classifying obesity as a disease will reduce weight bias. It means that medical students and residents will receive training in what obesity is and in the best treatment approaches. It communicates that this is a chronic disease, not a problem of personal responsibility,” said Dr. Lazarus during an AMA reference committee hearing. “Second, recognizing obesity as a disease will improve health outcomes for millions of individuals.”
+
+It is important to note that although AMA decisions do not have recognized legal implications, these policy decisions are often referenced by federal and state legislators and other decision makers when setting medical policy and health regulations.
+
+With today’s AMA policy adoption, the implications for patients and the health care community may be far reaching. Possible changes include:
+
+  • improved training in obesity at medical schools and residency programs,
+  • reduced stigma of obesity by the public and physicians,
+  • improved insurance benefits for obesity-specific treatment, and
+  • increased research funding for both prevention and treatment strategies.
+
+Comments are closed.
+<USER>

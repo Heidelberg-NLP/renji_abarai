@@ -1,0 +1,185 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should education be free?
+Text: Education should be free for everyone Essay Skip to main content
+
+Essay on Sports and Games for Students and Children
+
+Essay on Importance of Sports and Games Sports make a person healthy, improve muscle strength and bring happiness in life. Education and sports are like two sides of the same coin.  Education is the process of updating the knowledge of the individual. Education includes not only teaching but also training, discussion, and research.  Broadly speaking, it can be said that sports also play a huge role in the field of education. Personality development- The enjoyment of sports affects a person from the inside. This is also reflected in their physical appearance. He acts smart, thinks smart, and behaves smartly.  The cleverness also manifests in his body language and thus develops his personality. Everyone should encourage themselves to do sports activities. Brain development- There is a Prova Erb that says that "in a healthy body resides a healthy mind". Sports enhance the immunity of a person and make him fit and healthy internally. So if the health is good then the mind will al
+
+Education should be free for everyone Essay
+
+Education should be free for everyone
+
+Education should be free for everyone
+
+
+The word education is derived from the Sanskrit root "Siksha". That is, to teach. The process by which learning and teaching take place is called education.
+
+Education is an important tool that is very useful in everyone's life. Education is what separates us from other living beings on earth. A child must receive an education so as to develop social awareness, increase in knowledge, better decision-making skills, proficiency in work thus becoming a better citizen.
+
+Education is a great weapon for the people but is motivated by corruption to make the country better. All the people of that country must be educated in many circumstances, they are not able to get it.
+
+Maybe, if this education is free, then the country will be a developed country which will take the country in the right direction. Only through education we can make our dreams come true, without education we can give new conditions and direction to life, we cannot achieve anything.
+
+Nowadays it is the need of everyone to earn a living for which it is very important for you to be educated. Today's generation cannot do well without education.
+
+
+Education should be free for everyone
+
+Children should get an education so s the increase the knowledge that develops social awareness, better decision-making skills. 
+
+Today, most jobs require candidates who are qualified through education. Every society in the world has citizens of different economic sectors.
+
+Those who are from poor economic backgrounds may not able to support education from their children and so they sent them for labour to support their living. 
+
+Today, governments globally have accepted the fact, that child labour is wrong and it is the right of children to get an education. 
+
+To solve these issues, the government should provide free education thus supporting poor families and preventing child labour. 
+
+
+Education should be free for everyone
+
+
+
+I think education should be free. Education is very useful in everybody's life. It is education that makes man the smartest creature on earth. It empowers humans and gets them ready to face the challenges of life.
+
+Education is the most significant tool in eliminating poverty and unemployment. If a poor and uneducated person can't live a good and healthy life, but if he would be educated, he can live a happy and healthy life.
+
+ Education helps in making a person independent. Everyone deserves to be educated an educated citizen is a more productive citizen, therefore able to pay more taxes. I
+
+f education would be free, more children would be in school. It is unfair that only the parents that have money get to send their child to school.
+
+Every child must be given a chance because some children have that talent, but their parents don't have the money. In order to improve a country, all the people of that country must be educated.
+
+ If education would be free, then the country will be a developed country. Due to free education, students will have more time to focus on is studying rather than the fee. That's why I think education should be free. 
+
+
+
+Education is the greatest weapon for the people, but it is governed by corruption, in order to improve a country, all the people of that country must be educated, but in many circumstances, they are not able to achieve it. Maybe, if education is free, then the country will be a developed country which will lead the country in the right direction.
+
+
+
+While some may say that being cheap is the reason for education being free, others agree that our economy is good to be highly educated and if you do not conform to this standard, the opportunities are very limited, you can live a certain life. Will be able to get the style. An opportunity in which every person has an equal right to reach his full potential.
+
+
+
+Students will have more time to focus on studying and get a degree than how they pay for the school term. As a result, people can graduate on time and work in the job industry. The world is changing rapidly in which daily tasks are required to be performed by people with knowledge-based or advanced skills. This creates the idea of ​​a highly educated job industry that will help us accelerate economic growth.
+
+
+What's the best way to get a good education for low-cost people?
+
+
+
+
+I think it will dramatically affect many families who have just graduated from high school with children and are seeking higher education. To get a good career in the job industry, many companies require higher education as a standard. If the price of education changes, it will affect everyone because people will be able to afford it easily.
+
+
+
+
+One of the reasons why this change should occur in our education is that many people do not want to remain in debt due to student loans because FAFSA and other corporations pay this fee to get out their debt. This amount is being collected so much that most people cannot afford it. Such an effect can lead to financial losses due to people going bankrupt and the need to collect large amounts of funds from students.
+
+
+Education should be free for all
+
+
+People have to be free to do things I do with college and schools for visitors, and their parents cannot go to school because they can let their children attend that college.
+
+
+
+The reason that most parents tell their students that they have been accepted for college is that they cannot leave due to the cost of college loans. If we afford college free, it will help many students to go to college and earn their degrees and when some students go to college after college, they have debt till the age of 60.
+
+
+
+
+Reason 1 - Reducing college costs means that the world can be a larger community with better knowledge and they can help each other make a better place in the world and find a way. More successful college graduates will return to the community. When they return to the city, it is better for the student of the city and the family
+
+
+
+Reason 2 - Most jobs nowadays require a college education for your job and for building a family. Some people have to do two things to raise a family. And free study will help people get the education they need to think.
+
+
+
+Free colleges make it easier for families who cannot afford to pay their students to go to college. Families will be able to manage the stress of trying to pay their students the amount of homework to go to college and the family.
+
+
+
+Reason 3 - A century ago, high school and other educational institutions were becoming a necessity for success getting a job is a necessity nowadays. The more education you get, the better job you can get or the more jobs you can get.
+
+
+
+In this country, it is a universal program that is up-to-date and protected, while alumni programs such as public higher education are usually cut off.
+
+
+
+Another reason is 4 why education should be free because there is still more technology and more to be discovered. With free education, we can achieve it very fast and the future can change now.  We need education to solve the problem of using less gas on this planet, which means that the pollution of this world is less and with the education, we have taken, we can save the planet. 
+
+
+
+Creating a better place in the world than studying is free for people. All children, regardless of gender, race, or religion, have equal access to education. True, there are 164 million children who cannot attend school.
+
+
+Education should be free for everyone. ( Pros and Cons )
+
+
+
+Pros:
+
+
+
+1. Guaranteed Education: Free education is important because it guarantees some level of education for every student in the country. This means that every student has an equal opportunity to reach this level of education at an equal level.
+
+
+
+2. Safe Life: Education is the key to a safe life. For example, when a student is educated as opposed to not educated, it is easier to succeed in the future.
+
+
+3. Better outlook on life: Education gives children the ability to think positively and have a more positive attitude towards life. Free education guarantees that the outlook of life of all children will be the same.
+
+
+
+4. Increased employment: Free will means that most students will have access to education and hence increase their chances of getting employment.
+
+
+
+5. Creates equality: Free education means that any child from where they come will be able to use the same quality education. It plays an important role in creating equality among the students in the school.
+
+
+6. Promotes fairness: Open education plays a role in promoting fairness in schools and societies. This is because all children are guaranteed access to the same level of education and therefore it would be appropriate in the classroom.
+<USER>

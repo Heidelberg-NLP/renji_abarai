@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1IDm8ggBmMhZdhahFAku8QOJARh",
+  "object": "chat.completion",
+  "created": 1687865821,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "It's not possible to determine a clear argumentative position for this text as it presents general information and opinions for both sides of the debate."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2933,
+    "completion_tokens": 28,
+    "total_tokens": 2961
+  }
+}

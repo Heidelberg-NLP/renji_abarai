@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ1JO0MBxHIhJETwIwuL5TYISlx4",
+  "object": "chat.completion",
+  "created": 1682690749,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1610,
+    "completion_tokens": 24,
+    "total_tokens": 1634
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text doesn't seem to offer an argumentative rhetorical quality, so it's difficult to determine an argumentative label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

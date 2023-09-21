@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ3D0vMmGV1AsXS2UAjgIRwdqEFy",
+  "object": "chat.completion",
+  "created": 1682690867,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1419,
+    "completion_tokens": 26,
+    "total_tokens": 1445
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, it seems that the last part of the text is not related to the topic of the argument about school uniforms."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzBATR3dj4JFdcEYyzg477gSQ6MM",
+  "object": "chat.completion",
+  "created": 1687857696,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is a description and definition of sexual orientation. It provides information on different sexual orientations, such as heterosexuality, homosexuality, bisexuality, and asexuality, as well as additional terms that people may use to describe their sexual identity. The article also discusses the relationship between sexual orientation, sexual identity, and sexual behavior, and how they can be distinguished from one another. Finally, the text examines the causes of sexual orientation and how it is studied in various fields, such as biology, neuroscience, and psychology."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2704,
+    "completion_tokens": 106,
+    "total_tokens": 2810
+  }
+}

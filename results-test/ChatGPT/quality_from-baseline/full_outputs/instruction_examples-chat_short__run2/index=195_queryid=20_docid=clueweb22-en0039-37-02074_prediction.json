@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0wK1bMcE9BHTh7D3thzznltNCvz",
+  "object": "chat.completion",
+  "created": 1687864464,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This is not a complete argument, but in summary, nonfat milk provides vitamins and minerals without fat and is a good choice for those looking to reduce their fat intake. It is not a conclusive argument but rather a set of related questions and answers about milk."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2293,
+    "completion_tokens": 52,
+    "total_tokens": 2345
+  }
+}

@@ -1,0 +1,141 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should felon who have complete they sentence allow vote
+Text: Can Felons Vote in Georgia Now? [2020 UPDATED]
+
+Can a Felon Vote in Georgia?
+
+Georgia disenfranchises felons in jail, serving probation, or on parole. However, voting rights are released upon completion of sentence, supervised release, as well as complete payment of court fees and fines. See a more detailed criminal disenfranchisement laws across the U.S.
+
+Restoring Felons Voting Right In Georgia
+
+In Georgia, felons can register or re-register to vote following their voting right restoration.
+
+Unfortunately, it is noticed, over time, that some personnel at local voter registration centers have little or no knowledge about Georgia laws concerning felons’ voting rights. They do not know what and what qualifies or disqualifies a prospect voter. This leads to unfair disenfranchisement of loads of felons in Georgia.
+
+In the event of any complications, discuss with your lawyer or contact Georgia Justice Project (GJP) to reassert your rights. For easier registration, opt for online registration at the office of Georgia’s Secretary of State.
+
+Voter Registration
+
+Georgia’s constitution requires that prospective voters are U.S citizens and Georgia residents. Besides, voters must have attained, at least, 17.5 years at registration time and 18 on or before scheduled election date.
+
+In Georgia, eligible voters must complete registration, not later than 28 days before a scheduled election. You may complete the registration online or at your local election office.
+
+Online Registration
+
+Voters can now register to vote online. Eligible residents can register via Georgia’s online voter registration system.
+
+Voting
+
+Voter Identification
+
+Georgia requires voters to present photo identification before voting at the polling places. Driver’s license, tribal identity cards, military ID, State ID, U.S passports, employee ID cards, and county-issued voter ID cards are all acceptable means of identification in Georgia.
+
+Poll Hours
+
+Typically, polls in Georgia runs from 7 am to 7 pm. However, all voters on queue before 7 pm must be allowed to vote.
+
+Type of Primary Election
+
+Primary elections are conducted to enable eligible voters choose a  candidate to represent a political party for an elected office in the general election. Political parties also use their primary elections to elect party leaders as well as delegates for their conventions.
+
+Georgia adopts an open primary election system, where eligible voters may not necessarily be affiliated to any particular political party.
+
+Read also: Can A Felon vote in Michigan?
+
+Absentee Voting
+
+In Georgia, all voters are allowed to opt for absentee voting – without any special eligibility demands. To use the absentee ballot, you must send your application on or before the Election Day.
+
+Early Voting
+
+No-excuse early voting is allowed in Georgia. This voting method allows eligible voters to vote in person at the polls before date of scheduled election. Where no-excuse early voting is allowed, voters are not required to present any excuse for voting earlier than the election day.
+
+However, in states that do no support no-excuse early voting, although eligible voters may be allowed to vote before the scheduled election date, they must present a convincing-enough reason why they would not be present on the Election Day.
+
+The District of Columbia and 34 other states, as of January 2018 had adopted the no-excuse pre-election-day voting.
+
+Convicted Felons’ Right to Vote
+
+Felons voting rights vary across states. In most state, felony convicts are barred from voting while in prison but may have their voting right back some period after sentence completion and payment of other cost fines and fees.
+
+Frequently Asked Questions About Felons Voting Right in Georgia
+
+Can Felons Vote in Georgia
+
+ Am I eligible to vote in Georgia if I’ve been to jail?
+
+Of course. As long as you are not currently incarcerated, your felony conviction will not interfere with your right to vote.
+
+Will A First Offender Act sentence disqualify me from voting in Georgia?
+
+It depends. If your sentence for a First Offender Act is yet unrevoked, you are qualified to vote. Felons with first offender cases are treated as a conviction, even where the offender pleads guilty – except the court revokes the status.
+
+Where the terms of the sentence are violated, the judge may revoke the first offender case. Persons with revoked first offender cases who are still serving a sentence are not eligible to vote until completion of sentence.
+
+Can I vote from jail?
+
+Perhaps. Everyone can vote – unless they are serving a felony sentence. If you have been incarcerated and awaiting a final court pronouncement or serving time for misdemeanor, you are qualified to vote.
+
+However, felons with felony conviction and awaits transfer to a state facility are ineligible to vote. However, you must send the registration application by mail to your county’s voters registration office.
+
+Am I eligible to vote in Georgia with a misdemeanor offense?
+
+Sure. Only incarceration for felony convictions can disqualify one from voting in Georgia. Such persons, however, regain their rights upon completion of the sentence terms.
+
+Can I vote while on probation?
+
+Perhaps. Felons with misdemeanor conviction or probation can vote.
+
+Must I have a pardon or some criminal history documentation to be eligible for voter registration?
+
+No. you are not required to tender any criminal record documentation to register. You only have to state that you are not presently incarcerated for felony.
+
+Should I attempt to register to vote even though I’m yet to complete my felony conviction sentence?
+
+Don’t. Georgia’s law prohibits voter registration attempt for those aware of their ineligibility status.
+
+Wrap Up
+
+In Georgia, there’s been an active campaign to eliminate barriers up against voting rights of persons with criminal records. Persons with Crime of Moral Turpitude (CMT) are however denied voting.
+
+Visit ACLU official site for a more detailed resource on your voting rights in Georgia.
+
+Leave a Comment
+<USER>

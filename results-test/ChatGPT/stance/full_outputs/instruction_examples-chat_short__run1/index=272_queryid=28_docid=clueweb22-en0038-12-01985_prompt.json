@@ -1,0 +1,129 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prostitution legal
+Text: Should prostitution be legal? - Quora
+29 Answers
+
+As you know, when you ban/outlaw an activity, you drive it underground.
+You know who controls the Underground/Underworld?
+Mafia mobsters, gangsters and Triads.
+Most of these people are scum you’d never want to invite into your house.
+
+You know what happens when women (and a few men) are exploited in illegal prostitution?
+They are brutalized with violence and exploited to work in poor, terrible, shitty conditions with little welfare and/or health regulations and/or legal/medical protection. T...
+
+Upgrade to Quora+ to access this answer
+
+Unless you're in unincorporated part of Clark County, NV, prostitution is illegal in US for two reasons.
+
+The influence of the Puritans is still strong, now through Baptists and other fundamentalists. They vote, they hold office, and they love to fire up constituents on social issues. Look at how hard the lgbtq community had to fight for the right to marry.
+
+Prostitution is often linked with drug use, human trafficking, and abuse. Some women are left with no choice if they lack education, or have been abused as children and taught that their only value is as a sex object.
+
+Clearly Canada and Europe
+
+Unless you're in unincorporated part of Clark County, NV, prostitution is illegal in US for two reasons.
+
+The influence of the Puritans is still strong, now through Baptists and other fundamentalists. They vote, they hold office, and they love to fire up constituents on social issues. Look at how hard the lgbtq community had to fight for the right to marry.
+
+Prostitution is often linked with drug use, human trafficking, and abuse. Some women are left with no choice if they lack education, or have been abused as children and taught that their only value is as a sex object.
+
+Clearly Canada and Europe function with legal prostitution, but I don't expect to see it in the US in my lifetime.
+
+It’s a given that prostitution goes on without regard to whether it’s legal or not. When it’s legal for both providers and consumers of the service,
+
+  • It’s removed from the control of pimps and organized crime.
+  • It allows law enforcement to focus on rescuing the truly victimized and prosecuting their victimizers.
+  • It becomes possible to conduct the business in a safe and hygienic setting.
+  • New tax revenue is directed to the public coffer for fixing potholes, building new infrastructure, public facilities like libraries, museums, art galleries and concert halls, and social services like providing studen
+
+It’s a given that prostitution goes on without regard to whether it’s legal or not. When it’s legal for both providers and consumers of the service,
+
+  • It’s removed from the control of pimps and organized crime.
+  • It allows law enforcement to focus on rescuing the truly victimized and prosecuting their victimizers.
+  • It becomes possible to conduct the business in a safe and hygienic setting.
+  • New tax revenue is directed to the public coffer for fixing potholes, building new infrastructure, public facilities like libraries, museums, art galleries and concert halls, and social services like providing students with books and tuition, and children with free lunches and snacks at school to help them learn.
+
+It’s a clear and rational win/win. Unfortunately, the censure of prostitution remains one of the last big, stupid, intransigent taboos we inherited from centuries of our darker past.
+
+It should be, but it’s not, except in one county in Nevada. Get yourself a camera. Porno is not illegal. Being a cam girl (or boy, or whatever) is a very safe no contact alternative.
+
+I live in the Philippines. Yes it should be.
+
+  1. Health. Give the workers health insurance, AIDS/HIV cases will go down.
+  2. Right to call rape. Because there are too many indecent human beings who believe their money means power over sex workers. And when these girls (guys) report to police, they get nothing more than laughter and more harassment.
+  3. Human and child trafficking will be contained. Legalize prostitution, set legal age and all the nitty gritty that will make traffickers want to kill the politician who legalized prostitution.
+  4. Minimum wage. Some five years ago, I had a colleague who visits a reg
+
+I live in the Philippines. Yes it should be.
+
+  1. Health. Give the workers health insurance, AIDS/HIV cases will go down.
+  2. Right to call rape. Because there are too many indecent human beings who believe their money means power over sex workers. And when these girls (guys) report to police, they get nothing more than laughter and more harassment.
+  3. Human and child trafficking will be contained. Legalize prostitution, set legal age and all the nitty gritty that will make traffickers want to kill the politician who legalized prostitution.
+  4. Minimum wage. Some five years ago, I had a colleague who visits a regular prostitute and told me that her services starts at USD5.5 hand relief to USD10 full service. This girl is a college student making ends meet. With college fees and materials increasing every year, I can’t imagine how she is able to prioritize regular check-ups and contraceptions.
+  5. Better strip clubs for a fair price. Well, I mean, I’ve been to a few entertainment bars. Granted they’re cheap, but we got nothing more than a warm beer, disinterested/bored dancers and mediocre set-up. I imagine the likes of Pegasus are better, but their prices are too high. We need more quality *cough* entertainment.
+
+For the devout Catholics, everyone knows for a fact that many priests have their favorite ‘entertainment’ bars. Stop the hypochrisy and patriarchy. Prostitution is one of the oldest jobs in the world and these girls have bills to pay too. They’re way better than the corrupt politicians running our country anyway.
+
+Let's turn that question around. Let’s consider reasons why it would be illegal and address those.
+
+  • Spread of disease. Modern legal prostitution includes regular recurring STD tests and mandates the use of barriers. The incidence of STD transmission is very low.
+  • Chance of pregnancy. This only applies to heterosexual prostitution among fertile prostitutes and clients. The aforementioned barrier methods reduce this chance and most prostitutes use additional methods of birth control. The incidence of unwanted children is low.
+  • Moral issues. This includes adultery, sex outside of wedlock, sex with a pe
+
+Let's turn that question around. Let’s consider reasons why it would be illegal and address those.
+
+  • Spread of disease. Modern legal prostitution includes regular recurring STD tests and mandates the use of barriers. The incidence of STD transmission is very low.
+  • Chance of pregnancy. This only applies to heterosexual prostitution among fertile prostitutes and clients. The aforementioned barrier methods reduce this chance and most prostitutes use additional methods of birth control. The incidence of unwanted children is low.
+  • Moral issues. This includes adultery, sex outside of wedlock, sex with a person you don’t love, etc. In many modern cultures we’ve greatly reduced the amount of legislative fucks we give about these issues. Not everybody agrees about how bad they are and it’s up to the individual to deal with it themselves.
+  • Think of the children! In many of the places where prostitution is legal, they have limitations on advertisement and other ways that children might encounter this. Plus, they’re going to find out about this from the internet anyway. As for children actually going to prostitutes, requiring ID will solve this.
+  • Human trafficking. We already have human trafficking in criminal prostitution. Legalizing it makes this harder. When you have to fill out tax reports and doctors visits, that gives a lot more chances for victims to be found and rescued.
+  • Entering out of financial obligation. This happens now with illegal prostitution. Legalizing it will make it safer and give more opportunities to move out of prostitution compared to the illegal variety. The original economic pressures are a symptom of wider issues with the economy and the social support net. Legalizing prostitution doesn’t fix all of those problems.
+  • Chance of prostitutes being victimized by clients. This happens with criminal hookers already. And they have little recourse as they have to admit to a crime to report it. Making it legal gives them access to police to deal with this. Of course, getting the police to care is another matter, but we have to solve the first before we can start on the second.
+
+Prostitution between freely consenting adults should be legal because criminalizing it does more harm than good.
+
+Criminalizing prostitution does not eliminate or reduce sex work. Like prohibition, criminalization only puts sex work in the hands of organized crime. Because it is illegal, sex workers have no legal recourse if they are assaulted, raped, or robbed by a client, putting them at even higher risk. They are often forced by necessity to work in unsafe conditions and locations because they can't operate openlyas a legitimate business in a safe location.
+
+Thx4A2A-
+
+Yes prostitution probably should be legalized. But in the US there’s a lot of push back against it. There is the religious opposition from people who think their God cares who other people fuck. On the other side is the sex industry that doesn't want to get out of a cash business, the cops who rely on the kickbacks to buy motorcycles, boats and golf outings ( to say nothing of free shakedown trim) and the drug dealers who want the police chasing prostitutes rather than drug dealers. Similarly pimps and traffickers oppose drug legalization.
+
+Arguments for:
+<USER>

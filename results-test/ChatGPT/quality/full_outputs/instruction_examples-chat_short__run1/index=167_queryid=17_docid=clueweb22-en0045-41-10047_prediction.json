@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ5TSUkHzbZ8nDmQ9JctYdod82ze",
+  "object": "chat.completion",
+  "created": 1682691007,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3380,
+    "completion_tokens": 31,
+    "total_tokens": 3411
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides information and facts, it does not contain any argument, therefore it's not possible to assign a \"well-writtenness\" score to it."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

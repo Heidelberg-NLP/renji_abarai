@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1OvYCFyw7vA7NMcKwaqyxVZTLtv",
+  "object": "chat.completion",
+  "created": 1687866237,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text does not contain any rhetorical argument quality. Hence, it cannot be classified into any of the high, medium, and low categories."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2079,
+    "completion_tokens": 29,
+    "total_tokens": 2108
+  }
+}

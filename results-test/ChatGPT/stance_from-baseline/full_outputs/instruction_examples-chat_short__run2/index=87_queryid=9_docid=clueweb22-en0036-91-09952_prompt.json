@@ -1,0 +1,61 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should students have to wear school uniforms?
+Text: Argumentative Essay: Should Students Have to Wear Uniforms?
+News
+Feb 3rd 2016
+
+Argumentative Essay: Should Students Have to Wear Uniforms?
+
+Should Students Have to Wear Uniforms?
+
+When students go to school with distressed jeans and tops with acid colors, teachers and principals are horrified. Strict clothing forms in schools are related to moral purity, whereas frivolous style is usually associated with rebellion and disrespect for school authorities. The debate around the necessity for students to wear uniforms at school is not even close to its end. Proponents argue that the uniform will enhance the student’s feeling of belonging to a particular school, and it will reduce the differences between the students. Such differences may lead to serious psychological consequences for the ones who feel inferior, as well as for those who earn superior positions because they wear more expensive clothes. Opponents, on the other hand, argue that the uniform will suppress the child’s individuality. When both sides of the issue are taken into consideration, I come to the conclusion that uniforms can increase the discipline in the school and teach children to value themselves for what they are, not for what they look like.
+
+The first and most important advantage of introducing uniforms in the school is the fact that students will have what to wear and they will avoid the ever-lasting morning dilemma. Both the students and their parents will be relieved from the routine of picking clothing pieces that seem appropriate for school and work well when combined in an outfit. The fact that the student will know what to wear to school will lead to quicker preparations, so the risk of being late for school will be lower. Uniforms are much cheaper than most clothes offered in the stores. A student needs only two or three uniforms per season, which means that the expenses of the parents will be drastically reduced. Another good side of the uniforms is that they can be recycled and reused. In addition to all these benefits, the greatest advantage of uniforms is that they make the intruders in the school more noticeable.
+
+The strongest argument against wearing school uniforms is the negative connotation of uniformity. When students are forced to wear uniforms every day, they don’t have a chance to explore their unique style and express their individuality through the clothes they choose. When they have to wear the same clothes as everyone else, they seek different ways of showing their individuality, such as piercing, tattooing, jewelry, and makeup. In addition to suppression of individuality, there is another big problem with uniforms: low-income families are not able to afford them, especially when they have more than one children going to school. Although uniforms are less expensive than most pieces at stores, these families usually get second-hand pieces and the yearly investment in these clothing sets will impose a great burden on their budget.
+
+If school and governments find a way to give uniforms for free, the greatest disadvantage of this issue will be solved. All children will be able to get high-quality clothes, and the students who come from low-income families will not feel inferior for wearing the same pieces every day. The simple fact that everyone will be dressed in a uniform will reduce bullying at schools, which is often based on social differences. The students who want to showcase their higher social status will find other ways to distinguish themselves from the lower classes. They will use expensive smartphones, pens and notebooks, and they will spend more money during school breaks. However, the differences will not be that obvious because the uniforms will make everyone appear equal.
+
+When glorification of individuality is offered as the strongest argument against wearing uniforms at school, it becomes obvious that the benefits of this system outweigh its disadvantages. Individuality is still easy to explore and express through conversations, writing, art, and other methods that encourage the creativity of the student. Everyone will be free to explore their personal style after school, during weekends and holidays, so school uniforms will not repress their passion for fashion in any way. Uniforms contribute towards one of the main purposes of education: encouraging students to value themselves and each other for the knowledge and skills they obtain.
+
+
+
+Read all news
+<USER>

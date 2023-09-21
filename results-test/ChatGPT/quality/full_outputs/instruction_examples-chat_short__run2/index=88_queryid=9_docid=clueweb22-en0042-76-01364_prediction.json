@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2bF1lJiSND8cD1pXsH9yoycbf0n",
+  "object": "chat.completion",
+  "created": 1683104285,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2420,
+    "completion_tokens": 105,
+    "total_tokens": 2525
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text appears to be an essay arguing in favor of requiring students to wear school uniforms. The author presents both sides of the argument, but ultimately concludes that the use of school uniforms is more beneficial considering both for and against arguments mentioned. The organization of the text is generally good, with clear separation of main ideas into paragraphs, however, there are some issues with grammar, vocabulary, and coherence and cohesion. The essay receives an overall band score of 6.0, with specific weaknesses in coherence and cohesion and lexical resources."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

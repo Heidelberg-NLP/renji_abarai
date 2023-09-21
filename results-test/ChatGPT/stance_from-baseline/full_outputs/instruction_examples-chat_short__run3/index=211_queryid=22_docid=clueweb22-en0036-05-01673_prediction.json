@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W40SBZixEN4490uxlKdpm0wK65tp",
+  "object": "chat.completion",
+  "created": 1687876252,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This is a reference article that provides general opinions on the topic rather than taking a specific stance, therefore it doesn\u2019t provide an answer to the query."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2784,
+    "completion_tokens": 30,
+    "total_tokens": 2814
+  }
+}

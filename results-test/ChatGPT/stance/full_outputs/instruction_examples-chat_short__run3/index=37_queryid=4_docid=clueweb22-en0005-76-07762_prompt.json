@@ -1,0 +1,152 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should corporal punishment use school
+Text: Should corporal punishment be allowed in school? | Debate.org
+
+Should corporal punishment be allowed in school?
+
+Asked by: Sarahthegymnast
+  • Kids are very stupid these days
+
+    Younger folks these days like to act and think like they are beast but in reality they are people who have believed they were scary and can do immoral acts like shout at teacher or be sensitive to every subject and be triggered. This is very bad and can be changed with a smack to the cheek or a bat to the head in more serious cases
+
+  • If they deserve it
+
+    There's a difference betweeen beating and teaching respect. Maybe if this was allowed in schools, kids would learn that more could happen to them if they're bad than "a good talking to." Detention? Oh no. Two day suspension? Boo hoo. A good hit or two on the rear? You'll never see a disrespectful kid change his ways so fast.
+
+    Perhaps the parents would have to sign a paper saying they'll allow it. Still, many parents today raise disrespectful kids because they're too soft to be forceful, so this may not be the best idea.
+
+    Teachers, of course, shouldn't be trusted, as they have bias, but a principal, with the approval of the teacher and other administrators, should be able to administer such a punishment.
+
+  • Yeah why not
+
+    Because students these days man not listen to their teachers or respect them ok because they need to learn discipline ok and yes I think that we should allow and have to have corporal punishment in schools ok ok ok ok ok ok so yeah my final answer is yes ok bye bye
+
+  • Give them spankings
+
+    They need spankings and beetings and they need disaplin Open the settings menu from your home screen
+    Tap accessibility options under the General tab options
+    Under accessibility options, You will find Assistive Touch Feature
+    Tap on assistive touch to put it ON
+    Click on the button that appears on the screen
+    You will be prompted to tap on the device
+    Tap and press the iPhone Lock Screen for some seconds
+    The power off dialog should slide to the end
+
+  • I agree with this!
+
+    How will kids ever learn? PLAIN AND SIMPLE GUYS. You can not ever teach kids to respect and stop being silly in class because kids honestly do not even care if they get a demerit point or a detention. Kids who do not care, Will care once they start getting dealt out the corporal punishment.
+
+  • Yes yes yes
+
+    A kid should be spank because back in the late 1900's kids didn't misbehave as much as they do now. The only difference is kids these days don't get spanked. In the schools, It's the same deal. Kids without spanking are little devils, And kids with spanking are decently good.
+
+  • Yes! LOl s
+
+    Since im a baseball coach at my school I love to practiceing swinging my bat and teaching kids how to swing a bat so I usally pick a bully that makes fun of other kids for no reason and I would swing at the kid till he cry's and it makes the other little kids laugh at him and he learns his leason and some times i do it for fun it makes me feel powerful
+
+  • Yes because kids will learn
+
+    Corporal punishment is the appropriate discipline for certain children when used in moderation. The negative effects of corporal punishment cited by critics are attached to prolonged and excessive use of the punishment. [25] Occasional use for serious behavioral issues is appropriate because time-out or taking away a toy may not work to correct behavior in a particularly willful or rambunctious child. [24] [25] LaShaun Williams, Founder of childcare group Sitter Circle, Stated, "there are some children who like to push their limits. Those are the children who may require a pop. Knowing your child is the key to nailing down the most effective forms of discipline. . . [T]oday's disrespectful youth have shown what happens when necessary spanking is forgone. " [24]
+    Con 1
+
+    Corporal punishment can inflict long-lasting physical and mental harm on students. A Dec. 2016 study found that children who were physically punished were more likely to have problems with aggression and attention. [15] [17] [18] Studies have shown that frequent use of corporal punishment leads to a higher risk for anxiety, Depression, Substance abuse, Stress, And other mental health concerns. [17] [18] Children who experience corporal punishment are more likely to relate forms of violence with power, And are, Therefore, More likely to be a bully or abuse a partner. [17] [18]
+
+
+    Pro 2
+
+  • Yes they should be hit
+
+    I feel kids should be hit because they will learn to not be bad. If teachers hit kids it will hurt them but they deserve it because of their bad behavior. Kids should be hit with a paddle or something. They will learn to be nice to their teachers and respect their elders
+
+  • R tt tr t r
+
+    Etgerr hrbiee ouheor ehohre reho rer e rer rr r r e r t tre h regt er ret we er r re yer r yer ty ry tr e y er ty rey ty re yer ye y rey ery e yt y ey rey yt yet y ey ey e y
+
+  • Not by the hair of my chiny chin chin.
+
+    As it stands there are three areas that issue corporal punishment. At home, in school (though a very archaic and dying breed), and in justice system.
+
+    Originally corporal punishment, after a long history of human beings physically harming one another, in school was defended when operant learning was defined. Though people have seen this effect for a while, people were able to justify the reason for it. However, corporal punishment, whether as negative reinforcement or punishment, clearly has no place in school.
+
+    The reason why not:
+    1. Not every parent wants or believes a non-family member should be striking their child.
+
+    2. Not every child is treated fairly in school. Though we like to think otherwise, teachers are human beings with bias and prejudice that can be inherent or developed for particular students. Thus we then have a physical action that is not equally distributed.
+
+    3. Child abuse can be masked or harder to present if children are struck a at home and school. More importantly the child has no one to trust to cry out towards if they are abused.
+
+    4. Not all punishments work equally so corporal punishment naturally escalates.
+
+    5. Overall it becomes in effective amongst masses and will rise to revolution. When operant learning was discovered it was with 1 mouse in a box. Try hurting a bunch of mice in the same box and you will see an uprising.
+
+    6. Everybody lies and you might punish the wrong kid.
+
+  • I b c
+
+    H b v g n m m m m m m mk k k k k k k h h v c x j jub u yu h bh v ftf g gbg gtgt g ty y yg y I I ii I I I I I iii I i
+
+  • That is stupid!!!!
+
+    I am a kid in school and if they allowed that half the kids wouldn't even bother going to school!!!!!!! I think suspension is bad enough and it teaches the kids. It embarrasses them enough that they do it again! It also makes them scared of the teacher's and that would make them work slowly!!
+
+  • Nope. :/ :l
+
+    Corporal punishment should not be allowed in schools. If teachers are allowed to hit the students, the students could become very scared or angry and not show up to school. A majority of the time if a kid misbehaves it is a onetime deal or it was not extreme and the child would not deserve to be hit because of the action. Also some parents may not believe in that sort of punishment. Schools should allow parents to make the call for how their child is punished. Today in this world many schools are anti-bully, if the schools start to allow corporal punishment that could be seen as bullying towards the students.
+    Some people may think that this type of punishment is okay if the child deserves it. However does any child deserve to be hit by an adult? If children grow up with adults that have the right to hit them, they could potentially grow up to think hitting someone is okay. Children could also feel alone, like they have no one to go to when they need to talk or when they have a problem that they could not go to their parents about, they will be left alone not knowing what to do. Some teachers can also be very bias and could be hitting the kids just because they do not favor them. This could mean the child is just simply being abused instead of punished which is not okay.
+    According to the website, privateschools, a majority of people agree that corporal punishment should not be allowed in schools. The website states that this form of punishment has no place in the education of students and it perpetrates the cycle of abuse. School is a place where all kids of all ages should come and feel safe. If the teachers are striking the kids, will the kids feel safe? Of course not. Schools should leave disciplinary actions to the parents of the child.
+
+  • Parents need to be better disciplinarians.
+
+    It's not the school's, nor the teacher's, job to be parents.
+
+    The problem is at home. The parents encourage their children to ignore authority and disrespect those of authority. The children walk all over the parents and the parents allow it.
+
+    I will however agree that a teacher has the right to fight back if a student punches, hits, kicks, or bites the teacher.
+
+    I would NEVER teach in a public school in the US. It is disgraceful and pathetic. The US is no longer the greatest country.
+
+    Https://www.Youtube.Com/watch?V=q49NOyJ8fNA
+
+  • No of course not!
+
+    First of all what are we in the dark ages?! Also teachers have no right to hurt the kids ! This is just going to cause kids hating school . School is hard enough for kids this is going cause emotional distress and trauma depending on the severity of the punishment. And what will they learn? They're going to look back on school and remember the crimes and punishments sure they won't do it again but that type of punishment is just going to break the kids' spirit!
+
+  • Yes, because of the learner s behaviour
+<USER>

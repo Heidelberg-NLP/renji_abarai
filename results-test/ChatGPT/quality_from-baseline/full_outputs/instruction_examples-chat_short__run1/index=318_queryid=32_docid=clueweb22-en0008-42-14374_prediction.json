@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzdWJ92sNb9xdaELXRWUk9tk7e6f",
+  "object": "chat.completion",
+  "created": 1687859454,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "General Reference. This text provides information on the cost of purchasing electronic voting machines, with sources cited that give different price ranges and data for specific locations. It does not present an argument either for or against electronic voting machines."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1320,
+    "completion_tokens": 44,
+    "total_tokens": 1364
+  }
+}

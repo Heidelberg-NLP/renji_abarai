@@ -1,0 +1,149 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do violent video games contribute to youth violence?
+Text: Last updated on: 6/8/2021 | Author: ProCon.org
+
+Pro & Con Quotes: Do Violent Video Games Contribute to Youth Violence?
+
+PRO (yes)
+
+Pro 1
+
+Kevin McCarthy, US Representative (R-CA), as quoted by Devan Cole in an Aug. 5, 2019 article, “Trump, McCarthy Cite Video Games as a Driver behind Mass Shootings,” available at cnn.com, stated:
+
+“But the idea of these video games that dehumanize individuals to have a game of shooting individuals and others – I’ve always felt that is a problem for future generations and others. We’ve watched from studies shown before of what it does to individuals. When you look at these photos of how it took place, you can see the actions within video games and others.”
+
+Aug. 5, 2019
+
+Pro 2
+
+Dan Patrick, Republican Lieutenant Governor of Texas, as quoted by Alana Rocha in an Aug. 4, 2019 article, “After El Paso Shooting, Texas Lt. Gov. Dan Patrick Says Video Games Teach Young People “to Kill,'” available at texastribune.org, stated:
+
+“We’ve always had guns, always had evil, but I see a video game industry that teaches young people to kill.”
+
+Aug. 4, 2019
+
+Pro 3
+
+Donald Trump, 45th US President, stated the following in a meeting about school safety, as seen in a video titled “Trump Blames Video Games, Movies for Violence,” posted on YouTube by CNN on Feb. 22, 2018:
+
+“We have to do something about what they’re [young kids] seeing and how they’re seeing it. And also video games. I’m hearing more and more people say the level of violence in video games is really shaping young people’s thoughts. And then you go the further step, and that’s the movies. You see these movies, they’re so violent, and yet a kid is able to see the movie if sex isn’t involved, but killing is involved, and maybe we need to put a rating system for that.”
+
+Feb. 22, 2018 - Donald Trump
+
+Pro 4
+
+Matt Bevin, Governor of Kentucky (R), stated the following in a Feb. 15, 2018 interview with Leland Conway on iHeart Radio:
+
+“You look at the culture of death that is being celebrated. There are video games that, yes, are listed for mature audiences, but kids play them and everybody knows it, and there’s nothing to prevent the child from playing them. They celebrate the slaughtering of people. There are games that literally replicate and give people the ability to score points for doing the very same thing that these students are doing inside of schools, where you get extra points for finishing someone off who’s lying there begging for their life. These are quote-unquote video games and they’re forced down our throats under the guise of protected speech… They have desensitized people to the value of human life, to the dignity of women, to the dignity of human decency… We’re training our society to kill.”
+
+Feb. 15, 2018 - Matt Bevin
+
+Pro 5
+
+Marianna King, MA, Adjunct Professor of Sociology at Colorado State University, in a Mar. 8, 2017 reader comment in response to Toni Irving’s Mar. 6, 2017 article for the Philanthropy News Digest’s Philanthropic blog titled “Moving the Needle on Youth Violence,” wrote:
+
+“An overlooked but highly potent factor in youth violence and gun violence is the influence of first-person shooter video games. Neuroscientific research during the past decade has shown conclusively that media violence and especially violent video games cause increased aggressive and violent behavior.”
+
+Mar. 8, 2017 - Marianna King, MA
+
+Pro 6
+
+Wayne Warburton, PhD, Deputy Director of the Children and Families Research Centre at Macquarie University, wrote in the 2014 paper “Apples, Oranges, and the Burden of Proof – Putting Media Violence Findings into Context: A Comment on Elson and Ferguson (2013),” in European Psychologist:
+
+“[I]t is absolutely irrelevant whether crime rates fall or rise when violent video game playing increases, as gaming can only ever be one of a multitude of possible factors that contribute to violent crime trends…
+ 
+[M]y conclusions after carefully examining the evidence for the impact of violent video games on players’ thoughts, feelings, and behaviors, are that commonly reported effects – short- and long-term increases in aggressive  behavior,  desensitization  to  violence,  and increases to hostile attitudes and beliefs – are demonstrated both on the balance of probabilities and beyond reasonable doubt.”
+
+2014 - Wayne Warburton, PhD
+
+Pro 7
+
+Matt DeLisi, PhD, Professor of Sociology at Iowa State University, Michael G. Vaughn, PhD, Associate Professor of Social Work at Saint Louis University at the time of the quote, Douglas A. Gentile, PhD, Associate Professor of Developmental Psychology at Iowa State University, Craig A. Anderson, PhD, Distinguished Professor & Director of the Center for the Study of Violence at Iowa State University, and Jeffrey J. Shook, JD, PhD, Associate Professor of Social Work at the University of Pittsburgh, wrote in their Oct. 2012 paper “Violent Video Games, Delinquency, and Youth Violence: New Evidence” in Youth Violence and Juvenile Justice:
+
+“The present data show that playing violent video games and/or having a preference for violent video games is correlated with delinquency and violence even when considering the effects of a battery of correlates of delinquency including psychopathy…
+ 
+The consumption of violent media is far from innocuous, and when violent media consumption in the form of video games is viewed by adults as a ‘reward’ for youth to spend their free time, it can be problematic. Youth with pre-existing psychopathology are particularly at risk for the deleterious effects of violent video games.”
+
+Oct. 2012 - Craig Anderson, PhD
+Michael G. Vaughn, PhD
+Douglas A. Gentile, PhD
+Jeffrey J. Shook, JD, PhD
+Matt DeLisi, PhD
+
+Pro 8
+
+David N. Greenfield, PhD, founder of The Center for Internet and Technology Addiction and Assistant Clinical Professor of Psychiatry at the University of Connecticut School of Medicine, said in a Sep. 20, 2013 panel discussion titled “Growing Up GTA” available at huffingtonpost.com:
+
+“My opinion on video game violence, which has a very powerful reward system wired into it, is that continued exposure desensitizes people to the experience of violence. But the other big issue, along with the reward structure, is that it teaches them a skill set that they might not otherwise develop, especially the first person shooter games. I have a real problem with giving people, in the name of entertainment, a technology that desensitizes violence, and then teaches you how to commit violence more accurately… and then elevating people’s levels of dopamine…
+
+[T]hose studies have been absolutely supported. When you put people on a PET scanner or an functional MRI, their brain lights up like a Christmas tree when they’re doing these games, especially when they hit the reward points that are designed by the gamers to… keep people gaming because that’s how these games make their money.
+
+Nothing is engaged in at the levels that I see gaming at, as a form of entertainment or dopamine elevation, unless it’s a narcotic like cocaine for instance. How could you be exposed to something this toxic and have it not affect you?”
+
+Sep. 20, 2013 - David N. Greenfield, PhD
+
+Pro 9
+
+Brad J. Bushman, PhD, Professor of Communication and Psychology at The Ohio State University, stated the following in a Feb. 18, 2013 article titled “Why Do People Deny Violent Media Effects?” available at psychologytoday.com:
+
+“People want to believe that if millions of people play violent video games and they don’t all become killers, then those games must be harmless. Unfortunately, that’s not true.  We haven’t ‘proven’ video games directly cause violence because it can’t be proven. There is no way to ethically run experiments that see if some threshold of playing a violent game like Call of Duty may push a person into violence. But that doesn’t mean we are left without evidence. We know that video game violence is certainly correlated with violence – just like smoking is correlated with lung cancer. However, this does not mean that the research does not show causal effects; in fact it does, over and over again. We recently conducted a comprehensive review of 136 articles reporting 381 effects involving over 130,000 participants from around the world. These studies show that violent video games increase aggressive thoughts, angry feelings, physiological arousal (e.g., heart rate, blood pressure), and aggressive behavior. Violent games also decrease helping behavior and feelings of empathy for others. The effects occurred for males and females of all ages, regardless of what country they lived in. So the question then becomes why people and journalists repeatedly shrug off this compelling body of work.”
+
+Feb. 18, 2013 - Brad J. Bushman, PhD
+
+Pro 10
+
+Pamela Eakes, Founder of Mothers Against Violence in America (MAVIA), wrote in an article titled “Do You Know What Video Games Your Children Are Playing?” on www.pbs.org (accessed Feb. 4, 2016):
+
+“Parents do know that children learn by observing, imitating what they observe, and acting on the world around them. According to child psychologist Michael Rich, children develop what psychologists call ‘behavioral scripts.’ They interpret their experiences and respond to others using those scripts.
+
+One can easily see how repeated exposure to violent behavioral scripts can lead to increased feelings of hostility, expectation that others will behave aggressively, desensitization to the pain of others, and an increased likelihood of interacting and responding to others with violence.
+
+Violent video games are an ideal environment in which to learn violence. Violent video games:
+
+* Place the player in the role of the aggressor and reward him or her for violent behavior.
+* Allow the player to rehearse an entire behavioral script from provocation to choosing a violent resolution of conflict.
+* Are addictive – kids want to play them for hours to improve their playing skills, and repetition increases learning.”
+
+Feb. 4, 2016 - Pamela Eakes
+
+CON (no)
+
+Con 1
+<USER>

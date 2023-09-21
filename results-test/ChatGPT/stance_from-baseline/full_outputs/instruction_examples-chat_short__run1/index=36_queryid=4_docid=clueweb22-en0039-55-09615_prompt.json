@@ -1,0 +1,228 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should corporal punishment be used in schools?
+Text: Corporal Punishment in School - NYRA
+JOIN OUR NEWSLETTER
+img
+
+Corporal Punishment in School
+
+Thousands of students are beaten each year for minor school infractions
+
+Corporal punishment is the use of physical force to cause pain or harm to someone accused of breaking a law or rule. In schools in the United States, forms of corporal punishment include spanking or slapping, hitting with weapons such as paddles, rulers, or belts, and forcing students to perform physically painful activities such as crawling over rough terrain or excessive running.
+
+Students can be potential victims of corporal punishment at any age until we graduate high school. Corporal punishment violates our right to safety, bodily integrity, due process, and our right to be free from cruel and unusual punishment. Corporal punishment is not only physically hurtful, but it can also cause emotional damage, humiliation, and shame. It often leads to academic disengagement, higher dropout rates, and impairs academic progress. We strongly believe no one should be subjected to physical punishment and that the law needs to protect everyone equally regardless of age.
+
+Corporal Punishment and the Law
+
+Throughout U.S. history, corporal punishment has been used against both adults and children as a way to punish and control negative behavior. However, only adults are currently protected from the practice. Corporal punishment cannot be used in sentencing – Delaware was the last state to use it in 1952 – and the practice has been illegal in prisons since in 1968.  This was a result of the court case Jackson v. Bishop (Eighth Circuit, 1968) where the court concluded “that the use of the strap in the penitentiaries of Arkansas is punishment which, in this last third of the 20th century, runs afoul of the Eighth Amendment; that the strap’s use, irrespective of any precautionary conditions which may be imposed, offends contemporary concepts of decency and human dignity and precepts of civilization which we profess to possess; and that it also violates those standards of good conscience and fundamental fairness.”
+
+Unfortunately, the Supreme Court did not feel the same way when a case involving corporal punishment against young people came before them. In the case of Ingraham v. Wright (U.S. Supreme Court, 1977), two high school students, James Ingraham and Roosevelt Andrews, sued their school alleging they were deprived of their Constitutional rights after being struck with a paddle. The Court concluded that the Eighth Amendment was “inapplicable” in school settings as it has traditionally been used to protect those convicted of crimes and not students. However, Justice White, along with Justices Brennan, Marshall, and Stevens, dissented, noting that the purpose of the Eighth Amendment could be applied to students as it does not expressly mention that it only applies to criminals. The goal of the Eighth Amendment, they argued, is to prohibit punishments deemed inhumane, no matter how grievous the offense committed and therefore, similar punishments cannot be logically imposed on persons guilty of minor infractions, such as breaches of school discipline.
+
+The Prevalence of Corporal Punishment
+
+The rate at which corporal punishment occurs in schools varies from state to state – in some states the practice is virtually non-existent and illegal; in others, thousands of young people are struck every year.
+
+Every two years, the Department of Education asks every public school in the country to report on the number of students it has physically punished during the previous year. Analysis of this data shows that males, young persons of color and students diagnosed with a disability are disproportionately more likely to be the victims of this abuse by their teachers and school administrators.
+
+Number of total students who received corporal punishment during the 2013-2014 school year
+
+Mississippi24,882Ohio117
+Texas18,367South Carolina81
+Alabama18,066North Carolina77
+Arkansas14,590Kentucky74
+Georgia7,893District of Columbia17
+Tennessee6,881Michigan17
+Oklahoma6,348Idaho7
+Louisiana3,303New York6
+Missouri3,173Arizona6
+Florida1,936Kansas3
+Indiana212
+
+The map and table shows the rate and number of young people who were struck in a school setting during the 2013-2014 school year. It does not show the number of times hitting actually occurred, which is certainly much higher. It also does not reflect the prevalence of corporal punishment in private schools, where it is legal in all states except for two. The Department of Education also reports several cases of corporal punishment in states where the practice is illegal, such as Ohio, Michigan, New York, Kansas, and the District of Columbia. However, even in instances where corporal punishment has been administered illegally or against parents’ written requests, it is very difficult to hold the perpetrators accountable.
+
+What You Can Do
+
+Know your rights.
+
+Other students have sued their schools over corporal punishment. Reading about their cases can help you fight for your rights.
+
+Read the Court Cases
+
+Start a NYRA Chapter.
+
+Through our chapter network, we help students learn how to launch a campaign, raise awareness, and change school policy.
+
+Start a NYRA Chapter
+
+Fight back.
+
+If you would like to fight against corporal punishment in your school, contact us. We can help you organize to fight for your rights.
+
+Contact Us
+
+Find out more.
+
+Our activist toolkit has lots of suggestions on how to use the media, contact your representatives and gain supporters.
+
+Read the toolkit
+
+Things to Remember:
+
+You can get information on the use of corporal punishment in your school or district. The Office of Civil Rights in the Department of Education tracks the number of students who have been hit at school.
+
+img
+
+OUR BLOG
+
+img
+
+How Fighting Sexism at School Led me to the Youth Rights Movement
+
+As a high school student, I began to realize just how differently my female friends and I experienced school compared to our male peers. We faced...
+
+BY Carly Fabian
+img
+
+The Pandemic School-Opening Debate: Where are the Youth Voices?
+
+Reposted from Free Youth Now with permission from the author. If I see one more opinion, editorial, policy recommendation, or letter claiming that kids either should or...
+
+BY Logan Miller
+img
+
+Grades Don’t Define You
+
+Reposted from My Unschooling Adventure with permission from the author. As much as I'd like to think otherwise, I haven't fully recovered from school. Teachers treating...
+
+BY Katherine Farr
+img
+
+How have school closures affected your life?
+
+Schools across the country have closed and millions of students now face unprecedented challenges. For some students, this is a period of stress and dealing with...
+
+BY Logan Miller
+img
+
+COVID Online Education
+
+COVID-19 is exposing glaring problems in American society. The rapid spread of the virus has forced all Americans to live differently - from average citizens to...
+
+BY Willem Mills
+img
+
+COVID-19 college problems and solutions
+
+Last week, I found myself packing up my apartment in Washington, D.C. The previous night was spent on a half-empty plane, traveling from my home in...
+
+BY Willem Mills
+img
+
+NYRA Mourns Passing of John Taylor Gatto
+
+Renowned critic of compulsory schooling, John Taylor Gatto passed away this week at the age of 82.  A teacher for 30 years, he achieved notoriety after...
+
+BY Alex Koroknay-Palicz
+View More
+img
+
+Resistance, Hope, and… Democracy?
+
+Spotted a very interesting post over at the Institute for Democratic Education in America. It started as a response to the following comment: I used to...
+
+BY Alex Koroknay-Palicz
+img
+
+Portland Student Rights Union joins NYRA to address Student Rights
+
+Members of Portland Student Rights Union - A NYRA Chapter We originally started the Portland Student Rights Union (SRU) in October 2017 to protest the administration...
+
+BY Portland Student Rights Union
+img
+
+Katie Sierra, American Hero
+
+The question of whether children have constitutional rights, and if so, which, is a fraught one. But one thing we ought to be able to agree...
+
+BY Crispin Sartwell
+img
+
+NYRA Mourns Passing of John Taylor Gatto
+
+Renowned critic of compulsory schooling, John Taylor Gatto passed away this week at the age of 82.  A teacher for 30 years, he achieved notoriety after...
+
+BY Alex Koroknay-Palicz
+img
+
+Defiance
+
+I like to assume that educators chose their line of work not because they enjoy wielding arbitrary power over children or because education is an easier...
+
+BY Crispin Sartwell
+img
+
+COVID-19 college problems and solutions
+
+Last week, I found myself packing up my apartment in Washington, D.C. The previous night was spent on a half-empty plane, traveling from my home in...
+
+BY Willem Mills
+img
+
+More Success for Student Rights Union
+
+The Zionsville Student Rights Union in central Indiana has certainly not been taking a break from their work for student rights, and continues to make progress....
+
+BY NYRA
+img
+
+COVID Online Education
+
+COVID-19 is exposing glaring problems in American society. The rapid spread of the virus has forced all Americans to live differently - from average citizens to...
+
+BY Willem Mills
+img
+
+Bullying, Another Perspective
+
+I think adult bullies are a part of the problem that spawns youth bullies. It's the same situation that gets played out all the time. Power...
+
+BY Alex Koroknay-Palicz
+View More
+<USER>

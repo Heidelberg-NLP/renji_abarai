@@ -1,0 +1,91 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is obesity a disease?
+Text: Is Obesity Really a Disease?
+
+The relationship between health and body weight is not as straightforward as the American Medical Association might have us believe.
+
+obesitydiseasemain.jpg
+AP
+
+Last week at the annual meeting of the American Medical Association in Chicago, the organization's delegates voted for the first time to designate obesity a disease. How should the rest of us respond? When we meet obese people, should we cast them a knowing glance of concern and ask how they are doing? Should we send flowers and "get well soon" cards to obese family members and friends?
+
+Modest ideas that can change the world. See full coverage
+
+Should the U.S. declare war on obesity, as we once did on cancer?
+
+If obesity truly is a disease, then over 78 million adults and 12 million children in America just got  classified as sick. Their ranks have included a number of prominent people, such as actors John Goodman and Kathy Bates, musicians BB King and Aretha Franklin, politicians Al Gore and Newt Gingrich, professional athletes John Kruk and Charles Barkley, media personalities Oprah Winfrey and Michael Moore, and Microsoft CEO Steve Ballmer. Everyone has friends and acquaintances who now qualify as diseased.
+
+Yet many sensible people, from physicians to philosophers, know that declaring obesity a disease is a mistake. Simply put, obesity is not a disease. To be sure, it is a risk factor for some diseases. But it would be as false to say that everyone who is obese is sick as to say that every normal-weight person is well. Hence the AMA's vote raises some key questions. Why did it take this action? What is problematic about treating obesity as a disease? And how should sensible people think about obesity?
+
+One reason for naming obesity a disease is the fact that being markedly overweight is positively correlated with a variety of health problems. Some of these problems are risk factors for diseases, such as hypertension, abnormal blood lipid levels, and sleep apnea. Others are diseases in their own right, such as heart attack, stroke, gallbladder disease, and osteoarthritis. Obesity is also a risk factor for some cancers, including those of the endometrium, breast, and colon.
+
+Another reason for declaring obesity a disease is financial. It will nudge health care payers, including private insurers and the federal government, to pay for anti-obesity services, including weight loss counseling and programs. Why, proponents ask, should we pay physicians and hospitals tens of thousands of dollars to open blocked arteries yet refuse to spend a fraction of this amount on diet and fitness programs that might prevent the problem in the first place?
+
+Yet everyone who is obese does not get sick, and many normal-weight people do not stay healthy. I have known slim and trim people who took scrupulous care of themselves throughout their lives yet fell ill and died young. Others who exhibited no particular interest in their health and did not watch their weight lived to a ripe old age. In most cases, we simply cannot tell from a person's weight what lies ahead for them in life.
+
+Consider Winston Churchill. Though average in height, Churchill weighed upwards of 250 pounds. He smoked cigars. He drank relatively heavily. He did not jog or work out. Yet he became perhaps the most important statesmen of the 20th century and one of the greatest political orators in history. He served twice as Britain's prime minister, guiding his nation through a particularly perilous chapter in its history, and won the Nobel Prize for literature. He lived to age 90.
+
+Thinner isn't always better. A number of epidemiological studies have concluded that normal-weight people are in fact at higher risk of some diseases, including cardiovascular disease, compared to those whose who are overweight. And there are health conditions for which being overweight is actually protective. For example, heavier women are less likely to develop osteoporosis than thin women. Likewise, among the elderly, being somewhat overweight is often an indicator of good health.
+
+Of even greater concern is the fact that obesity turns out to be very difficult to delineate. It is often defined in terms of body mass index, or BMI. BMI equals body mass divided by the square of height. An adult with a BMI of 18 to 25 is often considered to be normal weight. Between 25 and 30 is overweight. And over 30 is considered obese. Obesity, in turn, can be divided into moderately obese (30 to 35), severely obese (35 to 40), and very severely obese (over 40).
+
+While such numerical standards seem straightforward, they are not. Obesity is probably less a matter of weight than body fat . Some people with a high BMI are in fact extremely fit, while others with a low BMI may be in poor shape. For example, many collegiate and professional football players qualify as obese, though their percentage body fat is low. By BMI, Dwayne "The Rock" Johnson is obese. Conversely, someone with a small frame may have high body fat but a normal BMI.
+
+Today we have a tendency to stigmatize obesity. The overweight are sometimes pictured in the media with their faces covered. Stereotypes associated with obesity include laziness, lack of will power, and lower prospects for success. Teachers, employers, and health professionals have been shown to harbor biases against the obese. Even very young children tend to look down on the overweight, and teasing about body build has long been a problem in schools.
+
+Negative attitudes toward obesity, grounded in health concerns, have stimulated a number of anti-obesity policies. My own hospital system has banned sugary drinks from its facilities, making it impossible to purchase a non-diet soft drink there. Many employers have instituted weight loss and fitness initiatives. Michelle Obama has launched a high-visibility campaign against childhood obesity, even telling Dr. Oz that it represents our greatest national security threat.
+
+The track record of governmental anti-obesity initiatives is mixed at best. One of the most widely reported was Denmark's so-called "fat tax," which consisted of a surcharge on all foods with a saturated fat content greater than 2.3 percent. The result? Danes switched to lower-cost versions of the same foods and began doing more of their shopping internationally, making their purchases in fat-tax-free countries. The fat tax lasted about a year before it was repealed.
+
+In many cultures throughout history and even today, plump has been preferred to thin. Consider, for example, Shakespeare's Falstaff or the paintings of Peter Paul Rubens. In a community full of people who struggle to get enough to eat, being well-fed and having a well-fed family is often a sign of success. A hearty appetite generally indicates health and may even suggest that a person knows how to enjoy life.
+
+This reminds me of a story about Herman Wells, the long-time president and chancellor of Indiana University. Wells was obese from childhood throughout his adult life. In preparation for minor surgery, his physician once advised him to lose 20 pounds. "That's easy," Wells replied. "I have done that dozens of times." Wells accepted his weight. He did not torture himself about it. In fact, he could even laugh about it, and he did so throughout all 97 years of his full life.
+
+Is obesity bad for people? For some, especially patients who are extremely overweight, the answer is almost certainly yes. Would many overweight people benefit from exercising more and eating less? Again, the answer is likely yes. But this does not make obesity a disease. Many people are not harmed by carrying extra pounds, some may actually benefit from it, and we have yet to define it authoritatively. For these reasons, we should think twice before labeling obese people diseased.
+
+Richard Gunderman, MD, PhD, is a contributing writer for The Atlantic. He is a professor of radiology, pediatrics, medical education, philosophy, liberal arts, and philanthropy, and vice-chair of the Radiology Department, at Indiana University. Gunderman's most recent book is X-Ray Vision.
+From The Atlantic
+
+Discover subscriber newsletters
+
+Hear directly from nine of today’s most interesting writers, every week. Explore all the newsletters and sample them for free.
+
+Explore Newsletters
+<USER>

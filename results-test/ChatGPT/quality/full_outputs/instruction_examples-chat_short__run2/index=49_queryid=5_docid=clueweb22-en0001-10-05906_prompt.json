@@ -1,0 +1,96 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+VATSAL BAJAJ – NOVEMBER 1, 2017
+
+“It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity, but to their self-love,” wrote Adam Smith in Wealth of Nations as he advocated for the free market. His theory about the invisible hand explains that the forces of demand and supply perfectly allocate goods and resources. Market absolutists often apply the same logic to healthcare: if the invisible hand were to self-correct the allocation of resources, healthcare should be privatized and left free to the forces of demand and supply.
+
+These market absolutists, however, fail to consider the opposing view—the so-called “back of the invisible hand,” an idea that has gradually gained approval as the field of economics progresses. Merit goods such as healthcare are often allocated inefficiently under the free market as they are undervalued due to information failure.
+
+In economic circles, healthcare is considered a merit good because it provides benefits to others as well as the individual consumer. This phenomenon was famously introduced by the economist Richard A. Musgrave in his 1959 book The Theory of Public Finance. This concept, which was then assimilated into economic theory, notes that people often don’t realize the true value of merit goods (healthcare) as they have more societal benefits rather than individual ones, and consumers would thus undervalue it. According to economic theory, this misallocation of resources would lead to a loss in welfare.
+
+The US healthcare debate centers around policies like Medicare and Medicaid, but this debate overlooks the existence of incremental healthcare, a healthcare system which employs regular checkups and a strong patient-doctor relationship. Atul Gawande, a health policy and management professor at Harvard, argues in a New Yorker article titled “The Heroism of Incremental Care” that incremental care leads to lower mortality rates, lower medical costs and a better system for dealing with chronic diseases—something that emergency care fails to do. With the privatization of healthcare, more importance is given to emergency care, healthcare that deals with fixing emergencies, which produces visible results. This is a clear case of short-sightedness and information failure as most people are unaware of incremental care which leads them to assume that emergency care is more important. This results in more funding for emergency care as against incremental care. While it is the insurance providers who should fund incremental care, why would they do so when there is no demand? The free market functions on incentives and the lack of information about incremental care leads to lesser demand for it and thus fewer resources for incremental care under the privatized healthcare model. This is a clear case of consumers making a socially harmful decision due to information failure under a privatized system. In the same article, Gawande, therefore, argues for higher allocation of funds for incremental care from the government to correct the resulting welfare loss and allocative inefficiency.
+
+If not healthcare privatization, is nationalization the way to go? Can we ignore all of Smith’s arguments that advocate for the free market? No, we cannot. Looking around the world, we find many examples of failing national healthcare systems. The National Health Service in the UK is called a “black hole in funding” because nationalized healthcare services tend to entail tremendous costs for the government and, ultimately, the citizens. If the NHS provided good quality healthcare to its citizens in exchange for the taxes they paid, spending on healthcare would be justified. The UK government, however, spends a high amount on the NHS, which accounts for 9.1% percent of the UK’s GDP. The UK, therefore, spends a larger proportion of its GDP compared to the OECD average and, therefore, has the opportunity cost of not being able to spend on other goods and services.
+
+This black hole in funding doesn’t provide sufficient quality returns as proved by various measuring indexes. The UK has not only scored below average on the Data Envelopment Analysis (DEA) score in 2012 but has scored poorly on many other healthcare rankings. Even the OECD ranks the UK below average in healthcare quality when they look at indicators such as life expectancy, infant mortality rates and amenable mortality. This is not a surprising result. Complete nationalization of healthcare means that there is no incentive for the market forces to achieve a better-quality healthcare system: lack of incentives almost always leads to a sacrifice in quality.
+
+Therefore, a viable option for healthcare systems would be one which reaps the benefits of both the nationalized and privatized system: a public-private healthcare system. Such systems have already been successfully established in countries like France.
+
+The WHO stated that France provided the closest to best overall healthcare. Moreover, France’s DEA score beat the UK’s NHS in various aspects such as life expectancy at birth, life expectancy at 65, health-adjusted life expectancy and amenable mortality, where France was ranked number one. France’s success lies in its dual system of healthcare insurance comprising of the state controlled l’assurance maladie, and a privately insured assurance complémentaire. Within its group, the French healthcare has high quality of care, higher public and social security, and less out-of-pocket payments. It might be argued that the French have high taxation as their healthcare is costly; however, this is justified as the French get the best quality healthcare around the world. Moreover, the French system is nowhere near as costly as the US healthcare system which is the world’s most costly.
+
+The US has a healthcare system that leans more towards the privatized model. More government involvement in healthcare and more provision of state insurance would make the system much stronger as this brings the system a bit closer to the French healthcare system. Just through a few tweaks in the US healthcare system, the US could compete against one of the best healthcare systems around the world. Medicare does provide state insurance to some of the citizens; however, the US healthcare system would only improve through the expansion of Medicare to the general populous as the French example shows. The expansion of Medicare and increased state-insurance would make people feel much safer in case of medical emergencies. Moreover, an increase in government involvement and the subsidization of merit goods such as incremental care could help the healthcare system improve tremendously.
+
+Many critics will argue that expanding the US healthcare model to include more government-level participation would be unnecessary spending on the government’s part. However, the payback for allocating resources towards incremental care and increasing government involvement in healthcare would outweigh any such costs. Given America’s flawed healthcare system where there is no proper provision of incremental care and thousands are suffering due to chronic diseases, this is justified. With increased government involvement, we only stand to benefit.
+
+Disclaimer: The views published in this journal are those of the individual authors or speakers and do not necessarily reflect the position or policy of The Berkeley Economic Review staff, the Undergraduate Economics Association, the UC Berkeley Economics Department and faculty,  or the University of California at Berkeley in general.
+
+Share this article:
+
+2 thoughts on “Healthcare: Privatize or Nationalize?”
+
+  1. Most countries fall somewhere between these three. Britain, Italy, Spain and Sweden essentially use the first system. Everyone is enrolled in a national government-run health system, most health care is paid for by the government, usually free of charge, and most doctors work for the public health service. But there are also some private doctors and hospitals, and private insurers offering supplemental plans for those who can afford them.
+    By the way! The best essay writing service – https://www.easyessay.pro/
+    And Happy New Year!
+
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+<USER>

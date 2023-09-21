@@ -1,0 +1,82 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: obesity disease
+Text: Obesity Disease Information | Novo Nordisk Medical Skip to main content
+
+Obesity
+
+Obesity is defined as abnormal or excessive fat accumulation that may impair health measured by body mass index (BMI).1 Currently, one-third (37.7%) of US adults are considered to have obesity and are at an increased risk of obesity-related comorbidities, including cardiovascular disease, hypertension, and type 2 diabetes.2,3 
+
+Given the significantly increased morbidity and mortality associated with obesity, the American Medical Association, the American Association of Clinical Endocrinologists, the FDA, and the World Health Organization have recognized obesity as a disease. This recognition is based on the criteria that it impairs the normal functioning of some aspects of the body, has characteristic signs or symptoms, and results in harm or morbidity.4-7 
+
+Maintaining weight loss has been demonstrated to improve obesity-related comorbidities. The benefits of a 5% to 10% weight loss include reduction in risk of type 2 diabetes, reduction in cardiovascular risk factors, improvements in the blood lipid profile, and improvements in blood pressure.4
+
+However, scientific evidence has shown that that physiological responses to intentional weight loss trigger weight regain. Weight loss in people with obesity causes changes in appetite hormones that actually increase hunger and the desire to eat for at least a one-year period following a reduction in weight. Hormones such as ghrelin, GLP-1, PYY, CCK, insulin, and leptin among others play an important role in appetite regulation. Long-term intervention is often required, and physician-initiated discussions can motivate patients to achieve significant and maintained weight loss.8-13  
+
+Obesity
+
+Obesity is defined as abnormal or excessive fat accumulation that may impair health measured by body mass index (BMI).1 Currently, one-third (37.7%) of US adults are considered to have obesity and are at an increased risk of obesity-related comorbidities, including cardiovascular disease, hypertension, and type 2 diabetes.2,3 
+
+Given the significantly increased morbidity and mortality associated with obesity, the American Medical Association, the American Association of Clinical Endocrinologists, the FDA, and the World Health Organization have recognized obesity as a disease. This recognition is based on the criteria that it impairs the normal functioning of some aspects of the body, has characteristic signs or symptoms, and results in harm or morbidity.4-7 
+
+Maintaining weight loss has been demonstrated to improve obesity-related comorbidities. The benefits of a 5% to 10% weight loss include reduction in risk of type 2 diabetes, reduction in cardiovascular risk factors, improvements in the blood lipid profile, and improvements in blood pressure.4
+
+However, scientific evidence has shown that that physiological responses to intentional weight loss trigger weight regain. Weight loss in people with obesity causes changes in appetite hormones that actually increase hunger and the desire to eat for at least a one-year period following a reduction in weight. Hormones such as ghrelin, GLP-1, PYY, CCK, insulin, and leptin among others play an important role in appetite regulation. Long-term intervention is often required, and physician-initiated discussions can motivate patients to achieve significant and maintained weight loss.8-13  
+
+Abbreviations: GLP-1: glucagon-like peptide-1; PYY: peptide tyrosine tyrosine; CCK: cholecystokinin
+
+ 
+
+References
+
+  1. National Heart, Lung, and Blood Institute. Assessing your weight and health risks. Available at: https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm. Accessed May 2017.
+  2. Prevalence of Obesity Among Adults and Youth: United States, 2011–2014. NCHS Data Brief, No. 219, November 2015.
+  3. Managing Overweight and Obesity in Adults. Systematic Review From the Obesity Expert Panel, 2013. U.S. Department of Health and Human Services, National Institutes of Health, National Heart Lung and Blood Institutes.
+  4. AMA. Is Obesity a Disease. 2013. https://www.ama-assn.org/sites/default/files/media-browser/public/about-ama/councils/Council%20Reports/council-on-science-public-health/a13csaph3.pdf. Accessed March 23, 2018.
+  5. Mechanick et al. Endocr Pract. 2012;18:642–648.
+  6. TOS Obesity as a Disease Writing Group. Obesity 2008;16:1161–77; 4. Available at: http://www.fda.gov/ohrms/dockets/98fr/010600a.txt.
+  7. World Health Organization (WHO). Waist circumference and waist-hip ratio. 2008. Available at:
+    http://apps.who.int/iris/bitstream/10665/44583/1/9789241501491_eng.pdf?ua=1.
+  8. Sumithran P, Prendergast LA, Delbridge E, et al. Long-term persistence of hormonal adaptations to weight loss. N Engl J Med. 2011;365(17):1597-1604.
+  9. Rosenbaum M, Leibel RL. Adaptive thermogenesis in humans. Int J Obes (Lond). 2010;34(suppl 1):S47-S55.
+  10. Rosenbaum M, Kissileff HR, Mayer LE, Hirsch J, Leibel RL. Energy intake in weight-reduced humans. Brain Res. 2010;1350:95-102.
+  11. Schwartz A, Doucet É. Relative changes in resting energy expenditure during weight loss: a systematic review. Obes Rev. 2010;11(7):531-547.
+  12. Badman MK, Flier JS. The gut and energy balance: visceral allies in the obesity wars. Science. 2005;307(5717):1909-1914.
+  13. Sumithran P, Proietto J. The defence of body weight: a physiological basis for weight regain after weight loss. Clin Sci (Lond). 2013;124(4):231-241.
+<USER>

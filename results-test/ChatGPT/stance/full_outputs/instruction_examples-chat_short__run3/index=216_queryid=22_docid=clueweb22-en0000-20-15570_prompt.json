@@ -1,0 +1,75 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: two - state solution acceptable solution israeli - palestinian conflict
+Text: The following is the transcript of an interview I did with Jeremy R. Hammond, founding editor of Foreign Policy Journal, on his forthcoming book about the US role in the Israeli-Palestinian conflict.
+
+What led you to write this book and is it a follow-up to your book The Rejection of Palestinian Self-Determination?
+
+It’s funny you should ask! The new book will be the final result of a process that began in earnest during Israel’s ’08-’09 military assault on Gaza, dubbed “Operation Cast Lead”. That event prompted me to want to write a book about the Israeli-Palestinian conflict, but I knew I couldn’t write about contemporary events such as that without also providing historical background as context. So I had a grand ambition to provide an overview of the conflict going back to its roots and up through the present day. That idea proved overly ambitious for me at the time, but it did result in The Rejection of Palestinian Self-Determination.
+
+I continued to keep in mind the book I’d wanted to do on Operation Cast Lead and the U.S.-led so-called “peace process”, however. What prompted me to begin this project in earnest again was President Obama’s May 2011 speech in which he referred to the “1967 lines” as the starting point for negotiations, and the media’s inane response to it as representing some kind of dramatic “shift” in U.S. policy. It was no such thing, as I explain in the forthcoming book.
+
+So it is in some ways a follow-up to my other book, which focuses more on the contemporary history of the conflict while jumping back to provide crucial historical context as necessary to properly understand events. For example, to understand the so-called “peace process”, one needs to understand the roots of the conflict and how Israel came into existence through the ethnic cleansing of three-quarters of a million Arabs from Palestine. A look back at the June 1967 war and its aftermath is necessary to understand events today, and so on.
+
+With regards to the US’ initial support for Israel, what factors led to the US to go this route and how does the reality of the situation deviate, if at all, from the mainstream narrative?
+
+The U.S. supported Israel from its birth. The Truman administration recognized the newly declared state of Israel on May 14, 1948 literally minutes after this unilateral declaration was made. What we think of today in terms of U.S. support, however—which includes massive military and financial aid (over $3 billion annually) as well as diplomatic support in terms of protecting Israel (such as through the use of the U.S. veto in the U.N. Security Council) from being held accountable for its violations of international law—really began in earnest following the 1967 war, when Israel demonstrated its worth as a regional partner by defeating the combined armies of the neighboring Arab states in just six days, following its surprise attack on Egypt that started the war on June 5.
+
+The mainstream media makes no secret of this U.S. support for Israel, but it at the same time attempts to maintain the narrative of the U.S. as an “honest broker”. This is a farce. The entire U.S.-led so-called “peace process” is the process by which the U.S. and Israel block implementation of the two-state solution based on the requirements of international law, including U.N. Security Council Resolution 242 following the ’67 war, which called on Israel to withdraw from the territories it then occupied and has continued to occupy ever since in keeping with the principle that the acquisition of territory by force is inadmissible. There is an international consensus favoring the two-state solution. The Palestinians accept it, but it is rejected by Israel and the U.S., which both speak of support for a “two-state solution”. But the “solution” the U.S. and Israel push for is not at all the same thing as the two-state solution. On the contrary, the framework for the “peace process” is one that rejects any application of international law in resolving the conflict.
+
+How did the American public feel about supporting Israel?
+
+The American public by and large consents to the U.S. policy of supporting Israel, which in reality means supporting Israel’s oppression of the Palestinian people and defending its violations of international law. There are many reasons for this. A lot of it has to do with the role of the media in misleading the public about the nature of the conflict and manufacturing consent for U.S. policy. A lot of it also has to do with the sense among many Christians that they must support Israel no matter what. A lot of it has to do with anti-Arab and anti-Muslim bigotry. And so on.
+
+When did groups like AIPAC spring up and begin to lobby Congress? Did they face any domestic resistance?
+
+The American Israel Public Affairs Committee (AIPAC) was founded in 1963. I doubt there was much resistance to its formation, but the history of the lobby isn’t something I’ve done much research into. I don’t focus on AIPAC much in my book, mainly because I consider its influence to be relatively unimportant. A lot of people think that this lobby actually drives U.S. foreign policy, but this is a mistaken view. I would posit that if AIPAC ceased to exist tomorrow, U.S. policy would continue as it has. It has some influence in the Congress, but it is not as though U.S. Congresspersons wouldn’t express their support for Israel if it didn’t exist. U.S. policy is determined by U.S. policymakers in terms of their own beliefs and perceptions and American “interests” as they narrowly define them, not by the Israel lobby.
+
+Why does the US continue to support Israel when they have spied on and even gone so far as stealing nuclear information from the US, lobbyists aside?
+
+This kind of behavior from Israel is tolerated by the U.S. because it is considered by policymakers to be a valuable strategic partner in the region. One can disagree with this and argue that Israel is in fact a strategic liability. I would agree. But the fact remains that in the minds of U.S. policymakers, Israel is a strategic partner. U.S. and Israeli “interests”, again as narrowly defined by government officials, don’t always align, but they very often do, such as with the goal to overthrow the regime of Saddam Hussein in Iraq or to get Iran to surrender its right to nuclear technology for peaceful purposes under the nuclear non-proliferation agreement (NPT). Even vague talk about Israel in any kind of negative light produces a horrible backlash for any politician. The Obama administration, for example, has come under fire simply for suggesting that Israel should stop its illegal construction of settlements in the occupied West Bank. During his reelection campaign, he was accused by Mitt Romney of “throwing Israel under the bus” for such, even though the level of support Israel has received under the current administration has been unprecedented—the Obama administration vetoed an uncontroversial U.N. Security Council Resolution condemning Israel for this ongoing illegal activity, for example. And as I said, the American people themselves largely hold favorable views towards Israel. Romney was appealing not only to Jewish Americans but conservative Christians with his ridiculous substanceless criticisms of Obama. There was plenty Romney could have criticized Obama for on matters of substance, but he didn’t because Romney holds the same pro-Israeli views as Obama.
+
+Why is the US actively against a Palestinian state in practice when such a state wouldn’t be a threat to the security of Israel?
+
+This is an excellent question that doesn’t have just one answer. I’ve already touched on some of the reasons. This kind of support for Israel from the U.S. government, including helping to block implementation of the two-state solution, is institutionalized. Imagine a new administration coming into office and declaring that it was going to abandon the “peace process” that has been going on since the Madrid conference in 1991. It’s unthinkable. No candidate who held such a sensible view of the conflict as to recognize how this process is the very mechanism by which the two-state solution has been blocked could ever get elected.
+
+The purpose of my book is to help change that by exposing the true nature of Israel’s policies towards the Palestinians, of the U.S.’s policy towards the conflict, and of the role of the media in manufacturing consent for this policy. For any progress to be made towards peace, U.S. support for Israeli violations of international law must cease. And for that to happen, it must become politically infeasible for it to continue. I want to contribute to making that necessary paradigm shift happen with this book. The U.S. government isn’t going to solve the conflict. We need to step up and take actions to make a just peace possible.
+
+How and why have the American public’s perception of Israel change over the years, if any perception change has occurred at all? Positively or negatively?
+<USER>

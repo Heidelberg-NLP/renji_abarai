@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0kMkRJHyJb8LhyZrUyLv1eztVCh",
+  "object": "chat.completion",
+  "created": 1687863722,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is of a medium argument quality. It presents some good points against the legalization of performance-enhancing drugs, such as the fact that they might be banned for a reason and there are health risks involved. However, it also highlights the argument presented by Professor Savulescu and acknowledges some of its merits, such as redirecting the money spent on the \"war on doping\" towards protecting athlete health and leveling the playing field against determined cheaters. Overall, this text weighs the pros and cons of the issue and presents multiple viewpoints, but could have been more detailed and structured."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 116,
+    "total_tokens": 2667
+  }
+}

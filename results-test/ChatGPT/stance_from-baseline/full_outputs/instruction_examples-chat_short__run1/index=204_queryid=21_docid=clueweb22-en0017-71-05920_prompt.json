@@ -1,0 +1,93 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is human activity primarily responsible for global climate change?
+Text: Who is Responsible for Climate Change? - media - Global Institute of Sustainability and Innovation Skip to Content
+
+Sustainability Videos & Lecture Series
+
+Who is Responsible for Climate Change?
+
+Naomi Oreskes has a long-standing interest in understanding the establishment of scientific consensus and the role and character of scientific dissent. For the past decade, she has primarily been interested in the problem of human-caused climate change. She has won numerous prizes, including the 2011 Climate Change Communicator of the Year. In this lecture, Oreskes shares insights from her book, "Merchants of Doubt," which chronicles the extensive political connections and campaigns that have denied well-established scientific facts about tobacco, acid rain, DDT, and climate change.
+
+Related Events: Who is Responsible for Climate Change?
+
+Transcript
+
+This presentation is brought to you by Arizona State University's Global Institute of Sustainability and a generous investment by Julie Anne Wrigley. Wrigley Lecture Series-- world-renowned thinkers and problem solvers engage the community in dialogues to address sustainability challenges.
+
+Ann Kinzig: I'm Ann Kinzig. I'm the Chief Research Strategist at the Global Institute of Sustainability. And I'm here to welcome you today to one of our Wrigley lectures.
+
+Now, GIOS puts on a lot of activities-- so many, I think, that it could be a full-time job with overtime to actually go to all of them. But even in that constellation of activities, the Wrigley lectures are a bit special. We only hold three or four of these a year. And we invite only world-renowned thinkers and problem solvers to present in this forum on intractable sustainability challenges. So it's not enough to be a deep thinker, but you actually also have to offer some guidance, a pathway towards a better future.
+
+The Wrigley lecturer is selected each year, the set of Wrigley lecturers, by a committee of sustainability scientists, graduate students, GIOS faculty and staff, and undergraduate students. And they don't just give a talk. They actually come and engage for a day or two days with the community. So they meet with undergraduate students. They meet with graduate students. They meet with faculty. They meet with community members.
+
+And as far as I can tell, every single one of these meetings involves food. And so Naomi went from dinner last night to a breakfast with graduate students this morning to a brunch with some more students to a lunch with faculty. And there's going to be a reception afterwards, just in case she's feeling a little famished, and then she'll go off to another dinner. So we get a really great speaker, and she gains weight. But nonetheless, we're looking forward to having a really great speaker, even if she's feeling really full.
+
+And I also want to thank Julie Ann Wrigley. As the name of the lecture series implies, she is the one that funds this. It's through a generous gift from her that we're able to do this. I don't actually get to introduce Naomi directly.
+
+I'm going to introduce Jane Maienschein, who's a historian and philosopher of science, who will introduce Naomi. Thank you.
+
+[APPLAUSE]
+
+Jane Maienschein: I don't know why we have quite so many introducers, but Naomi deserves them. I get to introduce her because I've known her the longest, I think-- I realized about 25 years. When she was a graduate student at Stanford and I was a visiting faculty member, she was studying the geological sciences and also history of science. And she organized a series of lectures there that were wildly successful at the intersection of science and society, getting historians to come and talk to geologists about science, about issues of science in society.
+
+And there were hundreds of people there, and there were people sitting in the aisle. And everybody was completely amazed that this graduate student had organized this series and gotten historians and scientists really talking together. So that's one of the things that she's been doing ever since, really-- bringing history to the study of the social issues relating to science.
+
+Right now, she's at UCSD-- well, right now, she's here. But right now, her position is at UCSD. She's held a number of positions there, including chair of the Science Studies program, and really turning that around, and making that a very active group, even in bad budget times. And she served as provost of what's called Sixth College, which is a little mysterious what it is. But it's the other interdisciplinary college, which is a fascinating bunch of different approaches to understanding problems and issues. This fall, she'll be moving to Harvard and to their History of Science department, again bringing together the history and the science.
+
+Naomi asks questions about what leads scientists to build consensus. So when we say things like scientists agree that something or other, what do we mean by that, and how do we know? That's what she's been exploring as that plays out in issues of plate tectonics, for example, deep sea oceanography, and climate change. So she's asking how did the scientific community build its consensus around their views-- their views-- on those issues.
+
+And then how do they take that understanding, that consensus to the public to inform public discussions? That's what she's been doing in her own work as well, looking at how she can take those messages to the public-- the messages about science and how it works in society. That's what she's going to do for us now with her work asking the question who's responsible for climate change. Naomi.
+
+[APPLAUSE]
+
+Naomi Oreskes: Well, thank you very much. Can you hear me? No? I think it's turned on. Does it seem like it's turned on? Speak up. It feels to me like it's turned on. OK. Thank you. Thank you. It's a pleasure to be back at ASU. Thank you both Anne and Jane for those nice introductions. Nice to be someplace where you can be introduced by someone who not only knows what you do, but knows how to pronounce your name.
+
+So when I got invited to come and give the Wrigley lecture-- I have to say, Anne, that's a very worrisome introduction. The responsibility seems very great. It's not enough to do research. You have to also figure out how to solve all the problems in the world. But I did think I could talk about something I've been thinking a lot about that really came out of audiences like this one. It came out of interactions that I had with audiences when I lectured on the work I did with Eric Conway on Merchants of Doubt.
+
+And it was really this question about responsibility. And it was a question about the responsibility both of the people that we had studied, who had tried to challenge the scientific evidence of climate change, and also the responsibility of all of us, who were either perhaps persuaded by those disinformation campaigns, perhaps confused, or maybe we accepted the science, but we still didn't really know what to do about it. And so that's what led to the talk that I'm going to present to you today.
+
+So the book Merchants of Doubt examines the history of what Eric Conway and I called doubt mongering-- that is to say using scientific uncertainty as a political tool, a strategy to create doubt about the reality and severity not just of climate change, but of a whole set of issues involving public safety, public health, and environmental issues. And in our book, we focused particularly on one group of people that we had become interested in, because it was a group of very prominent scientists who had been involved since the late 1980s in doubt mongering campaigns related to climate change, acid rain, the ozone hole, and some other things.
+
+And so part of what we tried to do in the book was to trace this campaign back to its origins in this place, the George C Marshall Institute, and this group of Cold War physicists, but then also to show how and why their message had spread and how it spread through a network of think tanks and organizations in the United States, some of whom are listed there on the right, and also to explain the political ideology behind it, to explain the motivation to challenge scientific evidence rooted in the political economic philosophy of laissez faire capitalism and the idea or the desire to prevent government intervention in the marketplace.
+
+So that's a nutshell encapsulation of the book. So now you don't have to read it. No, you should still read it in any event. But one of the things that was interesting to me when the book came out and it got reviewed was that a lot of people who talked about the book had obviously not read it, because they said it was a book about the fossil fuel industry. And actually, the book is really not about the fossil fuel industry at all. The fossil fuel industry is in the background of our story, but it really was not the principal focus.
+
+Because the important thing that we thought we had discovered in our research, the thing we thought people needed to understand, was that actually, the roots of this story are not found in the fossil fuel industry. They're found in the tobacco industry. And in fact, there is a direct connection between climate change denial and the denial of the harms of tobacco in the actual person of this man, Frederick Sites, who was the founding director of the George C Marshall institute, but also worked for six years as the director of biomedical research for the RJ Reynolds Tobacco Company.
+<USER>

@@ -1,0 +1,142 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should social security be privatized?
+Text: Controversial Essay: Should Public Sector Be Privatized?
+­
+
+Controversial Essay: Should Public Sector Be Privatized?
+
+ADVERTISEMENTS:
+
+Controversial Essay: Should Public Sector Be Privatized?
+
+In the context of the reforms undertaken in the Indian economy, the question of privatization of the public sector has assumed great significance.
+
+Development of Thought:
+
+ADVERTISEMENTS:
+
+The Issue of privatization can be discussed only by taking into consideration the state of the Indian economy and the role of the public sector in its development since independence.
+
+This essay points out that in the existing state of the Indian economy the State has a definite role to play to tackle the problems of illiteracy, primary health, poverty, unemployment and income and regional disparities. The public sector has played a catalytic role in these areas.
+
+But the ability of the public sector to cope with the demands of the economy is being questioned. Scores of sick units especially in the services, banking and transport sectors are a cause for serious concern. The public sector has also failed to generate resources for development to the extent it was desired.
+
+Dilatory decision making has resulted in time and cost over runs in public sector projects. On the contrary, it is equally true that the private sector would not have the needed capital if all PSUs were to be privatized in one go.
+
+ADVERTISEMENTS:
+
+The crucial issue in the Indian context is the need to make both the public and the private sector efficient. For this purpose management needs to be vastly improved.
+
+Conclusion:
+
+Privatization should not be a goal in itself. It should merely be a strategy to increase profitability, productivity and efficiency of the economy.
+
+The issue of privatization of public sector undertakings is now a widely one. When we talk of privatization, it is the relevant context that matters, namely, the efficiency of the economy, its level of development, resource prospects, socio-economic imperatives and the socio-political perspective. All these matters must be taken into account as we examine the question of privatization.
+
+ADVERTISEMENTS:
+
+Let us take the case of the Indian economy and the role of the State in its multidimensional development.
+
+First, we are still a developing economy with about 30 per cent (that is, around 250 million) people below the poverty line, who do not have access to necessary shelter, primary health care, safe drinking water and so on. About 50 percent are illiterates in the literal sense of the term.
+
+In this kind of economy, the State has a definite role to play. The role of the State gains further significance by the fact that there is a growing problem of unemployment.
+
+Second, there is a wide disparity between the rich and the poor. It remains for the State to provide economic opportunities for the poor so that they too can go up the prosperity ladder.
+
+ADVERTISEMENTS:
+
+In the past forty years, the public sector undertakings have played some positive role by helping to generate a large middle class population. This catalytic role of the State will, perhaps have, to continue for many more years to come.
+
+Likewise, there is also wide inter-regional as well as intra-regional disparities in the levels of development. No worthwhile investment would flow towards backward regions unless the State comes forward and provides necessary infrastructure.
+
+Sometimes, industrialization in a backward region may have to be initiated and innovated by the State. This is a practice commonly adopted in many countries.
+
+Besides, the imperatives of development expand the State’s socio-economic responsibilities enormously. The level of development in agriculture and rural economy calls for the supply of inputs at confessional rates because of the limitations of the principles of market pricing.
+
+ADVERTISEMENTS:
+
+The poor must be provided with the basic amenities and facilities at subsidized rates. The workers have to be provided even food at subsidized rates to keep the wages under control.
+
+Even industry has to be provided with support facilities often at less than market costs if it has to be competitive. In this kind of a scenario, it is difficult to envisage that the role of the State should be minimal.
+
+But does it mean that the issue of privatization is irrelevant in the Indian context? Why is it then we are talking of privatization? In what follows, we will try to deal with these questions.
+
+An objective analysis of the Indian economy would make it clear that the thrust on the public sector in the earlier plans (resulting in the increased role of the State), was a move in the right direction. Without the public sector, we would
+
+Not have been able to build the modem industrial economy that we now have It may be said that while the private sector has helped in achieving import substitution in the area of consumer goods.
+
+The public sector has filled in the void of infrastructure and basic industries. While it accounts for over 25 percent of the GDP, it is responsible for the bulk of employment in the organized sector.
+
+Despite the positive role played in the rejuvenation of the economy, public sector has come in for sharp criticism from many quarters, including those who were once great champions of the sector. The reasons are too well-know to need any elaboration, but a brief overview of the causes may be relevant.
+
+The public sector was set up to achieve the commanding heights of the economy; it was supposed to infuse necessary strength and resilience lo ensuring, among other things, that the private initiatives could flourish on support.
+
+It was expected to provide basic raw materials and inputs, encourage ancillarisation, create economic opportunities for the people and perform various social responsibilities which the private sector was not in a position to undertake.
+
+The public sector has undoubtedly played its part but not as efficiently. There are some who say that the public sector has failed miserably but that may be unfair.
+
+The private sector depends almost entirely on the public sector for its supp of some of the vital basic raw materials and other inputs like coal, iron and steel aluminum, power, finance, transport, and telecommunication services.
+
+In a manner of speaking, the performance of the private sector has come to be determined a great extent on the performance of the public sector. And this is where the pinch is. The private sector has a lot of grievances with regard to the availability of raw materials and inputs, quality of products and services and cost of products.
+
+If the private sector wants to grow at the rate of, say 10-12 per cent a year, this will not be possible since the supply support from the public sector will be difficult to ensure.
+
+Again, the cost structure of public sector has led to a high a syndrome which has made the entire economy uncompetitive, compelling government to bear the heavy burden of subsidies.
+
+The loss-making PSUs (in 1988-89, out of 222 Central PSUs, 104 units made a loss of Rs 1,906.51 crores) are now considered a liability in view of the budgetary support required by them.
+
+The losses are sought to be covered by increasing the prices of products manufactured by them leading to all-round increases in prices thereby sustaining the inflationary momentum. This again necessitates increased subsidies. But what is worse is that this kind of situation is subjecting the PSUs to further hardship.
+
+The existences of the loss-making are affecting the performance of the profit-making units. According to a recent report, there are 40 PSUs that have been identified as chronically sick unit which are worth closing down.
+
+Within the services sector, banking and road transport have caused serious concerns. The more serious of these is the phenomenon of sickness amongst the commercial banks, which shows that in the given condition of the economy and the regulations that the banking sector is subjected to the commercial banks cannot operate efficiently. In brief, the public sector has failed to project itself as a shining example of being a guiding force.
+
+The lack of performance has become even more obvious today when the economy is facing a serious resources crisis and we expect the public sector to generate internal resources for reinvestment purposes. At this juncture, the public sector has failed to rise to the occasion.
+
+According to the latest CSO estimates, while the savings of the household sector and private corporate sector have registered significant increases, the public sector savings has suffered a fall, declining by 1.5 per cent. The net disserving of the public sector showed a steep rise from Rs 9,782 crores in 1988-89 to Rs 13,165 crores in 1989-90.
+
+The concerns are attributed to certain factors that are inherent in the system and to the faulty approach in some cases. While the concept of public sector was propagated with all fanfare, not much attention was given to evolving an environment that is conducive to efficient functioning of the PSUs.
+
+On the contrary, the PSUs were allowed to be completely dominated by the bureaucratic-political stranglehold that not only dampened the spirit of the technocrats and the professionals but also caught the PSUs in a maze of difficulties. More than bureaucratic influence, it is the ‘political interference that has been largely irresponsible for the present state.
+
+Apart from excessive accountability imposed on them the public sector managers are also subjected to many pressures from above, which deprive them of the autonomy and flexibility and renders their functioning ineffective and inefficient.
+
+A major problem in the way of efficient operation of the PSU is their inability to take timely decisions, which is due partly to the factors explained above and partly to the decision-making process that has been in operation. The delays create most of the complications.
+<USER>

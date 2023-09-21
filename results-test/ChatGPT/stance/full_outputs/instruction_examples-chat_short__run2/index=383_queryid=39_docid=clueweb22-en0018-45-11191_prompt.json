@@ -1,0 +1,59 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should federal minimum wage increase
+Text: The Federal Government Contract Minimum Wage Increase Is in Effect
+
+Effective January 1, 2021, federal government contractors are required to pay their employees performing work on or in connection with covered government contracts at least $10.95 per hour – an increase of $0.15/hour from the 2020 federal minimum wage. 85 FR 53850 (Aug. 31, 2020). As we previously reported, the federal minimum wage for workers on covered government contracts has increased every year since 2015 pursuant to Executive Order 13658 (“Executive Order”) and its implementing regulation, FAR 52.222-55, Minimum Wage Under Executive Order 13658.
+
+As a reminder, contractors with current covered contracts that will continue into 2021 should review their payroll records to see if there are any covered employees earning less than $10.95/hour. If any covered employees are earning less than this new federal minimum wage, the employer must increase those employees’ rate of pay beginning January 1, 2021. Contractors may not discharge their obligation to pay at least the new minimum wage by furnishing fringe benefits.
+
+Additionally, contractors are responsible for their subcontractors’ compliance with the Executive Order and may be held financially liable for underpayments. As a result, contractors should remind their subcontractors of the obligation to pay their covered employees the 2021 federal minimum wage. They also should consider reviewing subcontractor certified payrolls and other payroll data for potential violations.
+
+Requesting a Price Adjustment
+
+Although government contractors may be required to increase wages, they may be able to recover this increase from the Government if they can warrant that the contract price does not include allowance for any contingency to cover these increased costs. FAR 52.222-55 provides that a contractor may request an adjustment to the contract price if its labor costs (including subcontractor labor costs) and any associated labor costs increase as a result of the annual increase to the federal minimum wage. Associated labor costs are the increases or decreases from changes in social security and unemployment taxes and workers’ compensation insurance and excludes any amount for general and administrative costs, overhead, or profit. Subcontractors similarly can request a price adjustment through the prime contractor.
+
+It is important to note that the minimum wage requirements under the Executive Order are separate and distinct from the prevailing wage requirements under the Davis-Bacon Act (“DBA”) and Service Contract Act (“SCA”). Accordingly, contractors are not entitled to duplicate price adjustments with any price adjustment sought under the DBA or SCA. Therefore, contractors must pay the higher of: (1) the new federal minimum wage rate; (2) applicable SCA wage determination rate; or (3) applicable DBA wage determination to its covered employees.
+
+Finally, contractors may not seek a price adjustment as a result of any wage increases under any other federal or state prevailing wage law or applicable law establishing a minimum wage higher than the federal minimum wage.
+
+Beginning now, contractors should promptly determine whether they need to increase rates of payment. They also will need to determine whether they and/or their subcontractors will need to submit a request for a price adjustment to the Contracting Officer on any current covered contract.
+
+View All Posts
+<USER>

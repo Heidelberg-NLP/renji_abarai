@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W46fQkqcfIp9PE1TcbUcp8v2XTde",
+  "object": "chat.completion",
+  "created": 1687876637,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Yes they should"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3513,
+    "completion_tokens": 3,
+    "total_tokens": 3516
+  }
+}

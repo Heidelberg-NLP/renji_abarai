@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2368exdgABNyHmE5iPmCU2NrPwd",
+  "object": "chat.completion",
+  "created": 1687868728,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text provides a general reference about the topic of euthanasia and physician-assisted suicide but it does not take a stance towards their legalization. Therefore, the label is \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2058,
+    "completion_tokens": 37,
+    "total_tokens": 2095
+  }
+}

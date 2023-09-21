@@ -1,0 +1,109 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should gay marriage legal
+Text: Should gay marriage be legalized? | Debate.org
+  • 100% YES
+
+    My brother is gay and I know what he goes through and went through when he was younger. I dont see the problem with gay marriage. They are just like us but they like the opposite sex. Thats no problem. And raising children! Go for it! They deserve children just as much as we do. I read an article the other day saying how gays shouldnt be able to adopt because theres not a mother and a father. So does that mean parents that are divorced or widowed should get there kids taken away? Just doesnt make sense!
+
+  • What hell is wrong with you people?
+
+    First of all, it's not a choice to be gay. You don't chose who you love, you just do. Second, using the Bible as a reason is complete bull. God created everyone equal. And you know what? If you tried to bring that into an argument with the government, they'd be forced to not listen. Separation of Church and State. If you're trying to legalize something, you can't use the Bible as an excuse. But if you are, it also says "Judge not lest ye be judged." If you're a good freaking Christian you don't DARE judge other people. Third of all, the person that said crap about freaks, WE'RE ALL FREAKS. And guess what? You're a freak. People have the right to express themselves however they want. You have no say. If they want to wear a freaking dinosaur costume to the supermarket, THEY CAN. Really, if they're comfortable, then why should you care?
+    Becky, 14 year old Jewish girl from VA.
+
+  • God doesn't care.
+
+    Although some people may think that just by being gay, you are automatically going to hell, this is not the case. God, although some people might believe that he does, cannot judge or hate people no matter what that person has done in their physical lives, because he does not have the power to do so. God does not possess the ability to hate, judge, smite or whatever the case may be. God only has the power to create, and God has created only the things that bring peace and happiness to the world. God's message to the world is love, not hatred.
+
+  • HAVE YOU EVER SINNED?
+
+    Yes, gay marriage is banned according to the Bible; however it also says, thou shall not lie, steal, kill, nor disrespect thy mother nor father. Everyone has told a lie before, and disrespected mother and father. James 9:10-11 says, Who are you to judge your brother and sister? If you judge, you are not doing the law but going against the law. There is only one judge, he can save you, and break you, so who are you to judge your neighbor?
+
+  • Gays are BORN gay. They do not CHOOSE to be gay.
+
+    Why would any one choose a life of humiliation, discrimination, and bullying? Gay people can't help being attracted to the same sex. It is in their nature. This government separates church and state. Not legalizing gay marriage is discriminatory and there is no political reason for its illegalization. The Constitution’s commitments to liberty and equality protects gay marriage. Laws are designed to allow people to act according to their beliefs. If gay marriage is against your beliefs and religion, that is your own opinion and this government allows you to practice them freely. But religious views should have NO effect on the government's control of who can and cannot get married. This country is not free nor equal. For centuries and decades we fought for the termination of slavery, blacks' rights, women's' rights, desegregation, immigration rights, and now gay rights. This is a never ending war for equality. Same sex marriage is a civil right. If the government can control marriage, then there are reasons to believe the government has taken advantage of its power.
+
+  • You are not to judge.
+
+    Only God can judge them and God and Jesus love all their children. For you to judge them is none of your business for they have not done anything wrong to you. They did not wake every day to impress you. So deal with it. We are here and we are not going anywhere.
+
+  • Gay Marriage Should Be Legalized Nationwide
+
+    Gay marriage should be legalized nationwide. Gay couples have just as much of a right to marry as heterosexual couples. Not letting gay couples get married is a form of discrimination. We live in the land of equality, and tell me, does letting heterosexual couples but not homosexual couples get married equal? I don't think so. People need to open up their minds and stop being so uptight. If getting married is the business of only the couple, why does it matter to anyone else if they get married? Love is love. No one should be denied of their right to marry the one they love, boy or girl.
+
+  • Everyone should be equal
+
+    Why is it fair to treat others wrong because of something they don't have any choice over. I never chose to be straight and honestly why would a gay person CHOOSE to have all that hate in their life? Honestly, you think they want to be bullied to the point where they contemplate suicide? Of course not. Honestly it was the same with slavery, now 120 years later we realize how horribly wrong we were and I hope it will be like that for homosexuals too. The younger generations are a lot more understanding now and i'm not trying to sound arrogant but we're smarter too. Many things I'm learning in MIDDLE school my mom has told me she didn't learn until her last years in high school. Overall, homosexuals should have the exact same rights as any heterosexual.
+
+  • Child Adoption: Rescued Orphans.
+
+    There are so many reasons why gay marriage should be legalized, one of which being child adoption. Our orphanages aren't full, but we want them to be as empty as possible. Gay couples biologically can't have children on their own. Everyone knows that. However, many gay couples that want children would revert to adopting. That means that a lot more of orphans would be given loving parents, a better home, and a proper education.
+
+  • Why is this even an issue?
+
+    Christians really need a good look at their bibles to realize that there are more prohibitions than just No homosexuality. You can't eat shellfish, pork, get tattoos, working on the sabbath gossiping, certain hairstyles, getting remarried, but if you should do these things, you should get stoned to death by the whole community where you reside. Why aren't Christians so adamant about these things? Is it because they are silly archaic laws that were made by primitive man in the dessert? Really, just because if something makes one uncomfortable, then that person should realize that it's not their life and it has no effect on their own. If two people love each other, they should be able to get the same tax benefits regardless of sexual orientation.
+
+    Also Christians, each time you refer to God as a reason against homosexuality, just remember that the bible (God's word apparently) condones slavery, racism, and child prostitution.
+
+  • It's All About Choices
+
+    Anyone can have a romantic and/or sexual relationship with anyone they choose. No one is forced to be with anyone. In order to get married, you need to be with someone of the opposite gender. If that's not something you want to do, then realize you aren't going to get married either instead of demanding the government needs to change to fit your choices.
+
+  • Homosexuality is a Life Choice
+
+    Due to the fact that homosexuality has been proven to sometimes be a life choice (not always genetic), it would be hypocritical to allow gay marriage, but then not allow incest-marriage, or polygamy, since these are obviously both life choices also. A lot of people simply support something because it sounds nice and seems humanitarian, this can lead to ignorance, hypocrisy, and a detrimental/self destructive policy.
+
+  • This country was built under God.
+
+    This country was built under God, we mention it in our pledge! I would rather see some sort of document that would be like a marriage, make it easier for them to share a house, share a car, etc. Marriage is for a man and a woman, that is the way it has always been, it's how it should always be.
+
+  • Its against the Catholic Religion.
+
+    To those who are religious please take a second to think about it. Its not right. There's a reason for why God created Adam and Eve instead of Adam and Steve! Allowing same sex marriage? That is just as wrong as polygamy! What will be next? If this was legalized? Allowing people to marry animals?
+
+  • i am a Christian and i firmly stand fast to marriage as defined in the Bible by God.
+
+    As i explained in my earlier comment. God gave us the perfect example of marriage , 1 man and 1 woman. Also the Bible condemns any sinful (disobedient) act which includes HOMOSEXUALITY. The Bible even goes as far as naming it directly. For man to try to change the word of God or try to pervert it just so he can have his own way is ridiculous and treason against God's law's. As a God of law, order, truth, mercy and love. He cannot allow any sin to exist in his kingdom. I know what the Bible says and I stand by it.
+
+  • Don't people see farther down the road?
+
+    50-100 years ago, homosexuality was viewed on nearly the same level as pedophilia, and there were very little to no rights for gays. Now gays are accepted in the public eye. How long before pedophiles start marching for rights, and the "progressives" (read liberals) side with them. The argument for why gayness was persecuted in the past is that we were not ready for it or something along those lines. I don't want to see the day when all kinds of perversions are accepted. It needs to stop somewhere.
+
+  • It's not needed and offends people.
+<USER>

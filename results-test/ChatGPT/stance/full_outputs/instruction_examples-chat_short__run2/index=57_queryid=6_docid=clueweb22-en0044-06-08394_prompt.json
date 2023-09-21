@@ -1,0 +1,124 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: college education worth
+Text: Invest in You: Ready. Set. Grow.
+
+College costs are skyrocketing. Here's how to decide if that high price tag is worth it
+
+Key Points
+  • The majority of Americans now believe the value of a college education is inextricably tied to whether they have to go into debt to pay for it, reveals a CNBC/Acorns spending survey conducted by SurveyMonkey in June.
+  • Some 58% of consumers polled said that college is worth the money — but not if it means taking on too much debt.
+  • Only about 1 in 5 of the survey's 2,800 respondents believe that college is worth the price, even if it means borrowing heavily.
+  • Eighteen percent said it is not worth it, period.
+VIDEO2:1402:14
+Invest in You: Is a college degree worth the money?
+
+With the student loan crisis gaining ground as a key issue in the 2020 presidential race, a new CNBC and Acorns survey has found that a majority of Americans now believe the value of a college education is inextricably tied to whether they have to go into debt to pay for it.
+
+Some 58% of consumers polled earlier this month said that college is worth the money — but not if it means taking on too much debt. Only about 1 in 5 of the survey's 2,800 respondents believe that college is worth the price, even if it means borrowing heavily, and nearly as many (18%) said that college is not worth the money, period. That number jumped to 24% among those in the 35- to 44-year-old age group.
+
+The Invest in You Spending Survey was conducted by CNBC and Acorns in partnership with SurveyMonkey from June 17–20. A diverse group of men and women were polled across the country, ranging in ages from 18 to over 65. Of the total, 1,498 had a college or graduate degree.
+
+VIDEO8:1408:14
+Cramer: How I used the stock market to pay for Harvard Law school
+
+Experts say the results reflect a change in attitude toward higher education by families, due to sharply rising costs. Although the rate of growth has moderated lately, tuition increases are still averaging two to three percentage points above inflation, keeping overall costs high: According to The College Board, over the past three decades, tuition and fees at private four-year institutions have more than doubled, to $35,830, for the 2018–19 academic year after adjusting for inflation ($48,510 including room and board), and they've tripled at state schools, to $10,370.
+
+At the Ivy leagues the costs are exorbitant. At Harvard the total annual cost of attendance is now $67,580; next year at Princeton it will be $73,450.
+
+Meanwhile, families have increasingly turned to federal and private loans to help foot the bills, pushing outstanding student debt to a stunning $1.6 trillion. Among the almost 70% of students who borrow for school, the typical senior now graduates with nearly $30,000 in debt.
+
+Small wonder, then, that confidence in higher education has dropped sharply in the U.S. since 2015, according to an annual survey by Gallup — more so than for any other U.S. institution measured. Gallop attributes the decline largely to the challenge of affordability.
+
+"Parents and students need to think about college as a financial decision, not just an educational one," says Wharton management professor Peter Cappelli, author of "Will College Pay Off?"
+
+"It's an expensive undertaking, with high-stakes consequences if it doesn't work out," he said.
+
+Weighing the risks and rewards
+
+Perhaps the biggest risk: not graduating. Only about 60% of undergraduates earn a degree in six years, and just 40% cross the finish line in the traditional four-year time span.
+
+Additional years in school add to the costs and subtract years in the workforce earning income. Plus, workers who attend college but never get their degree typically make only modestly more over the course of their careers than those who only have a high school diploma — 18% more on average than the typical high school grad, vs. the 70% premium typically earned by those with a BA, and 120% for those with advanced degrees, research shows.
+
+More from Invest in You:
+This is the amount of money rich families spend to get their kids into college
+How to invest and pay off your student loans, according to the Broke Millennial
+Learn money and investing basics in less time than an episode of "The Office"
+
+"The single most important advice to improve the ROI on college is, whatever school you go to, complete that credential," says Rachel Fishman, deputy director for research of the education policy program at New America, a Washington D.C. think tank.
+
+Indeed, respondents in the CNBC and Acorns survey who graduated from college were far more likely to think higher education was worth the money than those without a degree.
+
+Boosting your college ROI
+
+What else can you do to ensure you get the best value for your education dollar? Experts recommend the following:
+
+1. Check the school's graduation rate. If the single most important way to ensure a high ROI on college is to graduate, favor schools with a great track record of helping students cross the finish line in a timely fashion. (Comparative data on graduation rates is available on the federal government's College Scorecard.)
+
+Institutions with higher-than-average graduation rates tend to have more resources to invest in their students, Cappelli says, and offer a variety of classes and services to help them successfully complete their coursework — including intervening when a student appears to struggle by offering tutoring, recommendations of alternate classes and other aid.
+
+"The best schools are proactive instead of reactive," Cappelli says.
+
+VIDEO2:3302:33
+Bernie Sanders unveils bill to cancel all Americans student loan debt
+
+2. Favor schools that provide relevant experiences. The more relevant that alumni consider their college courses to be in their work and daily lives now, the more likely they are to agree they received a high-quality education that was worth the cost. In fact, a survey last year by Strada Education Network and Gallup found that relevance was the strongest predictor of consumers' perceptions of college quality and value—stronger than gender, race, income, age, field of study, level of education or cost of the school attended.
+
+Which school experiences were graduates most likely to say prepared them well for life after college? Gallup identified a number of key factors that made a difference including having a mentor; having professors who made their students excited about learning and cared about them as a person; having an internship that allowed them to apply what they were learning in the classroom; working on a long-term project that took a semester or more to complete, and being heavily involved in school organizations and extracurricular activities.
+
+3. Borrow smart. If you need help covering college costs, stick primarily with federal loans in the student's name. "Government loans have many safety valves built in that conventional private loans do not," says Fishman.
+
+These include annual limits on borrowing — $5,500 for freshmen, rising to $7,500 for junior year and beyond. Plus, the loans come with a variety of repayment options. Many of them are tied to the borrower's income, making them more affordable on a monthly basis for newly-minted grads struggling to get by on a modest starting salary.
+
+Where you can get into serious trouble quickly is with private loans and parent PLUS loans from the government; the latter, for example, allow parents to borrow up to the full cost of attendance with only a cursory credit check. In fact, a study by the Urban Institute this year found that parent PLUS borrowing is up 42% over the past decade, compared with only a 2% increase in undergraduate loans taken out by students.
+
+With parent PLUS loan rates currently at 7.6%, you may be better off tapping your home equity with a home equity line of credit, currently averaging 5.5% nationally. Or, better yet, encourage your student to go with a more affordable school for your family.
+
+4. Don't let a major trip you up. One common reason students fail to graduate on time is that they switch majors and then need another semester or two or four to complete the additional coursework required.
+
+To avoid that fate, Cappelli suggests students favor schools and concentrations with simpler requirements—ones, for instance, that allow you to declare your major after your freshman or sophomore year or that don't mandate many courses that must be taken in a particular sequence.
+
+Fishman also recommends not getting too hung up on which major will lead to the highest-paying job after graduation and instead pursue the subject that interests you most, and which you'll therefore be most likely to stick with.
+
+"What employers continually say they're looking for are people who can think on their feet, who are good writers and communicators, and who can engage critically," Fishman points out. "Almost anything you major in will get you there."
+
+Check out One-third of Americans have cut their spending this year: Results from Invest in You Spending Survey conducted by CNBC and Acorns in partnership with SurveyMonkey
+
+Disclosure: NBCUniversal and Comcast Ventures are investors in Acorns.
+<USER>

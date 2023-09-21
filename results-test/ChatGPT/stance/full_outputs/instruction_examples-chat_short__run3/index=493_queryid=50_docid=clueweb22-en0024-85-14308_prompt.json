@@ -1,0 +1,114 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: Universal basic income
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+In 2013, eight million 5-cent coins (one per inhabitant) were dumped on the Bundesplatz, Bern to support the 2016 Swiss referendum for a basic income (which was rejected, 77%–23%).
+
+Universal basic income (UBI)[note 1] is a sociopolitical financial transfer policy proposal in which all citizens of a given population regularly receive a legally stipulated and equally set financial grant paid by the government without a means test.[1][2] A basic income can be implemented nationally, regionally, or locally. If the level is sufficient to meet a person's basic needs (i.e., at or above the poverty line), it is sometimes called a full basic income; if it is less than that amount, it may be called a partial basic income. Some have labelled UBI as utopian due to its historical origin.[3][4][5]
+
+There are several welfare arrangements that can be viewed as related to basic income. Many countries have something like a basic income for children. Pension may be partly similar to basic income. There are also quasi-basic income systems, like Bolsa Familia in Brazil, which is conditional and concentrated on the poor, or the Thamarat Program in Sudan, which was introduced by the transitional government to ease the effects of the economic crisis inherited from the Bashir regime.[6] The Alaska Permanent Fund is essentially a partial basic income, which averages $1,600 annually per resident (in 2019 currency).[7] A negative income tax (NIT) can be viewed as a basic income in which citizens receive less and less money until this effect is reversed the more a person earns.[8]
+
+Several contemporary political discussions are related to the basic income debate, including those regarding automation, artificial intelligence (AI), and the future of the necessity of work. A key issue in these debates is whether automation and AI will significantly reduce the number of available jobs and whether a basic income could help prevent or alleviate such problems by allowing everyone to benefit from a society's wealth, as well as whether a UBI could be a stepping stone to a resource-based or post-scarcity economy.
+
+The economic impact of the COVID-19 pandemic prompted some countries to send direct payments to citizens.
+
+History[edit]
+
+Antiquity[edit]
+
+In a 46 BC triumph, Roman general and dictator Julius Caesar gave each common Roman citizen 100 denarii. Following his assassination in 44 BC, Caesar's will left 300 sestertii (or 75 denarii) to each citizen.[9]
+
+Trajan, emperor of Rome from 98–117 AD, personally gave 650 denarii (equivalent to perhaps US$260 in 2002) to all common Roman citizens who applied.[10]
+
+16th to 18th century[edit]
+
+In his Utopia (1516), English statesman and philosopher Thomas More depicts a society in which every person receives a guaranteed income.[11] In this book, basic income is proposed as an answer to the statement "No penalty on earth will stop people from stealing, if it's their only way of getting food," stating:[12]
+
+instead of inflicting these horrible punishments, it would be far more to the point to provide everyone with some means of livelihood, so that nobody's under the frightful necessity of becoming first a thief, and then a corpse.
+
+Spanish scholar Johannes Ludovicus Vives (1492–1540) proposed that the municipal government should be responsible for securing a subsistence minimum to all its residents "not on the grounds of justice but for the sake of a more effective exercise of morally required charity." Vives also argued that to qualify for poor relief, the recipient must "deserve the help he or she gets by proving his or her willingness to work."[13] In the late 18th century, English Radical Thomas Spence and English-born American philosopher Thomas Paine both had ideas in the same direction.
+
+Paine authored Common Sense (1776) and The American Crisis (1776–1783), the two most influential pamphlets at the start of the American Revolution. He is also the author of Agrarian Justice, published in 1797. In it, he proposed concrete reforms to abolish poverty. In particular, he proposed a universal social insurance system comprising old-age pensions and disability support and universal stakeholder grants for young adults, funded by a 10% inheritance tax focused on land.
+
+Early 20th century[edit]
+
+Around 1920, support for basic income started growing, primarily in England.
+
+Bertrand Russell (1872–1970) argued for a new social model that combined the advantages of socialism and anarchism, and that basic income should be a vital component in that new society.
+
+Dennis and Mabel Milner, a Quaker married couple of the Labour Party, published a short pamphlet entitled "Scheme for a State Bonus" (1918) that argued for the "introduction of an income paid unconditionally on a weekly basis to all citizens of the United Kingdom." They considered it a moral right for everyone to have the means to subsistence, and thus it should not be conditional on work or willingness to work.
+
+C. H. Douglas was an engineer who became concerned that most British citizens could not afford to buy the goods that were produced, despite the rising productivity in British industry. His solution to this paradox was a new social system he called social credit, a combination of monetary reform and basic income.
+
+In 1944 and 1945, the Beveridge Committee, led by the British economist William Beveridge, developed a proposal for a comprehensive new welfare system of social insurance, means-tested benefits, and unconditional allowances for children. Committee member Lady Rhys-Williams argued that the incomes for adults should be more like a basic income. She was also the first to develop the negative income tax model.[14][15] Her son Brandon Rhys Williams proposed a basic income to a parliamentary committee in 1982, and soon after that in 1984, the Basic Income Research Group, now the Citizen's Basic Income Trust, began to conduct and disseminate research on basic income.[16]
+
+Late 20th century[edit]
+
+In his 1964 State of the Union address, U.S. President Lyndon B. Johnson introduced legislation to fight the "war on poverty". Johnson believed in expanding the federal government's roles in education and health care as poverty reduction strategies. In this political climate the idea of a guaranteed income for every American also took root. Notably, a document, signed by 1200 economists, called for a guaranteed income for every American. Six ambitious basic income experiments started up on the related concept of negative income tax. Succeeding President Richard Nixon explained its purpose as "to provide both a safety net for the poor and a financial incentive for welfare recipients to work."[17] Congress eventually approved a guaranteed minimum income for the elderly and the disabled.[17]
+
+In the mid-1970s the main competitor to basic income and negative income tax, the Earned income tax credit (EITC), or its advocates, won over enough legislators for the US Congress to pass laws on that policy. In 1986, the Basic Income European Network, later renamed to Basic Income Earth Network (BIEN), was founded, with academic conferences every second year.[18] Other advocates included the green political movement, as well as activists and some groups of unemployed people.[19]
+
+In the latter part of the 20th century, discussions were held around automatization and jobless growth, the possibility of combining economic growth with ecological sustainable development, and how to reform the welfare state bureaucracy. Basic income was interwoven in these and many other debates. During the BIEN academic conferences there were papers about basic income from a wide variety of perspectives, including economics, sociology, and human right approaches.
+
+21st century[edit]
+
+In recent years the idea has come to the forefront more than before. The Swiss referendum about basic income in Switzerland 2016 was covered in media worldwide, despite its rejection.[20] Famous business people like Elon Musk,[21] Pierre Omidyar,[22] and Andrew Yang have lent their support, as have high-profile politicians like Jeremy Corbyn[23] and Tulsi Gabbard.[24]
+
+In the US Democratic Party primaries, political newcomer Andrew Yang touted basic income as his core policy. His policy, referred to as a "Freedom Dividend", would have provided American citizens US$1,000 a month.
+
+Response to COVID-19[edit]
+
+As a response to the COVID-19 pandemic and related economic impact, universal basic income and similar proposals such as helicopter money and cash transfers were increasingly discussed across the world.[25] Most countries implemented forms of partial unemployment schemes, which effectively subsidized workers' incomes without a work requirement. Around ninety countries including the United States, Spain, Hong Kong and Japan introduced temporary direct cash transfer programs to their citizens.[26][27]
+
+In Europe, a petition calling for an "emergency basic income" gathered more than 200,000 signatures,[28] and polls suggested widespread support in public opinion for it.[29][30] Unlike the various stimulus packages of the US administration, the EU's stimulus plans did not include any form of income-support policies.[31]
+
+Basic income vs negative income tax[edit]
+
+Two ways of looking at basic income when combined with a flat income tax, both of which result in the same net income (orange line). 1. (red) stipend with conventional tax for income above the stipend. 2. (blue) Negative tax for low-income people and conventional tax for high-income people.
+
+The diagram shows a basic income/negative tax system combined with flat income tax (the same percentage in tax for every income level).
+
+Y is here the pre-tax salary given by the employer and y' is the net income.
+
+Negative income tax
+<USER>

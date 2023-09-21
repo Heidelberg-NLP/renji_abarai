@@ -1,0 +1,171 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should bottle water ban
+Text: Should We Ban Plastic Bottles, Bags & Straws? - Better Meets Reality
+
+Should We Ban Plastic Bottles, Bags & Straws?
+
+In this guide, we discuss whether plastic bottles, bags and straws should be banned or not.
+
+We look at some of the reasons for, and against, along with other relevant considerations.
+
+This guide compliments a separate guide we put together on whether humans can realistically live without plastic.
+
+ 
+
+Summary – Should We Ban Plastic Bottles, Bags & Straws?
+
+In the guide below, we discuss 5 different points that may help in determining whether plastic bottles, bags and straws should be banned.
+
+Those points are:
+
+1. The different types of plastic bottles, bags and straws to consider
+
+2. What the goal is in banning plastic bottles, bags, and straws
+
+3. What the tradeoffs might be in banning plastic bottles, bags and straws
+
+4. Alternatives and other solutions other than banning plastic bottles, bags and straws
+
+5. Considering sustainability based lifestyle choices outside of the plastic bottles, bags and straws we use
+
+ 
+
+From the guide below, it might be apparent that although plastic bottles, bags and straws have some drawbacks, they also offer some benefits and utility in various ways
+
+We run through those points, as well as context to the question and potential answers below.
+
+There may not be one single straightforward answer.
+
+ 
+
+1. There’s Different Types Of Plastic Bottles, Bags & Straws
+
+Firstly, we have to outline the different types of plastic bottles, bags, and straws we are talking about, and identify some of their main differences:
+
+ 
+
+– Single Use vs Reusable & Long Lifecycle Plastics 
+
+Two of the main types of plastic bottles, bags and straws might involve:
+
+1.  Single use and short lifecycle plastics
+
+These plastics might have high waste rates, and might only be used once, or a few times, before being discarded
+
+These plastic might be part of a group of plastics that might be more problematic and harmful than others
+
+ 
+
+2. Reusable and longer lifecycle plastics
+
+These plastic might have lower waste rates, and can last years before needing to be thrown away
+
+ 
+
+– Sustainability Impact Of The Different Plastics
+
+Single use/high waste rate plastics and reusable/lower waste rate plastics may have different sustainability impacts.
+
+We discussed the potential impact of these different plastics in our guides about the different types of plastic bags, and the different types of plastic bottles.
+
+Single use plastic bottles and light plastic bags may rate better across some sustainability indicators, whilst reusable bottles and heavy plastic bags may rate better across other sustainability indicators, and reach a certain sustainability level when they are used a certain amount of times.
+
+It’s also worth mentioning that we discuss the potential sustainability impact of regular plastic straws and bioplastic plastic straws in our straw comparison guide
+
+Overall, different plastics types and different plastic products (with different designs, features, etc) will have different sustainability footprints to consider.
+
+Not all plastic bottles, bags and straws are the same, and therefore, can’t be compared ‘apples to apples’.
+
+ 
+
+2. What Is The Goal Of Banning Plastic Bottles, Bags & Straws?
+
+There would have to be a goal, or a set of goals/targets to banning plastic bottles, bags, and straws.
+
+From a sustainability perspective, there’s many different sustainability indicators.
+
+For example, common sustainability targets might include but aren’t limited to reducing greenhouse gas emissions, using more renewable resources in place of non-renewable resources, or reducing pollution such as water or air pollution.
+
+Common major goals of banning plastic bottles, bags and straws might be to reduce general plastic pollution, or to reduce the range of potentially harmful effects that plastic might have on various aspects of society.
+
+But, the goals/targets of banning plastic bottles, bags and straws would have to be clearly outlined from a sustainability perspective, and from any other relevant perspective.
+
+Some of the reasons that people may have various goals or targets related to banning plastic bottles, bags and straws might include (these reasons are essentially a list of plastic related problems):
+
+ 
+
+– The General Drawbacks Of Plastic As A Material
+
+Plastic as a material may have general drawbacks to consider
+
+As just one example, traditional plastic typically comes from petroleum, which is a fossil fuel.
+
+Some may argue that we should be using more sustainable source materials
+
+ 
+
+– Recycling Plastic Bottles
+
+Plastic bottles made of Plastic #1 (PET) or Plastic #2 (HDPE) are some of the most recyclable plastics compared to other types of plastic.
+
+Their recycling rate might be around 20-35% mark in some major countries, and this is above the current global average recycling rate for plastic of around 14-20%.
+
+However, it’s still below the average recycling rate of some other materials worldwide.
+
+Reusable plastic bottles may or may not be able to be recycled depending on the plastic they are made from.
+
+One of the inherent problems with recycling some plastics though is that they can only be recycled a certain amount of times before they lose their integrity/quality, and have to be downcycled or sent to land fill or incinerated.
+
+Some types of metal on the other hand can be recycled over and over.
+
+It may also be cheaper for businesses to make some plastic bottles new rather than recycle them in some instances.
+
+ 
+
+– Recycling Plastic Straws & Bags
+
+In some cities, some soft plastics can’t be recycled because of issues with contaminating other plastics.
+
+Some plastic items may also be small enough, or thin or flimsy enough, that they either can’t be processed, or get stuck in recycling conveyor belts and other recycling machinery 
+
+Plastic straws and bags may fit into both these categories
+
+However, there are some private services in some cities that offer soft plastic recycl
+<USER>

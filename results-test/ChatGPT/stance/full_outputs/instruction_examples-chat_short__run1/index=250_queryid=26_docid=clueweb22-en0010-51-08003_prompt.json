@@ -1,0 +1,261 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: standardize test improve education
+Text: standardize
+
+
+Also found in: Thesaurus, Medical, Legal, Financial, Encyclopedia, Wikipedia.
+Related to standardize: standardise
+
+stan·dard·ize
+
+ (stăn′dər-dīz′)
+tr.v. stan·dard·ized, stan·dard·iz·ing, stan·dard·iz·es
+1. To cause to conform to a standard.
+2. To evaluate by comparing with a standard.
+
+stan′dard·i·za′tion (-dər-dĭ-zā′shən) n.
+American Heritage® Dictionary of the English Language, Fifth Edition. Copyright © 2016 by Houghton Mifflin Harcourt Publishing Company. Published by Houghton Mifflin Harcourt Publishing Company. All rights reserved.
+
+standardize
+
+(ˈstændəˌdaɪz) or
+
+standardise
+
+vb
+1. to make or become standard
+2. (tr) to test by or compare with a standard
+ˌstandardiˈzation, ˌstandardiˈsation n
+ˈstandardˌizer, ˈstandardˌiser n
+Collins English Dictionary Complete and Unabridged, 12th Edition 2014 © HarperCollins Publishers 1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011, 2014
+
+stand•ard•ize
+
+(ˈstæn dərˌdaɪz)
+
+v. -ized, -iz•ing. v.t.
+1. to make of a standard size, weight, etc.
+2. to test by a standard.
+3. to establish a standard for.
+v.i.
+4. to become standardized.
+[1870–75]
+stand′ard•iz`a•ble, adj.
+stand`ard•i•za′tion, n.
+stand′ard•iz`er, n.
+Random House Kernerman Webster's College Dictionary, © 2010 K Dictionaries Ltd. Copyright 2005, 1997, 1991 by Random House, Inc. All rights reserved.
+
+standardize
+
+
+Past participle: standardized
+Gerund: standardizing
+
+Imperative
+standardize
+standardize
+Present
+I standardize
+you standardize
+he/she/it standardizes
+we standardize
+you standardize
+they standardize
+Preterite
+I standardized
+you standardized
+he/she/it standardized
+we standardized
+you standardized
+they standardized
+Present Continuous
+I am standardizing
+you are standardizing
+he/she/it is standardizing
+we are standardizing
+you are standardizing
+they are standardizing
+Present Perfect
+I have standardized
+you have standardized
+he/she/it has standardized
+we have standardized
+you have standardized
+they have standardized
+Past Continuous
+I was standardizing
+you were standardizing
+he/she/it was standardizing
+we were standardizing
+you were standardizing
+they were standardizing
+Past Perfect
+I had standardized
+you had standardized
+he/she/it had standardized
+we had standardized
+you had standardized
+they had standardized
+Future
+I will standardize
+you will standardize
+he/she/it will standardize
+we will standardize
+you will standardize
+they will standardize
+Future Perfect
+I will have standardized
+you will have standardized
+he/she/it will have standardized
+we will have standardized
+you will have standardized
+they will have standardized
+Future Continuous
+I will be standardizing
+you will be standardizing
+he/she/it will be standardizing
+we will be standardizing
+you will be standardizing
+they will be standardizing
+Present Perfect Continuous
+I have been standardizing
+you have been standardizing
+he/she/it has been standardizing
+we have been standardizing
+you have been standardizing
+they have been standardizing
+Future Perfect Continuous
+I will have been standardizing
+you will have been standardizing
+he/she/it will have been standardizing
+we will have been standardizing
+you will have been standardizing
+they will have been standardizing
+Past Perfect Continuous
+I had been standardizing
+you had been standardizing
+he/she/it had been standardizing
+we had been standardizing
+you had been standardizing
+they had been standardizing
+Conditional
+I would standardize
+you would standardize
+he/she/it would standardize
+we would standardize
+you would standardize
+they would standardize
+Past Conditional
+I would have standardized
+you would have standardized
+he/she/it would have standardized
+we would have standardized
+you would have standardized
+they would have standardized
+Collins English Verb Tables © HarperCollins Publishers 2011
+ThesaurusAntonymsRelated WordsSynonymsLegend:
+Verb1.standardize - cause to conform to standard or norm; "The weights and measures were standardized"
+gauge - adapt to a specified measurement; "gauge the instruments"
+govern, regularise, regularize, regulate, order - bring into conformity with rules or principles or usage; impose regulations; "We cannot regulate the way people dress"; "This town likes to regulate"
+2.standardize - evaluate by comparing with a standard
+appraise, assess, evaluate, valuate, value, measure - evaluate or estimate the nature, quality, ability, extent, or significance of; "I will have the family jewels appraised by a professional"; "access all the factors when taking a risk"
+Based on WordNet 3.0, Farlex clipart collection. © 2003-2012 Princeton University, Farlex Inc.
+
+standardize
+
+verb bring into line, regularize, stereotype, regiment, assimilate, mass-produce, institutionalize His new dictionary helped standardize the national language.
+Collins Thesaurus of the English Language Complete and Unabridged 2nd Edition. 2002 © HarperCollins Publishers 1995, 2002
+standardizovat
+standardisere
+szabványosít
+staîla
+normalizovaťštandardizovať
+standardize etmek
+
+standardize
+
+[ˈstændədaɪz] VTnormalizar, estandar(d)izar
+Collins Spanish Dictionary - Complete and Unabridged 8th Edition 2005 © William Collins Sons & Co. Ltd. 1971, 1988 © HarperCollins Publishers 1992, 1993, 1996, 1997, 2000, 2003, 2005
+
+standardize
+
+[ˈstændərdaɪz] standardise (British) vtstandardiserstandard lamp n (British)lampadaire m (d'appartement)standard of living nniveau m de viestandard time nheure f légale
+Collins English/French Electronic Resource. © HarperCollins Publishers 2005
+
+standardize
+
+vt education, style, approachvereinheitlichen; format, sizes etcnormen, standardisieren
+vi to standardize on somethingetw standardmäßig verwenden
+Collins German Dictionary – Complete and Unabridged 7th Edition 2005. © William Collins Sons & Co. Ltd. 1980 © HarperCollins Publishers 1991, 1997, 1999, 2004, 2005, 2007
+
+standardize
+
+[ˈstændəˌdaɪz] vtstandardizzare
+Collins Italian Dictionary 1st Edition © HarperCollins Publishers 1995
+
+standard
+
+(ˈstӕndəd) noun
+1. something used as a basis of measurement. The kilogram is the international standard of weight.
+2. a basis for judging quality, or a level of excellence aimed at, required or achieved. You can't judge an amateur artist's work by the same standards as you would judge that of a trained artist; high standards of behaviour; His performance did not reach the required standard.
+3. a flag or carved figure etc fixed to a pole and carried eg at the front of an army going into battle.
+adjective
+(accepted as) normal or usual; The Post Office likes the public to use a standard size of envelope.
+ˈstandardize, ˈstandardise verb
+to make or keep (eg products) of one size, shape etc for the sake of convenience etc.
+ˌstandardiˈzation, ˌstandardiˈsation noun
+ˈstandard-bearer noun
+a person who carries a standard or banner.
+be up to / below standard
+to (fail to) achieve the required standard. Her work is well up to standard. estar ocupado con algo, traerse algo entre manos
+standard of living
+the level of comfort and welfare achieved in any particular society.
+Kernerman English Multilingual Dictionary © 2006-2013 K Dictionaries Ltd.
+References in periodicals archive ?
+"Multiple labour laws to be streamlined to into a set of four labour codes to standardize registration and filing of returns," she said, presenting the union budget 2019-20.
+This performance based method of standardize patients is used in clinical skills teaching in small groups as well as in one-to-one formative and summative assessments.
+This means that the search for internal and market business intelligence is inextricably linked not only to digitization and automation, but to "lean" production systems that regularly and deeply examine, measure, improve and standardize every process in the institution.
+For these reasons, there is a need to standardize the term and ensure that social welfare researchers around the world are clear about its meaning.
+Withers states that suppliers and mills need to standardize most safety training and clarify training that is appropriate for different types of visitors.
+It's the command's goal to standardize operations as much as possible so all members of the 598th understand the standard when deployed to execute operations in any port within the area of responsibility, said Gonzalez.
+Gene Express customers choose StaRT-PCR to maximizing R&D efforts and standardize gene expression measurement throughout the drug development process while successfully meeting the new FDA regulatory guidelines.
+
+Full browser ?
+<USER>

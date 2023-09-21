@@ -1,0 +1,91 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: Why abolishing the corporate income tax is good for American workers | PBS NewsHour
+
+Why abolishing the corporate income tax is good for American workers
+
+Social Security rules are complicated and change often. For the most recent “Ask Larry” columns, check out maximizemysocialsecurity.com/ask-larry.
+
+
+Editor’s Note: Our regular Social Security columnist Larry Kotlikoff is taking a week off from answering your Social Security questions. This week, he’s addressing readers’ concerns with his call in the New York Times to abolish the corporate income tax.
+
+On Jan. 5, I published an op-ed in the New York Times titled “Abolish the Corporate Income Tax.”
+
+The piece generated a large number of comments, many of which were indignant at the suggestion that we give the rich a huge handout at a time of terrible and growing economic inequality. Since the column explained why abolishing the corporate income tax would help workers, not the rich, and also advocated using our progressive personal income tax system to make up for any loss in revenue, I was surprised at the negative reaction, but not really.
+
+We’re all so politicized and so short on time that all it took, in this case, was a five-word title (over which I had no control) for my critics to conclude that I was a) nuts, b) a pawn of the capitalist class, c) a right-winger and d) someone to be set straight — all before they even skimmed the contents of what I’d written.
+
+After working out my frustration with Paul Solman on the tennis court to little avail, since his forehand is getting more vicious by the day, I raised with him the idea of answering some of the comments on his Making Sense page.
+
+He generously agreed, not because he felt guilty about demolishing me yet again at tennis, but because he realizes I’m neither a, b, c, or d, and that our country desperately needs to have open non-partisan discussions of critical policy reforms. Accordingly, Paul proposed I answer the letters responding to my column that were published in the New York Times on Jan. 11.
+
+I answer them below, but first, some background. My op-ed reported on a recent co-authored study showing that eliminating the corporate income tax and making up any resulting lost revenue with higher personal income taxes would produce major increases — north of 12 percent — in the real wages of today’s and tomorrow’s workers.
+
+The intuition for this result is the well known (to economists) proposition that those who bear the economic burden of a tax aren’t necessarily those whom the government says have to pay — as in remit — the tax.
+
+Take apple farmers who are now receiving 50 cents per apple and are suddenly told by the government to pay a 10-cent tax per apple sold. Now suppose the apple producers aren’t willing to produce any apples whatsoever unless they net exactly 50 cents per apple. In this case, they will react to the tax by cutting back on their supply of applies until they force the pre-tax price of an apple up to 60 cents.
+
+With apple demanders paying 60 cents per apple, the suppliers will net the same 50-cent price per apple after handing the 10-cent-per-apple tax to the government. If the suppliers who “pay” the tax aren’t hurt by the tax, then who is?
+
+The demanders bear the burden of every cent of tax collected, but they do so in the form of paying higher consumer prices. So even though the apple producers actually mail the government the tax proceeds, they aren’t really paying (being hurt by) the apple tax.
+
+In the case of the U.S. corporate income tax, the ability of corporations to avoid the tax, not by producing fewer apples, but by producing abroad, means that workers in the United States will have fewer companies soliciting their services. This, in turn, will mean lower real wages than would otherwise be the case. Consequently, it’s the workers, not the rich owners of U.S. corporations, who end up being hurt by the corporate income tax. Hence, if the U.S. cuts its quite high corporate tax, indeed eliminates it, this can be a good thing for workers.
+
+With this background, let me respond to these letters.
+
+To the Editor: Re “Abolish the Corporate Income Tax,” by Laurence J. Kotlikoff (Op-Ed, Jan. 6):
+
+For decades corporate income taxes have dropped without benefiting working and middle-class America. Chief executives now make 270 times more than the average American worker, whose real wages have fallen since their peak in the 1970s.
+
+As most workers in America have seen their hours, wages and benefits shrink, corporate taxes have gone down, job creation and growth have gone down, and corporate profits and executive compensation have skyrocketed.
+
+So why does Mr. Kotlikoff think that it will be different this time around? For whom does he think that it will be better? If the past predicts the future, it will not be the American workers or the middle class who benefit.
+
+CARRIE GOLDWATER GOLKIN
+New York, Jan. 7, 2014
+
+Larry Kotlikoff: You are confusing the marginal and the average corporate income tax rates. The U.S. marginal corporate tax rate — the tax paid on an extra dollar of profits — is perhaps the highest of the developed world. In contrast, the average tax rate — the amount of total taxes actually collected divided by total profits — is quite low thanks, in part, to companies producing abroad to avoid the high marginal tax.
+
+In the extreme, we could have a 100 percent marginal corporate income tax, which would drive out all corporations and, therefore, produce zero tax revenue.
+
+So yes, Carrie, the average corporate tax rate is very low. But the marginal corporate tax rate in the U.S. is very high. The point of my op-ed was to draw the distinction between the marginal and average tax rates and point out that the main impact of our corporate tax today appears to be to discourage production within the U.S., not to collect revenues.
+
+Turning to executive pay, I agree that it’s insane. I’d happily run any top Fortune 500 company for far, far less than the CEOs 
+<USER>

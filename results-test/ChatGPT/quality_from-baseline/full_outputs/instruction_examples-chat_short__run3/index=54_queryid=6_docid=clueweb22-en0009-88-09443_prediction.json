@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1GxZ4qvVzwhEUD0eK91Bt9ATmXr",
+  "object": "chat.completion",
+  "created": 1687865743,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given sentence doesn't make a clear argument, therefore it cannot be labeled as \"high\", \"medium\" or \"low\". It is simply a title that presents a topic to be discussed."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 787,
+    "completion_tokens": 39,
+    "total_tokens": 826
+  }
+}

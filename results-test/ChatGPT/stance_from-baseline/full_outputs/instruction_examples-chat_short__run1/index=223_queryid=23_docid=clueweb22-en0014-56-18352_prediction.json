@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W23AjLkBzu2cDnsIcKTdkQKgrFcj",
+  "object": "chat.completion",
+  "created": 1687868732,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The given text has arguments both in favor of and against physician-assisted suicide, as it cites views from both the pro and con sides. Therefore, the stance of the text is \"neutral.\""
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2616,
+    "completion_tokens": 39,
+    "total_tokens": 2655
+  }
+}

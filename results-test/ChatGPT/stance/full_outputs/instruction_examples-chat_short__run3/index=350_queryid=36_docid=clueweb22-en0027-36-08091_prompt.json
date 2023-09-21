@@ -1,0 +1,166 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: golf sport
+Text: Skechers LogoAuthorized Dealer
+Skechers Go Golf Torque Sport Golf Shoe
+product
+Alternate Image0
+Alternate Image1
+Alternate Image2
+Alternate Image3
+Alternate Image4
+Alternate Image5
+Skechers LogoAuthorized Dealer
+
+Skechers Go Golf Torque Sport Golf Shoe
+
+Color
+
+Size
+
+Width
+
+Price
+
+$64.95
+
+Quantity
+
+Product Description
+
+Add some grounded comfort and smooth style to your game with the Skechers GO GOLF Torque - Sport™ RF shoe. An athletic design with replaceable Softspikes® and Goga Max comfort technology.
+
+  • Relaxed Fit® design for a roomy comfortable fit at toe and forefoot
+  • Ultra-lightweight, responsive ULTRA FLIGHT? cushioning
+  • Soft fabric shoe lining
+  • Cushioned comfort insole
+  • 3/4 inch heel
+
+Product Reviews
+
+Avg Rating: 4.1 out of 5 User Ratings & Reviews (22)
+
+John Weatherford
+
+Hot Springs, AR
+
+Handicap 11 - 15
+
+3/15/2022
+golf shoes
+very comfortable shoe, but some of the spikes keep coming out. almost every round I need to replace at least two spikes.
+
+Bill Crawford
+
+Oro Valley, AZ
+
+Handicap 11 - 15
+
+3/14/2022
+Great shoe,bad spikes
+Ordered these shoes on1/31/22 order #3667659-5942889. After my round the a spike was missing all the teeth. Is my shoe still under warranty and is this covered?
+
+Susan
+
+Randolph, MA
+
+Handicap 21 - 30
+
+2/5/2022
+Women's golf shoes
+Are these available for women?
+
+Ray
+
+Handicap 11 - 15
+
+8/1/2021
+Poor service
+I wish I could review the shoes, but I never got them. I got an email a week after ordering that they were out of blue/gray but had black in my size for immediate shipping. After a week I called to check on the order and was told they hadn’t shipped but would do so same day. A week later I called to check again and was told they did not have my size. Obviously their inventory is not linked to their customer service. Very disappointing. I will be reluctant to order from here again
+
+Ronald
+
+Charlotte, NC
+
+Handicap 16 - 20
+
+7/30/2021
+Sketches golf shoe
+Good price and good shoe. I had been eyeing these shoes for a while but didn't like the price at the time. When I saw them at almost $30 less I jumped at the deal.
+
+Rich
+
+Handicap 11 - 15
+
+6/18/2021
+Shoes were fine, Service unacceptable
+I was told the shoes are fine. They are comfortable and fit to size. These were a gift and service dept originally sent out shipping info so knew shoes would be on time. The day before delivery was due they sent an email saying credit card incorrect. I double checked and gave them the most current card on the order and they applied the old one. Shoes came 6 days after they were due. No apologies for their error which is not good business. I will not order from them any time soon and certainly not anything that is time sensitive.
+
+John
+
+Handicap 21 - 30
+
+6/14/2021
+Very comfortable
+These shoes fit great from the start. Very comfortable walking and I like the feel. I would recommend them to anyone. No complaints from me.
+
+Dave
+
+Handicap 6 - 10
+
+6/14/2021
+Great Company
+Great product !! Great Prices !! Great Company !! Great Customer Service !!
+
+Terrance
+
+Handicap 6 - 10
+
+6/11/2021
+Happy golfer
+When I first ordered my shoes there was a small mixup. The staff responded quickly and took care of the situation. I was very pleased with the response and the shoes.
+
+Hank Sipsma
+
+Handicap 21 - 30
+
+6/10/2021
+Comfortable From The First Fit
+These Sketchers Golf shoes were very comfortable the very first time I put them on. They are stated relaxed fit, so a little bit wider but that worked great for me. I would highly recommend them for the comfort and also the performance they provide. On a negative note, the color choices are not great
+<USER>

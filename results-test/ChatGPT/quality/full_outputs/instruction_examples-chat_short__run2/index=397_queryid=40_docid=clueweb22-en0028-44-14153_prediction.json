@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2qAOlbhUcJ29jua9I80A4yyGpfw",
+  "object": "chat.completion",
+  "created": 1683105210,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2120,
+    "completion_tokens": 31,
+    "total_tokens": 2151
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The 8th Amendment does allow for the death penalty, as the Supreme Court has ruled that it does not violate the ban on cruel and unusual punishment."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1IKrFin8f5xDKjsOZZ4CLe6yqrz",
+  "object": "chat.completion",
+  "created": 1687865828,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The article presents information and expert opinions about the use of erythropoietin (EPO) and blood doping in sports but does not clearly lean toward a pro or con stance on the issue."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1418,
+    "completion_tokens": 40,
+    "total_tokens": 1458
+  }
+}

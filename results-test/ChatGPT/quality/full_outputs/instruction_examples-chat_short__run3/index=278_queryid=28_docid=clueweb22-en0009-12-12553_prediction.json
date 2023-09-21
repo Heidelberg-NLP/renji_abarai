@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C37cmcPEyoS5ujko7uaeev2lVVNM",
+  "object": "chat.completion",
+  "created": 1683106292,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2579,
+    "completion_tokens": 23,
+    "total_tokens": 2602
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is merely an informative resource on the topic of prostitution and does not contain a clear rhetorical argument to evaluate."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

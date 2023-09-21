@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ3vUT6WMKWEwH9ebqK0IC1oPRq2",
+  "object": "chat.completion",
+  "created": 1682690911,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 40,
+    "total_tokens": 2591
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The article argues against legalizing performance-enhancing drugs (PEDs), presenting several reasons. The article does not push for PEDs legalization, thus the argument quality of the text can be considered high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

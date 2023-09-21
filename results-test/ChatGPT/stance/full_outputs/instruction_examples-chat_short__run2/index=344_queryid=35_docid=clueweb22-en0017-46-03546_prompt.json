@@ -1,0 +1,103 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: violent video game contribute youth violence
+Text: Do Violent Video Games Cause Youth Violence Media Essay
+
+Disclaimer: This is an example of a student written essay.
+Click here for sample essays written by our professional writers.
+
+Any opinions, findings, conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of UKEssays.com.
+
+Do Violent Video Games Cause Youth Violence Media Essay
+
+Paper Type: Free EssaySubject: Media
+Wordcount: 1177 wordsPublished: 1st Jan 2015
+
+Reference this
+
+During the last years, the popularity of violent video games has increased significantly. Consequently, parents and teachers have become worried that these violent videogames may contribute or cause youth violence. These games have been blamed for school shootings, juvenile crime and sexist violence. In addition, the criticism towards violent video games from the media, and the parental community are so continuous, the causal connection between the videogames and violence has been accepted as an absolute reality. But the truth is another.
+
+Get Help With Your Essay
+
+If you need assistance with writing your essay, our professional essay writing service is here to help!
+
+Essay Writing Service
+
+Patrick Kierkegaard, a PhD student at Nottingham University, revised the researches and investigations on this matter, and published his conclusions in the magazine International Journal of Liability and Scientific Enquiry. In his work, he questions if there is scientific evidence that states that violent videogames contribute to violence or aggressive behavior, and the truth of the matter is: there is none. He also notes that if a connection between playing violent videogames and the activation of the regions of the brain associated with violence is produced, is not grounds for establishing a strong, proven and evident bond between the player’s attitude while playing the game and his behavior in real life. Furthermore, he states that there is no relationship between juvenile violence and the increasing sales of violent video games. In fact the effect seems to be the opposite, it looks like violent video games have decreased violence, but this theory hasn’t been proven either.
+
+Moreover, Kierkegaard shows concrete data and statistics, such as, the reduction of violent crime in the United States, since the 90´s, particularly among the youth, while video games have gained a lot of popularity and use, and he adds “with millions of violent video games sold, the world should be experiencing a breakout of violence, instead, violence has decreased” (Kierkegaard). And then there is this: “In 2005, the US had 2,279 murders committed by teenagers compared to 73 in Japan. Per capita, video game sales were $5.20 in the US compared to $47 in Japan. This example illustrates that there is no correlation between violent behavior and playing video games.”
+
+Duke Ferris published an article in Game Revolution titled “The Truth About Violent Youth and Video Games”. The author, a video game programmer doesn’t take an academic approach to this issue, but uses official sources to support his point. In his article he says that over 300 studies have been conducted to see the effects of violent media, 30 of them studied video games. The majority did not find anything, but some found a correlation between violence and violent media. Now, even if this was true, correlation is not the same as causation. The reason for these results, according to the author, is that violent people are attracted to violent media. “Blaming violent media would be like going to the opera, noticing that most people there are rich, and concluding that opera makes people rich” (Ferris).
+
+Another point that Ferris presents, is an analysis of the risk factors of youth violence by the Surgeon General of the United States of America. In this analysis violent media was classified as small effect size, and other factors such as, socioeconomic status, academic failure, poor parent-child relations, weak social ties, and just being male were rated as higher risk factors than violent media exposure. Additionally correlation between violent video games and youth violence was proven to be ineffective by judge Consuelo Callahan, in Video Software Dealers Association v. Schwarzenegger. In this trial, Schwarzenegger claimed that violent video games cause neurological and psychological harm, but the evidence presented was a study that showed just a correlation to which Callahan responded, “In sum, the evidence presented by the State does not support the Legislature’s purported interest. Nearly all of the research is based on correlation, not evidence of causation.” (Callahan). Callahan also wrote that the research presented, did not show any link regarding causation of neurological or psychological harm by violent video games. The ruling favored the video software association.
+
+Steven Johnson wrote an article for Los Angeles times. In this article, he talks about Hillary Clinton vs. the Xbox: Game Over. In his article he commends Senator Clinton for proposing a $90 million study on the effects of violent video games on children, and for her courageous stand against Grand Theft Auto videogames, this obviously is sarcasm because then he says he would like Clinton to put her attention in another game whose nonstop violence has caught the attention of millions of children, this game, he writes, plants violent thought on its players and some of these players have gone to the real world and committed acts of violence and sexual assault (Johnson). He was talking about football.
+
+Find Out How UKEssays.com Can Help You!
+
+Our academic experts are ready and waiting to assist with any writing project you may have. From simple essay plans, through to full dissertations, you can guarantee we have a service perfectly matched to your needs.
+
+View our services
+
+In addition he suggests that congress should focus in these facts: “The last 10 years have seen the release of many popular violent games, including “Quake” and “Grand Theft Auto””, at this same time violent crime has decreased. “According to Duke University’s Child Well-Being Index, today’s kids are less violent than kids have been at any time since the study began in 1975.” (Johnson). In addition, Johnson believes that violent video games are actually good for people’s brain. For example he says that playing video games provides the player a cognitive training to the mind, and it develops mental skills as important as skills developed while reading books. The exercises that the internet, video games, and even movies offer, explain the increase in the intellectual coefficients of North Americans. Games and movies played and watched today would have been considered much complicated for the audience of thirty years ago, but now they capture the attention of millions of people. Finally, he suggests that violent videogames have been demonized by people who tend to generalize everything, just like the same thing when cars or rock and roll music first appeared.
+
+To conclude, the majority of violent video games players are old enough to understand the difference between the game and real life; therefore, they will not emulate the actions that the characters in their games do, nor will they rob banks, kill, or go to war. It’s clear that violent video games do not cause violence. The real causes of violence are: depression, family problems, and just aggressive traits. The evidence that shows a correlation between games and violent video games are not effective to prove such games are harmful to children or cause violence. Parents and individuals who protest against these type of entertainment, should focus on the real causes of youth violence and not point fingers without informing themselves properly
+
+ 
+
+Cite This Work
+
+To export a reference to this article please select a referencing stye below:
+
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+Reference Copied to Clipboard.
+
+Related Services
+
+View all
+
+DMCA / Removal Request
+
+If you are the original writer of this essay and no longer wish to have your work published on UKEssays.com then please:
+<USER>

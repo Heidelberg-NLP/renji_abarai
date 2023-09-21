@@ -1,0 +1,103 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should adults have the right to carry a concealed handgun?
+Text: New Jersey Handgun Carry Permit Attorneys
+
+Assisting Clients in Middlesex County and across New Jersey
+
+Handgun Carry Permits NJ Help Best Lawyers
+Handgun Carry Permits in NJ
+
+In New Jersey, it is illegal to possess a handgun outside of your home or personal property without a state-issued handgun carry permit. Note, that you may obtain a New Jersey Permit to Purchase a Handgun or New Jersey Firearms Purchaser Identification Card to purchase a firearm, but neither of these will allow you to carry your firearm under the law. New Jersey law requires those seeking gun carry permits to complete an extensive application process, to which they must submit every two years in order to renew carry permits. In addition, New Jersey does not acknowledge out-of-state gun permits, meaning that travelers who legally obtain carry permits in other states may be arrested in New Jersey if they travel through the state with their firearm and have not obtained a New Jersey carry permit.
+
+If you for some reason step outside the lines of New Jersey’s strict policy regarding carrying firearms, you may be subject to criminal charges for unlawful possession of weapon, which can result in a significant term of incarceration among other life-altering consequences. At the Tormey Law Firm, our attorneys have specialized knowledge in the realm of New Jersey gun law and we regularly assist clients with the firearms permit process, appeals of gun permit denials, return of weapons hearings related to domestic violence, expungements to obtain gun permits, and criminal defense for those facing criminal weapons charges. Our talented New Jersey gun lawyers have experience as former prosecutors, members of the U.S. Attorney’s Office, criminal judicial clerks, and members of the Prosecutor’s Weapons Forfeiture Unit. We leverage our deep knowledge and resources to assist clients across New Jersey, including in Middlesex, Bergen, Hudson, Essex, Morris, and Monmouth counties. Contact us today at (201)-614-2474 for additional information and a cost-free consultation.
+
+Handgun Carry Permits in New Jersey
+
+New Jersey law addresses permits to carry handguns in N.J.A.C. 13:54-2.2 and 2.3, stating first and foremost that “No person, except as provided in N.J.S.A. 2C:39-6, shall carry, hold or possess a handgun without first having obtained a permit to carry the same in accordance with the provisions of this chapter.” This exposes anyone who carries a handgun without a legal permit issued in New Jersey to serious criminal charges.
+
+N.J.A.C. 13:54-2.3 delineates the criteria that an applicant must fulfill in order to be issued a carry permit. The three primary requirements that an applicant must satisfy are as follows:
+
+  1. The person must be of good character and not subject to any of the disabilities which would prevent him or her from obtaining a permit to purchase a handgun or a firearms purchaser identification card;
+  2. The person must demonstrate at the time of the application for the permit that he or she is thoroughly familiar with the safe handling and use of handguns; and
+  3. The person must demonstrate a justifiable need to carry a handgun.
+
+In order to understand the aforementioned criteria, we must first examine what each requirement means.
+
+In January 2020, the New Jersey Supreme Court decided a case which determined if a hearing should be conducted by New Jersey Superior Courts when a carry permit is denied.
+
+What Constitutes “Good Character” Under New Jersey Law?
+
+There are two assessments used to determine good character: personal references, and the disabilities included in  N.J.S.A. 2C:58-3c, which governs the purchase of firearms. A gun permit applicant must submit three endorsements from reputable persons who have known the applicant for at least three years and can testify to his or her good character. Also, the applicant cannot qualify for any of the disabilities that would prevent him or her from purchasing a firearm. These include:
+
+  • Any person who has been convicted of any crime, or a disorderly persons offense involving an act of domestic violence, whether or not armed with or possessing a weapon at the time of such offense;
+  • Any drug dependent person as defined in section 2 of P.L.1970, c.226 (C.24:21-2), to any person who is confined for a mental disorder to a hospital, mental institution or sanitarium, or to any person who is presently an habitual drunkard;
+  • Any person who suffers from a physical defect or disease which would make it unsafe for him to handle firearms, to any person who has ever been confined for a mental disorder, or to any alcoholic unless any of the foregoing persons produces a certificate of a medical doctor or psychiatrist licensed in New Jersey, or other satisfactory proof, that he is no longer suffering from that particular disability in such a manner that would interfere with or handicap him in the handling of firearms; to any person who knowingly falsifies any information on the application form for a handgun purchase permit or firearms purchaser identification card;
+  • Any person under the age of 18 years for a firearms purchaser identification card and to any person under the age of 21 years for a permit to purchase a handgun;
+  • Any person where the issuance would not be in the interest of the public health, safety or welfare;
+  • Any person who is subject to a restraining order issued pursuant to the “Prevention of Domestic Violence Act of 1991,” prohibiting the person from possessing any firearm;
+  • Any person who as a juvenile was adjudicated delinquent for an offense which, if committed by an adult, would constitute a crime and the offense involved the unlawful use or possession of a weapon, explosive or destructive device or is enumerated in subsection d. of section 2 of P.L.1997, c.117 (C.2C:43-7.2); or
+  • Any person whose firearm is seized pursuant to the “Prevention of Domestic Violence Act of 1991,” P.L.1991, c.261 (C.2C:25-17 et seq.) and whose firearm has not been returned.
+
+How Can You Demonstrate Familiarity with “Safe Handling?”
+
+In order to demonstrate your thorough familiarity with safe handling and use of firearms, you may provide proof in the form of:
+
+  • Completion of a firearms training course substantially equivalent to the firearms training approved by the Police Training Commission as described by N.J.S.A. 2C:39-6j;
+  • Submission of your most recent handgun qualification scores utilizing the handgun(s) you intend to carry as evidenced by test firings administered by a certified firearms instructor of a police academy, a certified firearms instructor of the National Rifle Association, or any other recognized certified firearms instructor;
+  • Completion of a course or test in the safe handling of a handgun administered by a certified firearms instructor of a police academy, a certified firearms instructor of the National Rifle Association, or any other recognized certified firearms instructor; or
+  • Passage of any test in this State’s laws governing the use of force administered by a certified instructor of a police academy, a certified instructor of the National Rifle Association, or any other recognized certified instructor.
+
+What Constitutes “Justifiable Need” Under New Jersey Law?
+
+There are two separate standards for “justifiable need” as defined under N.J.A.C. 13:54-2.4, one of which applies to private citizens, while the other applies to employees of private detective agencies, armored car companies, and private security companies. The law with regard to justifiable need is explained as follows:
+
+  • A private citizen must show justifiable need by specifying in detail the urgent necessity for self-protection, as evidenced by specific threats or previous attacks which demonstrate a special danger to the applicant’s life that cannot be avoided by means other than by issuance of a permit to carry a handgun. Where possible the applicant shall corroborate the existence of any specific threats or previous attacks by reference to reports of such incidents to the appropriate law enforcement agencies;
+  • In the case of employees of private detective agencies, armored car companies and private security companies, these applicants must show that:
+    • In the course of performing statutorily authorized duties, they are subject to a substantial threat of serious bodily harm; and
+    • That carrying a handgun is necessary to reduce the threat of unjustifiable serious bodily harm to any person.
+
+Expiration of Carry Permits and Permit Renewal in New Jersey
+
+If you obtain a permit to carry a handgun in New Jersey, it will expire two years from the date of issuance. You may apply to renew your carry permit after the two-year period and will be subject to the same application process. If your carry permit expires and you fail to renew it, you may be charged criminally for possessing a weapon without a lawful permit.
+
+Contact our Local Middlesex County Gun Carry Permit Lawyers for Assistance
+
+If you are considering applying for a handgun carry permit, have begun the application process, are seeking an appeal after a carry permit denial, or must renew your carry permit in New Jersey, our NJ gun lawyers can help. Contact us today at (201)-614-2474 for a free consultation.
+<USER>

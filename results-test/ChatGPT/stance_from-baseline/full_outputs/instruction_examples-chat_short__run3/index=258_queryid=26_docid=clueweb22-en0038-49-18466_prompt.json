@@ -1,0 +1,73 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do standardized tests improve education?
+Text: Standardized Test
+
+LAST UPDATED:
+
+A standardized test is any form of test that (1) requires all test takers to answer the same questions, or a selection of questions from common bank of questions, in the same way, and that (2) is scored in a “standard” or consistent manner, which makes it possible to compare the relative performance of individual students or groups of students. While different types of tests and assessments may be “standardized” in this way, the term is primarily associated with large-scale tests administered to large populations of students, such as a multiple-choice test given to all the eighth-grade public-school students in a particular state, for example.
+
+In addition to the familiar multiple-choice format, standardized tests can include true-false questions, short-answer questions, essay questions, or a mix of question types. While standardized tests were traditionally presented on paper and completed using pencils, and many still are, they are increasingly being administered on computers connected to online programs (for a related discussion, see computer-adaptive test). While standardized tests may come in a variety of forms, multiple-choice and true-false formats are widely used for large-scale testing situations because computers can score them quickly, consistently, and inexpensively. In contrast, open-ended essay questions need to be scored by humans using a common set of guidelines or rubrics to promote consistent evaluations from essay to essay—a less efficient and more time-intensive and costly option that is also considered to be more subjective. (Computerized systems designed to replace human scoring are currently being developed by a variety of companies; while these systems are still in their infancy, they are nevertheless becoming the object of growing national debate.)
+
+While standardized tests are a major source of debate in the United States, many test experts and educators consider them to be a fair and objective method of assessing the academic achievement of students, mainly because the standardized format, coupled with computerized scoring, reduces the potential for favoritism, bias, or subjective evaluations. On the other hand, subjective human judgment enters into the testing process at various stages—e.g., in the selection and presentation of questions, or in the subject matter and phrasing of both questions and answers. Subjectivity also enters into the process when test developers set passing scores—a decision that can affect how many students pass or fail, or how many achieve a level of performance considered to be “proficient.” For more detailed discussions of these issue, see measurement error, test accommodationstest bias and score inflation.
+
+Standardized tests may be used for a wide variety of educational purposes. For example, they may be used to determine a young child’s readiness for kindergarten, identify students who need special-education services or specialized academic support, place students in different academic programs or course levels, or award diplomas and other educational certificates. The following are a few representative examples of the most common forms of standardized test:
+
+  • Achievement tests are designed to measure the knowledge and skills students learned in school or to determine the academic progress they have made over a period of time. The tests may also be used to evaluate the effectiveness of a schools and teachers, or identify the appropriate academic placement for a student—i.e., what courses or programs may be deemed most suitable, or what forms of academic support they may need. Achievement tests are “backward-looking” in that they measure how well students have learned what they were expected to learn.
+  • Aptitude tests attempt to predict a student’s ability to succeed in an intellectual or physical endeavor by, for example, evaluating mathematical ability, language proficiency, abstract reasoning, motor coordination, or musical talent. Aptitude tests are “forward-looking” in that they typically attempt to forecast or predict how well students will do in a future educational or career setting. Aptitude tests are often a source of debate, since many question their predictive accuracy and value.
+  • College-admissions tests are used in the process of deciding which students will be admitted to a collegiate program. While there is a great deal of debate about the accuracy and utility of college-admissions tests, and many institutions of higher education no longer require applicants to take them, the tests are used as indicators of intellectual and academic potential, and some may consider them predictive of how well an applicant will do in postsecondary program.
+  • International-comparison tests are administered periodically to representative samples of students in a number of countries, including the United States, for the purposes of monitoring achievement trends in individual countries and comparing educational performance across countries. A few widely used examples of international-comparison tests include the Programme for International Student Assessment (PISA), the Progress in International Reading Literacy Study (PIRLS), and the Trends in International Mathematics and Science Study (TIMSS).
+  • Psychological tests, including IQ tests, are used to measure a person’s cognitive abilities and mental, emotional, developmental, and social characteristics. Trained professionals, such as school psychologists, typically administer the tests, which may require students to perform a series of tasks or solve a set of problems. Psychological tests are often used to identify students with learning disabilities or other special needs that would qualify them for specialized services.
+
+Reform
+
+Following a wide variety of state and federal laws, policies, and regulations aimed at improving school and teacher performance, standardized achievement tests have become an increasingly prominent part of public schooling in the United States. When focused on reforming schools and improving student achievement, standardized tests are used in a few primary ways:
+
+  • To hold schools and educators accountable for educational results and student performance. In this case, test scores are used as a measure of effectiveness, and low scores may trigger a variety of consequences for schools and teachers. For a more detailed discussion see high-stakes test.
+  • To evaluate whether students have learned what they are expected to learn, such as whether they have met state learning standards. In this case, test scores are seen as a representative indicator of student achievement.
+  • To identify gaps in student learning and academic progress. In this case, test scores may be used, along with other information about students, to diagnose learning needs so that educators can provide appropriate services, instruction, or academic support.
+  • To identify achievement gaps among different student groups, including students of color, students who are not proficient in English, students from low-income households, and students with physical or learning disabilities. In this case, exposing and highlighting achievement gaps may be seen as an essential first step in the effort to educate all students well, which can lead to greater public awareness and changes in educational policies and programs.
+  • To determine whether educational policies are working as intended. In this case, elected officials and education policy makers may rely on standardized-test results to determine whether their laws and policies are working or not, or to compare educational performance from school to school or state to state. They may also use the results to persuade the public and other elected officials that their policies are in the best interest of children and society.
+
+Debate
+
+While debates about standardized testing are wide-ranging, nuanced, and sometimes emotionally charged, many debates tend to be focused on the ways in which the tests are used, and whether they present reliable or unreliable evaluations of student learning, rather than on whether standardized testing is inherently good or bad (although there is certainly debate on this topic as well). Most test developers and testing experts, for example, caution against using standardized-test scores as an exclusive measure of educational performance, although many would also contend that test scores can be a valuable indicator of performance if used appropriately and judiciously. Generally speaking, standardized testing is more likely to become an object of debate and controversy when test scores are used to make consequential decisions about educational policies, schools, teachers, and students. The tests are less likely to be contentious when they are used to diagnose learning needs and provide students with better services—although the line separating these two purposes is notoriously fuzzy in practice (thus, the ongoing debates).
+
+While an exhaustive discussion of standardized-testing debates is beyond the scope of this resource, the following questions will illustrate a few of the major issues commonly discussed and debated in the United States:
+<USER>

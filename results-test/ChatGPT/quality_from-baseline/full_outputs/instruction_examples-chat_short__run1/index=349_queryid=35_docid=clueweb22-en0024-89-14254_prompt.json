@@ -1,0 +1,130 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Youth Violence and Video Games: A Data Analysis - Psychology and Video Games
+Youth violence header
+Gaming,  Gaming Research,  Violence
+
+Youth Violence and Video Games: A Data Analysis
+
+The debate on whether video games influence violent behaviour has persisted for several decades. Critics such as Jack Thompson argue that violent video games encourage young people to enjoy the act of killing (Benedetti, 2007). It is argued that violent characters portrayed through video games encourage young people to become more aggressive and emulate violent acts:
+
+Young children possess an instinctive desire to imitate actions they observe…there is deep concern that playing violent video games…will cause children to become more aggressive toward other children and become more tolerant of, and more likely to engage in, real-life violence.
+
+ 
+
+– McAfee (1994)
+
+To aid our understanding of how video games can influence violence, academics have conducted their own research into gaming and violent behaviour. However, this research has been subject to its own debate primarily for two reasons.
+
+The first reason involves the participants used in these studies. It is common for studies into video games and violence to be conducted with around 30-150 university students (Hollingdale & Greitemeyer, 2014; Hasan et al., 2013). It is argued that this specific population does not allow us to apply these findings to other populations (e.g. teenagers). Using small samples in research also increases the chance of producing false-positive results and overestimating the strength of a finding (Hackshaw, 2008).
+
+The second reason regards the methods used to conduct video game research. It is unethical to encourage people to hurt one another in the name of research. This means that ‘violence’ and ‘aggression’ have been measured using methods such as playing a loud noise to a computer and measuring a portion of hot sauce for someone who does not like spice (Hasan et al., Hollingdale et al.). These methods are low in what is known as ecological validity – they do not represent violence in everyday life.
+
+To combat this lack of ecological validity, researchers have explored violence that has already occurred and how it relates to gaming. In research conducted by DeCamp and Ferguson (2017), young people were asked if they hit others with the intention of hurting them or if they participated in group fights. The study found that there were much larger predictors of youth violence than playing video games. The researchers concluded that family and social factors need to be addressed when reducing youth violence rather than addressing video game use.
+
+In this article, I will conduct my own video game research that is high in ecological validity and sample size. This study will use methodology similar to DeCamp and Ferguson’s by exploring youth violence through fighting. The study will be conducted with a dataset of 214,080 participants, making this, to my knowledge, the world’s largest data analysis into violence and video games.
+
+The research question being addressed in this study is once again drawn from DeCamp and Ferguson’s research: Do other social and environmental factors predict violent behaviour more than video games?
+
+As usual, there will be a summary at the bottom if you do not wish to read everything. Thank you and I hope you enjoy.
+
+Contents
+
+The Data
+
+This analysis will be conducted using the 2014 wave of the Health Behaviour in School-Aged Children (HBSC) study. The HBSC is a large-scale endeavour to improve young peoples’ wellbeing by researching their health behaviours and social context. Data is gathered for this study via an anonymous questionnaire. The 2014 wave of the study includes a total of 214,080 11-, 13- and 15-year old participants from 41 countries.
+
+This dataset is open-access and is open for all researchers to analyse, providing that they abide by the License Agreement. In accordance with the License Agreement, I must copy and paste the acknowledgement text below. Feel free to move on to the next section.
+
+HBSC is an international study carried out in collaboration with WHO/EURO. The International Coordinator of the 2013/14 survey was Prof. Candace Currie and the Data Bank Manager was Prof. Oddrun Samdal. The 2013/14 survey was conducted by Principal Investigator Candace Currie in 41 countries. For details, see http://www.hbsc.org.
+
+Data Analysis Strategy and Checking
+
+The data in the current study will be analysed similarly to DeCamp and Ferguson’s research, using what is known as a regression analysis.
+
+Simply put, regression analyses are used to explain why something happens (known as ‘variance explained’). For example, when trying to explain number of ice creams sold on a day, significant predictors may include variables such as temperature, time of year etc.
+
+As regression analyses produce a lot of statistics, I have decided to report on the variance explained by the model and β values, t values and significance values for each significantly contributing variable. While β values can be thought of as how much the variable contributes to explaining a behaviour, t values demonstrate the strength of the relationship.
+
+Using HBSC data grants us rich data into social, contextual and wellbeing factors for young people. To help readers understand the variables that have been entered into the regression analysis, I have grouped variables together into easy-to-understand categories.
+
+The dependent variable (what we’re looking to explain) is how often a participant has been involved in a physical fight in the past 12 months; answers range from ‘none’ to ‘four or more’. The categories that will be used to explore why young people get into fights include:
+
+Individual factors: This category includes the age and gender of the participant.
+
+Free time: This category involves how young people choose to spend their free time. Variables include: hours spent watching TV (weekdays and weekend), hours spent using a computer (weekdays and weekend), hours spent playing video games (weekdays and weekend), number of hours of exercise per week, and number of times spent hanging out with friends after school.
+
+Risk factors: The HBSC study identifies the following variables as risk factors for young people: smoking, drinking, getting drunk, cannabis use and underage sex. All variables apart from underage sex looked at how often these behaviours occurred in the 30 days prior to the study. For underage sex, young people were simply asked to report ‘Yes’ or ‘No’.
+
+Bullying: As bullying may involve physical violence, both being bullied and being a bully in the two months prior to the study were included in the analysis.
+
+Home life: As home life variables were significant predictors of youth violence in DeCamp and Ferguson’s study, all variables regarding home and family life from the HBSC were included in the analysis. These variables include: presence of mother in the home, presence of father in the home, ease of communication with parents, how helpful young people view their family to be, how supportive they view them to be, and how helpful their family is in making life decisions.
+
+Social life: As friendship circles can be an influential factor in bullying and violence (O’Connell et al., 1999; Pepler et al., 2010), all friendship variables from the HBSC were included in the analysis. These include: how helpful their friends are, how dependable they are, whether the young person can rely on their friends, how much joy they share with their friends, and whether they can talk to their friends about problems.
+
+Health: As mental and physical health problems can be an influential factor in youth violence (Resnick et al., 2004; Patel et al., 2007), all mental and physical health variables from the HBSC were included in the analysis. These include: general self-reported health, how often the young person feels low, how often they have temper issues, how often they feel nervous and their general life satisfaction.
+
+School life: As academic performance and school problems are linked with school violence (Resnick et al.), all school life variables from the HBSC were included in the analysis. These include: whether the young person likes school, what their academic performance is like, whether students like to be together, whether students are helpful, whether students accept the young person, and whether the young person feels pressured by school.
+
+Socioeconomic status (SES): As SES was a significant contributor to youth violence in DeCamp and Ferguson’s research, several SES variables were included in the analysis. These variables include: number of cars in the household, how often the family go on holiday together, number of computers, whether the young person has their own bedroom, and whether they consider their family to be wealthy.
+
+Before conducting the regression analysis, I wanted to ensure that the regression results would be accurate by checking a number of data assumptions. Please feel free to ignore anything written in red, this is all statistical talk.
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2barQ0G3L1vHZsWCJqJa1jg3dgd",
+  "object": "chat.completion",
+  "created": 1683104306,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 60,
+    "total_tokens": 2611
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This passage presents arguments in favor and against the legalization of performance-enhancing drugs. Therefore, it has qualities of a well-written text, including presenting clear arguments and analysis. Additionally, it is easy to follow and does not include any errors or profanity. Thus, it can be considered high quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

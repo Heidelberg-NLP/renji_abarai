@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2eQXj3jySssWKkln5bHBWNgPHjZ",
+  "object": "chat.completion",
+  "created": 1683104482,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2735,
+    "completion_tokens": 54,
+    "total_tokens": 2789
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text presents a neutral viewpoint, discussing the history and current state of the debate on euthanasia, as well as various legal and ethical aspects. The arguments presented are well-structured and easy to follow. Therefore, the rhetorical argument quality of this text is high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

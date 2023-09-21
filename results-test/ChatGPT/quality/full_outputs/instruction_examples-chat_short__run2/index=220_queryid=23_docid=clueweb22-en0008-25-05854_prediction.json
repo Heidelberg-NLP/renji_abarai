@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2eC9XDaEG3dtR3gbajGIpo1cSxo",
+  "object": "chat.completion",
+  "created": 1683104468,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2820,
+    "completion_tokens": 49,
+    "total_tokens": 2869
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text does not contain a clear argument for or against the legality of euthanasia or physician-assisted suicide. It only offers various definitions of both terms from different sources. Therefore, it is difficult to assign a specific rhetorical argument quality label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

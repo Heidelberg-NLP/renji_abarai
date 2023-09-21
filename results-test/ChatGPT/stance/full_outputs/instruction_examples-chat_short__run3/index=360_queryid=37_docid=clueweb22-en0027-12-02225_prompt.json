@@ -1,0 +1,127 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: cell phone radiation safe
+Text: Last updated on: 11/9/2018 | Author: ProCon.org
+
+Pro & Con Quotes: Is Cell Phone Radiation Safe?
+
+General Reference (not clearly pro or con)
+
+Cancer.gov, in a May 14, 2021 FAQ, “Cell Phones and Cancer Risk,” available at cancer.gov, stated:
+
+“There are two main reasons why people are concerned that cell (or mobile) phones might have the potential to cause certain types of cancer or other health problems: Cell phones emit radiation (in the form of radiofrequency radiation, or radio waves), and cell phone use is widespread. Even a small increase in cancer risk from cell phones would be of concern given how many people use them. Brain and central nervous system cancers have been of particular concern because hand-held phones are used close to the head. Many different kinds of studies have been carried out to try to investigate whether cell phone use is dangerous to human health…
+
+Cell phones emit radiation in the radiofrequency region of the electromagnetic spectrum. Second-, third-, and fourth-generation cell phones (2G, 3G, 4G) emit radiofrequency in the frequency range of 0.7–2.7 GHz. Fifth-generation (5G) cell phones are anticipated to use the frequency spectrum up to 80 GHz.
+
+These frequencies all fall in the nonionizing range of the spectrum, which is low frequency and low energy. The energy is too low to damage DNA. By contrast, ionizing radiation, which includes x-rays, radon, and cosmic rays, is high frequency and high energy. Energy from ionizing radiation can damage DNA. DNA damage can cause changes to genes that may increase the risk of cancer…
+
+The human body does absorb energy from devices that emit radiofrequency radiation. The only consistently recognized biological effect of radiofrequency radiation absorption in humans that the general public might encounter is heating to the area of the body where a cell phone is held (e.g., the ear and head). However, that heating is not sufficient to measurably increase body temperature. There are no other clearly established dangerous health effects on the human body from radiofrequency radiation.”
+
+May 14, 2021
+
+The American Cancer Society, in a June 1, 2020 article, “Cellular (Cell) Phones,” available at cancer.org, stated:
+
+“Fifth generation (5G) cellular networks are now being rolled out in many parts of the United States and in other countries. 5G networks are capable of transmitting much larger amounts of data over shorter periods of time than previous generations (4G, 3G, etc.).
+
+5G networks (and the phones that use them) operate on some higher frequency (higher energy) RF wavelengths than older generation networks (although newer phones can typically still use the older networks as well). But the newer 5G signals still use RF waves, so they are still forms of non-ionizing radiation, which is not thought to have the ability to directly damage DNA.
+
+The studies that have been done so far to look at possible links between cell phone use and cancer have focused on older generation (mainly 2G and 3G) signals. At this time, there has been very little research showing that the RF waves used in 5G networks are any more (or less) of a concern than the other RF wavelengths used in cellular communication.”
+
+June 1, 2020
+
+PRO (yes)
+
+Pro 1
+
+The Food and Drug Administration (FDA) in a Feb 10, 2020 article, “Do Cell Phones Pose a Health Hazard?,” available at fda.gov, stated:
+
+“The FDA’s physicians, scientists, and engineers regularly analyze scientific studies and publications for evidence of health effects of exposure to radio frequency energy from cell phones. The weight of nearly 30 years of scientific evidence has not linked exposure to radio frequency energy from use of cell phones to health problems, such as cancer…
+
+The FDA also monitors and analyzes public health data on cancer rates in the U.S. population. The data clearly demonstrate no widespread rise in brain and other nervous system cancers in the last 30 years despite the enormous increase in cell phone use during this period. In fact, the rate of brain and other nervous system cancers diagnosed in United States has decreased for the last 15 years or so.”
+
+Feb 10, 2020 - US Food and Drug Administration (FDA)
+
+Pro 2
+
+Jeffrey Shuren, MD, JD, Director of the FDA’s Center for Devices and Radiological Health, in a Feb. 2, 2018 press release, “Statement From Jeffrey Shuren, M.D., J.D., Director of the FDA’s Center for Devices and Radiological Health on the Recent National Toxicology Program Draft Report on Radiofrequency Energy Exposure,” available at fda.gov, stated:
+
+“I want to underscore that based on our ongoing evaluation of this issue and taking into account all available scientific evidence we have received, we have not found sufficient evidence that there are adverse health effects in humans caused by exposures at or under the current radiofrequency energy exposure limits. Even with frequent daily use by the vast majority of adults, we have not seen an increase in events like brain tumors. Based on this current information, we believe the current safety limits for cell phones are acceptable for protecting the public health.”
+
+Feb. 2, 2018
+
+Pro 3
+
+Larry Junck, MD, Professor of Neurology at the University of Michigan Medical School, stated the following in his May 22, 2016 article “Should Cellphones Have Warning Labels?,” available at wsj.com:
+
+“Consider that brain tumors have not increased in incidence in correlation with cellphone use. If cellphones were an important cause of brain tumors, we would have seen an increase perhaps starting in the 1990s, when cellphones came into widespread use, or starting several years later, if it took several years of cellphone use to cause a brain tumor. While the number of people diagnosed with brain tumors has risen, the increase has been mainly among the elderly, who use cellphones less than others. The increase started before the 1990s, and the numbers have leveled off. The increase is believed to be largely due to our improved detection of brain tumors using CT scans and MRI.
+
+Also, there is no known scientific mechanism by which mobile phones might cause brain tumors. For carcinogenic chemicals and other environmental causes of cancer, we can generally show that these cause mutations in DNA or changes in other molecules, sufficient to explain the resulting cancers. However, radiofrequency emissions such as those emitted by cellphones generally pass through tissues without causing these effects.
+
+Numerous epidemiologic studies considered together do not conclusively show an increase in risk of brain tumors associated with cellphone use.”
+
+May 22, 2016 - Larry Junck, MD
+
+Pro 4
+
+The Federal Communications Commission (FCC) stated the following in its “FAQS-Wireless Phones,” available at fcc.gov (accessed Sep. 17, 2013):
+
+“All wireless phones sold in the United States meet government requirements that limit their RF energy to safe levels…
+
+There is no scientific evidence that proves that wireless phone usage can lead to cancer or a variety of other problems, including headaches, dizziness or memory loss. However, organizations in the United States and overseas are sponsoring research and investigating claims of possible health effects related to the use of wireless telephones. The Federal government is monitoring the results of this ongoing research, and the FDA is participating in an industry-funded research project to further investigate possible biological effects.”
+
+Sep. 17, 2013 - Federal Communications Commission (FCC)
+
+Pro 5
+
+The US Food and Drug Administration (FDA) stated the following on its webpage “Health Issues: Do Cell Phones Pose a Health Hazard,” available at fda.gov (accessed Sep. 19, 2013):
+
+“Many people are concerned that cell phone radiation will cause cancer or other serious health hazards. The weight of scientific evidence has not linked cell phones with any health problems.
+
+Cell phones emit low levels of radiofrequency energy (RF). Over the past 15 years, scientists have conducted hundreds of studies looking at the biological effects of the radiofrequency energy emitted by cell phones. While some researchers have reported biological changes associated with RF energy, these studies have failed to be replicated. The majority of studies published have failed to show an association between exposure to radiofrequency from a cell phone and health problems.
+
+The low levels of RF cell phones emit while in use are in the microwave frequency range. They also emit RF at substantially reduced time intervals when in the stand-by mode. Whereas high levels of RF can produce health effects (by heating tissue), exposure to low level RF that does not produce heating effects causes no known adverse health effects.”
+
+Sep. 19, 2013 - US Food and Drug Administration (FDA)
+
+CON (no)
+
+Con 1
+
+Anthony B. Miller, MD, faculty member at the Dalla Lana School of Public Health, at the University of Toronto, et al., in an Aug. 13, 2019 study, “Risks to Health and Well-Being from Radio-Frequency Radiation Emitted by Cell Phones and Other Wireless Devices,” available at ncbi.nlm.nih.gov, stated:
+<USER>

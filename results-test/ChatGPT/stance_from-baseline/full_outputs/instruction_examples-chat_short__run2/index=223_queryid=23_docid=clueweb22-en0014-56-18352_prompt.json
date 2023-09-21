@@ -1,0 +1,144 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should euthanasia or physician-assisted suicide be legal?
+Text: Last updated on: 10/5/2007 | Author: ProCon.org
+
+Should Physician-Assisted Suicide Be Legal?
+
+General Reference (not clearly pro or con)
+
+For more information visit Euthanasia ProCon.org that examines the question “Should euthanasia be legal?”.
+
+PRO (yes)
+
+Pro
+
+The American Civil Liberties Union stated in its 1996 amicus brief in Vacco v. Quill, that:
+
+“The right of a competent, terminally ill person to avoid excruciating pain and embrace a timely and dignified death bears the sanction of history and is implicit in the concept of ordered liberty. The exercise of this right is as central to personal autonomy and bodily integrity as rights safeguarded by this Court’s decisions relating to marriage, family relationships, procreation, contraception, child rearing and the refusal or termination of life-saving medical treatment. In particular, this Court’s recent decisions concerning the right to refuse medical treatment and the right to abortion instruct that a mentally competent, terminally ill person has a protected liberty interest in choosing to end intolerable suffering by bringing about his or her own death.
+
+A state’s categorical ban on physician assistance to suicide — as applied to competent, terminally ill patients who wish to avoid unendurable pain and hasten inevitable death — substantially interferes with this protected liberty interest and cannot be sustained.”
+
+1996 - American Civil Liberties Union (ACLU)
+
+Pro
+
+Helene Starks, PhD, Assistant Professor of Medical History and Ethics at the University of Washington, wrote in a Jan. 5, 2007 e-mail to ProCon.org:
+
+“I believe that physician-assisted suicide should be legalized because that allows for more scrutiny and application of the safeguards. The practice is happening regardless of the legal status; keeping it illegal has the potential to cause more harm than good as it restricts access to knowledgeable social services and health care providers who may help patients and families explore other options to achieving a good death, leaving PAS [physician-assisted suicide] as truly an option of last resort.”
+
+Jan. 5, 2007 - Helene Starks, PhD
+
+Pro
+
+Barbara Coombs Lee, JD, President of Compassion & Choices, stated in her Apr. 29, 1996 testimony before the US House Subcommittee on The Constitution Concerning The Legality of Assisted Suicide:
+
+“The problem is that medical science has conquered the gentle and peaceful deaths and left the humiliating and agonizing to run their relentless downhill course. The suffering of these individuals is not trivial and it is not addressed by anything medical science has to offer. Faced with this dilemma, the problem for many is that the law turns loving families into criminals. It separates loved ones at the end, when it is most important to be close. It encourages patients to choose violent and premature deaths while they still have the strength to act. And it forces some to suffer through a slow and agonizing death that contradicts the very meaning and fabric of their lives…
+
+When we know that certain rare and desperate cases call for a compassionate response in the form of assisted death our democratic heritage demands that the law be consistent with that knowledge.”
+
+Apr. 29, 1996 - Barbara Coombs Lee, JD
+
+Pro
+
+Marcia Angell, MD, Senior Lecturer of Social Medicine at Harvard Medical School, wrote the July 11, 2006 article “The Quality of Mercy” in The Willits News, that:
+
+“There is no right way to die, and there should be no schism between advocates for better palliative care and advocates for making it possible to hasten death with a physician’s help. Good palliative care and the right to make this choice are no more mutually exclusive than good cardiologic care and the availability of heart transplantation. To require dying patients to endure unrelievable suffering, regardless of their wishes is callous and unseemly. Death is hard enough without being bullied. Like the relief of pain, this too is a matter of mercy.”
+
+July 11, 2006 - Marcia Angell, MD
+
+Pro
+
+Charles H. Baron, PhD, LLB, Professor of Law at Boston College Law School, stated in “Hastening Death: The Seven Deadly Sins of the Status Quo,” in the 2004 Physician-Assisted Dying: The Case for Palliative Care and Patient Choice:
+
+“Denying physician-assisted suicide as an option to terminally ill patients means enforced suffering for many patients… Whether through common-law development in the courts or by legislative action, it is time to move on to the next stage in making laws that show greater respect for patient autonomy and increased compassion for the plight of the terminally ill.”
+
+2004 - Charles H. Baron, PhD, LLB
+
+CON (no)
+
+Con
+
+The American College of Physicians stated in the 2001 “Position Paper: Physician-Assisted Suicide,” written by Lois Snyder, JD, and Daniel P. Sulmasy, MD, PhD, and published in the Annals of Internal Medicine:
+
+“The American College of Physicians–American Society of Internal Medicine (ACP–ASIM) does not support the legalization of physician-assisted suicide. The routine practice of physician-assisted suicide raises serious ethical and other concerns. Legalization would undermine the patient–physician relationship and the trust necessary to sustain it; alter the medical profession’s role in society; and endanger the value our society places on life, especially on the lives of disabled, incompetent, and vulnerable individuals. The ACP–ASIM remains thoroughly committed to improving care for patients at the end of life.”
+
+2001 - American College of Physicians
+
+Con
+
+The National Council on Disability, wrote in the Mar. 24, 1997 article “Assisted Suicide: A Disability Perspective,” posted on its website:
+
+“Current evidence indicates clearly that the interests of the few people who would benefit from legalizing physician-assisted suicide are heavily outweighed by the probability that any law, procedures, and standards that can be imposed to regulate physician-assisted suicide will be misapplied to unnecessarily end the lives of people with disabilities and entail an intolerable degree of intervention by legal and medical officials in such decisions. On balance, the current illegality of physician-assisted suicide is preferable to the limited benefits to be gained by its legalization. At least until such time as our society provides a comprehensive, fully-funded, and operational system of assistive living services for people with disabilities, this is the only position that the National Council on Disability can, in good conscience, support.”
+
+Mar. 24, 1997 - National Council on Disability (NCD)
+
+Con
+
+Focus on the Family stated in its website article, “FAQs: Why is there such concern about the euthanasia movement?” (accessed June 29, 2007):
+
+“The problem, aside from the moral issue of taking human life, is that euthanasia is inevitably progressive in nature. Once you let that snake out of the basket, it will be impossible to control where it slithers!…
+
+Suppose physician-assisted suicide eventually is legalized for elderly people who are terminally ill. How would it be limited thereafter for those who were neither sick nor severely handicapped? How about an older but healthy man who was simply tired of living? Could we really require a note from his physician in order to permit his suicide?
+
+Then if old but healthy people can choose to die, what about the not-so-old? Could a 50-year-old person take the plunge? If not, why not? How about a 40-year-old woman in menopause or a man in midlife crisis? When you stop to think about it, age has nothing to do with the decision. A 20-year-old depressed but healthy student would be as entitled to ‘death with dignity’ as the terminally ill.
+
+If euthanasia is legal for anyone, it will soon become legal for everyone. Neither age, health factors, nor quality of life could be defended as qualifiers.”
+
+June 29, 2007 - Focus on the Family
+
+Con
+
+Felicia Cohn, PhD, Director of Medical Ethics at the University of California, Irvine, wrote in “Vulnerable People: Practical Rejoinders to Claims in Favor of Assisted Suicide,” in the 2002 The Case Against Assisted Suicide: For the Right to End-of-Life Care:
+
+“Ultimately, arguments for physician-assisted suicide can be effectively countered by data as well as principles. Not only are all extant proposals for legalization unworkable or hazardous to vulnerable persons, but the community would be better off keeping physician-assisted suicide illegal while learning how to provide reliable, good care to all with serious, eventually fatal illnesses.”
+
+2002 - Felicia Cohn, PhD
+
+Con
+
+Nancy Valko, RN, President of Missouri Nurses for Life, wrote in the 2002 article “Sedated to Death? When ‘Comfort Care’ Becomes Dangerous,” in Voices Online Edition:
+
+“The euthanasia movement is nothing if not creative and persistent. Many people now mistakenly believe that tolerating just a little bit of deliberate death – with safeguards, of course – will give them control at the end of their own lives. But as the ‘culture of death’ keeps seducing even well-meaning patients, families and medical professionals into making death decisions based on fear of suffering or diminished quality of life rather than following the traditional principles of not causing or hastening death, ultimately we are all at risk of being ‘compassionately’ rationalized to death.”
+
+2002 - Nancy Valko, RN
+ 
+ 
+conversation-loading
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJTLolqkbH68lw0JCLhwC1xy29Ku",
+  "object": "chat.completion",
+  "created": 1682692487,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3140,
+    "completion_tokens": 40,
+    "total_tokens": 3180
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The provided text contains factual information about the minimum wage, its history, and variations by state, and does not make any rhetorical argument. Thus, it is not applicable to predict the rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0sxC4rU1qPb4Xda2ym6sevAa4JY",
+  "object": "chat.completion",
+  "created": 1687864255,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text does not present a clear rhetorical argument quality for me to provide a label. It seems to be an overview of sources and literature review related to the debate on animal testing for scientific experiments."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1244,
+    "completion_tokens": 39,
+    "total_tokens": 1283
+  }
+}

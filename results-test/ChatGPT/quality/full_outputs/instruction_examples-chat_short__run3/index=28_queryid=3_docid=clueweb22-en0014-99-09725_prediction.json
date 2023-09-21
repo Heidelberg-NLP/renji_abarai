@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2xb3Kwz3hFBgA9cSTztogdGvqSr",
+  "object": "chat.completion",
+  "created": 1683105671,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 40,
+    "total_tokens": 2079
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The opinions presented in the text are mixed between those who argue that insider trading is unethical and those who argue that it is not. Therefore, the argument quality cannot be neatly classified into a single category."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

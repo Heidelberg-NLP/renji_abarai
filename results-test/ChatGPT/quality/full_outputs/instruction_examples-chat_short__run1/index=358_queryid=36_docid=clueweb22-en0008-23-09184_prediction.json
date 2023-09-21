@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJSeOB2aFdf2q9l2IaoCeMjKIDUn",
+  "object": "chat.completion",
+  "created": 1682692444,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1386,
+    "completion_tokens": 56,
+    "total_tokens": 1442
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to be a news article reporting an interview with Holly Sonders explaining her departure from Fox Sports golf broadcasts due to the golf programming not meeting her expectations. The tone of the article is informative and neutral. Therefore, there is no direct rhetorical argument present in the text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

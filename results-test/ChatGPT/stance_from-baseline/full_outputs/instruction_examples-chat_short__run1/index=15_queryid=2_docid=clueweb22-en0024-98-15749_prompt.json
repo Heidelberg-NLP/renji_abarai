@@ -1,0 +1,99 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is vaping with e-cigarettes safe?
+Text: Vaping (using e-cigarettes) - HSE.ie
+Skip to main content
+
+Vaping (using e-cigarettes)
+
+Quit smoking today with our help:
+
+
+Sign up to the Quit plan
+
+Freephone
+
+1800 201 203
+
+Free text
+
+QUIT to 50100
+
+Already have a Quit plan? Sign in
+
+Electronic cigarettes ('e-cigarettes') use batteries to heat up nicotine, water and propylene glycol or glycerine with flavourings. This creates a vapour that lets you inhale nicotine without smoking or using tobacco. This is known as 'vaping'.
+
+An e-cigarette should be authorised by the Health Products and Regulatory Authority (HPRA) if it is marketed or promoted for a medical purpose like stopping smoking.
+
+If the HPRA does not authorise this, the manufacturers, importers and distributors are responsible for the safety and quality of the e-cigarette.
+
+There are no e-cigarettes authorised by the HPRA in Ireland.
+
+Using e-cigarettes to stop smoking
+
+E-cigarettes are still fairly new, so we don't yet know how safe they are or if they help people stop smoking. Because of this, we don't recommend e-cigarettes to help you quit smoking.
+
+We recommend:
+
+  • using stop smoking medicines like nicotine replacement therapy (NRT) and varenicline (also called Champix).
+  • getting support from a stop smoking advisor to help you quit.
+
+Quitting this way is safe and will increase your chances of becoming smoke-free by more than 3 times.
+
+Getting support
+
+If you want to stop smoking, we can help. If you're already using an e-cigarette to help you stop smoking, we can also help.
+
+Sign up to a Quit plan for tailored support to help you stop smoking.
+
+If you're worried about e-cigarettes, contact one of our trained advisors.
+
+page last reviewed: 07/01/2021
+next review due: 07/01/2024
+
+Tweet us
+
+@HSEQuitTeam
+
+Find us on
+
+Facebook
+
+Find support services
+<USER>

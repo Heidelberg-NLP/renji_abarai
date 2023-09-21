@@ -1,0 +1,49 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: Universal Basic Income - 1895 Words | Bartleby
+preview
+
+Universal Basic Income
+
+Better Essays
+Citizen’s dividends, unconditional monthly grants, or free money to everyone. This is what a universal basic income (UBI) has been called in other names. The notion of a universal basic income has been literally everywhere for a very long period, at least since the aftermath of the world war I. A UBI is an income given without any strings attached to every adult and child (or in some version, only citizens) to provide at least an adequate level of resources. A basic income guarantees each citizen an income sufficient to meet his or her basic needs. The money would be given even regardless of whether the recipients are in the jobs or not. Strikingly for UBI, it is not mean-testing benefits, meaning that no family stuck in poverty traps…show more content…
+The current system of welfare gives benefits to some people but not to others. That means we spend a lot of resources inquiring through the details of people’s private lives to see if they really qualify or not. The difficulty of this patchwork is overwhelming to individuals experiencing it directly. Monitoring people, Coordinating hundreds of arbitrary and ever-changing rules, ensuring people are destitute first before qualifying for welfare or social housing increases unnecessary complexity to government (Perieira, 2015). And that also means that there’s a big incentive for special interest groups to gain the system to their own advantage, or even to oppress or disenfranchised groups they don’t like. But what if what you really need is something completely different. What if you want to forego present consumption, and save your benefits for the future? Under the current system, when the government gives you housing vouchers, or food stamps, you have to use those benefits on what the government thinks you need. This is only one of many examples of an individual facing multiple welfare bureaucracies. Clearly, you cannot save food stamps in the bank, but you can save cash and you can spend it on whatever you think you need. In this way, a basic income gives people the freedom to make their own decisions about how to improve their own lives. In this way, a simple rule namely basic income is not only fair, it is also more stable. In the case of the
+Get Access
+<USER>

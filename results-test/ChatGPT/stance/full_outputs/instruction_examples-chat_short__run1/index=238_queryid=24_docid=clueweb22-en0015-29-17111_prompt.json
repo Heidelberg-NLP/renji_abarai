@@ -1,0 +1,125 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: lower federal corporate income tax rate create job
+Text: North Carolina enacts corporate income tax phaseout: PwC Skip to contentSkip to footer
+Search
+
+Loading Results
+
+North Carolina enacts corporate income tax phase-out
+
+November 2021
+
+In brief
+
+North Carolina legislation enacted on November 18 phases out the corporate income tax starting with tax years beginning in 2025, updates conformity to the Internal Revenue Code, simplifies the corporate franchise tax calculation, lowers personal income tax rates, and provides an elective passthrough entity tax, among other changes. [S.B. 105, enacted 11/18/21]
+
+Observation: The most significant change in this year’s budget (apart from the fact that North Carolina finally has a budget in place after three years of political stalemate) is the phased elimination of the corporate income tax. Eliminating the tax has been a target of Republican legislators since first enacting cuts in 2013 to the then 6.9% corporate rate. The compromise in completing this budget included a delayed implementation of the corporate tax phase out — beginning in 2025 and ending in 2030.
+
+For consideration: Corporate taxpayers should consider modeling the tax impact of the enacted changes and the financial accounting implications of tax elimination. Taxpayers also should monitor the North Carolina legislative process for potential future developments on this front, especially in the event of changed state fiscal circumstances or political shifts in the legislature.
+
+In detail
+
+Corporate income tax phase-out
+
+North Carolina imposes its corporate income tax at a 2.5% rate. The legislation phases out the corporate income tax rate over five years, to
+
+  • 2.25% for tax years beginning in 2025,
+  • 2% for tax years beginning in 2026,
+  • 1% for tax years beginning in 2028 , and
+  • 0% for tax years beginning after 2029.
+
+Observation: The legislation is silent with respect to the tax rate applicable for tax years beginning in 2027; the tax rate may be intended to remain at 2% for tax years beginning in that year. Likewise, while the legislation addresses tax years beginning “after” 2029 (i.e., 2030 and beyond), the 1% tax rate may be intended to apply to tax  years beginning in 2029.
+
+Observation: The legislation does not address unused deferred tax assets such as the net operating loss (NOL) deduction or credit carryforwards. Taxpayers should consider whether and how to reflect the phase-out of the corporate income tax for financial reporting purposes.
+
+IRC conformity provisions
+
+The legislation updates the state’s general IRC conformity to the Code as enacted as of April 1, 2021, including  any provisions enacted as of that date that become effective either before or after that date. The prior conformity date was May 1, 2020.
+
+Prior to S.B. 105, North Carolina generally conformed to the CARES Act as a result of its May 1, 2020, conformity date. However, a specific addback provision effectively decoupled from the CARES Act relief provision allowing for a 50% Section 163(j) limitation for 2019 and 2020. S.B. 105 allows taxpayers required to add back IRC Section 163(j) deductions allowed under the CARES Act to deduct 20% of such amounts in each of the first five years beginning with the 2021 tax year. The legislation also provides that amounts disallowed under IRC Section 163(j) are not subject to the state’s addback for related-party interest expense.
+
+Observation: North Carolina joins Colorado and Maine as states that provide subtractions in subsequent years equal to CARES Act relief that had been disallowed in 2019 or 2020.
+
+Prior to S.B. 105, North Carolina required an addback for deductible expenses relating to forgiven Paycheck Protection Program loans. Applicable upon enactment, S.B. 105 removes this addback. In its place, S.B. 105 provides that, applicable for tax years beginning on or after January 1, 2023, an addback is required for deductible expenses to the extent such expense is related to income excluded or exempt from North Carolina tax.   
+
+Franchise tax alternative base calculations
+
+North Carolina imposes its franchise tax on a corporation’s apportioned net worth — i.e., its total assets without regard to the deduction for accumulated depreciation, depletion, or amortization less its total liabilities, computed in accordance with generally accepted accounting principles. The franchise tax liability computed under this methodology for a qualified holding company is capped at $150,000.
+
+The legislation retains the net worth tax base provision, but removes two alternative bases for calculating the tax under which taxpayers must pay the greatest amount resulting from
+
+  • 55% of the appraised value for ad valorem tax purposes of all real and tangible personal property in the state or
+  • 100% of the corporation’s total actual investment in tangible property in the state. These franchise tax changes are effective for tax years beginning on or after January 1, 2023, and applicable to the calculation of franchise tax reported on the 2022 and later corporate income tax return.
+
+Personal income tax rate reduction, other PIT provisions
+
+North Carolina imposes its personal income tax at a flat 5.25% rate. The legislation lowers the rate to
+
+  • 4.99% for tax years beginning in 2022,
+  • 4.75% for tax years beginning in 2023,
+  • 4.6% for tax years beginning in 2024,
+  • 4.5% for tax years beginning in 2025,
+  • 4.25% for tax years beginning in 2026, and
+  • 3.99% for tax years beginning after 2026.
+
+The legislation raises the standard deduction and child deduction amounts, effective for tax years beginning on or after January 1, 2022. The legislation also eliminates tax on military pension income, effective for tax years beginning on or after January 1, 2021.
+
+The legislation creates a separate NOL provision for personal income tax purposes with a 15-year carryforward, effective for tax years beginning on or after January 1, 2022. There are transition rules for utilizing federal NOL carryforwards that were not absorbed in tax years beginning prior to January 1, 2022.
+
+Elective passthrough entity tax
+
+A partnership or S corporation may make an irrevocable annual election to pay an entity-level tax on its timely filed return, effective for tax years beginning on or after January 1, 2022.
+
+The tax is applied on the entity’s North Carolina taxable income at the personal income tax rate. North Carolina taxable income is computed using each partner/shareholder’s share of income or loss attributable to the state, plus each resident partner/shareholder’s share of income or loss not attributable to the state.
+
+Partners may deduct their distributive share of income from the taxed partnership to the extent it was included in the partnership’s North Carolina taxable income. Likewise, S corporation shareholders may deduct the amount of their pro rata share of income from the taxed S corporation to the extent included in the S corporation’s North Carolina taxable income.
+
+An electing partnership may not have another partnership or a corporation as partners.
+
+Observation: The elective passthrough entity tax is intended to provide North Carolina individual taxpayers with a “workaround” to the state and local tax deduction limitation enacted for federal income tax purposes as part of the Tax Cuts and Jobs Act. 
+
+Contact us
+
+Peter Michalowski
+
+National SALT Practice Leader, PwC US
+
+Follow us
+<USER>

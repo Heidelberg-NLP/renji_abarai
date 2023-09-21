@@ -1,0 +1,142 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: vape with e-cigarette safe
+Text: E-cigarettes and Vapes
+Skip to main content
+
+Anyone, 5 years of age and older, is eligible to receive the COVID-19 vaccine. Find your nearest vaccination location at vaccines.gov.
+
+E-cigarettes and Vapes
+
+E-cigarettes, vapes, vape or hookah pens, e-pipes, and other vaping products are battery-powered devices that allow users to inhale, or vape, aerosolized liquid (e-juice). Beginning July 1, 2019, Illinois law prohibits the sale of tobacco products, including these products, to people younger than age 21.
+
+E-cigarettes recently surpassed conventional cigarettes as the most commonly used tobacco product among youth.1 It is critical that public health officials and the general public understand the potential risks of using them.
+
+E-cigarette or Vaping Product Use Associated Lung Injury (EVALI)
+
+Cases*Deaths **
+2185
+
+Updated January 16, 2020
+*Case means evidence of respiratory illness, with no other cause identified, and report vaping in the last 90 days.
+** Death included in the number of cases
+
+2019-vaping-20200110
+
+Image source: /content/dam/soi/en/web/idph/files/2019-vaping-20200110.png
+
+Cases in Chicago and Bureau, Cass, Champaign, Coles, Cook, DeKalb, DeWitt, DuPage, Fulton, Henry, Jefferson, Kane, Kendall, Knox, Lake, LaSalle, Macoupin, Madison, Marion, Marshall, McHenry, McLean, Peoria, Perry, Rock Island, Sangamon, St. Clair, Tazewell, Vermilion, Wabash, Whiteside, Will, Winnebago, and Woodford counties.
+
+Ages - 13-85 years. Median age - 22 years.
+
+Updates will be posted by end of day on Thursdays.
+
+What are E-cigarettes and Vapes?
+
+E-cigarettes are devices which produce an aerosol by heating a liquid that usually contains nicotine—the addictive drug in regular cigarettes, cigars, and other tobacco products—flavorings, and other chemicals that help to make the aerosol. Bystanders can also breathe in this aerosol when the user exhales into the air. The nicotine in e-cigarettes and regular cigarettes is highly addictive.
+
+These devices come in a variety of shapes and sizes, as pictured below, with several different names. Some e-cigarettes look like regular cigarettes, but many resemble pens or USB flash drives, and are not recognized as tobacco products. Larger e-cigarettes such as tank systems, or “mods,” do not resemble other tobacco products. E-cigarettes are known by many different names. They are sometimes called e-cigs, e-hookahs, mods, vape pens, vapes, and tank systems. Using an e-cigarette is often called “vaping” or “JUULing.” 2Most e-cigarette users do not consider themselves to be smokers.
+
+Some e-cigarettes, like JUUL, are shaped like a USB flash drive. Like other e-cigarettes, these are battery-powered device that heats a nicotine liquid to produce an aerosol that is inhaled. According to the manufacturer, a single JUUL pod contains as much nicotine as a pack of 20 regular cigarettes. Although JUUL is currently the top-selling e-cigarette in the U.S., other e-cigarettes are becoming available that look like USB flash drives. Because of their shape, school teachers, administrators, and parents may not notice students using these devices in school, including in classrooms and bathrooms.
+
+Print
+
+Image source: /content/dam/soi/en/web/idph/files/images/multiple-types-of-e-cigarettes-desktop-1.jpg
+
+
+Image credit: cdc.gov
+
+Youth e-cigarette use is an emerging public health threat
+
+Among U.S. and Illinois high school students in 2017, almost 28% reported having ever tried cigarette smoking; 8% reported currently smoking cigarettes (at least one time during the last 30 days); 42% reported having ever used an electronic vapor product (including e-cigarettes, e-cigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens); and 13% reported currently using an electronic vapor product. 1 Despite current tobacco use, cigarette smoking has declined dramatically among Illinois high school students. Since 2008, cigarette smoking among Illinois high school seniors has decreased from 21% to 5% in 2018.2
+
+Alarmingly, e-cigarette use by high school seniors is higher than cigarette use was 10 years ago. Between 2016 to 2018, e-cigarette use in Illinois increased from 18.4% to 26.7% among high school seniors, a 45% increase; a 15% increase was seen among 8th grade students; and a 65% increase among 10th grade students.2 E-cigarettes put youth at risk for addiction and possibly worse asthma outcomes3, yet almost 40% of 10th and 12th grade youth believe there is low or no risk of negative health effects.2
+
+e-cigarrette-graphs
+
+Image source: /content/dam/soi/en/web/idph/files/e-cigarrette-graphs.jpg
+
+Citations
+
+  1. Centers for Disease Control and Prevention. 2017. Youth Risk Behavior Survey Data. Retrieved from https://www.cdc.gov/healthyyouth/data/yrbs/results.htm.
+  2. Center for Prevention Research and Development. 2018. Illinois Youth Survey 2018 Frequency Report: State of Illinois. Champaign, IL: CPRD, School of Social Work, University of Illinois. Retrieved from https://iys.cprd.illinois.edu/UserFiles/Servers/Server_178052/File/state-reports/2018/Freq18_IYS_Statewide.pdf.
+  3. U.S. Food & Drug Administration. 2018. Youth E-cigarette Prevention Campaign Press Release. Retrieved from https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm620788.htm
+  4. Positive response to the question “Have you ever used an electronic vapor product?”
+  5. Indicates use in the question “How frequently have you used electronic cigarettes (e-cigarettes) during the past 30 days.
+  6. During the past 12 months, did you ever try to quit using all tobacco products, including cigarettes, cigars, smokeless tobacco, shisha or hookah tobacco, and electronic vapor products?
+
+E-cigarettes contain harmful chemicals
+
+These products are not safe for youth, young adults, pregnant women, or adults who do not currently use tobacco products. The aerosol created by e-cigarettes can contain ingredients that are harmful and potentially harmful to the public’s health.4 The federal Food and Drug Administration (FDA) has reported that some people who use e-cigarettes have experienced seizures, with most reports involving youth or young adult users. Seizures or convulsions are known potential side effects of nicotine toxicity.5
+
+E-cigarettes are considered tobacco products because most of them contain nicotine, which comes from tobacco. Besides nicotine, e-cigarettes can contain harmful and potentially harmful ingredients, including:
+
+  • Ultrafine particles that can be inhaled deep into the lungs
+  • Additives such as diacetyl, a chemical linked to serious lung disease (such as popcorn lung)
+  • Volatile organic compounds
+  • Heavy metals, such as nickel, tin, and lead.4
+
+E-cigarettes are not safe for youth
+
+Flavored e-cigarettes are very popular, especially among young people. Nationally, more than 8 of every 10 youth, aged 12-17 years who use e-cigarettes said they use flavored e-cigarettes. More than 9 of every 10 young adult e-cigarette users said they use e-cigarettes flavored to taste like menthol, alcohol, candy, fruit, chocolate, or other sweets. 2 E-cigarettes are advertised on television, radio, and other media. E-cigarettes and vaping devices are not covered by federal law restricting cigarette advertising.
+
+Citations
+
+  1. Youth E-cigarette Use, CDC Vital Signs – February 2019 https://www.cdc.gov/vitalsigns/youth-tobacco-use/
+  2. Centers for Disease Control and Prevention. Smoking and Tobacco Use. About Electronic Cigarettes. https://www.cdc.gov/tobacco/basic_information/e-cigarettes/about-e-cigarettes.html
+  3. Centers for Disease Control and Prevention. Keep Kids E-Cigarette Free
+  4. U.S. Department of Health and Human Services. E-Cigarette Use Among Young and Young Adults: A Report of the Surgeon General. https://e-cigarettes.surgeongeneral.gov/documents/2016_SGR_Fact_Sheet_508.pdf
+  5. U.S. Food and Drug Administration (FDA). Some E-Cigarette Users Are Having Seizures, Most Reports Involving Youth and Young Adults. https://www.fda.gov/tobacco-products/ctp-newsroom/some-e-cigarette-users-are-having-seizures-most-reports-involving-youth-and-young-adults
+
+NEED HELP QUITTING?
+Learn about Quitting Tobacco and get free resources to help
+1-866-QUIT-YES (1-866-784-8937)
+
+BecomeAnEX® - truth initiative
+(Free text message program created by youth and young adults)
+Text “QUIT” to 202-804-9884
+
+QUESTIONS?
+Dph.tobaccocontrol@illinois.gov
+Phone 217-782-3300
+
+Resources
+
+Publications
+<USER>

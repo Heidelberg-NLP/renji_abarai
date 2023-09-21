@@ -1,0 +1,122 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prescription drug advertise directly consumer
+Text: Non Prescription Drug
+
+OTC drugs bear a “Drug Facts” label that conveys information in a clear, standardized format to enable patient self-selection of an appropriate drug and enhance the safe and effective use of the drug by consumers.
+
+From: Reproductive and Developmental Toxicology (Second Edition), 2017
+
+Over-the-Counter Supplements and Men's Health
+
+Farouk M. El-Khatib, ... Faysal A. Yafi, in Effects of Lifestyle on Men's Health, 2019
+
+Scope of OTC
+
+Over-the-counter medicine, also known as OTC or nonprescription medicine, refers to medicine that you can buy without a prescription. It is the US Food and Drug Administration (FDA) that determines whether medicines are prescription or nonprescription. The term prescription refers to medicines that are safe and effective when used under a doctor's care, whereas nonprescription or OTC drugs are medicines the FDA determines are safe and effective for use without a doctor's prescription [1]. OTC medicine consists mainly of vitamins, minerals, herbs, supplements, and certain medications that are safe and effective when patients follow the directions on the label or those given to them by their health-care professional.
+
+OTCs are used to treat an expanding range of conditions, whether these are considered illnesses or deficiencies. OTCs often do more than just relieve aches, pains, and itches. Some can prevent diseases like tooth decay [2], cure diseases like athlete's foot [3], and help manage recurring conditions like vaginal yeast infections [4] or migraines [5].
+
+Read full chapter
+URL: https://www.sciencedirect.com/science/article/pii/B9780128166659000159
+
+Medication and Substance Use and Misuse in the Elderly
+
+Amy Carney, Kimberly Liang, in Elder Abuse, 2020
+
+Over-the-Counter Medications
+
+OTC medications are those that can be purchased directly, without a prescription. OTC medications are used to treat a wide range of symptoms and illnesses, including acne, cough, pain, diarrhea, and many others. Some of these medications contain ingredients with a potential for misuse when used in a way that is not indicated for the medication or at dosages that are higher than recommended. This can include mixing a variety of medications together to achieve a desired effect or taking them in a manner or at a higher dose than indicated on the package. It is estimated that there are over 300,000 OTC products available in the United States, with the elderly as their largest consumers. Older adults take an average of four OTC medications and about as many prescription medications, routinely, resulting in about 25% of elder patients on a combination of 10 or more prescription and OTC medications (Chui, Stone, Martin, Croes, & Thorpe, 2014). Similar to prescription medications, OTC preparations can cause adverse events, including death.
+
+Diphenhydramine and doxylamine are used in preparations for sleep. Diphenhydramine is also used in many other medications for allergies, as well as cough and colds. These medications are known to cause dizziness and increase the potential for falls. Pseudoephedrine, a decongestant commonly found in cold medication, can be used to make methamphetamine and is now kept “behind the counter” but may be purchased without a prescription. Two of the most abused OTC drugs are dextromethorphan (DXM or DM) and loperamide. DXM is found in many medications and is used as a cough suppressant. Often labeled “extra strength”, it can be found as syrup, gel capsules, and tablets. Medications containing DXM often also contain antihistamines or decongestants. While it can be swallowed in its original form, often after being mixed with soda for flavor, it can also be injected. In large doses, DXM can act as a depressant and sometimes has a hallucinogenic effect, comparable to ketamine or phencyclidine (PCP). Short-term effects can range from mild stimulation to intoxication and at high doses can cause hallucinations, hyper excitability, panic, aggression, and respiratory depression. Patients who ingest large quantities of DXM may have a false positive PCP result on a urine drug screen. Loperamide is an opioid deliberately designed not to enter the brain and is usually swallowed. When loperamide is taken in large amounts and combined with other substances, it can act similarly to other opiates. The effects of loperamide include euphoria but can also cause fainting, vision changes, loss of consciousness, and irregular heartbeat. Patients may use this drug as a way to alleviate withdrawal side effects from opioids. Cardiotoxic effects can lead to death. Elderly patients with existing cardiac conditions are at higher risk for mortality (Borron et al., 2017). Misuse of either DXM or loperamide can lead to addiction (National Institute on Drug Abuse, 2017).
+
+There are several clues to OTC misuse in the elderly population for family members, providers, and investigators. Suspicious purchasing, such as frequently buying larger amounts than would normally be needed, can be an indication of misuse. Older patients who usually do not have dizziness or cognitive difficulties may show signs of these symptoms intermittently while using these medications. A sudden addition of one of these medications, without a clinical indication, can also be a sign of misuse.
+
+Read full chapter
+URL: https://www.sciencedirect.com/science/article/pii/B9780128157794000100
+
+Impotence
+
+Robert A. Vigersky, in Endocrine Secrets (Fifth Edition), 2009
+
+13 Describe the most common drugs known to induce impotence
+
+Nonprescription drugs, such as alcohol (as the porter says to Macduff in Act II, Scene 3, of Macbeth, “It provokes the desire but takes away the performance”), and illicit drugs, such as cocaine, methadone, and heroin, can cause impotence. The prescription drugs most commonly associated with impotence include the following:
+
+Antihypertensive agents, especially methyldopa, clonidine, beta–blockers, vasodilators (e.g., hydralazine), thiazide diuretics, and spironolactone
+
+Antipsychotic medications
+
+Antidepressants and tranquilizers
+
+Others (especially cimetidine, digoxin, phenytoin, carbamazepine, ketoconazole, metoclopramide, and megestrol)
+
+Read full chapter
+URL: https://www.sciencedirect.com/science/article/pii/B9780323058858000453
+
+Herbal medicine used to treat andrological problems: Americas
+
+Gustavo F. Gonzales, ... Dulce Esperanza Alarcón-Yaquetto, in Herbal Medicine in Andrology, 2021
+
+3.3.1 North America
+
+Over-the-counter products containing American ginseng are sold as sexual performance boosters. Yet, there is not much scientific evidence that support this fact, at least in comparison to Korean ginseng, for which placebo-controlled studies in infertile men have shown efficacy of its use as treatment for male sexual dysfunction [10, 107, 108]. On the other hand, it is well known that ginsenosides are the substances behind the aphrodisiac effect of P. ginseng by increasing the synthesis of NO [109]. Nevertheless, there are several ginsenosides present in both species of ginseng and the NO-increasing effect has not been individualized for a particular type of ginsenoside. Much more studies are needed to affirm that the libido-enhancing properties of American ginseng are comparable to those of Asian ginseng.
+
+Read full chapter
+URL: https://www.sciencedirect.com/science/article/pii/B9780128155653000059
+
+Sleep Disturbances in General Medical Disorders
+
+Sudhansu Chokroverty, in Sleep Disorders Medicine (Third Edition), 2009
+
+Over-the-Counter Medications
+
+OTC medications include nasal decongestants and anorectics, which are stimulants (e.g., pseudoephedrine, phenylpropranolamine) and will cause insomnia. Caffeine, which is present in coffee, tea, colas, and chocolates, also is a stimulant and may promote wakefulness by blocking adenosine A2a receptors. As little as 150 mg of caffeine, which is the equivalent of 1–2 cups of coffee, may disturb sleep quality by increasing sleep latency and reducing total sleep time. During sleep deprivation, high doses of caffeine reduce total sleep time, increase stage 1 NREM sleep, and reduce SWS but do not affect neurocognitive functions.
+
+OTC sleeping medications are widely used for the induction of sleep. The active ingredients in these agents are antihistamines (diphenhydramine and doxylamine), and these drugs represent the most common use of antihistamines in OTC preparations. These histamine1 blockers have undesirable anticholinergic effects (e.g., dryness of the mouth, palpitations, dilation of pupils, tachycardia, difficulty in urination) and cause daytime sedation.
+
+Read full chapter
+URL: https://www.sciencedirect.com/science/article/pii/B9780750675840000331
+
+Handbook of Sleep Research
+
+David N. Neubauer, in Handbook of Behavioral Neuroscience, 2019
+
+C OTC Sleep Aids
+<USER>

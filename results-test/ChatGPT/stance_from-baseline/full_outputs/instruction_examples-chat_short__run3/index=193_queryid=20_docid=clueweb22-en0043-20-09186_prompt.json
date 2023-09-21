@@ -1,0 +1,166 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is drinking milk healthy for humans?
+Text: Is dog's milk healthy for humans? - Quora
+Traditional pet insurance wasn’t working for us, we built something better. Try it today!
+24 Answers
+
+I swear Quora is a magnet for aliens who ask the most odd questions,I think they are trying to fit into our world so they don’t do stupid things like trying to drink dogs milk . Now I did hear in passing that Rino milk is really tasty but they only allow nursing while they are stomping around in the dirt looking really pissed you otta try some and after you get home from the hospital after being in a coma for a month or so report on how it tasted.
+
+Just think you could become famous on Utube because someone is sure to film your attempt and total stomp down by a really pissed off Rino
+
+Absolutely! It will make your beard thicker, increase your chest hair, sharpen your fingernails and improve your ability to howl at the moon.
+
+We've put together a list of 8 money apps to get you on the path towards a bright financial future.
+
+Oh, for the love of…
+
+Once again, I'm in the position to answer one of the weirdest questions on Quora.
+
+Yes, it would be very nutritious… if you can stand the taste. Or get it, for that matter; bitches only lactate for three or four months at the very most, although most taper off after about two and a half months. During that time, her puppies will be nursing every half hour or so, so there really isn't any left over for human consumption. If she were to lose her babies and was not given a surrogate litter or some other consistent stimulation, her milk would dry up even if you were to “milk” her
+
+Oh, for the love of…
+
+Once again, I'm in the position to answer one of the weirdest questions on Quora.
+
+Yes, it would be very nutritious… if you can stand the taste. Or get it, for that matter; bitches only lactate for three or four months at the very most, although most taper off after about two and a half months. During that time, her puppies will be nursing every half hour or so, so there really isn't any left over for human consumption. If she were to lose her babies and was not given a surrogate litter or some other consistent stimulation, her milk would dry up even if you were to “milk” her four or five times a day. The other complication is that dogs are really hard to milk for several reasons:
+
+  • Their let down time - the time during which milk is easily expressed - is only about two minutes.
+  • Unless you can magically generate 6–8 more hands, they just have too many damn nipples.
+  • Like humans, their teats have multiple pores (the holes that the milk comes out of) so it sprays every which way instead of in a nice, tidy single stream like goats or cows. There's literally no way to aim it so you end up having to squeeze it directly into a soda bottle.
+  • They just don't like to be milked. After the two minutes are up, they walk away. If you try to follow or restrain them, they just go boneless and fall over at which point you'll discover that they are, in fact, a liquid. Try getting a dog to stand when they really don't want to. I dare you.
+  • Unless you have an exceptionally strong bond with her, a bitch won't let down without her puppies actively nursing which means you have no choice but to go back and forth between one slick, slobbery dog boob to another because for some reason a puppy always decides to grab the one you're working on just as you get a rhythm going.
+  • Speaking of, there really isn't anything to grasp so you just have to grab hold of a wad of mammary flesh and gently squeeze until you figure out how to make something come out. Imagine squeezing the water out of waded up washcloth with one hand and you're close. Except said washcloth is alive, sensitive, and has a mouthful of teeth.
+
+So, bottom line: it might be good for you, but getting it is extremely impractical even if you happen to own a bitch large enough to produce a measurable amount.
+
+Also, it tastes like what it is; very, very thick, greasy carnivore milk with a distinctly “doggy” flavor. Add to that that it's so thick it won't go through a milk filter so it also comes with fur, scabs, and dirt. Even if I could somehow obtain a reliable source without the precious, fuzzy strings called puppies attached, even I couldn't stomach it.
+
+While dog's milk is healthy for humans in a general way, it is not necessary for humans. Humans need at least two things in order to be healthy - lactic acid and melatonin. These are both essential nutrients that can be obtained from meat, dairy and meat products. Neither dog's milk nor any other form of milk is necessary for humans.
+
+Just to add, after spaying, dogs can experience false pregnancy. How do I know? My dog is leaking milk right now, 8 days post op. If I don't do anything dumb, like milk her multiple times a day, (not gonna lie, the part time farm girl in me was curious if it worked the same so I had to, once), it should stop in 2–3 weeks. SO long as no puppies break in a decide shes a buffet. It was not the big streamer like from a cow or goat, but ya know, enough for a puppy or 6.
+
+Sooooo not saying drink dog milk, but I had to be the person who said, yes, you can have dog milk with there never having been a pr
+
+Just to add, after spaying, dogs can experience false pregnancy. How do I know? My dog is leaking milk right now, 8 days post op. If I don't do anything dumb, like milk her multiple times a day, (not gonna lie, the part time farm girl in me was curious if it worked the same so I had to, once), it should stop in 2–3 weeks. SO long as no puppies break in a decide shes a buffet. It was not the big streamer like from a cow or goat, but ya know, enough for a puppy or 6.
+
+Sooooo not saying drink dog milk, but I had to be the person who said, yes, you can have dog milk with there never having been a pregnancy, ever.
+
+Didnt seem that thick either, but what do I know? I didnt taste or filter it!
+
+Got Dilk?
+
+Though you don’t get a tax deduction on your contributions, you can grow, and eventually withdraw.
+
+To make it simple:
+
+Dog's milk is for puppies
+
+Cat's milk is for kittens
+
+Squirrel milk is for baby squirrel
+
+Goat milk is for kids (petition to name them goaties)
+
+Zebra milk is for Zebra foals
+
+Possum milk is for the possum babies
+
+Cow's milk is for calves
+
+Human milk is for humans
+
+No mammal requires their mother's milk past the toddler stage, for humans up to around three at the latest. A balanced diet of solids does the job just fine.
+
+At what age did you stop breastfeeding?
+
+Human milk is healthy for the human audience it was intended for, children. Otherwise interspecies milk is cruelty.
+
+The development of a human infant is assisted by the nutrition provided by human milk.
+
+With that being said, we’ve been groomed through marketing to believe that cow’s milk is good for us. In reality, cow’s milk has all of the building blocks to turn a 65 lb calf into a 400 pound cow - what do we need that for?
+
+We are the only species that drinks another animal’s milk. Let that sink in.
+
+And… past the time of development, no less. Past the time when it is developmentally necessary to drink milk of any kind.
+
+Cows get calcium in their milk from the plants they eat. They also get protein in their meat
+
+The development of a human infant is assisted by the nutrition provided by human milk.
+
+With that being said, we’ve been groomed through marketing to believe that cow’s milk is good for us. In reality, cow’s milk has all of the building blocks to turn a 65 lb calf into a 400 pound cow - what do we need that for?
+
+We are the only species that drinks another animal’s milk. Let that sink in.
+
+And… past the time of development, no less. Past the time when it is developmentally necessary to drink milk of any kind.
+
+Cows get calcium in their milk from the plants they eat. They also get protein in their meat from the plants they eat. We can get all of the nutrition we need from plants. Am I saying you should be vegan, not necessarily. Just don’t fool yourself that the only way to get calcium or protein is from an animal.
+
+So, to answer the question: No, dog’s milk isn’t healthy for humans. Unless an infant is being raised feral and has no other choice of nutrition but to drink a dog’s milk strictly for survival - dog’s milk or death for an infant - then no, there is no circumstance where a dog’s milk would be sufficient nutrition for a human being, especially past the time of development.
+
+dogs milk is high in amino acids and thus very healthy for humans
+
+In terms of will it keepyou alive in an emergency? Well yes for a while…
+
+But it would probably kill you after a while.
+
+All mammals have different requirements in terms of mothers milk.
+
+A goat kid would starve to death on cows milk.
+
+A seal pup could not survive on goats milk.
+
+The fat ratios are species specific. It took humans dozens of generations to become lactose tolerant after infancy.
+
+Yes dogs milk could keep you alive for a while. But it will eventually kill you.
+
+Technically, “dog milk” is just lactose free milk. UNLESS you are talking about the milk from the teets of a female dog.
+
+Then I have no clue. It isn’t meant for human consumption, so I’m going to guess that it wouldn’t have the nutrients that a human actually needs. It would have the nutrients that puppies need.
+
+There is only one species that continues to suckle at other animals after it is weaned. There is benefit in times of scarcity, but there is also some question whether this is generally healthy at all.
+
+I, for one, am allergic to bovine milk protein, so I limit my intake of milk of all kinds.
+
+Why trying dog milk at all? There are milk available that’s healthier for humans,like milk from cows,sheep and goats. Milk from all those three animals has been used by humans for thousands of years,as milk,cheese or butter…..
+
+(You can also use horse milk to produce an alcoholic drink used by the mongols,called Kumys)
+
+According to Holly, the shipboard computer on Red Dwarf, it's full of marrowbone goodness.
+<USER>

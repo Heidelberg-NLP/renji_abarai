@@ -1,0 +1,146 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+North Carolina enacts corporate income tax phaseout: PwC Skip to contentSkip to footer
+Search
+
+Loading Results
+
+North Carolina enacts corporate income tax phase-out
+
+November 2021
+
+In brief
+
+North Carolina legislation enacted on November 18 phases out the corporate income tax starting with tax years beginning in 2025, updates conformity to the Internal Revenue Code, simplifies the corporate franchise tax calculation, lowers personal income tax rates, and provides an elective passthrough entity tax, among other changes. [S.B. 105, enacted 11/18/21]
+
+Observation: The most significant change in this year’s budget (apart from the fact that North Carolina finally has a budget in place after three years of political stalemate) is the phased elimination of the corporate income tax. Eliminating the tax has been a target of Republican legislators since first enacting cuts in 2013 to the then 6.9% corporate rate. The compromise in completing this budget included a delayed implementation of the corporate tax phase out — beginning in 2025 and ending in 2030.
+
+For consideration: Corporate taxpayers should consider modeling the tax impact of the enacted changes and the financial accounting implications of tax elimination. Taxpayers also should monitor the North Carolina legislative process for potential future developments on this front, especially in the event of changed state fiscal circumstances or political shifts in the legislature.
+
+In detail
+
+Corporate income tax phase-out
+
+North Carolina imposes its corporate income tax at a 2.5% rate. The legislation phases out the corporate income tax rate over five years, to
+
+  • 2.25% for tax years beginning in 2025,
+  • 2% for tax years beginning in 2026,
+  • 1% for tax years beginning in 2028 , and
+  • 0% for tax years beginning after 2029.
+
+Observation: The legislation is silent with respect to the tax rate applicable for tax years beginning in 2027; the tax rate may be intended to remain at 2% for tax years beginning in that year. Likewise, while the legislation addresses tax years beginning “after” 2029 (i.e., 2030 and beyond), the 1% tax rate may be intended to apply to tax  years beginning in 2029.
+
+Observation: The legislation does not address unused deferred tax assets such as the net operating loss (NOL) deduction or credit carryforwards. Taxpayers should consider whether and how to reflect the phase-out of the corporate income tax for financial reporting purposes.
+
+IRC conformity provisions
+
+The legislation updates the state’s general IRC conformity to the Code as enacted as of April 1, 2021, including  any provisions enacted as of that date that become effective either before or after that date. The prior conformity date was May 1, 2020.
+
+Prior to S.B. 105, North Carolina generally conformed to the CARES Act as a result of its May 1, 2020, conformity date. However, a specific addback provision effectively decoupled from the CARES Act relief provision allowing for a 50% Section 163(j) limitation for 2019 and 2020. S.B. 105 allows taxpayers required to add back IRC Section 163(j) deductions allowed under the CARES Act to deduct 20% of such amounts in each of the first five years beginning with the 2021 tax year. The legislation also provides that amounts disallowed under IRC Section 163(j) are not subject to the state’s addback for related-party interest expense.
+
+Observation: North Carolina joins Colorado and Maine as states that provide subtractions in subsequent years equal to CARES Act relief that had been disallowed in 2019 or 2020.
+
+Prior to S.B. 105, North Carolina required an addback for deductible expenses relating to forgiven Paycheck Protection Program loans. Applicable upon enactment, S.B. 105 removes this addback. In its place, S.B. 105 provides that, applicable for tax years beginning on or after January 1, 2023, an addback is required for deductible expenses to the extent such expense is related to income excluded or exempt from North Carolina tax.   
+
+Franchise tax alternative base calculations
+
+North Carolina imposes its franchise tax on a corporation’s apportioned net worth — i.e., its total assets without regard to the deduction for accumulated depreciation, depletion, or amortization less its total liabilities, computed in accordance with generally accepted accounting principles. The franchise tax liability computed under this methodology for a qualified holding company is capped at $150,000.
+
+The legislation retains the net worth tax base provision, but removes two alternative bases for calculating the tax under which taxpayers must pay the greatest amount resulting from
+
+  • 55% of the appraised value for ad valorem tax purposes of all real and tangible personal property in the state or
+  • 100% of the corporation’s total actual investment in tangible property in the state. These franchise tax changes are effective for tax years beginning on or after January 1, 2023, and applicable to the calculation of franchise tax reported on the 2022 and later corporate income tax return.
+
+Personal income tax rate reduction, other PIT provisions
+
+North Carolina imposes its personal income tax at a flat 5.25% rate. The legislation lowers the rate to
+
+  • 4.99% for tax years beginning in 2022,
+  • 4.75% for tax years beginning in 2023,
+  • 4.6% for tax years beginning in 2024,
+  • 4.5% for tax years beginning in 2025,
+  • 4.25% for tax years beginning in 2026, and
+  • 3.99% for tax years beginning after 2026.
+
+The legislation raises the standard deduction and child deduction amounts, effective for tax years beginning on or after January 1, 2022. The legislation also eliminates tax on military pension income, effective for tax years beginning on or after January 1, 2021.
+
+The legislation creates a separate NOL provision for personal income tax purposes with a 15-year carryforward, effective for tax years beginning on or after January 1, 2022. There are transition rules for utilizing federal NOL carryforwards that were not absorbed in tax years beginning prior to January 1, 2022.
+
+Elective passthrough entity tax
+
+A partnership or S corporation may make an irrevocable annual election to pay an entity-level tax on its timely filed return, effective for tax years beginning on or after January 1, 2022.
+
+The tax is applied on the entity’s North Carolina taxable income at the personal income tax rate. North Carolina taxable income is computed using each partner/shareholder’s share of income or loss attributable to the state, plus each resident partner/shareholder’s share of income or loss not attributable to the state.
+
+Partners may deduct their distributive share of income from the taxed partnership to the extent it was included in the partnership’s North Carolina taxable income. Likewise, S corporation shareholders may deduct the amount of their pro rata share of income from the taxed S corporation to the extent included in the S corporation’s North Carolina taxable income.
+
+An electing partnership may not have another partnership or a corporation as partners.
+
+Observation: The elective passthrough entity tax is intended to provide North Carolina individual taxpayers with a “workaround” to the state and local tax deduction limitation enacted for federal income tax purposes as part of the Tax Cuts and Jobs Act. 
+
+Contact us
+
+Peter Michalowski
+
+National SALT Practice Leader, PwC US
+
+Follow us
+<USER>

@@ -1,0 +1,99 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: electronic voting machine improve voting process
+Text: Electronic voting
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+Electronic voting (also known as e-voting) is voting that uses electronic means to either aid or take care of casting and counting ballots.
+
+Depending on the particular implementation, e-voting may use standalone electronic voting machines (also called EVM) or computers connected to the Internet. It may encompass a range of Internet services, from basic transmission of tabulated results to full-function online voting through common connectable household devices. The degree of automation may be limited to marking a paper ballot, or may be a comprehensive system of vote input, vote recording, data encryption and transmission to servers, and consolidation and tabulation of election results.
+
+A worthy e-voting system must perform most of these tasks while complying with a set of standards established by regulatory bodies, and must also be capable to deal successfully with strong requirements associated with security, accuracy, integrity, swiftness, privacy, auditability, accessibility, cost-effectiveness, scalability and ecological sustainability.
+
+Electronic voting technology can include punched cards, optical scan voting systems and specialized voting kiosks (including self-contained direct-recording electronic voting systems, or DRE). It can also involve transmission of ballots and votes via telephones, private computer networks, or the Internet.
+
+In general, two main types of e-voting can be identified:
+
+  • e-voting which is physically supervised by representatives of governmental or independent electoral authorities (e.g. electronic voting machines located at polling stations);
+  • remote e-voting via the Internet (also called i-voting) where the voter submits his or her vote electronically to the election authorities, from any location.[1][2][3][4][5]
+
+Benefits[edit]
+
+Electronic voting technology intends to speed the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease.[6] Results can be reported and published faster.[7] Voters save time and cost by being able to vote independently from their location. This may increase overall voter turnout. The citizen groups benefiting most from electronic elections are the ones living abroad, citizens living in rural areas far away from polling stations and the disabled with mobility impairments.[8][6]
+
+Concerns[edit]
+
+It has been demonstrated that as voting systems become more complex and include software, different methods of election fraud become possible. Others also challenge the use of electronic voting from a theoretical point of view, arguing that humans are not equipped for verifying operations occurring within an electronic machine and that because people cannot verify these operations, the operations cannot be trusted. Furthermore, some computing experts have argued for the broader notion that people cannot trust any programming they did not author.[9]
+
+The use of electronic voting in elections remains a contentious issue. Some countries such as Netherlands and Germany have stopped using it after it was shown to be unreliable, while the Indian Election commission recommends it. The involvement of numerous stakeholders including companies that manufacture these machines as well as political parties that stand to gain from rigging complicates this further.[10]
+
+Critics of electronic voting, including security analyst Bruce Schneier, note that "computer security experts are unanimous on what to do (some voting experts disagree, but it is the computer security experts who need to be listened to; the problems here are with the computer, not with the fact that the computer is being used in a voting application)... DRE machines must have a voter-verifiable paper audit trails... Software used on DRE machines must be open to public scrutiny"[11] to ensure the accuracy of the voting system. Verifiable ballots are necessary because computers can and do malfunction, and because voting machines can be compromised.
+
+Many insecurities have been found in commercial voting machines, such as using a default administration password.[12][13] Cases have also been reported of machines making unpredictable, inconsistent errors. Key issues with electronic voting are therefore the openness of a system to public examination from outside experts, the creation of an authenticatable paper record of votes cast and a chain of custody for records.[14][15] And, there is a risk that commercial voting machines results are changed by the company providing the machine. There is no guarantee that results are collected and reported accurately.[6]
+
+There has been contention, especially in the United States, that electronic voting, especially DRE voting, could facilitate electoral fraud and may not be fully auditable. In addition, electronic voting has been criticised as unnecessary and expensive to introduce. While countries like India continue to use electronic voting, several countries have cancelled e-voting systems or decided against a large-scale rollout, notably the Netherlands, Ireland, Germany and the United Kingdom due to issues in reliability of EVMs.[16][17]
+
+Moreover, people without internet access and/or the skills to use it are excluded from the service. The so-called digital divide describes the gap between those who have access to the internet and those who do not. Depending on the country or even regions in a country the gap differs. This concern is expected to become less important in future since the number of internet users tends to increase.[18]
+
+The main psychological issue is trust. Voters fear that their vote could be changed by a virus on their PC or during transmission to governmental servers.[19]
+
+Expenses for the installation of an electronic voting system are high. For some governments they may be too high so that they do not invest. This aspect is even more important if it is not sure whether electronic voting is a long-term solution.[6]
+
+Types of system[edit]
+
+Electronic voting systems for electorates have been in use since the 1960s when punched card systems debuted. Their first widespread use was in the USA where 7 counties switched to this method for the 1964 presidential election.[20] The newer optical scan voting systems allow a computer to count a voter's mark on a ballot. DRE voting machines which collect and tabulate votes in a single machine, are used by all voters in all elections in Brazil and India, and also on a large scale in Venezuela and the United States. They have been used on a large scale in the Netherlands but have been decommissioned after public concerns.[citation needed] In Brazil, the use of DRE voting machines has been associated with a decrease error-ridden and uncounted votes, promoting a larger enfranchisement of mainly less educated people in the electoral process, shifting government spending toward public healthcare, particularly beneficial to the poor.[21]
+
+Internet voting systems have gained popularity and have been used for government elections and referendums in Estonia, and Switzerland[22] as well as municipal elections in Canada and party primary elections in the United States and France.[23] Internet voting has also been widely used in sub-national participatory budgeting processes, including in Brazil, France, United States, Portugal and Spain.[24][25][26][27][28][29]
+
+There are also hybrid systems that include an electronic ballot marking device (usually a touch screen system similar to a DRE) or other assistive technology to print a voter verified paper audit trail, then use a separate machine for electronic tabulation.[30]
+
+Paper-based electronic voting system[edit]
+
+A cart holding an ES&S M100 ballot scanner and an AutoMARK assistive device, as used in Johnson County, Iowa, United States in 2010
+
+Paper-based voting systems originated as a system where votes are cast and counted by hand, using paper ballots. With the advent of electronic tabulation came systems where paper cards or sheets could be marked by hand, but counted electronically. These systems included punched card voting, marksense and later digital pen voting systems.[citation needed]
+
+These systems can include a ballot marking device or electronic ballot marker that allows voters to make their selections using an electronic input device, usually a touch screen system similar to a DRE. Systems including a ballot marking device can incorporate different forms of assistive technology. In 2004, Open Voting Consortium demonstrated the 'Dechert Design', a General Public License open source paper ballot printing system with open source bar codes on each ballot.[citation needed]
+
+Direct-recording electronic (DRE) voting system[edit]
+
+A direct-recording electronic (DRE) voting machine records votes by means of a ballot display provided with mechanical or electro-optical components that can be activated by the voter (typically buttons or a touchscreen); that processes data with computer software; and that records voting data and ballot images in memory components. After the election it produces a tabulation of the voting data stored in a removable memory component and as a printed copy. The system may also provide a means for transmitting individual ballots or vote totals to a central location for consolidating and reporting results from precincts at the central location. These systems use a precinct count method that tabulates ballots at the polling place. They typically tabulate ballots as they are cast and print the results after the close of polling.[31]
+<USER>

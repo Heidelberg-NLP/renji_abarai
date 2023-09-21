@@ -1,0 +1,106 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should net neutrality be restored?
+Text: Net neutrality pros and cons: what you need to know | NordVPN
+Your IP: 40.77.167.33 · Your Status: ProtectedUnprotectedUnknown
+
+Net neutrality pros and cons: what you need to know
+
+It’s been five years since the Federal Communications Commission (FCC) officially revoked net neutrality. A lot has happened since then, but the debate over whether net neutrality is good or bad and whether it will ever be restored is still ongoing.
+
+Jomilė Nakutavičiūtė Jomilė Nakutavičiūtė
+
+Jomilė Nakutavičiūtė
+
+Net neutrality pros and cons: what you need to know
+
+What is net neutrality?
+
+Net neutrality (also known as the Open Internet) is the principle that all internet connections should be treated equally. If there’s no net neutrality, internet service providers (ISPs) can discriminate against websites or services and regulate what users can and can’t see. Some people oppose net neutrality from a libertarian standpoint, claiming that the government shouldn't be interfering in free markets, but this argument doesn't hold up under any scrutiny.
+
+The history of net neutrality protections
+
+The FCC first started talking about rolling back net neutrality rules in 2017. No longer classified under Title II of the Communications Act of 1934, ISPs could charge companies for speeding up their services, slowing down those of their competitors, or blocking internet access altogether.
+
+By the end of 2017, the FCC had revoked net neutrality and allowed internet providers to sell their users’ data without their permission. In 2019, the House of Representatives attempted to reinstate net neutrality.
+
+In July 2021, President Joe Biden encouraged the FCC to restore the net neutrality regulations undone by the Trump administration. In 2022, however, the political situation hasn't changed and progress on implementing net neutrality has stalled.
+
+Is net neutrality good or bad?
+
+Net neutrality affects both internet users and internet service providers in very different ways, so there are a lot of arguments for and against it. From the consumers’ point of view, such internet regulation is a guarantee that all connections are treated equally and ISPs won’t censor the internet. To internet service providers, it means that the government will heavily control how they do their business, possibly preventing them from getting extra income to improve infrastructure.
+
+Pros
+
+  • Level playing field: Net neutrality laws mean that no one with more money receives special treatment. Without net neutrality, ISPs can slow down the websites or services of small businesses that can’t afford to pay for the so-called fast lanes. The same goes for small creators, whose main source of income is their YouTube channel. None of them would be able to compete with large corporations.
+  • Freedom of expression and free speech: ISPs shouldn’t be able to block content or slow down webpages just because they don’t like them. With no net neutrality legislation, nothing stops them from censoring online content. This, however, doesn’t include illegal content. With or without net neutrality, the censoring of such content falls on the shoulders of law enforcement agencies.
+  • No exclusion: Net neutrality guarantees that everything on the internet is available to everyone. If accessing high-quality content online becomes a luxury only wealthy people can enjoy, this will increase social exclusion and decrease equal access.
+  • No additional costs for content: Without net neutrality, ISPs can charge companies for improving services like faster video streaming, online gaming, etc. If this happens, these companies will transfer their new financial burden on to the users.
+
+Cons
+
+  • No one is paying for the data: With net neutrality, users only pay for the service, not the data they consume. Video streaming services were responsible for 57% of the bandwidth used worldwide in 2018. Customers who use less bandwidth may not want to pay for the infrastructure needed to support high-bandwidth activities.
+  • Illicit content is widely available: Offensive, dangerous, and illegal content is accessible to everyone and difficult to remove. Removing net neutrality makes it easier for ISPs to filter dangerous content, although this is one away from censorship.
+  • No new infrastructure: If ISPs can’t charge more for their services, they can’t invest in their infrastructure. With net neutrality, large amounts of data are consumed without being paid for – this money could be used to expand the high-speed network to rural areas.
+  • Tiresome regulations: Under net neutrality laws, the FCC must monitor the ISPs’ compliance with these rules. This includes submitting reports twice a year, which can become costly for ISPs of any size.
+  • The internet can innovate without it: Many innovations took place in the absence of net neutrality regulations. Some net neutrality opponents also argue that there was a significant growth of the internet and relatively little wrongdoings without net neutrality.
+
+The effects of net neutrality repeal so far
+
+2015 was a good year for net neutrality proponents. The FCC classified ISPs as common carriers and passed a new net neutrality order. They got sued by telecoms once again, though this time the court sided with the FCC. Open internet was just around the corner. But in 2017, the FCC received a new chairman, Ajit Pai, who revoked the 2015 net neutrality rules and put everything back to square one.
+
+The net neutrality repeal still stands and the debate whether it will be reinstated continues. However, not all is bad. In 2019, pro net neutrality consumer groups, the District of Columbia, and the attorney generals of 22 states sued the FCC’s decision to reverse net neutrality rules. And won. This was a huge victory for net neutrality proponents, as it meant that under future leadership the FCC will be allowed to classify ISPs as common carriers (or as they see fit). On the other hand, they won’t be able to dispute the laws and regulations that were issued by individual states, making the future of net neutrality ever more confusing.
+
+A world with no net neutrality. Can a VPN help?
+
+ISPs can only throttle your connection if they see what you do online: for example, that you prefer streaming movies on Netflix rather than on Disney+. To avoid activity-based bandwidth throttling and content blocking, use a VPN.
+
+A VPN service routes your internet traffic through a VPN server, encrypting it and making it invisible to ISPs and hackers. This way the ISP can’t see your browsing habits and cannot throttle your connection or interfere in any other ways. Remember, however, that it doesn’t make you completely invisible to your ISP. They still know who you are and that you’re connected to a VPN. It's just that your traffic will look gibberish to them. So enjoy internet freedom with NordVPN.
+
+Online security starts with a click.
+
+Stay safe with the world’s leading VPN
+
+Also available in: Français, ‪한국어‬ and other languages.
+
+Jomilė Nakutavičiūtė
+Jomilė Nakutavičiūtė Jomilė Nakutavičiūtė
+Verified author
+Jomilė is a content writer who loves to investigate the latest Internet privacy and security news. She thrives on looking for solutions to problems and sharing her knowledge with NordVPN readers and customers.
+<USER>

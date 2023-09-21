@@ -1,0 +1,101 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the voting age be lowered?
+Text: Should the UK voting age be lowered to 16? - Britpolitics
+
+BRIT POLITICS, Study, Learn,  Create, Inspire
+
+Elections & Voting Explained
+
+Elections & Voting Explained banner
+
+Should the voting age be lowered to 16?
+
+The voting age was reduced from 21 to 18 in 1969.
+
+Recently there has been a discussion as to whether it should be reduced to 16 and the Labour and Liberal Democrat parties are both committed to the change.
+
+Opinion polls, at present, show that younger voters are less likely to support the Conservatives.
+
+This has been given extra impetus by the Scottish Independence Referendum.  David Cameron and Alex Salmond, leader of the Scottish Nationalist Party at the time of the Referendum agreed that 16 and 17 year olds would be able to vote in the Referendum and the SNP leader expected them to be more pro-independence. Young people were active in the debates and campaigns.
+
+
+Do you want to grow your history blog faster?
+
+Try my FREE Mini Training
+
+Learn my three step process to focus on the right things for you and grow your history blog (even when you don't have much time : ) Unlock actionable tips to prioritise, gain momentum and reach your goals.
+
+    You will receive useful updates too. I would never spam you. Unsubscribe at any time.
+
+    Arguments for lowering the voting age to 16
+
+    Votes at 16 would be consistent with other areas of responsibility. 16 year olds can marry, join the armed forces and consent to medical treatment.
+
+    There is a need to reduce the political alienation of young people who are likely to be as aware of issues at 16 as they would be at 18 and might feel that their views do not matter if they cannot vote.
+
+    A wide range of political decisions affect them such as tax rates, job seekers’ allowance, university fees, bullying and public transport.  Politicians would be more likely to act on these if young people could vote.
+
+    Young people may well have better knowledge of issues than some older people as they are more likely to follow them on the internet and Citizenship Education, which includes electoral systems and how government works, is taught as part of the National Curriculum.
+
+    It is important to increase turnout at elections.
+
+    In the 1964 general election the youngest age group turned out to vote as strongly as other age groups but this has changed.  44% of 18 to 24 year olds voted in the 2010 general election compared with 76% of the over 65s. Voting at 16 when politics is still discussed at school/college may get them into the habit of voting.
+
+    Arguments against lowering the voting age to 16
+
+    People legally become adults at 18.
+
+    Many of the things that 16 year olds can do are still circumscribed, for example, they can join the armed forces but not in frontline service and only with the permission of their parents.
+
+    At 16 people may not have the maturity and life experience to make political judgements.  They may still be under the influence of parents and teachers or college lecturers.
+
+    They may also be easily influenced by popular trends as Cleggmania, which developed after the leaders’ debates in the 2010 general election campaign ,showed, when support for Clegg soared through the social media because of the way that he spoke on camera in the first debate.
+
+    The majority of voters in opinion polls, including half of those in the 16-18 year old group, felt that the voting age should stay at 18.
+
+    Most other countries have chosen 18.
+
+
+    Do You Want To Grow Your History Blog Faster?
+
+    Get Instant Access to my FREE Video Mini-Training Now.
+
+      You will also receive useful updates. I would never spam you. Unsubscribe at any time.
+<USER>

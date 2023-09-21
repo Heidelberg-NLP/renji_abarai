@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJSc8sBx9eeaEio8OsZEXT97tL2C",
+  "object": "chat.completion",
+  "created": 1682692442,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1375,
+    "completion_tokens": 19,
+    "total_tokens": 1394
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is not an argument, but rather a list of upcoming golf trade shows around the world."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0wsjH2MLlt3iBjpdpJtAqMbhr0Z",
+  "object": "chat.completion",
+  "created": 1687864498,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be informative in nature and does not contain a rhetorical argument, so it is not appropriate to assess its quality in terms of \"well-writtenness\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2106,
+    "completion_tokens": 33,
+    "total_tokens": 2139
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C31s8pYEkbQoTLDDHTAqwjo24JQH",
+  "object": "chat.completion",
+  "created": 1683105936,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2514,
+    "completion_tokens": 52,
+    "total_tokens": 2566
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The passage provides a discussion on the neuroscience of sexual orientation, including theories on the developmental biology of sexual orientation and structural and functional differences in the brain based on sexual orientation. The passage presents various studies and evidence on the topic, as well as future research directions."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

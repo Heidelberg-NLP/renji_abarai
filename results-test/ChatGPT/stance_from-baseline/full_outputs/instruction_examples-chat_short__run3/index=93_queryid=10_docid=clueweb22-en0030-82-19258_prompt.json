@@ -1,0 +1,124 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should any vaccines be required for children?
+Text: <style>._3fGh6 { display: none; }</style>
+Should my five-year-old get a coronavirus vaccine?
+
+We’re sorry, this feature is currently unavailable. We’re working to restore it. Please try again later.
+
+Advertisement
+
+This was published 4 months ago
+
+Should my five-year-old get a coronavirus vaccine?
+
+By Samantha Selinger-Morris
+
+The questions have begun lighting up parental WhatsApp groups.
+
+Do the risks of the COVID-19 vaccine for five to 11-year-olds outweigh the benefits? What about that terrifying – but extremely rare – heart condition associated with Pfizer and young men and boys? And what if a child is small for their age, or has allergies?
+
+“I always say to patients, universally, I would never recommend something if I’m not comfortable doing it to my family,” says Sydney general practitioner Dr Daria Fielder, who will vaccinate her six-year-old in January.
+
+“I always say to patients, universally, I would never recommend something if I’m not comfortable doing it to my family,” says Sydney general practitioner Dr Daria Fielder, who will vaccinate her six-year-old in January.Credit:iStock
+
+From January 10, Australia will be rolling out the Pfizer vaccine for children in this age group. This is because it’s been provisionally approved by the Therapeutic Goods Administration (TGA) and has been recommended for use on this age group by the Australian Technical Advisory Group on Immunisation (ATAGI).
+
+Is it safe?
+
+“In a word, yes,” says Professor Robert Booy, an infectious diseases paediatrician at The University of NSW. “But only because we’ve collected important data in the last [few months… showing] very strong, real-world evidence of safety. We now know that two million children aged between five to 11 have been safely vaccinated twice in the USA.”
+
+By this, Booy, an affiliate at the National Centre for Immunisation Research and Surveillance, means that reports from overseas about how children in this age group have fared after being double-dosed document “good safety”. Peer-reviewed papers are still to come, he says.
+
+But Pfizer’s vaccine trial of 2268 children aged five to 11 published in September confirms Booy’s statement. Of the children who were given a 10 microgram vaccine – which is one-third of the dose for people aged 12 and up – three weeks apart, there were no serious reactions. (A caveat: the sample size wasn’t large enough to detect rare adverse reactions.) The most common side effects were a painful arm, headache, and tiredness. All the children who received the vaccine (rather than the placebo) had similar antibody levels after the second dose to people aged 16 to 25. Two doses of the vaccine was also 90 per cent effective at preventing confirmed COVID-19 infection.
+
+And ATAGI has recommended a more conservative – and local experts argue, safer – approach than the United States. Australian children aged five to 11 will be given their 10 microgram doses eight weeks apart, rather than three weeks apart.
+
+Advertisement
+
+“It will be better tolerated and I think it will be safer, and, importantly, it will be even more protective, because the gap increased the immune response,” says Booy, of an eight-week-apart dose for children, a model that has already been adopted in Canada.
+
+What are the risks?
+
+The vaccine is associated with an extremely rare risk of developing myocarditis – inflammation of the heart muscle. This is the condition that has spooked parents since the beginning. Most common in males under the age of 30, the side effect usually goes away without complications. But serious cases can permanently damage the heart muscle and possibly cause heart failure. It has been estimated that 2.7 people per 100,000 who have had the Pfizer COVID-19 vaccine have developed the condition.
+
+But it is likely that the eight-week-long gap in doses will even further minimise the already extremely rare risk of developing the condition, say experts including Booy. (One Canadian study has shown that rates of myocarditis after the Pfizer vaccine in people aged 12 and above were lowest in those who had doses spaced 56 or more days apart, and highest in those with an interval of 30 or fewer days.)
+
+And, crucially, adds Booy: “If you catch it [myocarditis] from COVID-19, it’s much more likely to be severe, put you in hospital and potentially even be deadly. But myocarditis after a vaccine is almost always mild, you get over it within days. And I’m not aware of any deaths from myocarditis as a vaccine side-effect in a child.”
+
+So if a child experiences chest pains following a COVID-19 vaccination, Dr Daria Fielder, a general practitioner in Sydney’s Bondi Junction who’s been rolling out the vaccine has a reassuring message: it’s very possibly the result of anxiety.
+
+As a precaution, she recommends that children – particularly boys – engage in only gentle activity for seven days following a COVID-19 vaccination. Her other guidelines: children with conditions including cardiac issues or allergies should see a doctor before vaccination to discuss any potential problems. Children who experience chest pain following vaccination should see a doctor to be assessed and treated.
+
+A final word from Professor Bruce Thompson, dean of Health Sciences at Swinburne University. Potential side-effects from the vaccine are “so so rare”, but if a child experiences any concerning symptoms – like shortness of breath and chest pain – they should not hesitate to see a doctor, so their child can be monitored and treated. “Sadly, some of the cases of adults [who died after AstraZeneca-related blood clotting], they ignored symptoms for way too long.”
+
+What if children have allergies or require other immunisations?
+
+“No, I wouldn’t be mixing it,” says Fielder of immunising a child against other viruses at the same time as COVID-19, adding that a child also needs to be completely well, with no fevers or colds in order to get their vaccination.
+
+As for those parents with children who are tiny for their age? “These [paediatric] doses, it’s all been taken into consideration, it’s very safe for weight of different kinds,” says Fielder.
+
+What’s the risk of COVID-19 to children?
+
+“Currently, the risk of COVID is much higher than any risk of potential side effect for vaccinations,” says Fielder, whose 12-year-old son experienced chest pains and palpitations after his first Pfizer dose. (He was fine, and received his second shot without problem.) “I’m terrified of myself, or anyone getting COVID, and that includes my six-year-old. Why would I play Russian Roulette and allow my child, if I can prevent it, to contract COVID, and not know what’s going to happen to his lungs in five years?” While COVID-19 has killed five million people globally and is an “unpredictable beast that is constantly mutating”, she says, the vaccine is “controlled, and we know how it behaves, essentially”. “No one knows how it [COVID-19] affects a person, whether it’s a child or an adult, six months, 12 months, two years, five years down the track.”
+
+And children are at risk – though rare – of developing a serious condition associated with COVID-19, says Professor Thompson, a respiratory expert with experience in epidemiology. “They’re not totally and utterly immune from all this [serious problems from contracting COVID-19],” he says, referring to multisystem inflammatory syndrome (MIS-C), which causes inflammation to various parts of the body. Severe cases may cause inflammation of the heart muscle, which may result in low blood pressure, and admission to an intensive care unit. ATAGI states that about one in 3000 children with COVID-19 go on to develop the condition. There have been four confirmed cases of MIS-C in Australia.
+
+What of the risk of serious long-term side effects from the vaccine itself?
+
+“By definition, we can’t make a judgment about what’s going to happen in five, 10 years,” says Thompson. But we should take “a lot of solace” from the fact that other vaccines have wiped out viruses like smallpox and polio in highly vaccinated countries. “It’s not like we’ve never done this before [and scientists are thinking] ‘I think we’ll have a go at it’. This is vaccination. We’re pretty good at this,” he says, adding that we’ve been safely vaccinating babies against diseases like measles, mumps and rubella, for decades.
+
+Vaccinating five to 11-year-olds, he adds, is also a key to stopping the virus from proliferating. “The last thing we want is a whole bunch of children who are not vaccinated who ultimately pass the virus to each other... [Because] once you contract it, it’s an opportunity for the virus to mutate and create another variant. We want to suppress the whole thing.”
+
+Make the most of your health, relationships, fitness and nutrition with our Live Well newsletter. Get it in your inbox every Monday.
+
+correction
+
+A previous version of this article cited a statistic from the Canadian Paediatric Society regarding the risk of MIS-C in children. This has been amended to refer to the ATAGI statistic.
+
+Thank you for reading the Herald. This article is complimentary.
+
+Register or log in now to read more articles and unlock extra benefits.
+
+No payment required
+
+or
+
+By continuing, you agree to your personal information being collected under our privacy policy and accept our terms of use.
+<USER>

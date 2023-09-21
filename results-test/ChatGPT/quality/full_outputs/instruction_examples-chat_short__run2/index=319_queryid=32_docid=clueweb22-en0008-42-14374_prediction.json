@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2mwXW7G45aBTCDazZP9Jxw4HGg5",
+  "object": "chat.completion",
+  "created": 1683105010,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1320,
+    "completion_tokens": 23,
+    "total_tokens": 1343
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is a general reference providing information on the cost of electronic voting machines and does not present any argument or position."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

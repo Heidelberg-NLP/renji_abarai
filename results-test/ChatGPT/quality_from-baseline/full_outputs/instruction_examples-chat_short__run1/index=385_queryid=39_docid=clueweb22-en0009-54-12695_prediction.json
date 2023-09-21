@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzgFFXrPt8Pr2h1zFa6YUuO1gJnq",
+  "object": "chat.completion",
+  "created": 1687859623,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text argues against increasing the minimum wage and presents several possible negative effects, such as unemployment, inflation, and decreased education. The arguments are supported by evidence and logical reasoning, and the language used is appropriate for a formal debate. Therefore, the rhetorical argument quality can be considered high."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2620,
+    "completion_tokens": 57,
+    "total_tokens": 2677
+  }
+}

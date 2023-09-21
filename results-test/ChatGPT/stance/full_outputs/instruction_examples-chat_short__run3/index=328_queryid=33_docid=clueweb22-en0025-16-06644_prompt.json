@@ -1,0 +1,126 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should people become vegetarian
+Text: Free Essay: Should We All Become Vegetarians? - 806 Words | Studymode
+Top-Rated Free Essay
+
+Should We All Become Vegetarians?
+
+Good Essays
+Should all people become vegetarians ?
+
+As we can now observe, vegetarianism has become something fashionable, and the number of people who reject eating meat is constantly increasing. In Britain, for instance, over 5 million people have done it so far. It is obviously connected with the recent animal diseases, but this tendency is likely to spread on the other regions of the world. However, it is not only a fashion or fear of illnesses. I myself became a vegetarian about 2 years ago, and I can see a number of reasons why people should stop eating meat. They are mainly of ethic, economic and health type. Those who think in an ecological way should also be aware of how this meat consumption ruins our environment. I don't have an intention to force anybody to become a vegetarian, but I hope that my argumentation would be strong enough to make some people think about it, at least. In this essay I will try to present this point of view, expressing my personal feelings and showing scientific facts about the problem. Let me begin with the words by George Bernard Shaw: Animals are my friends and I don't eat my friends'. This indicates the ethic aspect of meat consumption. In fact, people often don't realize how animals are treated, but they can see commercial spots in their TV showing smiling pigs, cows or chickens, happy and ready to be eaten. My impression is that there can't be anything more cruel and senseless. It is no secret that animals suffer all their life from the lack of living space, unnatural diet and doping. Finally, they are transported to slaughterhouse, where they are stunned by electricity and then brutally slain with a chopper. Life of such animal is full of pain and fear. It is a sad truth that nobody thinks about it while eating pork-chops. People often consider animals as a still matter, not living creatures. It also needs to be pointed out that meat production industry is highly unfriendly to the environment. It has been proved that the results of this mindless actions are extremely harmful to the whole planet: trees are lost in creating farms for animal food, land is taken away from wildlife, additional erosion is caused, topsoil is lost, groundwater is wasted, and pesticide is excessively used. In fact, one chicken farm uses as much water as a little city. Few may know that this industry, compared to others, causes the biggest pollution at all. One cannot omit the fact that there are some global economical problems caused by mass meat consumption, such as starvation. Cattle are fed soybeans, corn, and other grains that could be eaten directly by people. You can feed a cow 16 pounds of food, and only one pound becomes meat that people can eat. The other 15 pounds are waste. It has been proved that decreasing global meat production by 10% would allow us to feed additional 60 million people. I am convinced that it is a strong argument why all people should become vegetarians. On the other hand, some may claim that we are carnivores and that it is natural for us to eat meat. I beg to differ. Human body was not designed to hunt animals but for picking fruits off trees, berries off bushes, and for harvesting roots and grains. We are herbivores, like elephants, giraffes, and oxen. A tiger can eat as much meat as he can for every day of his life, but he will never get hardening of the arteries. In addition he has ten times bigger hydrochloric acid concentration in his stomach than us, and his bowels are two times shorter. A moment's reflection shows that our bodies are not designed for meat, and the depravation of proper nutrition has caused the terrible diseases that we have come to accept as normal. It is a scientific fact that vegetarians have substantially less heart attacks, strokes and cancers. The conclusion seems inescapable that vegetarianism is a reasonable way of feeding. Not only would it help to solve the famine problem, but the whole environment would greatly benefit from that as well. As far as ethics is concerned, Mohandas Gandhi used to say: The greatness of a nation and its moral progress can be judged by the way its animals are treated.' However, it is indeed a really sad truth that people don't usually care about that. What's more, they don't even care about their own health. All things considered, if you want to make some moral progress, if you want to improve your health, and if the Earth and starving children mean something to you, you should try to stop eating meat. Yes, it is my strong conviction that all people should become vegetarians.
+
+You May Also Find These Documents Helpful
+
+  • Good Essays
+
+    Having a vegetarian diet has been a topic that creates conflicting opinions, and it seems that the controversy gets bigger as time goes on. In the times that we are living in today, where we are constantly bombarded with information through television or internet, it makes it hard to know who is right and who is wrong on this issue. On one hand, we have the ones who believe that eliminating meat and processed foods from our diets and replacing them with vegetables and fruits is the solution to…
+
+    • 1132 Words
+    • 5 Pages
+    Good Essays
+  • Good Essays
+
+    Should people become vegetarians? Today people have many concerns in their lives so their attentions to what they eat decreases day by day. In this chaotic world eating meat-based diet cannot be good for people and the world around them. Switching to a vegetarian diet is the most effective thing that people can do to make this world a kinder, fairer, and better place to live and this can improves health. As Albert Einstein said, "Nothing will benefit…
+
+    • 761 Words
+    • 4 Pages
+    Good Essays
+  • Good Essays
+
+    I have always held the view that killing an animal for food is morally wrong due to having being brought up as a vegetarian. Although I will maintain this lifestyle for as long as I live, I have begun to understand why the majority of people find vegetarianism a mystery. Around two million land animals are slaughtered everyday in the UK alone to be devoured by humans #. Whether this is a surprise to you or not, this is a big proportion of livestock and there is bound to be millions of more animals…
+
+    • 952 Words
+    • 4 Pages
+    Good Essays
+  • Satisfactory Essays
+
+    Become a Vegetarian
+
+    • 522 Words
+    • 3 Pages
+
+    Become a Vegetarian! Shatia Davis General Purpose: To persuade. Specific Purpose: Today, I will persuade you why you should become a vegetarian. Thesis statement: I will tell you first where some meat really comes from; second I will tell you how some animals are slaughtered; lastly I will try to persuade you to become a why vegetarian. * Attention-getter: How many people in here eat meat? Well I’m sure some of you can't imagine a day without meat, that’s why I’m here today to persuade…
+
+    • 522 Words
+    • 3 Pages
+    Satisfactory Essays
+  • Good Essays
+
+    Dallas Barrett Ms. Johnson English 1020-074 18 Mar. 2014 Annotated Bibliography: Should People Become Vegetarian? Paul McCartney once said, “if slaughterhouses had glass walls, everyone would be a vegetarian;” in turn, Anthony Bourdain once said, “life without veal stock, pork fat, sausage, organ meat, demi-glace, or even stinky cheese is a life not worth living.” These arguments about humans becoming vegetarians have reached epidemic proportions. Whether humans believe in exterminating animals…
+
+    • 2737 Words
+    • 11 Pages
+    Good Essays
+  • Good Essays
+
+    Why people become vegetarians? According to the growing population on Earth, there are approximately 17 million vegetarians in the world. Vegetarians are people who have decided to say “NO” to products of an animal origin. Today vegetarianism also is considered a slimming diet. But in origin, about a thousand years ago, the idea of animal origin product refusal had more religious character. The first vegetarians were ancient religion and the philosophical representatives, which supported…
+
+    • 2094 Words
+    • 6 Pages
+    Good Essays
+  • Good Essays
+
+    We Should All Be Feminist
+
+    • 834 Words
+    • 4 Pages
+
+    In Chimamanda Ngozi Adichie’s ted talk titled “We Should All Be Feminists”, Adichie discusses the subject matter of what the word feminists means and how feminism still affects her life today. In one of the most important points of Adichie’s speech, she discusses how she was led to believe that being a feminist was a bad thing, and how boys are put on a higher pedestal than women from the many examples she gave, like how a boy in her primary school was given the position of class monitor, just for…
+
+    • 834 Words
+    • 4 Pages
+    Good Essays
+  • Powerful Essays
+
+    Rebecca Chan Nature versus Nurture: Humans Should Morally Become Vegetarians To many, it is very acceptable and seemingly natural that humans include meat in their common diet. This practice can be found historically and globally across many countries and cultures. It is undeniable that humans are omnivores and have been for the past many millenniums. However, is consuming meat actually natural? What is acceptable may not be natural and may have become acceptable due to our environment and nurture…
+
+    • 1312 Words
+    • 6 Pages
+    Powerful Essays
+  • Good Essays
+
+    Vegetarian Vs Vegetarian
+
+    • 639 Words
+    • 3 Pages
+
+    Is being a meat-eater healthier or being a vegetarian healthier? There are many eating habits all around the world. Most people don't decide what they want for their eating choice until they are old enough to where they can decide what they want to eat, without causing any health problems. In today's society, adults are finding more health problems and many children are choosing at a younger age that they don't want to eat meat. Why? Do they know what eating meat could do to them, or do they not…
+<USER>

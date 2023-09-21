@@ -1,0 +1,136 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should fight allow hockey
+Text: Opinion: Should fighting be banned from hockey?
+
+Dec 19 2017, 8:56 am
+
+On the first day of the 2013-14 NHL regular season, Montreal’s George Parros was rolled off the ice in a stretcher after falling face first on the ice during his second fight of the night against Colton Orr.
+
+ADVERTISEMENT
+
+This week, 10 NHL alumni filed a class action lawsuit against the NHL. According to the lawyers representing the players, the “NHL has failed to effectively respond to the head injuries sustained by players.”
+
+This is not the first concussion lawsuit in sports. In August this year, the NFL reached a $765 million dollar settlement to diagnose and compensate some 18,000 former NFL players.
+
+Since the incident on NHL’s opening night and the recent concussion based lawsuits, the question “should fighting be banned in hockey” has once again come to life. So we decided to look at some of the top reasons why hockey should and should not be banned. How do you think fighting in hockey should be dealt with?
+
+Reasons why NHL should ban fighting
+
+There are many people out there who believe that fighting is toxic to hockey and that it should be banned, and here are some common reasons:
+
+1. Long-term health ramifications
+
+The most obvious reason for banning fighting in hockey is because of the health ramifications. Taking several blows to the head, more often than not, leads to concussions. Athletes that get multiple concussions may have to deal with chronic headaches, fuzzy vision, nausea, dizziness, sensitivity to light, sensitivity to noise and balance problems at some point in their careers or lives.
+
+2. All other goal-related sports do not have a fighting component
+
+Hockey, soccer, basketball, football – all are team sports scored by getting the “ball” of the game into some sort of area, defended by the opposing team. However, out of all these sports, only hockey allows for fighting. Some would argue that it’s time hockey followed the other major “scoring” sports and abolish fighting.
+
+3. It’s assault, pure and simple
+
+Any time someone throws a punch in order to harm someone else, it’s called assault and it is a breach of the law – unless you’re in a hockey rink, in which case it’s called entertainment. Why should professional hockey players be above the law, just because they are in a different setting than us every day average joes?
+
+4. No technique or skill involved
+
+Let’s refer to this video, the so-called 10 best hockey fights of the decade:
+
+ADVERTISEMENT
+
+[youtube id=”Ui1LhEqqnC8″]
+
+With the exception of #9, all the other so-called “best fights” are literally two grown men grabbing each other by their jerseys and trading completely wild punches with absolutely no technique involved. If it were a boxing or MMA match, you’d be jumping off your seat asking for your money back upon watching such a dull fight.
+
+5. It lowers the level of the game
+
+Teams are pressured to sign “enforcers” to protect their star players; this results in a vicious cycle where more teams are pressured to hire enforcers against other team’s enforcers. Most of the time, however, these enforcers are not very good at the act of playing hockey themselves. If teams don’t feel the need to sign enforcers, that will make the entire league more talented and skilled.
+
+Reasons why NHL should not ban fighting
+
+Others believe that fighting is a time-honored tradition and an integral part of hockey, and that it should not be banned due to the following reasons:
+
+ADVERTISEMENT
+
+1. Policing of cheap shots and protecting star players:
+
+There are many times when cheap shots aren’t called – if it happens away from the play, or maybe just because the refs didn’t see it. Fighting allows teams to send a message, to say: “lay off our top player and play the game, or else”. Fighting is allowing skilled players more breathing room and more safety from underhanded tactics.
+
+2. The NHL is a business, and fighting is entertaining
+
+Even the toughest detractors from fights have to admit that some fights are truly awe worthy and entertaining. Two huge guys slugging it out may not be the most technical and pretty fight you’ve ever seen, but it’s still amazing to see two guys who are passionate about the game give it their all.
+
+3. Enforcers choose to fight of their own will
+
+While it is true that there are very few people in the world who enjoys the prospective of fighting night in and night out, the NHL is not forcing anyone to fight. It’s of their own accord that people choose to fight, and they know and understand the ramifications and risks of a fight. Do you believe that fighters have the freedom to choose whether they fight, or that we should make extraneous rules to protect the fighters?
+
+4. Banning hockey would take away the Gordie Howe Hat-trick.
+
+What would Mr. Hockey think?
+
+ADVERTISEMENT
+
+What should the NHL do about fighting if they don’t want to ban it?
+
+Here are some ideas:
+
+Limit the minimum amount of ice-time each player has to play
+
+In order to weed out the “enforcers” who only play for two minutes and then gets a misconduct for a fight, have a minimum ice-time (say, 10 minutes?) so that it will weed out players who are only there to fight from the players who can fight but can also play.
+
+Harsher fighting penalties
+
+An automatic one or two game suspension so that a team can’t just have a “fighter” clog up a spot in the locker room. Also, harsher penalties will ensure that players will think twice about fighting.
+
+Give refs more control over fights
+
+Let the refs decide when to end the fights to minimize the chances of injury between fighters. Some have suggested that refs should be more “in your face” like MMA or boxing refs to control the fight better.
+
+ADVERTISEMENT
+
+Should fighting be banned from hockey?
+
+Written by Nadeem Kassam from Connect the Doc, guest contributor to Vancity Buzz. Connect the Doc is an online booking platform that helps people find and book short-notice healthcare appointments with Vancouver physiotherapists, massage therapists, chiropractors, and dentists, free of charge. To learn more you can visit www.connectthedoc.com.
+
+DH Vancouver StaffDH Vancouver Staff
+
++ News
+ADVERTISEMENT
+ADVERTISEMENT
+ADVERTISEMENT
+<USER>

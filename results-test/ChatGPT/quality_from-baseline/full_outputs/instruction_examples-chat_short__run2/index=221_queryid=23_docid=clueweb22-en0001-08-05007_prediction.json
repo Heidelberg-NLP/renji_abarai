@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0xcleL6p0mV9UXVeMfdd21qGYvD",
+  "object": "chat.completion",
+  "created": 1687864544,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text appears to be a well-written argumentative essay that presents and supports the writer's opinion on euthanasia and physician-assisted suicide. The sentences are easy to follow, and the arguments are presented in a clear and organized manner. The text is free of profanity and typos. Overall, the rhetorical argument quality is high."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2427,
+    "completion_tokens": 68,
+    "total_tokens": 2495
+  }
+}

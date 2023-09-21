@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJTX93RxQwFdQKC2AgT8mcxQAzAE",
+  "object": "chat.completion",
+  "created": 1682692499,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2120,
+    "completion_tokens": 37,
+    "total_tokens": 2157
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The Eighth Amendment does not prohibit the use of the death penalty, however, it shapes certain procedural aspects regarding when a jury may use the death penalty and how it must be carried out."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

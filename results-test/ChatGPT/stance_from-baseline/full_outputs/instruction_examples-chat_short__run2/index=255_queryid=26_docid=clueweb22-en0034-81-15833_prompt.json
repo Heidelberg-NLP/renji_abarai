@@ -1,0 +1,116 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do standardized tests improve education?
+Text: Response: Ways to Improve State-Standardized Tests (Opinion)
+Opinion Blog
+
+Classroom Q&A
+
+With Larry Ferlazzo
+
+In this EdWeek blog, an experiment in knowledge-gathering, Ferlazzo will address readers’ questions on classroom management, ELL instruction, lesson planning, and other issues facing teachers. Send your questions to lferlazzo@epe.org. Read more from this blog.
+
+Education Opinion
+
+Response: Ways to Improve State-Standardized Tests
+
+By Larry Ferlazzo — August 04, 2018 15 min read
+  • Save to favorites
+  • Print
+
+The new question-of-the-week is:
+
+How are state standardized assessments working and how can they be made better?
+
+
+I don’t think I’ve ever met a teacher who has been satisfied with the the standardized tests they are required to give their students - no matter who has created them!
+
+Today, Douglas Reeves, Jennifer Borgioli, Kristin DeJong, Chris Gareis, and Leslie Grant explore about how they can be improved. Though this column doesn’t have an accompanying podcast, you can still listen to past ones here .
+
+Response From Douglas Reeves
+
+Douglas Reeves is the author of more than 30 books on education and leadership. He blogs at CreativeLeadership.net and tweets from @DouglasReeves:
+
+How to make state assessments better? The easy answer would be to say, “eliminate them.” But there is a legitimate public interest in knowing how students are performing, especially in essential skills such as reading.
+
+I have listened to teachers weep as they talk about students who simply put their heads down when faced with hour after hour of testing, or thanks to computer failures, have students lose hours of work and start over on state-mandated exams. To bridge the gap between the “test them ‘till they drop” crowd and the “never test” opponents, let me offer a few simple ideas to make standardized assessments more useful.
+
+First, make the tests shorter. In their zeal for high reliability coefficients and adhering to content sampling requirements, test designers have made tests unreasonably long. After 30 or 40 minutes, we are testing endurance, not learning.
+
+Second, test throughout the year with locally designed and implemented assessments. If we really want to measure growth, then the best way to do so is to compare the same student to the same student within the same year while working with the same teacher. Three short 30-minute assessments in fall, winter and spring would reveal far more about student growth than a three-hour test at the end of the year over the course of three years by three different teachers.
+
+Finally, publish the full data sat - raw scores, individual items, and everything. This would, of course, drive the multi-billion dollar testing industry - both for-profit and non-profit - mad, because they thrive on the secrecy of their items. But if we expect testing to be a vehicle to improve teaching, learning, policy, and leadership, then we need an open book. We need to know, for example, the difference between a test item that is difficult and one that is merely obscure. The former is a challenge to teachers; the latter a challenge to test writers.
+
+Response From Jennifer Borgioli
+
+Jennifer Borgioli is a Senior Consultant at Learner-Centered Initiatives, Ltd. where she supports teachers, schools, and districts with designing assessments that capture evidence of student learning in ways that are meaningful for students and teachers. She also assists districts with auditing or reviewing their tests and assessments in order to better support balanced assessment systems. Her Twitter handle is @JennLCI:
+
+For one delightful day this summer, August 21, Americans both young and old stopped what they were doing and looked up to the sky. Eye protection carefully in place and the repeated warnings to not look directly at sun ringing in our ears, we shared a moment of wonder at the natural world. The following day, August 22, New York State released the results of student performance on the 2017 state tests and us New Yorkers - educators, reporters, bloggers, and real estate agents stopped what we were doing to stare directly at them.
+
+My hunch is that the most powerful answer to a question about how the state assessments are working and how they can be made better lies in shifting our eyes and avoiding the bright glare of the tests and looking at their edges. To be sure, policy and large-scale assessment design folks who best understand the test themselves have lots to offer around how the assessments are working and what can be done to improve them. I’m personally optimistic about the New Hampshire’s PBA experiment , New York’s Performance Consortium , and the rise of portfolio or Competency-Based schools in Pennsylvania , California and Illinois . If the tests are going to get dramatically better, I suspect the ESSA innovative assessment pilot will help make that problem. However, these solutions are long-term and outside the sphere of influence of building and classroom educators.
+
+If we want to best understand how the tests are working, it’s compelling to consider how they’re working from the students’ perspective. On one hand, tens of millions of children go to school a few days a year and take a state standardized test. They return the next day, seemingly no worse for the wear. On the other, pieces like this one by Kristina Rizga tells us clearly that there are students who feel they’re not working. Most importantly, the students interviewed stress it’s not just the one (or two of three) state standardized tests; it’s the cumulative effect of how districts respond to them.
+
+Rather than focusing on making the tests better, which is a long-term proposition, we can immediately make the conditions around the tests better. We can eliminate redundant tests and take careful stock of just how often students are asked questions with one best answer. Teachers, parents, and administrators can consider the language, tone, and vocabulary they use. Do we speak of the tests in terms that communicate they are a routine part of school or are we unconsciously telling students they’re the most important thing that will happen to them that year? Do we focus on increasing scores or decreasing stress? Do we lift the burdens students carry around the tests or do we add to them? It’s entirely possible to prepare students for standardized tests in a way that maximizes what we know about learning sciences, metacognition, and stereotype threat, but this requires quality professional development and district-based guidance around what that looks like inside a standards-based, high quality, learner-centered curriculum.
+
+For 15 years, states have been working towards better standardized tests. And in that time, educators have been facing down the tests themselves, trying to figure out the right combination of bubbles and lines to capture student learning. My hunch is that unless we look away and concentrate on what happens around the tests, it won’t matter how good the tests end up, they still won’t work well for all.
+
+
+Response From Kristin DeJong
+
+Kristin L. DeJong, M.Ed., is a Learning Sciences International staff developer. DeJong has taught high school and middle school classes at public, private, and charter schools, serving in a wide array of capacities, including new teacher mentor, Department Chairperson, PLC team leader, Assistant Principal of Curriculum and Instruction, and Literacy Instructional Coach:
+
+“I Choose C” Is Not the Answer: Moving Beyond Old-World Testing
+
+Ask any dedicated teacher how the plethora of current standardized tests are working and the answer you’ll most often hear is simple: “They’re not.”
+
+The joy of teaching and the fun of learning are disappearing because the world of education has turned into test preparation. Gone are the days when the P-SAT, SAT or ACT were the only standardized tests administered with college admission as the goal. Year after year, educators from all grade levels face an unavoidable issue--they’ll need to prepare themselves and their students for a myriad of state standardized tests.
+
+Many feel that their students are over tested. Students themselves feel stressed by the notion that high-stakes tests will dictate their future. In some states, a third grader cannot move to fourth grade without passing a reading and math test. Parents are overwhelmed during “testing” season as they worry and question if their child is prepared, both academically and socially, to perform well. This is not healthy for our society or our educational system.
+
+Restructuring Assessment to Support a “New World Economy” Classroom
+
+Let’s be clear: teaching to standards is not the issue. Having common standards across the nation is not a bad thing. When moving from one state to another, it’s quite comforting to know that students are being instructed with similar standards, developing similar skillsets.
+
+Testing is the issue. Quite simply, there’s too much testing, and the formats of these tests are outdated. From district progress-monitoring tests, end-of-course exams, and high-stakes comprehensive year-end exams, our students become overwhelmed by testing throughout the year, and far too many “check out” of their learning.
+
+Standardized testing also goes against all the work we’re doing to shift our educational strategies to address the need for collaboration, creativity and problem-solving skills in the classroom. In an age where forward-thinking, progressive educators are trying to “ignite” a passion for creating a “new world economy” classroom, tests continue to be formatted for an “old world economy” classroom.
+
+Rethinking the Multiple Choice Testing Format
+<USER>

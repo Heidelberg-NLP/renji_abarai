@@ -1,0 +1,147 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: college education worth
+Text: Last updated on: 1/27/2020 | Author: ProCon.org
+
+Pro & Con Quotes: Is a College Education Worth It?
+
+ 
+
+PRO (yes)
+
+Pro 1
+
+Jim McCorkell, MPA, founder and CEO of College Possible, wrote in a June 4, 2019 opinion piece titled “The Dangerous Message in Telling Low-Income Students to Skip College,”available at hechingerreport.org:
+
+“The message that college is ‘no longer worth it’ is not only false but also dangerous for America’s low-income students…
+
+On the whole, a college degree remains the surest bet for social and economic advancement. The economic returns of college are especially profound for low-income students, and yet they are far more susceptible to college avoidance than their more affluent peers, who are likely to go to college anyway.
+
+Such views are hugely problematic for those of us hoping to improve economic mobility in the United States. Almost all the job and wage growth now goes to people with some form of postsecondary education. “
+
+Pro 2
+
+Jeanne Allen, MS, founder of the Center for Education Reform, wrote in a Mar. 28, 2019 article titled “College Isn’t For Whom?,” available at forbes.com:
+
+“[M]ost students who finish a U.S. higher education have trained minds that can handle a variety of positions and occupations. While that may not materialize for every student, it’s simply folly to argue we should discourage higher ed aspirations for millions because there are unfilled jobs in service fields. Meanwhile, China knows that higher ed attainment is directly correlated to successful economies. That’s why they export their students here and import our universities’ practices…
+
+Our society loses the ability to function when its citizens do not know history, cannot and are not trained to read complicated texts and cannot weigh decisions for themselves, their world…
+
+Any employer wants employees who can problem-solve and who knows how to learn. There are many paths to those attributes, but college – or some modern evolution of it — is the most likely equalizer for these soft skills.”
+
+Pro 3
+
+Rory Kraft, PhD, philosophy professor at York College of Pennsylvania, wrote in a Sep. 2, 2019 opinion article titled “College Is Not for Everyone? Here’s What That Mantra Gets Wrong,” available at azcentral.com:
+
+“The trouble with the ‘college is not for everyone’ message is not in the recognition that the trades are a necessary part of our life. It is the message that college is only for ‘some’ people.
+
+In an attempt to beat back the perception that a college education is elite, those who call for an appreciation of the professional tracks have inadvertently put forward that carpenters don’t need to know history, mechanics don’t need critical thinking, HVAC technicians don’t need to understand economics, or that landscapers shouldn’t be fluent in a second language…
+
+I want everyone to have the benefits of a college education: to have the skills to live a life full of enjoyment, reflection and self-betterment.”
+
+Pro 4
+
+Mamie Voight, MPP, Vice President of Policy Research at the Institute for Higher Education Policy, in an interview with John S. Kiernan for the Feb. 3, 2017 article for WalletHub titled “Is College Worth It? Experts Pick Sides,” stated:
+
+“Absolutely. College is the pathway to the middle class, a practical prerequisite for success in today’s knowledge-based economy. The typical bachelor’s degree recipient earns nearly 50 percent more than a high school graduate over her lifetime, reaping the financial rewards of her degree around age 36… She also will be healthier, less likely to be unemployed, and more involved in her community – sharing her personal payoff with us all. College isn’t only worth it for the individual student; it’s worth it for our nation.”
+
+Feb. 3, 2017 - Mamie Voight, MPP
+
+Pro 5
+
+Barack Obama, JD, 44th President of the United States, in remarks at Pellissippi State Community College in Tennessee on Jan. 9, 2015, available at www.whitehouse.gov, stated:
+
+“Education helps us be better people. It helps us be better citizens. You came to college to learn about the world and to engage with new ideas and to discover the things you’re passionate about — and maybe have a little fun. And to expand your horizons. That’s terrific — that’s a huge part of what college has to offer.
+
+But you’re also here, now more than ever, because a college degree is the surest ticket to the middle class. It is the key to getting a good job that pays a good income — and to provide you the security where even if you don’t have the same job for 30 years, you’re so adaptable and you have a skill set and the capacity to learn new skills, it ensures you’re always employable.
+
+And that is the key not just for individual Americans, that’s the key for this whole country’s ability to compete in the global economy. In the new economy, jobs and businesses will go wherever the most skilled, best-educated workforce resides… And I want them to look no further than the United States of America.”
+
+Jan. 9, 2015 - Barack Obama, JD
+
+Pro 6
+
+Franklyn Casale, MDiv, President of St. Thomas University, in a June 21, 2013 Miami Herald article, “College Degree Always Worth the Investment,” available at www.miamiherald.com, wrote:
+
+“A college degree is always an investment worth making.
+
+In the years a student spends working to obtain a degree, he or she develops as a person in ways that cannot be measured by the ‘investment’ of going to college. Whether through group projects with fellow students, an internship with a company, or individual research on behalf of a professor, the college experience educates the whole individual, and helps to develop the person’s values.
+
+It is during one’s college years that one develops a sense of self, a world view, an appreciation for the dignity of people, and an enthusiasm for the arts. Also, because of various internship and volunteer opportunities during college, the college graduate has gained a deeper understanding of the importance of civic engagement.”
+
+June 21, 2013 - Franklyn Casale, MDiv
+
+Pro 7
+
+Joseph E. Aoun, PhD, President of Northeastern University, in a June 9, 2011 article, “A College Education Is Your Best Bet,” available at www.cnn.com, stated:
+
+“In boom times and recession, labor market figures consistently show that college graduates have a much lower unemployment rate than their less-educated peers…
+
+[P]reparing students for careers is just one important part of what colleges do. For example, in a recent national survey conducted by the Pew Research Center, more than 90% of college graduates reported that college helped them grow intellectually and mature as individuals. College expands students’ horizons, exposes them to ideas and fields of study they might not encounter otherwise and fosters relationships with diverse peers. It prepares people to become engaged citizens in ways that few other experiences can…
+
+Time and again, countries have relied on colleges and universities as the surefire way to expand their economies and promote social mobility. In the 1950s, the dramatic expansion of higher education in the United States helped create the American middle class. In one generation, South Korea propelled itself from the ranks of the world’s poorest nations to among the world’s richest, in large part by emphasizing higher education.”
+
+June 9, 2011 - Joseph E. Aoun, PhD
+
+Pro 8
+
+Anthony P. Carnevale, PhD, Research Professor and Director of the Georgetown University Center on Education and the Workforce, in a Apr. 9, 2012 New York Times article, “For a Middle-Class Life, College Is Crucial,” available at www.nytimes.com, stated:
+
+“After World War II, the United States economy promised middle-class jobs to high school graduates. As late as the 1970s, more than 70 percent of middle-class jobs still required only high school or less, but between 1973 and 2010, the share of jobs requiring education beyond high school more than doubled, to more than 60 percent from 28 percent.
+
+Furthermore, since the ’80s access to college is what has distinguished the middle class from the growing number of low-income Americans. People with at least some college are staying in the middle class or moving up. In addition, the rate of successful family formation has ties to college access; 8 percent of college-educated women bear children out of wedlock, compared to more than 57 percent of women who are not college educated.
+
+Our research shows that individuals with college degrees now make 84 percent more over their lifetimes than those with only a high school diploma, up from 40 percent in 1983. Only a third of high school jobs that provide anything close to family-sustaining earnings ($35,000 a year) still exist, and these opportunities are mostly for men in declining industries.”
+
+Apr. 9, 2012 - Anthony P. Carnevale, PhD
+
+Pro 9
+
+Richard Deitz, PhD, Assistant Vice President for the Federal Reserve Bank of New York, in an Aug. 3, 2013 Buffalo News interview, “College Is Still Worth It, Despite the Cost,” available at www.buffalonews.com, stated:
+
+“Even if you get a degree in a major that didn’t have very good luck, let’s say liberal arts, and you work in a job that didn’t require a degree, those people still earn higher wages than people who just had a high school diploma, by far.
+
+…Because you are getting skills by getting your degree, no matter what your major is, those skills are going to help you no matter what your job is and those skills are going to help you continue to move up the ladder… So there are significant differences in terms of what wages you can expect to earn with a degree, even if you don’t find your dream job right out of college.”
+
+Aug. 3, 2013 - Richard Deitz, PhD
+
+Pro 10
+
+Tom Carroll, PhD, President of the National Commission on Teaching and America’s Future, in a Nov. 17, 2011 US News article, “K-12 Education Should Take a Lesson from Colleges,” available at www.usnews.com, stated:
+<USER>

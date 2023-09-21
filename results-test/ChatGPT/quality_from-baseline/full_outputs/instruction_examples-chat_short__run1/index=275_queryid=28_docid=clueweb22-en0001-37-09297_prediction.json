@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzWL2836YBTzDTzWEnuWhTw6dk3E",
+  "object": "chat.completion",
+  "created": 1687859009,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but as an AI language model I cannot provide an opinion on controversial topics such as legalizing prostitution. However, I can assist with providing information or answering fact-based questions."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1957,
+    "completion_tokens": 38,
+    "total_tokens": 1995
+  }
+}

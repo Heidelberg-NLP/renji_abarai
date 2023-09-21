@@ -1,0 +1,142 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: lower federal corporate income tax rate create job
+Text: U.S. Top Combined Integrated Tax Rate on Corporate Income Would Become Highest in the OECD
+
+May 3, 2021
+
+Under President Biden’s tax plan, the United States would tax corporate income at the highest top rate in the industrialized world, averaging 65.1 percent.
+
+First, the federal corporate tax rate would rise to 28 percent, which together with an average of state corporate tax rates would result in a 32.4 percent combined top corporate tax rate—highest in the industrialized world. As a second layer of tax on corporate income, the top federal marginal tax rate on capital gains and dividends would rise to 43.4 percent. Combined with average top state tax rates on capital gains and dividends and integrated with the combined top corporate tax rate, Biden’s proposals would produce a top combined integrated tax rate on corporate income of 65.1 percent—compared to 47.3 percent under current law.
+
+In addition to federal level taxes, 44 states and D.C. have corporate income taxes and most states apply individual income tax rates to capital gains and dividends. The top combined integrated rate on corporate income reflects both the top entity level tax and the top shareholder level tax that apply at federal and state levels.
+
+Biden corporate income tax proposals U.S. Top Combined Integrated Tax Rate on Corporate Income Would Become Highest in the OECD under Biden tax plan, top combined integrated tax rates on corporate income would average 65 percent under President Biden's tax plan
+
+Top integrated rates would surpass 60 percent in 45 states and the District of Columbia. California and New Jersey would have top combined integrated rates of more than 70 percent. Nevada, South Dakota, Texas, Washington, and Wyoming would be tied for the lowest with rates of 59.2 percent—higher than the highest top rate in the OECD currently levied, by Ireland, at 57.1 percent.
+
+On $100 of corporate profits, under Biden’s plan a firm would owe $32.35 in combined federal and state corporate income taxes. Assuming the remaining after-tax profit of $67.65 is received as a dividend and the investor faces the top marginal combined tax rate, they would owe $32.77 in combined federal and state dividend taxes. After both layers of tax, the investor receives $34.88 in after-tax income from the original $100 in corporate profits.
+
+A higher marginal tax rate on corporate income makes investment more costly, reducing the number of projects corporations invest in. Lower levels of investment could lead to a smaller capital stock, which in turn can mean lower worker productivity, lower wages, and less economic output. A higher marginal tax rate on saving makes it more costly to save, reducing the amount of domestic saving. Lower levels of domestic saving would reduce domestic incomes, as more of the returns to U.S. investment would accrue to foreign owners.
+
+Biden corporate income tax rate on corporate income (Biden tax corporate income proposal) Biden corporate profits
+
+Table 1. Integrated Corporate Tax Rate under Biden’s Proposal
+ U.S. Average Under Current Law (unweighted)U.S. Average under Biden’s Plan (unweighted)
+Corporate Profits$100.0$100.0
+Combined Corporate Income Tax (25.8% current law, 32.4% Biden’s plan)$25.78$32.35
+Distributed Dividend$74.22$67.65
+Combined Top Dividend Income Tax (29.0% current law, 48.4% Biden’s plan)$21.53$32.77
+Total After-Tax Income$52.69$34.88
+Integrated Tax Rate47.3%65.1%
+
+Source: Tax Foundation calculations, state statutes, American Jobs Plan and American Families Plan Fact Sheets.
+
+Table 2. Combined Top Integrated Tax Rate by State Under Biden’s Tax Plan
+ Combined Top Corporate RateCombined Top Marginal Capital Gains Tax RateCombined Top Integrated Tax Rate
+Alabama31.70%46.42%63.40%
+Alaska34.77%43.40%63.08%
+Arizona31.53%49.40%65.35%
+Arkansas32.46%46.35%63.77%
+California34.36%56.70%71.58%
+Colorado31.28%47.95%64.23%
+Connecticut33.40%50.39%66.96%
+DC34.26%52.35%68.68%
+Delaware33.94%50.00%66.97%
+Florida31.21%43.40%61.06%
+Georgia32.14%49.15%65.49%
+Hawaii32.61%50.65%66.74%
+Idaho32.99%50.33%66.71%
+Illinois34.84%48.35%66.34%
+Indiana31.78%46.63%63.59%
+Iowa35.06%48.55%66.59%
+Kansas33.04%49.10%65.92%
+Kentucky31.60%48.40%64.71%
+Louisiana32.55%47.02%64.27%
+Maine34.43%50.55%67.58%
+Maryland33.94%49.15%66.41%
+Massachusetts33.76%48.40%65.82%
+Michigan32.32%47.65%64.57%
+Minnesota35.06%53.25%69.64%
+Mississippi31.60%48.40%64.71%
+Missouri30.58%48.80%64.46%
+Montana32.86%50.16%66.54%
+Nebraska33.62%50.24%66.97%
+Nevada28.00%43.40%59.25%
+New Hampshire33.54%48.40%65.71%
+New Jersey36.28%54.15%70.78%
+New Mexico32.25%46.94%64.05%
+New York32.68%54.30%69.23%
+North Carolina29.80%48.65%63.95%
+North Dakota31.10%45.14%62.20%
+Ohio28.00%48.20%62.70%
+Oklahoma32.32%48.40%65.08%
+Oregon33.47%53.30%68.93%
+Pennsylvania35.19%46.47%65.31%
+Rhode Island33.04%49.39%66.11%
+South Carolina31.60%47.32%63.97%
+South Dakota28.00%43.40%59.25%
+Tennessee32.68%43.40%61.90%
+Texas28.00%43.40%59.25%
+Utah31.56%48.35%64.65%
+Vermont34.12%52.15%68.48%
+Virginia32.32%49.15%65.58%
+Washington28.00%43.40%59.25%
+West Virginia32.68%49.90%66.27%
+Wisconsin33.69%48.76%66.02%
+Wyoming28.00%43.40%59.25%
+Unweighted Average32.4%48.4%65.1%
+
+Source: Tax Foundation calculations, state statutes, American Jobs Plan and American Families Plan Fact Sheets.
+
+Launch Resource Center: President Biden’s Tax Proposals
+
+
+Related Articles
+
+An S corporation is a business entity which elects to pass business income and losses through to its shareholders. The shareholders are then responsible for paying individual income taxes on this income. Unlike subchapter C corporations, an S corporation (S corp) is not subject to the corporate income tax (CIT).
+
+A corporate income tax (CIT) is levied by federal and state governments on business profits. Many companies are not subject to the CIT because they are taxed as pass-through businesses, with income reportable under the individual income tax.
+
+A capital gains tax is levied on the profit made from selling an asset and is often in addition to corporate income taxes, frequently resulting in double taxation. Capital gains taxes create a bias against saving, leading to a lower level of national income by encouraging present consumption over investment.
+
+After-tax income is the net amount of income available to invest, save, or consume after federal, state, and withholding taxes have been applied—your disposable income. Companies and, to a lesser extent, individuals, make economic decisions in light of how they can best maximize after-tax income.
+
+The marginal tax rate is the amount of additional tax paid for every additional dollar earned as income. The average tax rate is the total tax paid divided by total income earned. A 10 percent marginal tax rate means that 10 cents of every next dollar earned would be taken as tax.
+<USER>

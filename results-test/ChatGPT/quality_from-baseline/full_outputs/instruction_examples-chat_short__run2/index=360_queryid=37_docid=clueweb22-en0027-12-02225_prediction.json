@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W180Fc6jiBuzDPXjPbKCUQFGOR5N",
+  "object": "chat.completion",
+  "created": 1687865188,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The arguments provided are low, medium, and high in quality as they are direct quotes from reliable sources and do not present any personal opinions or additional rhetorical elements."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2655,
+    "completion_tokens": 32,
+    "total_tokens": 2687
+  }
+}

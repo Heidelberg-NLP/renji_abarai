@@ -1,0 +1,130 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Top Leaderboard - Automate(Global)
+
+Member Since 2006
+
+LEARN MORE
+
+The Motion Control and Motor Association (MCMA) – the most trusted resource for motion control information, education, and events – has transformed into the Association for Advancing Automation.
+
+Content Filed Under:
+
+Industry:
+Motion Control Component Manufacturing Motion Control Component Manufacturing
+
+Application:
+N/A
+
+Discover our new single/double head Needle Winding machineVinco Automation: automation to simplify your process
+
+IEC 61131 Standardizes PLC Programming
+
+POSTED 12/14/2010
+
+ | By: Kristin Lewotsky, Contributing Editor
+
+Slide Left/Right to View Full Table
+
+Sidebar: Open Wide
+
+According to PLCopen, its XML interchange standard provides an open, non-proprietary, software interface for the interchange of industrial and process control programs between controls, product life cycle management (PLM), machine and process simulation, CAD, documentation software, and other systems. Find out more, including documentation and schemas at www.control-xml.com
+
+The group is also working on OPC UA, a standard designed to simplify the interface between controllers, control software, and business enterprise systems - sort of shop-floor to top-floor on steroids.
+
+—K.L.
+
+Based on a modular architecture compatible with any of five languages, the standard offers flexibility, reusability, and ease of use.
+
+At the heart of every machine lies the controller. Whether the mechanism consists of one axis or 100, it requires a processor, memory, and instructions to be useful. Programming the control system consumes more non-recurring engineering hours almost any other task in machine building. In the early 90s, the International Electrotechnical Commission (IEC) began developing IEC 61131, a standard for programmable logic controllers that today consists of eight parts encompassing everything from hardware and test protocol to communications. In particular, IEC 61131-3 defines a modular PLC programming environment that promises flexibility, reusability, and vender-to-vendor interoperability. Let's take a closer look.
+
+Not to be confused with fieldbus protocols like SERCOS, CANopen, or any of the many flavors of Ethernet, IEC 61131-3 is a programming standard. It begins at the system level and becomes steadily more granular, progressing to specific tasks and function blocks of code. At the start of a project, the programmer establishes a top-level configuration that specifies hardware components, characteristics, and capabilities. Each configuration encompasses a set of resources—so-called processing facilities - that can execute programs. Each resource encompasses a set of tasks that in turn include programs and/or function blocks. The task level controls program execution and supports triggers and scheduling.
+
+The program level is where the action is. 61131-3 breaks programs into program organizational units (POUs) consisting of functions and function blocks that themselves comprise code in any of five supported languages: function block, instruction list, ladder logic, sequential flowchart, and structured text.
+
+In addition to architecture, the standard defines key parameters of data types, and lets users define their own data types. Variables are classed as local to the POU unless they are explicitly defined as global.
+
+As far as Bill Lydon, Director at PLCopen North America, is concerned, the switch to IEC 61131 is about more than language, it's about a fundamental design philosophy that is enabled by the standard. “There's a whole modular design methodology in the computer industry that has to do with how you break a problem into modular components,” he says. “You have to think about structure rather than just writing a program for your PLC to do something. That's one of the things I think we have to train people on.”
+
+IEC 61131 supports five languagesOne Language Doesn't Fit All
+Among the most important benefits of the standard is its flexibility. For a number of years, the most common language used in programming PLCs varied geographically, with ladder logic being most popular in the United States, for example, while function block found heavy use in Europe. This trend overlooked a key characteristic of programming languages, however - each has strong points and weak points. Structured text might be good for performing complex computational tasks, while ladder logic is ideal for basic machine operations. Using a single language to perform every action is inefficient, at best, and ineffective, at worst.
+
+One of the big advantages of the IEC 61131-3 standard is that it not only supports five languages, but any or all of those five languages can be used interchangeably in a single program. “It allows the best of five different worlds as a way of attacking the problem," says Dan Throne, sales and marketing manager for the electric drives and controls division at Bosch Rexroth Corp. (Hoffman Estates, Illinois). "If you're doing a high-level computation where you’re calculating a cam profile or dynamic inertial compensation, it’s really nice to use structured text for the math, which looks a lot like Pascal. If you’re just trying to get an overall sequence of operation for the machine to work and you want to visualize that very easily, it’s easier if you can use a sequential function chart because the whole chart fits on one screen. You can do standard tasks like power on, power off in ladder logic, and then you can do all of your motion in function blocks." 
+
+The IEC 61131 standard does not restrict converting from one language to another. It is important to note that implementations by particular vendors may not provide the ability to convert between languages, or may not convert bi-directionally. In other words, depending on the particular vendor implementation or third-party logic engine you’re using, you may be able to convert from ladder logic to structured text, but cannot back compile structured text to ladder logic.
+
+A typical ICE 61131 editor offers flexibility and ease of useBlock Party
+Function blocks constitute another huge advantage to of the standard. IEC 61131-3 includes a set of standard mathematical functions like SQRT, ABS, and COS. More important, it allows programmers to establish a library of common functions. Once a function block has been written, it can be used again and again, both in the same program and for different projects. As an added resource, users can turn to PLCopen.
+
+An international consortium, PLCopen was formed, in part, to generate a library of basic, open-source, 61131-3-compatible function blocks. Member companies contribute input to help develop code to perform common tasks like wind/unwind operations, for example. If a manufacturer is working on kinematics for a 300-part-per-minute packaging machine, PLCopen may not be their best source, but it’s a way to save time they’d otherwise spend reinventing the wheel.
+
+Although the standard is built on a philosophy of interoperability, the function blocks lend themselves to product differentiation. Vendors and machine builders can write code and embed it in password-protected function blocks “If there’s a certain aspect of their machine they’ve patented or that they’ve developed for a specific customer who paid for a good part of it, then it makes a lot of sense to lock that function block to protect any intellectual property," says Throne.
+
+Machine builders need a better way of managing controller programs. “By leveraging 61131-3, a library of function blocks can be created for commonly used functions and reused throughout various programs,” says Sloan Zupan, Controller & HMI Product Marketing Manager at Mitsubishi Electric Automation Inc. (Vernon Hills, Illinois). Structured text, as an example, is an excellent method of performing math functions. The structured text function can be stored in a block and used within a ladder program or in another function block. “There's a great deal of flexibility and programming efficiency that can be realized. The more program code can be reused the more profitable a machine builder can become.”
+
+With proprietary code, changing PLC suppliers means writing new control software. For system integrators and OEMs, that can become a serious burden. IEC 61131 helps them speed development time and cut cost. “The reason IEC 61131 exists is portability,” says John Rinaldi, CEO of device manufacturer Real Time Automation Inc (RTA). “System integrators got tired of rewriting and testing their control logic every time they sold a machine because this guy wanted PLC A and the next guy wanted PLC B and the third guy wanted something else. The software was hard to reuse. They had to maintain all those different environments.”
+
+Instead of putting in the nonrecurring engineering hours to develop an entirely new set of code, integrators working with 61131-3-compliant products can, in theory, transfer over large segments of the code they've already written. Reusable function blocks can be developed to perform tasks such as hardware configuration and tuning, automatic setup, adjusting cams on the fly, predictive maintenance and more. In this environment, the job of programming becomes largely simplified by drag-and-drop selection of function blocks, guided by software wizards that set datatypes, structures and attributes.
+
+IEC 61131-3 defines a programmable environment based on five languages
+
+The standard provides big benefits even when implemented in stealth mode, says RTA Marketing Director Drew Baryenbruch. “Even though many of our customers don't know it's there, it’s a big timesaver for us to be able to quickly add a few function blocks to make a custom product without hard coding.”
+<USER>

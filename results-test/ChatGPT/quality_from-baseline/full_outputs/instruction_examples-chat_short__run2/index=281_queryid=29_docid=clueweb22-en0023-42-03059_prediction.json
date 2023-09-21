@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W15ElO34QVR2tZaCUUSpK6ono9Ic",
+  "object": "chat.completion",
+  "created": 1687865016,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text seems to provide a general reference on the terminology and definitions around the issue of illegal immigration and the idea of granting amnesty or a path to citizenship for undocumented immigrants. It does not take a clear pro or con stance on the issue."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2820,
+    "completion_tokens": 48,
+    "total_tokens": 2868
+  }
+}

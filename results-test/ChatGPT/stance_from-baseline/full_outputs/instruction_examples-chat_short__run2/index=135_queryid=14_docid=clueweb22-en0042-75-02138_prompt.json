@@ -1,0 +1,84 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is sexual orientation determined at birth?
+Text: Page protected with pending changes
+
+Sexual orientation
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+Sexual orientation is an enduring pattern of romantic or sexual attraction (or a combination of these) to persons of the opposite sex or gender, the same sex or gender, or to both sexes or more than one gender. These attractions are generally subsumed under heterosexuality, homosexuality, and bisexuality,[1][2][3] while asexuality (the lack of sexual attraction to others) is sometimes identified as the fourth category.[4][5]
+
+These categories are aspects of the more nuanced nature of sexual identity and terminology.[3] For example, people may use other labels, such as pansexual or polysexual,[3][6] or none at all.[1] According to the American Psychological Association, sexual orientation "also refers to a person's sense of identity based on those attractions, related behaviors, and membership in a community of others who share those attractions".[1][7] Androphilia and gynephilia are terms used in behavioral science to describe sexual orientation as an alternative to a gender binary conceptualization. Androphilia describes sexual attraction to masculinity; gynephilia describes the sexual attraction to femininity.[8] The term sexual preference largely overlaps with sexual orientation, but is generally distinguished in psychological research.[9] A person who identifies as bisexual, for example, may sexually prefer one sex over the other.[10] Sexual preference may also suggest a degree of voluntary choice,[9][11][12] whereas sexual orientation is not a choice.[13][14][15]
+
+Scientists do not know the exact cause of sexual orientation, but they theorize that it is caused by a complex interplay of genetic, hormonal, and environmental influences.[13][15][16] Although no single theory on the cause of sexual orientation has yet gained widespread support, scientists favor biologically based theories.[13] There is considerably more evidence supporting nonsocial, biological causes of sexual orientation than social ones, especially for males.[17][18][19] There is no substantive evidence which suggests parenting or early childhood experiences play a role with regard to sexual orientation.[20] Across cultures, most people are heterosexual, with a minority of people having a homosexual or bisexual orientation.[17][18]: 8 [19]: 9–10  A person's sexual orientation can be anywhere on a continuum, from exclusive attraction to the opposite sex to exclusive attraction to the same sex.[1]
+
+Sexual orientation is studied primarily within biology, neuroscience, and psychology (including sexology), but it is also a subject area in sociology, history (including social constructionist perspectives), and law.[21]
+
+Definitions and distinguishing from sexual identity and behavior[edit]
+
+General[edit]
+
+Sexual orientation is traditionally defined as including heterosexuality, bisexuality, and homosexuality, while asexuality is considered the fourth category of sexual orientation by some researchers and has been defined as the absence of a traditional sexual orientation. An asexual has little to no sexual attraction to people.[4][5] It may be considered a lack of a sexual orientation,[22] and there is significant debate over whether or not it is a sexual orientation.[4][5]
+
+Most definitions of sexual orientation include a psychological component, such as the direction of an individual's erotic desires, or a behavioral component, which focuses on the sex of the individual's sexual partner/s. Some people prefer simply to follow an individual's self-definition or identity. Scientific and professional understanding is that "the core attractions that form the basis for adult sexual orientation typically emerge between middle childhood and early adolescence".[1] Sexual orientation differs from sexual identity in that it encompasses relationships with others, while sexual identity is a concept of self.
+
+The American Psychological Association states that "[s]exual orientation refers to an enduring pattern of emotional, romantic, and/or sexual attractions to men, women, or both sexes" and that "[t]his range of behaviors and attractions has been described in various cultures and nations throughout the world. Many cultures use identity labels to describe people who express these attractions. In the United States, the most frequent labels are lesbians (women attracted to women), gay men (men attracted to men), and bisexual people (men or women attracted to both sexes). However, some people may use different labels or none at all". They additionally state that sexual orientation "is distinct from other components of sex and gender, including biological sex (the anatomical, physiological, and genetic characteristics associated with being male or female), gender identity (the psychological sense of being male or female), and social gender role (the cultural norms that define feminine and masculine behavior)".[1]
+
+Sexual identity and sexual behavior are closely related to sexual orientation, but they are distinguished, with sexual identity referring to an individual's conception of themselves, behavior referring to actual sexual acts performed by the individual, and orientation referring to "fantasies, attachments and longings."[23] Individuals may or may not express their sexual orientation in their behaviors.[1] People who have a non-heterosexual sexual orientation that does not align with their sexual identity are sometimes referred to as 'closeted'. The term may, however, reflect a certain cultural context and particular stage of transition in societies which are gradually dealing with integrating sexual minorities. In studies related to sexual orientation, when dealing with the degree to which a person's sexual attractions, behaviors and identity match, scientists usually use the terms concordance or discordance. Thus, a woman who is attracted to other women, but calls herself heterosexual and only has sexual relations with men, can be said to experience discordance between her sexual orientation (homosexual or lesbian) and her sexual identity and behaviors (heterosexual).[24]
+
+Sexual identity may also be used to describe a person's perception of their own sex, rather than sexual orientation. The term sexual preference has a similar meaning to sexual orientation, and the two terms are often used interchangeably, but the American Psychological Association states sexual preference suggests a degree of voluntary choice.[9] The term has been listed by the American Psychological Association's Committee on Gay and Lesbian Concerns as a wording that advances a "heterosexual bias".[9] The term sexual orientation was introduced by sexologist John Money in place of sexual preference, arguing that attraction is not necessarily a matter of free choice.[25]
+
+Androphilia, gynephilia and other terms[edit]
+
+Androphilia and gynephilia (or gynecophilia) are terms used in behavioral science to describe sexual attraction, as an alternative to a homosexual and heterosexual conceptualization. They are used for identifying a subject's object of attraction without attributing a sex assignment or gender identity to the subject. Related terms such as pansexual and polysexual do not make any such assignations to the subject.[6][26] People may also use terms such as queer, pansensual, polyfidelitous, ambisexual, or personalized identities such as byke or biphilic.[6]
+
+Using androphilia and gynephilia can avoid confusion and offense when describing people in non-western cultures, as well as when describing intersex and transgender people. Psychiatrist Anil Aggrawal explains that androphilia, along with gynephilia,[27][page needed]
+
+is needed to overcome immense difficulties in characterizing the sexual orientation of trans men and trans women. For instance, it is difficult to decide whether a trans man erotically attracted to males is a heterosexual female or a homosexual male; or a trans woman erotically attracted to females is a heterosexual male or a lesbian female. Any attempt to classify them may not only cause confusion but arouse offense among the affected subjects. In such cases, while defining sexual attraction, it is best to focus on the object of their attraction rather than on the sex or gender of the subject.
+
+Sexologist Milton Diamond writes, "The terms heterosexual, homosexual, and bisexual are better used as adjectives, not nouns, and are better applied to behaviors, not people. This usage is particularly advantageous when discussing the partners of transsexual or intersexed individuals. These newer terms also do not carry the social weight of the former ones."[28]
+
+Some researchers advocate use of the terminology to avoid bias inherent in Western conceptualizations of human sexuality. Writing about the Samoan fa'afafine demographic, sociologist Johanna Schmidt writes that in cultures where a third gender is recognized, a term like "homosexual transsexual" does not align with cultural categories.[29]
+
+Same gender loving, or SGL, is a term adopted by some African-Americans, meant as a culturally affirming homosexual identity.[30]
+
+Some researchers, such as Bruce Bagemihl, have criticized certain ways the labels "heterosexual" and "homosexual" have been used for transgender people, writing, "...the point of reference for 'heterosexual' or 'homosexual' orientation in this nomenclature is solely the individual's genetic sex prior to reassignment (see for example, Blanchard et al. 1987, Coleman and Bockting, 1988, Blanchard, 1989). These labels thereby ignore the individual's personal sense of gender identity taking precedence over biological sex, rather than the other way around." Bagemihl goes on to take issue with the way this terminology makes it easy to claim transsexuals are really homosexual males seeking to escape from stigma.[31]
+<USER>

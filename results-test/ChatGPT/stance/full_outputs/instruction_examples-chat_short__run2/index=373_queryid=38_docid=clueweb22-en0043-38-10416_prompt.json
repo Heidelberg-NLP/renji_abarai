@@ -1,0 +1,91 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should marijuana medical option
+Text: Medical & Recreational Marijuana Dispensary | Options Cannabis Co.
+Options Cannabis Company Product Variety
+
+Options for all
+
+We strive to offer the widest variety of quality product at the best value you’ll find anywhere. From our locally grown flower to concentrates, edibles and more, stop into one of our stores, get to know our friendly and knowledgeable budtenders, and get exactly what you are looking for at a great price.
+
+Woman Trimming Vertical Grow in Options Grow Facility
+
+We grow higher
+
+We are local and family-owned, selling the highest quality, best valued and award-winning cannabis to long-time customers in our friendly, neighborhood dispensaries. We grow locally with an artisanal attention to detail and an obsession with plant care and cleanliness, all by a passionate team devoted to creating a customer-first shopping experience. Our state-of-the-art grow facility features a vertical system that provides the ideal conditions—from lighting to irrigation—to maximize our canopy area per square foot of space. The result: Outstanding product at the best prices you’ll find anywhere.
+
+Potions Concentrate Packaging with Product
+
+Potions by Options. Abracadabra.
+
+The Potions collection is our full spectrum distillate, derived from our own premium cannabis flower. Our proprietary procedure allows us to regulate and preserve the original cannabinoids in all their forms: THC, CBD, and CBC. So each product delivers the full spectrum of cannabinoids from each plant in a concentrated oil form.
+
+Options Flash Frozen The Classic 2021 Winner
+
+And the
+Winner is…
+
+From seed to shelf, we think we grow the best product on the market, at the best prices you can find. Period. But don’t just take our word for it. From the annual award shows to customer satisfaction results, we are consistently ranked one of the best in the Denver/Boulder area.
+
+Wheat Ridge Location
+9085 W. 44th Street,
+Wheat Ridge, CO 80033
+
+Call: 720-242-9452
+
+Recreational Hours:
+Mon - Fri: 9 AM - 9:30 PM
+Saturday: 10 AM - 8:30 PM
+Sunday: 10 AM - 7:30 PM
+
+Medical Hours:
+Tue - Fri: 10 AM - 9:00 PM
+Saturday-Monday: CLOSED
+
+Boulder Location
+5290 Arapahoe Ave
+Boulder, CO 80303
+
+Call: 303-953-2852
+
+Recreational Hours:
+Mon - Fri: 9 AM - 9:30 PM
+Saturday: 10 AM - 8:30 PM
+Sunday: 10 AM - 7:30 PM
+<USER>

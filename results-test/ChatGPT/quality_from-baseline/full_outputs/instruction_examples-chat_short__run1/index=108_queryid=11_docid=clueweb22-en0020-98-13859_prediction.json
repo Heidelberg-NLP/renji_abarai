@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzA55OCaILCL9AX2scSbjok4sqXK",
+  "object": "chat.completion",
+  "created": 1687857629,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The article presents both sides of the issue without taking a clear stance for or against blood doping and EPO use in sports. Therefore, it is a general reference and not clearly pro or con."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1418,
+    "completion_tokens": 39,
+    "total_tokens": 1457
+  }
+}

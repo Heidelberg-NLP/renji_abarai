@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2dlM3XI8sHgDIXjG0lDJdc7sUMk",
+  "object": "chat.completion",
+  "created": 1683104441,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1599,
+    "completion_tokens": 11,
+    "total_tokens": 1610
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is written in a high rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

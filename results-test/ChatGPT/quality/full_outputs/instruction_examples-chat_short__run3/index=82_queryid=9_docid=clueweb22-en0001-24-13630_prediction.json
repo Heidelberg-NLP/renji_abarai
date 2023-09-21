@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2zflcMv6vv9XX838RsYn78aDrS2",
+  "object": "chat.completion",
+  "created": 1683105799,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1899,
+    "completion_tokens": 33,
+    "total_tokens": 1932
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is not an argument or a rhetorical text, but rather a list of sources and citations. It is not possible to determine the rhetorical argument quality of this text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ5134LnbAi672dZdJWv5UhA0dH9",
+  "object": "chat.completion",
+  "created": 1682690979,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1244,
+    "completion_tokens": 31,
+    "total_tokens": 1275
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but the text is a preview and it does not provide a clear rhetorical argument on whether animals should be used for scientific experiments or not."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

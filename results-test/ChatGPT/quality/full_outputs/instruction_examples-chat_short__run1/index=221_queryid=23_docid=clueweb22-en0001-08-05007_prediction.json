@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ6pwo9AWO73uMjshyk2oaJ1Jq6K",
+  "object": "chat.completion",
+  "created": 1682691091,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2427,
+    "completion_tokens": 63,
+    "total_tokens": 2490
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text has a medium level of well-writtenness. While it presents arguments and ideas, there are several mistakes in grammar, sentence structure, and spelling that reduce the quality of writing. Additionally, the text lacks a clear introduction and conclusion, making it difficult for the reader to understand the scope of the argument presented."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

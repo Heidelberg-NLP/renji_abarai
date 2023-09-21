@@ -1,0 +1,65 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should federal minimum wage increase
+Text: Should the U.S. Government Increase the Minimum Wage?
+
+Should the U.S. Government Increase the Minimum Wage?
+
+A call for minimum wage raise is a very controversial topic for all economists. Generally speaking, a minimum wage is the lowest amount of wage per hour that employers legally are obligated to pay their workers. The United States’ federal minimum wage has been $7.25 per hour since July 24, 2009. Some states obey its federal law, and some decided to have their own special state minimum wage laws. State of Washington D.C., for example, has its own state minimum wage of $9.50 per hour – the highest state minimum wage per hour. Employers must pay their employees with rate between the United States federal minimum wage and state minimum wage – or higher.
+
+The topic of minimum wage raise has brought up recently when President Barack Obama called to raise the federal minimum wage from $7.25 to $10.10 per hour. President Obama’s call certainly brought the nation’s attention. Some agrees with him, but many also disagrees with his decision.
+
+The main reason for a minimum wage raise is to help the low income people and families. In the United States, there are approximately 35 million people who live their daily life receiving the $7.25 per hour paycheck or near lowest wage. This is about 30% of population in workplace. With inflation, economists believe it has decreased a real purchasing power of low income people. They believe that increase in minimum wage rate would increase the purchasing power and circulate the business cycle. Additionally, economists argue that there will be a relatively small number of job losses. As a result, the benefits of higher wages outweigh the costs of lost jobs. For example, a study shows that raising the minimum wage to $10.10 would reduce the number of people in poverty by 900,000.
+
+On the other hand, there are some economists and people who are against a minimum wage increase. The very first reason is because businesses do not want government interference. They do not believe the government should tell them how much they need to pay their workers. Some economists argue that increasing the minimum wage does significantly reduce the number of jobs. For example, a study estimated that raising the minimum wage to $10.10 would reduce the total employment by 500,000. Fewer entry-level jobs means fewer inexperienced workers will have the opportunity to gain valuable job skills and experience. Also, the working poor bear a disproportionate share of jobs loss. Furthermore, some people believe that increase in minimum wage will result outsourcing and illegal immigrant hiring.
+
+After President Obama’s call to raise the minimum wage rate from $7.25 to $10.10, many believed that it is necessary and many believe it is not. Raising the minimum wage will definitely give low income people an extra dollar in their pocket to purchase their needs. However, many worries its consequences such as losing jobs and inflation. Increasing the minimum wage is still a very controversial topic for everyone.
+
+Comments
+
+  1. Megan Elizabeth Lasko says:
+
+    Definitely controversial! I’ve heard my parents debate this many times. It’s hard to decide, but my I tend to favor the argument that if U.S. employers are forced to pay their workers more, they’ll hire less. People love to jump at the government with any chance they can get, and I worry a minimum wage boost will lead to them decreasing their hiring rates out of spite (although…I’m not sure they’re allowed to do this…just my opinion, though).
+
+    Don’t get me wrong, I am not 100% against Obama’s proposed change. I would love to see more money in the pockets of the many impoverished Americans, and a boom in business and money circulation. As an economics major, you probably are a lot more aware of the technicalities that feed into the implications of this change. What are your thoughts? Are you pro- or anti-minimum wage increase?
+
+Speak Your Mind
+
+Skip to toolbar
+<USER>

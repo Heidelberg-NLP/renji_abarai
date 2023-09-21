@@ -1,0 +1,113 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Net neutrality
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+Portuguese Internet service provider MEO offers smartphone contracts with monthly data limits, and sells additional monthly packages for particular data services.[1] Critics of the EU's net neutrality rules say they are broken with loopholes that allow data for different services to be sold under zero rating exceptions to data limits.[2] Consumer advocates of net neutrality have cited this pricing model as an illustration of Internet access with weak net neutrality protection.[3]
+
+Network neutrality, most commonly called net neutrality, is the principle that Internet service providers (ISPs) must treat all Internet communications equally, and not charge users different rates based on content, website, platform, application, type of equipment, source address, destination address, or method of communication.[4][5]
+
+With net neutrality, ISPs may not intentionally block, slow down, or charge money for specific online content. Without net neutrality, ISPs may prioritize certain types of traffic, meter others, or potentially block traffic from specific services, while charging consumers for various tiers of service.
+
+The term was coined by Columbia University media law professor Tim Wu in 2003, as an extension of the longstanding concept of a common carrier, which was used to describe the role of telephone systems.[6][7][8][9] Net neutrality regulations may be referred to as "common carrier" regulations.[10] Net neutrality does not block all abilities that Internet service providers have to impact their customers' services. Opt-in/opt-out services exist on the end user side, and filtering can be done on a local basis, as in the filtering of sensitive material for minors.[11]
+
+Research suggests that a combination of policy instruments will help realize the range of valued political and economic objectives central to the network neutrality debate.[12] Combined with public opinion, this has led some governments to regulate broadband Internet services as a public utility, similar to the way electricity, gas, and the water supply are regulated, along with limiting providers and regulating the options those providers can offer.[13]
+
+Proponents of net neutrality, which include computer science experts, consumer advocates, human rights organizations, and Internet content providers, assert that net neutrality helps to provide freedom of information exchange, promotes competition and innovation for Internet services, and upholds standardization of Internet data transmission which was essential for its growth. Opponents of net neutrality, which include ISPs, computer hardware manufacturers, economists, technologists and telecommunications equipment manufacturers, argue that net neutrality requirements would reduce their incentive to build out the Internet, reduces competition in the marketplace, and may raise their operating costs which they would have to pass along to their users.
+
+Net neutrality is administered on a national or regional basis, though much of the world's focus has been on the conflict over net neutrality in the United States. Net neutrality in the US has been a topic since the early 1990s, as they were one of the world leaders in online service providing. In 2019, the Save the Internet Act to "guarantee broadband internet users equal access to online content" was passed by the United States House of Representatives[14] but not by the US Senate. However, they face the same problems as the rest of the world. Finding an appropriate solution by creating more regulation for Internet service providers has been a major work in progress. Net neutrality rules were repealed in the US in 2017 during the Trump administration and subsequent appeals have upheld the ruling.[15]
+
+Definition and related principles[edit]
+
+Internet neutrality[edit]
+
+Network neutrality is the principle that all Internet traffic should be treated equally.[16] Internet traffic includes all of the different messages, files and data sent over the Internet, including, for example, emails, digital audio files, digital video files, torrents etc. According to Columbia Law School professor Tim Wu, a public information network will be most useful if all content, websites, and platforms (e.g., mobile devices, video game consoles, etc.) are treated equally,[17] which is the principle of network neutrality.
+
+Net neutrality is the principle that an internet service provider (ISP) has to provide access to all sites, content and applications at the same speed, under the same conditions without blocking or giving preference to any content. Under net neutrality, whether you connect to Netflix, Internet Archive, or a friend's blog, your ISP has to treat them all the same.[18] Without net neutrality, an ISP can decide what information you are exposed to. Proponents argue that this could cause an increase in monetary charges for companies such as Netflix in order to stream their content.[19]
+
+Open Internet[edit]
+
+Under an "open Internet" system, the full resources of the Internet and means to operate on it should be easily accessible to all individuals, companies, and organizations.[20]
+
+Applicable concepts include: net neutrality, open standards, transparency, lack of Internet censorship, and low barriers to entry. The concept of the open Internet is sometimes expressed as an expectation of decentralized technological power, and is seen by some observers as closely related to open-source software, a type of software program whose maker allows users access to the code that runs the program, so that users can improve the software or fix bugs.[21]
+
+Proponents of net neutrality see this as an important component of an "open Internet", wherein policies such as equal treatment of data and open web standards allow those using the Internet to easily communicate, and conduct business and activities without interference from a third party.[22]
+
+In contrast, a "closed Internet" refers to the opposite situation, wherein established persons, corporations, or governments favor certain uses, restrict access to necessary web standards, artificially degrade some services, or explicitly filter out content. Some countries such as Thailand block certain websites or types of sites, and monitor and/or censor Internet use using Internet police, a specialized type of law enforcement, or secret police.[23] Other countries such as Russia,[24] China,[25] and North Korea[26] also use similar tactics to Thailand in order to control the variety of internet media within their respective countries. In comparison to the United States or Canada for example, these countries have far more restrictive internet service providers. This approach is reminiscent of a Closed Platform system, as both ideas are highly similar.[27] These systems all serve to hinder access to a wide variety of internet service, which is a stark contrast to the idea of an open Internet system.
+
+Dumb pipe[edit]
+
+The term "dumb pipe" was coined in the early 1990s and refers water pipes used in a city water supply system. In theory, these pipes provide a steady and reliable source of water to every household without discrimination. In other words, it connects the user with the source without any intelligence or decrement. Similarly, a dumb network is a network with little or no control or management of its use patterns.[28]
+
+In a dumb network, the endpoints are thought to be where the intelligence lies, and as such, proponents argue that the network should leave the management and operation of communications and data transfer to the end users, not a government bureau or Internet company.[citation needed] In 2013, the software company MetroTech Net, Inc. (MTN) coined the term "dumb wave", which is the 2010s-era application of the "dumb pipe" concept to the ubiquitous wireless network.[citation needed]
+
+Experts in the high-technology field will often compare the dumb pipe concept with intelligent networks –also known as smart pipes—and debate which one is best applied to a certain portion of Internet policy. These conversations usually refer to these two concepts as being analogous to the concepts of open and closed Internet respectively.[29] As such, certain models have been made that aim to outline four layers of the Internet with the understanding of the dumb pipe theory:
+
+  • Content Layer: Contains services such as communication as well as entertainment videos and music.
+  • Applications Layer: Contains services such as e-mail and web browsers.
+  • Logical Layer (Also called the Code Layer): Contains various Internet protocols such as TCP/IP and HTTP.
+  • Physical Layer: Consists of services that provide all others such as cable or wireless connections.[29]
+
+End-to-end principle[edit]
+
+The end-to-end principle of network design was first laid out in the 1981 paper End-to-end arguments in system design by Jerome H. Saltzer, David P. Reed, and David D. Clark. The principle states that, whenever possible, communications protocol operations should be defined to occur at the end-points of a communications system, or as close as possible to the resources being controlled. According to the end-to-end principle, protocol features are only justified in the lower layers of a system if they are a performance optimization; hence, TCP retransmission for reliability is still justified, but efforts to improve TCP reliability should stop after peak performance has been reached.
+<USER>

@@ -1,0 +1,128 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?
+Text: Why is the Israeli-Palestinian conflict important? - Quora
+This search engine reveals so much. Enter any name, wait 107 seconds, see instant results.
+8 Answers
+
+It's actually not.
+
+It may sound crazy, but this conflict gets disproportionate media coverage because of many different interests.
+
+Why are we not hearing about:
+
+  • The Kurds that are separated between 4 different countries and have been trying for years to get an independent Kurdistan. They were existing before Daesh was established, but I bet many of you never heard of their struggle before that.
+  • The Shia-Sunni conflict, which began ~1500 years ago. Can anyone can tell me the last time he heard what is going on in Yemen, or Libya, or even Syria 4 years ago before Daesh, when Assad gassed his own peo
+
+It's actually not.
+
+It may sound crazy, but this conflict gets disproportionate media coverage because of many different interests.
+
+Why are we not hearing about:
+
+  • The Kurds that are separated between 4 different countries and have been trying for years to get an independent Kurdistan. They were existing before Daesh was established, but I bet many of you never heard of their struggle before that.
+  • The Shia-Sunni conflict, which began ~1500 years ago. Can anyone can tell me the last time he heard what is going on in Yemen, or Libya, or even Syria 4 years ago before Daesh, when Assad gassed his own people to death? Nobody? Gee I wonder why.
+  • Look at Google Earth right now. Look at Cyprus. You lived your whole life without even noticing that it's divided into two. Turkey conquered half of Cyprus. Were you sleeping?
+  • Let's do this again, but this time on Morocco. “Nice to meet you” says West Sahara. I'll give you money if you heard of that occupation from the news.
+  • Remember the war Russia waged against Ukraine, and the whole Crimea thing? Wow, that was flying very fast. It's like there is peace in Ukraine right now — not. Plenty of terror attacks are taking place in there; not a single word.
+  • It’s only recently that we heard about Catalonia but only because they voted for independence. Why haven't we heard about that until now? This whole conflict isn't new: in fact it's a pretty old one. (Not to mention the Basques; did anyone hear of their conflict? )
+
+I could go all day.
+
+There are plenty of countries with much more violent conflicts, much more recent conflicts, much more ancient conflicts and much more people involved in conflict.
+
+The real question is why does the prominent media not stop purring the Israeli-Palestinian conflict into our brain?
+
+The answer is simple:
+
+Because they are obsessed with Israel.
+
+There isn't any other logical explanation (not to mention there are proofs of that conclusion).
+
+The second question is why is the prominent media obsessed with Israel?
+
+There are couple of reasons.
+
+One of them is that you can't say antisemitic things in the 21st century (well, even that's not entirely true: “Jews will not replace us”).
+
+I'll let you do the 1+1 yourself.
+
+My readers are very capable of doing so.
+
+It’s important, because Israel is the center of the world.
+
+Zoom on the small brown objects on the blue waters — they are dragons.
+
+Once upon a time, many trade routes passed through our little corner of the Earth. The planes in the skies changed that.
+
+The conflict in Syria, only a 300–400 km north, is more important and more bloody, but…
+
+It’s also more dangerous to report and it’s harder to support the claim that one side is the underdog who needs all the viewer support.
+
+So Israel is leading.
+
+We've put together a list of 8 money apps to get you on the path towards a bright financial future.
+
+It’s important because too many people today see the so-called Palestinians as some sort of victims of Israeli oppression, when in reality, they’re the ones who are the aggressors. Too many countries give them foreign aid and they use it to fund terrorism or reward the families of slain terrorists.
+
+NEVER has a country had to fight so hard to maintain the inherent right to exists as Israel has. That’s a right that should be accepted worldwide. For some reason — likely centuries-old antisemitism — it’s not accepted.
+
+The so-called Palestinians have only identified as such since the mid-1960s when t
+
+It’s important because too many people today see the so-called Palestinians as some sort of victims of Israeli oppression, when in reality, they’re the ones who are the aggressors. Too many countries give them foreign aid and they use it to fund terrorism or reward the families of slain terrorists.
+
+NEVER has a country had to fight so hard to maintain the inherent right to exists as Israel has. That’s a right that should be accepted worldwide. For some reason — likely centuries-old antisemitism — it’s not accepted.
+
+The so-called Palestinians have only identified as such since the mid-1960s when their identity was created with the help of the Soviet KGB in an attempt to discredit Israel. They should’ve been taken in by the neighboring Arab nations that tried and failed to destroy Israel.
+
+Only recently are more Arab nations starting to come to terms with their failures and see that friendship with Israel benefits all — all but the “Palestinians.”
+
+Q: Why is the Israeli-Palestinian conflict important?
+
+Really, it is NOT at all important. It is the LEAST violent armed conflict in the entire Middle-East. It has been going on for over SEVENTY years. In that time:
+
+  • About 70-80,000 Arabs have been killed. At least 50K of them were regular soldiers from the Arab countries that kept on starting wars.
+  • A total of about 15-20,000 Palestinians have been killed (included in the 70K). Again, almost all of these were terrorists. The number of civilian deaths has gone up since around 2005, when Hamas figured out the “advantage” of HIDING behind them.
+
+So take
+
+Q: Why is the Israeli-Palestinian conflict important?
+
+Really, it is NOT at all important. It is the LEAST violent armed conflict in the entire Middle-Eas
+<USER>

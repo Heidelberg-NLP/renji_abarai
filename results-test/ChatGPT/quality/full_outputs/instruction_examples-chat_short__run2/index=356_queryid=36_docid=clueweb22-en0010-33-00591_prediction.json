@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2oXZFnxiaPsHwu0jPoBLrSNgLJF",
+  "object": "chat.completion",
+  "created": 1683105109,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1082,
+    "completion_tokens": 24,
+    "total_tokens": 1106
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Sorry, I'm not sure how I can assist you with this information. Please let me know how I can help."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

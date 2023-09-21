@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C354QjDrYNEegJ5MvWHzl6deLQrU",
+  "object": "chat.completion",
+  "created": 1683106134,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2427,
+    "completion_tokens": 60,
+    "total_tokens": 2487
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "It is difficult to determine an overall rhetorical quality for this essay as it is an informative piece providing arguments for one side of a controversial topic rather than trying to persuade the reader to a particular viewpoint. Therefore, the essay could be considered factual and balanced, but not necessarily persuasive in its style of speech."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

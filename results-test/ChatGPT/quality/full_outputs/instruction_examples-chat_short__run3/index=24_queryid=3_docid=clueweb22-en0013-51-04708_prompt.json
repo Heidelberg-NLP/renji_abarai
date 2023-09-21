@@ -1,0 +1,98 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Detecting Illegal Insider Trading
+
+Detecting Illegal Insider Trading
+
+This post is written by the authors of a recent paperPatrick Augustin, Assistant Professor of Finance at the Desautels Faculty of Management at McGill University; Menachem Brenner, Research Professor of Finance at NYU Stern School of Business; Gunnar Grass, Associate Professor of Finance at HEC Montreal; and Marti G. Subrahmanyam, Charles E. Merrill Professor of Finance, Economics and International Business at NYU Stern School of Business.
+
+A few years ago, Preet Bharara, the U.S. Attorney of the Southern District of New York, proclaimed that insider trading is “rampant” in U.S. securities markets, a quote well known to followers of financial markets and securities law. [1] Increased efforts by the U.S. department of Justice (DoJ) and the Securities and Exchange Commission (SEC) have been met with both success and failure. The admission of guilt in the insider indictment of SAC Capital, the well-known hedge fund, can certainly be counted as a victory. In contrast, the case United States vs. Newman, which will make it increasingly difficult for regulators to pursue rogue trading, can certainly be painted as a major setback in the battle against illegal and unfair trading practices. [2] In light of all these developments, any outside observer is likely faced with an overarching question: How does (or should) the SEC go about to catch the “big fish?”
+
+Illegal insider trading has been declared to be a key priority for the SEC enforcement program. [3] It is fair to argue that detecting illegal trading activity in the stock market is challenging, given the vast array of stocks and diverse trading platforms. It is likely that detecting illegal trading activity in the equity options market is even more daunting, given the plethora of strike prices, maturity types and option strategies. A single stock can be linked to over a hundred equity options, each of which can be purchased or shorted, allowing privately informed investors to exploit different degrees of leverage for different trading horizons. In addition, the burden of finding a “smoking gun” among thousands of trades within a trading day further raises the difficulty of the pursuit of unfair trading practices, making it a Herculean chore.
+
+In spite of the gloomy outlook for successful insider trading prosecution, the task of doing so should not end in despair or inaction. What can be done? The creation of a whistleblower office by the SEC is certainly proof of the concrete action taken by government agencies to step up efforts to chase down high profile insider traders. The potential monetary rewards earned from tipping off the regulators are clearly incentivizing for those with credible information. Since its inception, the SEC’s whistleblower program has paid out more than $107 million to 33 whistleblowers. Two individuals even received trophy prizes of $22 and $30 million, respectively. [4] While such an incentive scheme certainly has its merits, it is rooted in the goodwill of agents exposed to illicit activity to share such information with the pursuers of financial crime, and, in that respect, it is rather ad hoc.
+
+A complementary method to identify red flags may be to systematically screen financial markets and security trades based on brute force number crunching. The ever decreasing costs of computing power and the rapid developments in the field of artificial intelligence make such approaches appealing. Yet, without any clear guidance as to what to look for, the task of detecting illegal insider trading still resembles the proverbial search for a needle in a haystack. Hence, a more scientific approach is warranted.
+
+In our new research, How do Informed Investors Trade in the Options Market, we aim to examine how informed investors trade in the options market ahead of corporate news. Despite numerous theoretical and empirical studies, including our own in the context of takeovers and spinoffs, [5] which document the existence of informed trading in options markets, it is surprising that there is little guidance as to how informed agents would trade. By how, we explicitly mean the identification of the option type, strike price, and maturity that would yield the greatest leverage to informed investors and, hence, the most “bang for the buck.” To accomplish this goal, we propose a simple theoretical framework that takes into account trading in the options market in response to private signals, i.e., tips. We consider two dimensions of the information associated with the tip: (i) when will the information be released in the future, and (ii) how will it have an impact on financial markets? In addition, the tips may vary in terms of their precision, timing and likely impact on prices. In other words, we examine the degree of reliability of the information provided by the tipper. To provide an illustrative example, in the case of scheduled earnings announcements, tippees know precisely when the news will be published, but may find it challenging to estimate the (typically moderate) impact of the earnings news on stock prices. Private information about the deal premium paid in a merger and acquisition transaction, on the other hand, may allow tippees to predict the (typically large) price impact relatively precisely, even though they may not know the exact timing of the deal announcement. Given the nature of such tips, and also accounting for market frictions, we present a framework that identifies the return-maximizing options to informed investors with noisy private signals. This “toolbox” can make the search for the needle in the haystack more efficient, at least by pointing out its likely location.
+
+What do we learn from this theoretical exercise? We believe that the analysis reveals three key insights about the strategic option trading behavior of informed agents. First, market frictions, such as bid-ask spreads and minimal price bounds that exist in options markets, lead tippees to trade options that that are near-the-money. Thus, even though the greatest “bang for the buck” comes supposedly from the most highly leveraged options, i.e., those that are deep out-of-the-money, they do not necessarily reflect the best instrument for informed investors. Second, the key determinant of an informed trader’s option choice is the expected announcement return. Uncertainty about the announcement return, on the other hand, has only limited impact on the strategic trading behavior of the privately informed agents. Third, the precision of the timing signal, i.e., the reliability of the tip regarding the announcement of a future news release, has a significant impact on the choice of option maturity and strike price. In the presence of substantial uncertainty regarding the news release date, longer maturity options are preferred. More precise information about the news release, in contrast, allows for higher leverage through trading short-term options just prior to the announcement.
+
+In an empirical implementation of our methodology, we construct a sample of 30,975 significant corporate news events between 2000 and 2014 in order to empirically validate our approach. While we continue to analyze the data, our initial results are promising, leading us to tentatively conclude that: (i) Heterogeneity in unusual options activity ahead of significant corporate news appears to be consistent with the predictions of our theoretical framework. (ii) Empirical proxy measures associated with informed trading appear to improve the predictability of significant corporate news events.
+
+We do believe that the detection of illegal insider trading and establishment of the activity to a legal standard is a monumental task that needs to overcome multiple challenges. Ad-hoc whistleblowing procedures, in addition to routine screening of securities trading are useful, but not enough, in our opinion, if the regulators’ pursuit of illegal insider trading is to be efficient and reliable. Therefore, we advocate a scientific approach as a complement to more traditional approaches in order to detect the most striking red flags. We hope that our framework can contribute to providing assistance in one of the key priority areas of security regulation in a fruitful manner.
+
+The full paper is available for download here.
+
+Endnotes
+
+1See “Preet Bharara: Insider Trading Is ‘Rampant’ On Wall Street,” by J. M. Breslow, on January 7, 2014, Frontline.(go back)
+
+2See “How United States v. Newman Changes The Law,” by Jon Eisenberg, K&L Gates LLP, on Sunday, May 3, 2015, Harvard Law School Forum on Corporate Governance and Financial Regulation.(go back)
+
+3See “Statement of the application of insider trading law to trading by members of congress and their staffs,” by R. Khuzami, on December 1, 2011. See also the investor information given by the SEC: https://www.sec.gov/answers/insider.htm.(go back)
+
+4See SEC press release: https://www.sec.gov/news/pressrelease/2016-172.html.(go back)
+
+5See “Informed Options Trading Prior to M&A Announcements: Insider Trading?,” by P. Augustin, M. Brenner, and M. G. Subrahmanyam, and “Are Corporate Spin-Offs Prone to Insider Trading?,” by P. Augustin, M. Brenner, G. Grass, and M. G. Subrahmanyam.(go back)
+
+Both comments and trackbacks are currently closed.
+<USER>

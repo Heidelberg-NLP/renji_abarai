@@ -1,0 +1,115 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should bottled water be banned?
+Text: Should Single-Use Plastics Be Banned?
+
+It isn’t about taking away a “healthy option,” it’s about providing a sustainable future
+
+Congratulations, America! You made bottled water your drink of choice according to the percentages.
+
+bottled water consumption in the U.S. | PATHWATER
+
+Consumers make their voices heard every time they bring a reusable bottle from home instead of buying a single-use plastic water bottle. Or, if they have to buy something when they are out, they choose the aluminum, paper, or glass option of bottled water because those options use fewer petroleum resources and are more often recycled than plastic.
+
+ 
+
+Great statement, but it’s too quiet for the world to hear.
+
+ 
+
+Unless legislators step in to shift the burden of plastic pollution on to the producers of that plastic, all of the efforts we make every day to cut our dependence on plastic fall short. A policy change is the only way to make a real change in the plastic pollution crisis. Just check out The City of San Francisco’s Ban on single-use plastic water bottles.
+
+ 
+
+Plastic Waste Management: 1960-2015 | PATHWATER
+
+ 
+
+Myth busting the arguments against a single-use plastic water bottle BAN
+
+Myth #1 A ban on plastic bottled water takes away a healthy option.
+
+Why this is nonsense: We have plastic bottle water alternatives in the form of glass, paper, and reusable aluminum bottles like PATHWATER. Not to mention, more and more buildings are making water refill stations a standard.
+
+ 
+
+Myth #2 There is no viable alternative.
+
+Why this is nonsense: The options on the market for bottled water are growing. While many are single-use, they are still not plastic. Currently, the reusable options are glass bottles, until they shatter and must be recycled, and PATHWATER, which is durable and meant for long-term refilling.
+
+ 
+
+Myth #3 Other types of beverages have plastic containers that are more harmful than plastic water bottles.
+
+Why this is nonsense: Water is the #1 beverage sold in the U.S. With that said, it has the most room for improvement where waste is concerned. The fact is, we shouldn’t be manufacturing any single-use plastic bottles. All plastics carry a health threat that is not totally understood as of yet. More in-depth research is needed; however, even if the smallest risk is their estrogenic effect, plastics actively change the chemicals in our body through ingestion via beverages and mimic estrogen hormones in the body. Learn more >
+
+ 
+
+Myth #4 Bans don't necessarily reduce waste.
+
+Why this is nonsense: Bans on single-use plastic water bottles make them obsolete. And, because they are an inferior water carrying container, they will cease to be sold and purchased in mass quantities. Bans force people to reconsider their bad choices and make room for better solutions to take their place -- which is why bans are a great solution to reduce plastic waste.
+
+ 
+
+Myth #5 Bottled water is a practical emergency water supply.
+
+Why this is nonsense: This is a true statement. It’s a great idea to have sealed water containers in every emergency kit. There is zero need for those bottles of water to be plastic. In fact, plastic is not the ideal bottle if there is an emergency, as they are easily crushed and not very durable.
+
+ 
+
+Myth #6 Banning bottled water restricts consumers' access to a product they want.
+
+Why this is nonsense: Consumers don’t have to give up bottled water. But most people agree manufacturers are responsible for making products that keep people and the planet safe and healthy. Plastic water bottles fail in this area but other water bottles made out of glass, paper, and reusable aluminum bottles like PATHWATER, are still available for a convenient replacement.
+
+ 
+
+Myth #7 Negatively affects small businesses.
+
+Why this is nonsense: Small business that sells plastic water bottles have a high-profit margin on them. Plastic water bottles are a cheap source of revenue, and that money swims all the way upstream to the oil companies that frack for the oil needed to make the bottles. Small businesses have an opportunity to help their community by offering plastic-free bottled water options that will continue to provide high-profit margins but also take care of the planet. This is a positive effect on small businesses and their communities.
+
+
+
+Reasons to BAN Single-Use Plastic Water Bottles:
+
+ 
+
+ 
+
+  • CHINA, once our primary dump spot for “recyclable” plastic, IS OUT and no longer accepting our trash.
+<USER>

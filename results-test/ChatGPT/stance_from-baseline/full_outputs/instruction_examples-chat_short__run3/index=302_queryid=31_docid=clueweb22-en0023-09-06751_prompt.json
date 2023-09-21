@@ -1,0 +1,157 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is obesity a disease?
+Text: Obesity is a Chronic Disease | Rethink Obesity®
+
+Obesity is a chronic and progressive disease1,2
+
+Obesity is a chronic and progressive disease, but is often not treated the same as other conditions in this category.1,2
+
+Obesity is a serious, chronic, and progressive condition that requires long-term medical management.1,2
+
+Chart of change in average weight over time in adults. Majority of adults gained greater than 1 pound per year.
+
+Study Design
+
+Data derived between 1990 and 2008 from 10,038 Americans with a mean baseline age of 29. Body weight was recorded 11 times, with all weight self-reported.3
+
+Obesity is not treated in the same way that other chronic and progressive diseases are treated1
+
+Millions of adults have health challenges. Obesity is one of the most prevalent.
+
+75M adults in the US with hypertension, 78M adults in the US with dyslipidemia who are prescribed medicine, ~100M adults in US living with obesity
+
+People with obesity in the US have higher health care costs than those of normal weight8,9,a,b
+
+With increased medical spending, obesity can become an economic burden on both public and private payers.
+
+Graph depicting increased healthcare costs associated with obesity
+
+aThe WHO defines overweight as a BMI greater than or equal to 25, while obesity is defined as a BMI greater than or equal to 30.
+bHealth care costs associated with obesity are mostly due to treating obesity-related comorbidities.
+Adapted from Finkelstein EA, Trogdon JG, Cohen JW, Dietz W. Annual medical spending attributable to obesity: payer- and service-specific estimates. Health Aff (Millwood). 2009;28(5):w822-w831.
+
+Do you know the costs of obesity?
+
+For patients and payers, it may be more than you think.
+
+Question 1
+Question 1
+Question 2
+Question 3
+Question 4
+Question 5
+
+Obesity is the _____ largest global social burden.
+
+Correct!
+
+Sorry, that's incorrect.
+
+After smoking and armed violence (including war and terrorism), obesity has the third largest direct economic impact on the world’s economy, costing roughly $2.0 trillion annually.10
+
+Assessment based on 2012 economic indicators from the World Bank and 2010 disability-adjusted life years (DALY) data from the Global Burden of Disease database.
+
+Obesity is responsible for around _____ percent of global deaths.
+
+Correct!
+
+Sorry, that's incorrect.
+
+Nearly 30% of the world’s population is overweight or obese, and around 5% of all deaths are caused by obesity.10
+
+In 2016, obesity and overweight accounted for _____ percent of overall direct and indirect costs associated with chronic disease in the US.
+
+Correct!
+
+Sorry, that's incorrect.
+
+In 2016, ~47% of total direct and indirect costs of chronic disease were associated with chronic diseases caused by obesity and overweight. The total cost of chronic diseases due to obesity and overweight was equivalent to roughly 9% of the US gross domestic product.11
+
+For patients with a BMI ≥40 kg/m2, a weight loss of 5% could reduce their medical costs by $_____ each year.
+
+Correct!
+
+Sorry, that's incorrect.
+
+A weight loss of 5% could save patients with a BMI ≥40 kg/m2 an estimated $2,137 annually.11
+
+In their lifetime, a 20-year-old patient with obesity will incur a societal cost of approximately _____ more than a normal-weight peer.
+
+Correct!
+
+Sorry, that's incorrect.
+
+A 20-year-old with obesity will incur an additional societal cost of $28,020 more than a normal-weight peer in their lifetime.12
+
+(Ref: Fallah-Fini 2017)
+
+Obesity can impair health
+
+Diagnosis is the first step to treating obesity
+
+References:
+
+1. Bray GA, Kim KK, Wilding JPH. Obesity: a chronic relapsing progressive disease. A position statement of the World Obesity Federation. Obes Rev. 2017;18(7):715-723.
+
+2. Garvey WT, Mechanick JI, Brett EM, et al. American Association of Clinical Endocrinologists and American College of Endocrinology comprehensive clinical practice guidelines for medical care of patients with obesity. Endocr Pract. 2016;22(suppl 3):1-203.
+
+3. Malhotra R, Ostbye T, Riley CM, Finkelstein EA. Young adult weight trajectories through midlife by body mass category: Young Adult Weight Trajectories. Obesity (Silver Spring). 2013;21(9):1923-1934.
+
+4. Facts about hypertension. Centers for Disease Control and Prevention website. Accessed March 1, 2021. https://www.cdc.gov/bloodpressure/facts.htm.
+
+5. High cholesterol facts. Centers for Disease Control and Prevention website. Accessed March 1, 2021. https://www.cdc.gov/cholesterol/facts.htm.
+
+6. Adult obesity facts. Centers for Disease Control and Prevention. Accessed March 1, 2021. https://www.cdc.gov/obesity/data/adult.html.
+
+7. US Census Bureau. QuickFacts: United States. Accessed March 1, 2021. https://www.census.gov/quickfacts/fact/table/US#viewtop.
+
+8. Finkelstein EA, Trogdon JG, Cohen JW, Dietz W. Annual medical spending attributable to obesity: payer- and service-specific estimates. Health Aff (Millwood). 2009;28(5):w822-w831.
+
+9. Obesity and overweight. World Health Organization website. Accessed March 1, 2021. http://www.who.int/en/news-room/fact-sheets/detail/obesity-and-overweight.
+
+10. Dobbs R, Sawers C, Thompson F, Manyika J, Woetzel J, Child P, McKenna S, Spatharou A. Overcoming obesity: an initial economic analysis. McKinsey Global Institute. https://www.mckinsey.com/~/media/mckinsey/business%20functions/economic%20studies%20temp/our%20insights/how%20the%20world%20could%20better%20fight%20obesity/mgi_overcoming_obesity_full_report.ashx.
+
+11. Cawley J, Meyerhoefer C, Biener A, Hammer M, Wintfeld N. Savings in medical expenditures associated with reductions in body mass index among US adults with obesity, by diabetes status. Pharmacoeconomics. 2015;33(7):707-722.
+
+12. Fallah-Fini S, Adam A, Cheskin LJ, Bartsch SM, Lee BY. The additional costs and health effects of a patient having overweight or obesity: a computational model. Obesity (Silver Spring). 2017;25(10):1809-1815.
+
+Continue
+Continue
+<USER>

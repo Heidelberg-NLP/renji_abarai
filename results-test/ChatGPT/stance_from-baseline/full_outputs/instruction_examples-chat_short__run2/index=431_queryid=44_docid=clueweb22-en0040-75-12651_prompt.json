@@ -1,0 +1,75 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should election day be a national holiday?
+Text: No items found.
+Read More
+Legislation
+
+Should Election Day Be A National Holiday?
+
+The Freedom to Vote Act, which would make a number of major changes to election law in the United States, is could come up for a vote soon. The bill includes a number of provisions, including a ban on partisan gerrymandering for congressional districts, new registration and early voting requirements for federal elections, and a federal voter ID provision.
+
+However, an underreported aspect of the Freedom to Vote Act (and largely uncontroversial) is that it would make the first Tuesday after the first Monday of November, Election Day, a national holiday. This would ensure non-essential federal workers would get the day off, but it could also have a far-reaching impact on industries in the public and private sectors across the US.
+
+Nineteen states already have some form of Election Day holiday. In Louisiana, for instance, the biennial election in even-numbered years is a legal holiday for state departments and public schools used as polling locations. Similarly, Virginia recognizes the first Tuesday after the first Monday of November as a legal holiday.
+
+Does your state recognize election day as a holiday? Find out here.
+
+The proposal in the Freedom to Vote Act is a popular idea. In 2018, Pew Research found that 65% of voters surveyed supported Election Day being a national holiday. However, it wasn’t until recently that the idea gained any traction in Congress. Bernie Sanders attempted to pass an Election Day holiday under the "Democracy Day Act" in 2018. The bill had zero co-sponsors and went nowhere.
+
+The proposal only guarantees non-essential workers the day off. However, federal holidays are often recognized as days off across non-essential sectors of the workforce in many industries in the US. Advocates hope that similar to other federal holidays like Memorial Day and Labor Day, taking a day off to celebrate the democratic process will become a new norm. 
+
+Those who support an Election Day holiday believe it would be a catalyst to greater voter participation. Work is often cited as a reason why many voters can't make it out to the polls. By eliminating it as a barrier, the hope is that more people will take the time they need to cast a ballot.
+
+Political pundits often like to blame low turnout on apathy, but 2020 saw record turnout because voters had more freedom to vote how they felt comfortable voting. Many states made it easier to vote by mail, return absentee ballots, and/or vote early. This is proof positive that if you build it, they will come. 
+
+The question is, would an Election Day holiday have the same effect? The potential is there. However, lawmakers still refuse to address one of the biggest reasons many eligible voters don't participate in the democratic process: They have lost faith in the system to truly be democratic. Many people don't believe accountable representation is possible in the current system. An Election Day holiday might have a notable impact on turnout. It's a positive change. However, it doesn't address this problem, which is only getting worse.
+
+The Freedom to Vote Act could be voted on as early as Wednesday. However, the threat of a GOP filibuster in the Senate lingers, which means that just like other attempts to reform elections at the federal level, the bill may be dead before lawmakers even have an attempt to debate the merits of the proposals in it.  
+
+About the Author
+
+Shawn Griffiths
+
+Shawn is an election reform expert and National Editor of IVN.us. He studied history and philosophy at the University of North Texas. He joined the IVN team in 2012.
+
+FacebookInstagramTwitterEmailEmail
+Comments
+Loading...
+<USER>

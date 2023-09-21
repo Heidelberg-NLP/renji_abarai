@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C6CdZJ78Cr4L9Bnd0AH26MPOAJWR",
+  "object": "chat.completion",
+  "created": 1683118135,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2670,
+    "completion_tokens": 2,
+    "total_tokens": 2672
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "Disagree"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

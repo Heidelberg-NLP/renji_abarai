@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W18fORXIniqyMHFWkRjAwv6YwzOq",
+  "object": "chat.completion",
+  "created": 1687865229,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The speech on \"Should the Federal Minimum Wage Be Increased?\" is of high rhetorical argument quality, with clear arguments supported by evidence and logical points. The speech on \"Are there any cases where athletes should be allowed to use steroids?\" also has high rhetorical argument quality, with clear arguments and a clear stance supported by evidence and reasoning."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1895,
+    "completion_tokens": 66,
+    "total_tokens": 1961
+  }
+}

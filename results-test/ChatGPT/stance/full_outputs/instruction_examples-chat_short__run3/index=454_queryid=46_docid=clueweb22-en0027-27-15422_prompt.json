@@ -1,0 +1,136 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should net neutrality restore
+Text: The Case for Net Neutrality
+
+People standing in the street protesting
+••• Chip Somodevilla / Getty Images
+
+Net Neutrality has become one of the most important and pressing issues facing the internet, pitting internet service providers against websites in a fight to determine how ISPs can treat web content. The laws surrounding Net Neutrality are constantly changing, and this article will be continually updated to reflect the current state of, and threats to, Net Neutrality.
+
+Red Alert for Net Neutrality
+
+The Red Alert for Net Neutrality campaign began on May 9, 2018.
+
+While the FCC voted to overturn Net Neutrality in December 2017 (see below), the Senate is set to vote on a resolution to overrule the FCC and restore Net Neutrality using the Congressional Review Act (CRA). The effort to pass the CRA to overturn FCC's decision is being led by Senator Ed Markey, a Democrat from Massachusetts.
+
+Many websites are "going red" in support of the resolution, with efforts beginning May 9th and continuing on until the vote takes place. The movement is being coined as the "Red Alert for Net Neutrality" and is being spearheaded by Fight for the Future, a non-profit organization whose mission is to "ensure that the web continues to hold freedom of expression and creativity at its core", along with Demand Progress and Free Press Action.
+
+Notable companies that plan to participate in the Red Alert for Net Neutrality include Etsy, Reddit, Tumblr, okcupid, Mozilla, Vimeo, and SalesForce, just to name a few.
+
+You can learn more about the Red Alert for Net Neutrality at BattleForTheNet.com/redalert.
+
+Update: On May 16, 2018, the Senate passed a measure to repeal changes to net neutrality rules adopted by the FCC. The measure was supported by all 49 Democrats along with Republicans Susan Collins, Lisa Murkowski, and John Kennedy.
+
+The bill which will go on to the House is unlikely to pass; nor would it be likely to be signed by President Trump. Without any action from the House or President, the new net neutrality rules will take effect on June 11, 2018.
+
+Recent History
+
+In a landmark 3-2 decision on February 26, 2015, the U.S. Federal Communications Commission (FCC) decided to treat the Internet as a public good, along the lines of its treatment of the telephone and television broadcast systems in the 20th century. The bottom line of this decision was that, much like the National Football League (NFL), the “American” internet would have a set of rules and a referee--the FCC--to enforce them in the name of net neutrality:
+
+"The internet must remain open. We will protect the values of an open internet, both in the last mile as well as at the point of interconnection." - Former FCC chairman Tom Wheeler
+
+However, this state of affairs didn't last long. On December 14, 2017, the FCC voted 3-2 to repeal net neutrality.
+
+The Concept of Net Neutrality
+
+According to Wikipedia, internet or “net” neutrality should operate on the principle that “Internet service providers (ISPs) and governments should treat all data on the Internet equally, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication.”
+
+The idea of net neutrality was first popularized by Columbia law professor Tim Wu in his 2003 paper, Network Neutrality, Broadband Discrimination. In it, Wu discusses all aspects of neutrality, i.e. between applications (“apps”), between data and quality of service (QoS)-sensitive traffic, and the dangers of two-tiered Internet access.
+
+Canada (who recently enacted new anti-spam laws), the European Union (EU) and other jurisdictions have also been grappling with net neutrality issues in recent years, and for the most part, have policies in line with the latest FCC ruling. In 2009, the Canadian Radio-television and Telecommunications Commission (CRTC) adopted strong net neutrality rules aimed at preventing bandwidth throttling (deliberate slowing of services by ISPs), the establishment of fast and slow lanes, as well as website blocking.
+
+Leveling the Playing Field With Net Neutrality
+
+From an e-commerce perspective, proponents of net neutrality claim that it will give small entrepreneurs a better chance to breathe online, let alone succeed when facing large conglomerates and their well-heeled lawyers and lobbyists. Small and medium-sized businesses are the backbone of America's digital economy, so it makes no sense to devote massive resources (bandwidth, hardware infrastructure, etc.) on a so-called “fast lane” internet that only the rich can access on a regular basis. It will harm technological and marketing innovation, and leave too much power and influence in the hands of a select few. Nobody or almost nobody wants a return to the robber baron era of exploitative and oligopolistic capitalism:
+
+"The internet is the most powerful and pervasive platform on the planet. It's simply too important to be left without rules and without a referee on the field." - Former FCC chairman Tom Wheeler
+
+Voices in Favor of Net Neutrality
+
+The Obama administration and numerous grassroots organizations spearheaded the drive for net neutrality and classification of the Internet as a public utility. Upwards of four million Americans filed official grievances at the FCC to oppose efforts by large cable providers like Verizon and Comcast aimed at approving preferential or “fast lane” Internet access.
+
+Prominent voices for net neutrality include:
+
+  • Vinton Cerf, co-inventor of the Internet Protocol (IP).
+  • Tim Berners-Lee, creator of the World Wide Web (WWW).
+  • 'Last Week Tonight' host John Oliver.
+  • American Civil Liberties Union (ACLU).
+  • The Electronic Frontier Foundation.
+  • Greenpeace.
+  • Kickstarter.
+  • Vimeo.
+  • Mozilla Foundation.
+  • Senator Bernie Sanders (I - Vermont).
+  • The Internet Association (an alliance of 39 global internet companies including Amazon, Facebook, and Google.)
+
+Why Net Neutrality Was Repealed
+
+Americans in favor of net neutrality who thought that the issue had been settled were in for a rude awakening.
+
+Although the landmark Federal Communications Commission (FCC) decision on February 26, 2015, presumably secured the Internet's treatment as a public good (Title II Order), political developments wound up reversing the letter and spirit of net neutrality rules that had been in place for barely two years. These were the most pivotal developments"
+
+1. The 2016 Election of Donald J. Trump as President of the United States.
+
+President Trump's unprecedented path to the Oval Office was driven by a bewildering mix of economic populism, nativism, and a palpable dislike for America's political, media and entertainment establishment.
+
+That being said, Trump's personal views on net neutrality are difficult to decipher, since he is on record as criticizing Big Cable's (e.g. Verizon, Comcast, AT&T) monopolistic practices. However, he is likely to fall back on free enterprise and deregulation rhetoric, and defer to prominent voices who have opposed net neutrality for years. Those voices include Peter Thiel, arguably President Trump's most prominent high-tech backer during the presidential campaign.
+
+More importantly, the Trump victory ensured a Republican, anti-net neutrality majority on the FCC Board of Directors, headed by newly appointed FCC chairman (and rabid net neutrality critic) Ajit Pai (see below).
+
+2. Appointment of Ajit Pai as New FCC Chairman.
+
+Chairman Pai's anti-net neutrality agenda has been clear since his appointment to the FCC commission by President Obama in 2012. In 2015, the former Verizon attorney was arguably its most visible and articulate critic, one of two commissioners to vote against net neutrality. As FCC chairman, Mr. Pai was put in the position to strip away these vital internet oversight rules.
+
+On May 18, 2017, the new FCC board's 2-1 vote was a first official step to reverse net neutrality in the United States. And the subsequent vote in December 2017 officially reversed net neutrality. While activists will press their case in the courts and the halls of Congress, for now, net neutrality is dead. 
+
+Net Neutrality Day of Action: Defending Internet Freedom
+
+Companies like Kickstarter, Reddit, and Amazon deemed July 12, 2017, as a “Net Neutrality” Day of Action in defense of internet freedom. They used a number of creative measures to educate and inform the public on the negative impact reversing FCC Title II protection would have on all Americans regardless of occupation, political affiliation, income level, etc.
+
+A grassroots “Battle for the Net” was spearheaded by three organizations: Fight for the Future, Demand Progress, and the Free Press Action Fund. They want to drive home the following:
+
+  • Net neutrality as an economic issue. Small business owners, startups and entrepreneurs need an open internet to grow, market and prosper.
+  • Net neutrality as a liberty and freedom issue. The importance of maintaining Title II enforcement on the Internet to prevent telecommunications giants from blocking, throttling or otherwise interfering with web traffic.
+  • Net neutrality as a racial and social justice issue. Maintaining a level playing field for visible minorities, the LGBT community and other historically disadvantaged groups to create, organize and develop without being subjected to “electronic” discrimination from powerful gatekeepers.
+
+Lest you think that the net neutrality debate has been settled, take note that there are many articulate and powerful voices who strongly oppose the recent FCC ruling. There is another side to this debate, and in another article we explore the arguments against a more regulated Internet, and how more creativity and innovation will be released online without the heavy hand of government regulation of the internet.
+
+Red Alert for Net Neutrality
+<USER>

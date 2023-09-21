@@ -1,0 +1,313 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should churches remain tax-exempt?
+Text: applying for tax exempt status html script | Stay Exempt
+
+Applying for Tax Exempt Status
+
+The following is for use by assistive readers and users who prefer a text version of this course.
+
+This text can also be downloaded in PDF formatPDF.
+
+ 
+
+Applying for Tax-Exempt Status Overview Course
+
+ 
+
+Page 1 – Welcome to the Applying for Tax-Exempt Status Course
+
+This course is presented by the Tax Exempt & Government Entities division’s Exempt Organizations office.
+
+ 
+
+Page 2 – Introduction
+
+Leagle: I’m Leagle, the EO Eagle, and I’ll guide you through the courses here at StayExempt.  During this course, you’ll engage in several Knowledge Checks. These questions will reinforce your learning experience.
+
+ 
+
+Page 3 – Objectives
+
+ 
+
+Leagle: In this course I’ll talk about the lifecycle of a typical tax-exempt organization, and you’ll become familiar with the benefits and responsibilities associated with achieving exempt status. You’ll learn about the different types of exempt organizations and I’ll discuss how to apply for tax-exempt status - then we’ll talk about the rules for running an organization while under consideration for tax-exempt status.
+
+First, let’s start with the basics.
+
+ 
+
+Page 4 – What is Tax-Exempt Status?
+
+ 
+
+Richard: Hi, I’m Richard. I’ve had a passion for helping animals since I was a child. I’m considering starting an animal rescue to fulfill my life’s dream of preventing cruelty to animals. I’ve heard it could be advantageous to obtain tax-exempt status but I am not sure what all that entails. Can you help me?
+
+ 
+
+Leagle: Well it’s a good thing you came to the StayExempt.IRS.Gov website. I’ll be happy to help you through the process of understanding tax-exempt status. Soon, you’ll understand what it takes to become a tax-exempt organization and maintain the status of your organization. First, you should know that the term 501(c)(3) refers to section 501(c)(3) of the Internal Revenue Code – where the rules and regulations governing exempt organizations are found. Tax-exempt organizations are commonly referred to as 501(c)(3)s. 501(c)(3) includes both public charities and private foundations. We’ll discuss the differences later.
+
+ 
+
+Richard: Wow. That’s good to know. So, how do I get started?
+
+ 
+
+Leagle: Well Richard, being a tax-exempt organization is not a static thing. It’s a process with a lifecycle to it. Let’s talk more about the lifecycle, and once you understand the process then we can talk about the benefits and responsibilities. After that, I can walk you through the first steps of applying for tax-exempt status and point you to some great resources for operating as a tax-exempt organization. Ready to begin?
+
+ 
+
+Page 5 – Lifecycle of a Tax-Exempt Organization
+
+ 
+
+Richard – Leagle, you mentioned that there is a whole process to becoming a tax-exempt. What’s that like?
+
+ 
+
+Leagle – There are five steps to the lifecycle of a tax-exempt organization. They include
+
+  • Starting out
+  • Applying for Exemption
+  • Required Filings
+  • Ongoing Compliance, and
+  • Significant Events
+
+ 
+
+The first two steps, starting out and applying for exemption, are unique because you should only do them once for any single organization. For the purposes of this course, we’re only going to concentrate on creating and maintaining one organization at a time.
+
+ 
+
+What’s different about the other three steps is that a single organization has to deal with each of those issues multiple times. Some required filings are annual, for example. We’ll talk about each of these steps in a little more detail in a minute.
+
+ 
+
+Before we move on it’s important that you know there’s a lot more information about the Lifecycle on the IRS.gov Charities & Non-Profits site.
+
+ 
+
+Page 6 – Lifecycle – Starting Out
+
+ 
+
+Richard – So if I’m starting out, what’s the first thing I should do?
+
+ 
+
+Leagle: Well, you’ll need to create an organization under your state’s law. Your state will have rules that would likely make your animal rescue a non-profit, which is a state level classification.  When you’re creating your organization, you may need to create organizing documents based on the requirements of your state. You’ll need these if you apply for tax exemption.
+
+If you’d like to apply for tax exemption, which is a federal level status, you’ll need to acquire an employer identification number, or EIN.
+
+ 
+
+Richard: But I don’t have any employees, so I’m not an employer.
+
+ 
+
+Leagle: Even so, you still need an EIN. Your EIN is similar to your personal social security number, only it’s for your business. It identifies you to the IRS.
+
+ 
+
+Richard: Do I need anything else?
+
+ 
+
+Leagle: Finally, you need to determine what type of tax-exempt organization you have. You’ll need this information when you apply for tax-exempt status.
+
+ 
+
+If you decide to apply, you’ll probably need more information on the EIN step. Here’s the link.
+
+ 
+
+Page 7 – Lifecycle – Applying for Exemption
+
+  • Apply to the IRS for Tax-Exempt Status
+  • Form 1023
+
+ 
+
+Richard: So, you said the next step was applying?
+
+ 
+
+Leagle: That’s right. For this step, you’ll need to fill out Form 1023 or Form 1023-EZ. That’s a big step. Of course, there are resources to help you on the IRS website. We’ll be covering this step more later in this training - once you decide to apply for tax-exempt status.
+
+ 
+
+Richard: That sounds great. What’s next?
+
+ 
+
+Leagle: Now let’s talk about your Required Filings.
+
+ 
+
+Page 8 – Lifecycle – Required Filings
+
+ 
+
+Richard: So, you said that this step is different because these are things I’ll have to do regularly. What are the requirements?
+
+ 
+
+Leagle: Once the IRS has granted your organization tax-exempt status, it’s important that you meet the mandatory annual filing requirements. You’ll need to file annual exempt-organization returns, and you could be required to file unrelated business income tax filings, and other returns and reports you’ll learn about here at StayExempt. Once you have your tax-exempt status, you should look into some of the other courses here at StayExempt, like Required Disclosures and Unrelated Business Income.
+
+The next step is ongoing compliance.
+
+ 
+
+Page 9 – Lifecycle – Ongoing Compliance
+
+ 
+
+Richard: All right, so I know I have annual filing requirements. What’s next?
+
+ 
+
+Leagle: Well, it’s helpful if you understand how an organization can avoid jeopardizing its tax-exempt status. To do that, you’ll need to understand employment taxes, public disclosure requirements, and other ongoing compliance issues.
+
+ 
+
+There are other courses here at StayExempt that can help you with that. There’s the Maintaining Tax-Exempt Status course, one on Required Disclosures, which tells you what information the public is entitled to see, and Employment issues courses. You should go through those when you’ve applied for tax-exempt status.
+
+ 
+
+Page 10 – Lifecycle – Significant Events
+
+ 
+
+Richard: So the last step is significant events. What kinds of significant events are there?
+
+ 
+
+Leagle: These significant events all have to do with your tax-exempt status. The events include, but aren’t limited to
+
+  • Audits
+  • Private letter rulings and
+  • Termination proceedings
+
+ 
+
+For more information on this step, go to the Life Cycle’s Significant Events page.
+
+ 
+
+Now that you’ve learned about the steps in the lifecycle, let’s try an exercise.
+
+ 
+
+Page 11 – Knowledge Check
+
+ 
+
+Leagle: Let’s see how well you remember the order of events in the lifecycle. Which of the following event is listed too early. Choose only one answer.
+
+ 
+
+  1. Applying to IRS – Form 1023
+  2. Starting out – Organizing Documents
+  3. Starting out – Employee Identification Number (EIN)
+  4. Required Filings – Annual Returns
+  5. Required Filings – Unrelated Business Income
+  6. Ongoing Compliance – Form 990
+  7. Significant Events – Private Letter Rulings
+  8. Significant Events - Termination proceedings
+
+ 
+
+If your answer was “A) Applying to IRS – Form 1023,) you were correct.
+
+ 
+
+Before applying, you need to create your organizing documents and obtain an EIN. The “Applying to IRS – Form 1023” step should come after you create organizing documents and obtain an EIN.
+
+ 
+
+Page 12 – Progress Check
+
+ 
+
+Leagle: Great job! You’ve completed the lifecycle section of this course. Next, we’ll talk more with Richard about why tax-exempt status might be right for him, and what responsibilities he’ll have if he is granted tax-exempt status for his organization.
+
+ 
+
+Page 13 – Benefits and Responsibilities
+
+ 
+
+Richard: All right, so I’m just starting out. What steps should I take before applying?
+
+ 
+
+Leagle: Before you can be sure that tax-exempt status is right for you, you’ll need to understand some of the benefits and responsibilities that come with tax-exemption, the steps required to become tax-exempt, and the rules your organization must follow after you apply.  As your animal rescue grows, your exempt status responsibilities will grow, too.
+
+ 
+
+First, you need to learn about tax-exempt status so you can make an informed decision - and then apply. Next, we’ll do an exercise together to separate the benefits from the responsibilities of tax-exempt status.
+
+ 
+
+Page 14 – Activity: Benefits and Responsibilities
+
+Leagle: Which of the following five items are benefits of tax-exempt status? Choose all the options that apply:
+
+  • Exemption from federal income tax
+  • Tax-deductible contributions
+  • Reduced postal rates
+  • Recordkeeping
+  • Annual Filings
+
+You were correct if you chose:
+
+  • Exemption from federal income tax
+  • Tax-deductible contributions and
+  • Reduced postal rates
+
+Page 15 – Benefits
+
+Richard: I see that there are a lot of financial benefits.
+
+ 
+
+Leagle: That’s right. In addition to being exempt from federal income tax, contributions to your organization are tax deductible, you may be exempt from paying state income, sales and employment taxes, you have access to reduced postal rates, you are exempt from paying federal unemployment tax, and you can receive tax-exempt financing.
+
+ 
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0sGJqLHIMD0emObbatKGrcE9OuR",
+  "object": "chat.completion",
+  "created": 1687864212,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is not sufficient for me to provide a rating as it lacks any argumentative content."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 786,
+    "completion_tokens": 19,
+    "total_tokens": 805
+  }
+}

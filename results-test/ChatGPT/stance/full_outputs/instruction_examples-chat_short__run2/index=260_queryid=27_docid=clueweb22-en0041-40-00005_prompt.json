@@ -1,0 +1,98 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should more gun control law enact
+Text: Did Hitler Enact Gun Control Laws? Here are the Facts – Robert Wimer
+Adolf Hitler Saluting, 1934
+
+Did Hitler Enact Gun Control Laws? Here are the Facts
+
+Gun control is a very hot topic and many are citing that Adolf Hitler disarmed Germany’s citizens, thus leading to the Holocaust. Here are the facts.
+
+Unless you’ve been living under a rock and completely off the social media grid, you will have seen a meme similar to the one below:
+
+This meme is a lightning rod for controversy, and understandably so.  One day, I decided to go beyond the “scroll past” that I usually do to memes such as these and do my own research to see if this was true and let me tell you, it was a bit of a quest.  While the internet is a fantastic place where you can find just about anything on everything, there are a lot of redundant sites in the Google index, which means that if I were to put up a new piece of information that would be popular among a certain niche of people and they cited/shared my creation, you’ll get repeat entries that say the same thing, which is what I encountered.
+
+My first stop was the quote itself, “To conquer a nation, first disarm it’s citizens”.
+
+While the results were plentiful, the sites I went to never had any legitimate sources.  The quote sites across the net didn’t yield any results as well.  Various fact-checking websites have results that range from “false” to “mixture”.  The one quote that the meme could have paraphrased what Hitler said came from him between February and September of 1942.  The quote is as follows:
+
+“The most foolish mistake we could possibly make would be to allow the subjugated races to possess arms. History shows that all conquerors who have allowed their subjugated races to carry arms have prepared their own downfall by so doing. Indeed, I would go so far as to say that the supply of arms to the underdogs is a sine qua non for the overthrow of any sovereignty. So let’s not have any native militia or native police.”
+
+In reading this, I could say to myself, “yes, Hitler did not let Jews have guns” and be done with it, but my curiosity was growing, so I decided to check the actual laws of the time, which began my mini-quest.
+
+The first thing that came to mind was the Nuremberg Laws of 1935.  in reading the laws, I quickly found them to be discussing the “purity” of the Jew, in essence, the Nazi form of eugenics through biology and systematic breeding.  Gun laws would not be found here, but these laws would be used later to build a foundation for future laws that would be solely directed towards the Jews. You may check out this content to know the consequences of that law.
+
+It was in visiting the Holocaust Encyclopedia that I began to get a better direction.  I found an entry for the exclusion of Jewish merchants in the March 18, 1938 laws.
+
+This is where I ran into quite a few problems.
+
+Because of the gun control issue, digging into Nazi Germany’s past and Adolf Hitler, I was seeing a lot of skin-head sites and misinformation.  Along with this, I was fearful that my activities would be monitored.  While this may sound like bunker-in-the-basement, Alex Jones type of thinking, there are now many legitimate sources stating that our search pattern on Google, as well as other search engines, are being cataloged.  Couple with this fact is when I share this on my social media platforms, I will be labeled an extremist by our ever-changing policies on the different platforms, but I pressed on.
+
+Varying the wording in my search query, I came upon a German Wikipedia type of page called “Wikisource“.  The page I found was in German, but thankfully, the technology exists to instantly translate the page via Google Chrome.  Reading through the weapons law of 1938, I found this entry:
+
+“to the incapacitated and mentally inferior”
+
+When this section, combined with the overall tenor of the Nuremberg Laws, leads to the conclusion that the Jews were seen as “mentally inferior”.  Other sections of the Nuremberg Laws would apply as well, but the combination of laws did keep the sale and ownership of guns by Jews during this horrific time in history illegal and their guns would have been taken away.
+
+This took some time to dig up and over the years I’ve found that the fact checkers on these sites have made many mistakes.  I have also found that anyone with a political agenda can twist and even hide/omit parts of history to suit an agenda, and I am speaking to both sides.
+
+Where I stand on the whole issue of gun control is irrelevant.  I would do the same research and publish the results, even if it went against my core beliefs as truth matters more than ego.  I hope the same can be applied to the reader.
+
+
+Sources:
+
+Waffengesetz (1938) – Wikisource
+Waffengesetz (1938) – Wikisource. (2018). De.wikisource.org. Retrieved 3 April 2018, from https://de.wikisource.org/wiki/Waffengesetz_(1938)#Abschnitt_III_Handel_mit_Waffen_und_Munition
+
+Examples of Antisemitic Legislation, 1933–1939
+Examples of Antisemitic Legislation, 1933–1939. (2018). Ushmm.org. Retrieved 3 April 2018, from https://www.ushmm.org/wlc/en/article.php?ModuleId=10007459
+
+Law for the Protection of German Blood and German Honor
+Law for the Protection of German Blood and German Honor. (2018). Jewishvirtuallibrary.org. Retrieved 3 April 2018, from http://www.jewishvirtuallibrary.org/law-for-the-protection-of-german-blood-and-german-honor
+
+Print Friendly, PDF & Email
+
+Leave a comment
+
+Your email address will not be published.
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+2 thoughts on “Did Hitler Enact Gun Control Laws? Here are the Facts”
+<USER>

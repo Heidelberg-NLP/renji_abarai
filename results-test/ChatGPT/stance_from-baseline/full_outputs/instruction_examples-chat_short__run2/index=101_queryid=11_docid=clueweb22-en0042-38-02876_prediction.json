@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2Rg3qPZxaTXdYaITCFUeOtBKmqw",
+  "object": "chat.completion",
+  "created": 1687870252,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text contains both pro and con arguments, such that overall the stance can be considered as neutral."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2442,
+    "completion_tokens": 20,
+    "total_tokens": 2462
+  }
+}

@@ -1,0 +1,77 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: golf sport
+Text: Wii Sports Resort
+
+Wii Sports Resort Wiki Guide
+
+Golf
+
+updated
+
+Basics
+
+Golf is one of the most difficult -- and realistic -- events in Wii Sports Resort. The key to golf is just learning how to hit straight. If you can hit the ball straight, then minor adjustments for wind and speed are all it takes to get the ball to the green.
+
+advertisement
+
+Before even moving on you should be aware of an "exploit" of sorts in Wii Sports Resort golf. By hitting B, you'll set your stance no matter where the Wii remote is pointing (when you hit B you should be pointing at the ground, like your Mii, readying for a stroke). However, you can set your stance pointing the Wii-mote right at the TV if you want. Extrapolate the motion of a golf club swing with your remote pointed in the direction of the TV: a fast, perfectly level right-to-left swipe will be read by the game as a perfectly straight stroke! Use this exploit on your longest drives if you want, but beware -- it doesn't work well for putting!
+
+That said, "normal" golfing motions will be just fine for most players. You want to keep your swing as straight as possible, from back to front, or else you'll add slice to the ball. You can see how straight your shot is after you hit it by looking at the speed meter in the lower left -- it will bend in the direction of your slice if there is any. Keep practicing your strokes until you get used to hitting straight and you'll be better off -- all golfers are different, so find what works for you and stick with it!
+
+Pro Tip: Beat every three hole course with a total score of under par for each (-1 or lower) to unlock the mystery course called "Three Holes - Special."
+
+There are four different types of surface you can play on a golf course: fairway, rough, bunker (sand trap) and green. If you land on any of these your turn is safe. If you land out of bounds -- in the water or high grass -- then you'll lose two strokes. The fairway is the striped grass leading to the hole that comprises most of a course. Land the ball here and your next stroke will be unimpeded. Sticking to the green is always a good idea unless you are angling for a major shortcut.
+
+Land in the rough -- the dark green area around the fairway -- and you should expect your next shot to fall a bit short since the tall grass creates friction for your ball ... or something. Land in the bunker (sand trap) and you'll have to use the short-hitting sand wedge to get your ball back on the fairway.
+
+The green is your primary target. This area around the hole is relatively flat, making the putter your best choice for getting the ball to the hole. However, you should always press 1 on the green to check out how flat it really is. A topical map of the green is available that shows you high points and low points (lighter green is higher). Hit harder on inclines, and adjust your angle to the hole to use hills for your advantage.
+
+Pro Tip: To get a hole-in-one you'll need to find a short course. We recommend the first hole on Resort B or Classic B. You'll have to contend with the wind, but a straight shot will get you to the hole. Just restart the game until you get it!
+
+The wind is a major factor you must contend with in golf. If the wind is blowing to the right, use the D-pad to adjust your angle to the left of your target. You'll have to feel out the wind's strength, but wind under 10 mph won't affect the ball nearly as much as 20 mph or greater -- especially when hitting over a longer distance. Wind doesn't affect putting.
+
+The distance of drives (long hits with irons or woods) is determined partly by how far back you draw in your wind up -- watch the small white line on the power meter on the bottom left of the screen to see how far you'll hit. The notches on this meter are also represented by the directional line on the minimap of the course on the left side. Wind up to the notch lying nearest to your target -- or hit your hardest to drive it the farthest. It still holds true that swinging faster gives you more power, but you don't need to exaggerate your swing to fill your power meter. In fact, if you do, you risk seriuosly slicing the ball.
+
+Wii Sports Resort Golf may be "just a game," but it takes practice like any sport. Once you figure out how to hit straight and modify your power, getting negative scores shouldn't be hard. For a less challenging, totally unique experience on these well crafted courses, be sure to check out Frisbee Golf.
+
+advertisement
+
+Up Next: Power Cruise
+<USER>

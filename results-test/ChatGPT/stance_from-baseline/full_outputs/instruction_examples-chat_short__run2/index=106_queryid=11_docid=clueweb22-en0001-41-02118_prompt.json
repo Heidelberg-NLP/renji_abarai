@@ -1,0 +1,135 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should performance-enhancing drugs be accepted in sports?
+Text: Last updated on: 5/10/2021 | Author: ProCon.org
+
+Should Anabolic Steroid Use Be Accepted in Sports?
+
+General Reference (not clearly pro or con)
+
+Maryville University, in an undated article accessed on Apr. 14, 2021, “Understanding and Preventing Steroid Abuse in Sports,” available at online.maryville.edu, stated:
+
+“Steroids are synthetic drugs that imitate hormones our bodies produce naturally as part of maturation or in response to stress. Anabolic steroids imitate male sex hormones — the proper term for them is anabolic-androgenic steroids. The term anabolic refers to the process of building muscle tissue, while androgenic refers to male sex characteristics. Anabolic steroids are the kind typically abused by athletes.
+
+People often think of anabolic steroids when someone refers to steroids, but the term steroids may also refer to corticosteroids. These steroids imitate cortisone hormones produced by the body’s adrenal glands in response to stress. There are also other performance-enhancing drugs (PEDs) that people sometimes mistakenly refer to as steroids…
+
+According to the medical journal Pediatrics in Review, performance enhancing drugs (PEDs) include various “anabolic agents,” such as anabolic steroids and steroid precursors, as well as nutritional supplements, stimulants, and other agonists, such as human growth hormone. People sometimes refer to performance enhancing drugs generally as steroids. While it’s true that steroids are PEDs, PEDs are not necessarily all steroids.”
+
+Apr. 14, 2021
+
+Elizabeth Quinn, exercise physiologist, sports medicine writer, and fitness consultant, in a July 26, 2020 article, “Anabolic Steroid Use in Sports,” available at verywellfit.com, stated:
+
+“Drugs commonly referred to as steroids in sports are more accurately classified as anabolic-androgenic steroids (AAS) or simply anabolic steroids. These include natural steroids like testosterone and synthetic versions that are structurally similar to testosterone and work just as effectively. Both are available by prescription and are used to treat a variety of conditions associated with testosterone deficiency (hypogonadism) in men and women…
+
+Anabolic steroids are sometimes accessed by athletes and bodybuilders for non-medical purposes to build muscle, endurance, and strength. Use of this sort is illegal and banned by most sports organizations.1 Still, there are athletes who continue to use them illegally despite evidence that they can cause serious health problems…
+
+The term ‘anabolic’ is used to describe the process wherein smaller molecules bind together to build bigger ones. The term “androgenic” refers to male hormones, known as androgens. Anabolic steroids should not be confused with corticosteroids, such as cortisone or prednisone. These are drugs used by doctors to treat acute and chronic inflammation.
+
+Anabolic-androgenic drugs work by increasing protein within cells, most especially skeletal muscles. The elevated testosterone levels can also increase endurance capacity and delay on the onset of fatigue, enhancing the overall performance of athletes…
+
+Steroids are taken either orally (in pill form) or via intramuscular injections. Dosing is commonly done in cycles of weeks or months, with a short break in between. The practice is referred to as ‘cycling.’
+
+‘Stacking’ refers to the use of several different types of steroids at the same time. ‘Pyramiding,’ meanwhile, refers to the practice of slowly increasing the number, dose, or frequency of steroids to reach a certain peak, after which the amount and frequency are gradually tapered down…
+
+It is not uncommon for athletes to use 10 to 100 times the dose prescribed for legitimate medical use with little consideration as to the long-term consequences.”
+
+July 26, 2020
+
+PRO (yes)
+
+Pro
+
+Alexander Clarke, personal trainer for power lifters and editor of British Strength magazine, as quoted in a Mar. 13, 2020 article, “Powerlifting Is One of the Only Sports Where Steroids Are Allowed,” written by Aline Aronsky and available at vice.com, stated:
+
+“The tested and untested categories are great, because some people don’t want to take steroids [and are in the drug tested category]. Some people do want to take steroids [and are in the untested category]. Let’s see how far we can take the human body with a bit of a chemical tweak. Let’s see how far we can take the body naturally. Let people have their options, don’t take it away from them…
+
+A lot of people are using [steroids] that just don’t need to. You don’t need to use gear to be 12 stone [168 pounds] with a six-pack. Honestly, you just have to work harder. If you want to be a powerlifting freak, then you’re probably going to have to use them. If you’re a very competitive person, you’re going to do what it takes.”
+
+Mar. 13, 2020
+
+Pro
+
+Mac McCann, columnist for The Horn at the University of Texas-Austin, in an Oct. 13, 2017 article, “Debate: Should Performance-Enhancing Drugs Be Legalized?,” available at blueridgeoutdoors.com, stated:
+
+“In theory, banning doping prevents athletes from taking unfair shortcuts and keeps sports on a level playing field. In reality, these bans have done less to protect fairness and punish rule-breakers and more to discourage athletes from reaching the highest levels of success…
+
+How many people would have cared about the Tour de France without Armstrong’s stunning feats? Before failing a drug test in 2006, Shawne Merriman was in highlight reel upon highlight reel during his 2005 season as the NFL Defensive Rookie of the Year. Who can deny the excitement of 1998’s record-breaking MLB home run chase between Mark McGwire and Sammy Sosa? Recently busted Alex Rodriguez is a career .300 hitter with 647 career homeruns, a 14 time all-star, a 3 time AL MVP and a World Series Champion.
+
+We can continue the trend of hand-wringing and hysteria, with one doping scandal after another, further embarrassing the field of professional athletics – or we can legalize and regulate performance-enhancing drugs to the benefit of sports and sports fans alike. Let’s do ourselves and our athletes a service by allowing them to perform at their best.”
+
+Oct. 13, 2017
+
+Pro
+
+Chris Smith, former Forbes staff writer, in an Aug. 24, 2012 article, “Why It’s Time To Legalize Steroids in Professional Sports,” available at forbes.com, stated:
+
+“Steroids, doping and other illicit performance enhancing drugs and treatments have become the biggest scourge of professional sports leagues, and that’s why it may be time they were made legal.
+
+The primary reason why performance enhancing drugs (PEDs) are outlawed in professional sports is that they give users an unfair advantage over the rest of the field. Various professional sports leagues have attempted to set a level playing field by testing for drug use and suspending those found guilty. It’s a noble effort, but it’s clearly not working… So if we really want to level the playing field, it may be time to head in the other direction: legalize performance enhancers.
+
+Not only would the playing field suddenly be even for all players, it would be at a higher level. A huge part of watching sports is witnessing the very peak of human athletic ability, and legalizing performance enhancing drugs would help athletes climb even higher. Steroids and doping will help pitchers to throw harder, home runs to go further, cyclists to charge for longer and sprinters to test the very limits of human speed…
+
+Athletes are going to take steroids and turn to doping regardless of the rules. Drug use in cycling is seemingly as old as the sport itself, and baseball players have tried to cut corners wherever possible, whether it be with spit balls, corked bats, stimulants or steroids. It doesn’t justify the actions of Armstrong, Cabrera or Colon – they knew the rules and chose to break them – but the current system has continually failed to establish a level playing field for the world’s most talented athletes. Legalizing steroids, doping and other performance enhancers would finally set an even bar, and that would just be the first of many benefits.”
+
+Aug. 24, 2012
+
+Pro
+
+Norman Fost, MD, MPH, Professor and Director of the Medical Ethics Program at the University of Wisconsin, made the following statement in a Dec. 18, 2006 interview published by Scout.com (a Fox Sports News website) titled “Baseball Men – The Skeptic”:
+
+“[W]e allow people to do far more dangerous things than play football or baseball while using steroids. We allow people to bungee-jump, to ski on advanced slopes, to cliff dive. To eat marbled meat or ice cream pie every day if they want. I don’t think we want to go down a path in which we restrict and even criminalize behaviors just because they have health risks. And steroids are so low on the list of drugs or diets that cause serious harm I don’t understand why we would start there.”
+
+Dec. 18, 2006 - Norman Fost, MD, MPH
+
+Pro
+
+Jennifer Sey, former US national champion gymnast, wrote the following information in an Aug. 10, 2008 Salon.com article titled “Let ‘Em Eat Steroids”:
+
+“When athletes compete at the highest levels, all that matters is winning. The environment can become cultlike, in that normal standards no longer apply…
+
+I don’t blame the athletes like Marion Jones for juicing their performance with a little extra oomph. She’s caught up in her sport; she needs that little somethin’ somethin’ to maintain her edge. Everyone else is doing it. If you shot me up with whatever she had, I wouldn’t be the fastest woman alive. It was still her out there on that track.
+
+If the athletes are willing to risk their health – which many do already without taking steroids – let them. It doesn’t ruin it for me.”
+
+Aug. 10, 2008 - Jennifer Sey
+
+Pro
+
+Gary Roberts, JD, Editor-in-chief of The Sports Lawyer, submitted the following response in a Dec. 13, 2004 debate entry titled “What Should Baseball Do About Drugs,” published by Legal Affairs:
+<USER>

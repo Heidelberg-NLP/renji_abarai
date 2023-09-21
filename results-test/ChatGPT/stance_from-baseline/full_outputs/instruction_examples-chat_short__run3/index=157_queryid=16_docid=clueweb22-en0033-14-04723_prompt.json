@@ -1,0 +1,100 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should prescription drugs be advertised directly to consumers?
+Text: Prescription and Non-Prescription Drug Classification Systems Across Countries: Lessons Learned for Thailand - PMC
+Skip to main content
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+2020; 13: 2753–2768.
+Published online 2020 Nov 26. doi: 10.2147/RMHP.S281629
+PMCID: PMC7705273
+PMID: 33273873
+
+Prescription and Non-Prescription Drug Classification Systems Across Countries: Lessons Learned for Thailand
+
+Abstract
+
+Purpose
+
+The drug classification system, as prescription or non-prescription drug category, has been utilized as a regulatory strategy to ensure patient safety. In Thailand, the same system has been used for decades, though the drug classification criteria were updated to accommodate drug re-classification in 2016. These new criteria, however, have not been applied retroactively. Inconsistency in drug classification has been observed leading to concerns regarding the drug classification system. This has prompted the need for a review of the drug classification system in Thailand. This study aims to explore Thailand and other selected countries’ regulatory management regarding the drug classification system, drug classification criteria, and drug classification itself.
+
+Methods
+
+The drug classification systems of the United States, the United Kingdom, Japan, Singapore, Malaysia, the Philippines, and Canada were selected to study alongside Thailand’s system. The regulatory review was conducted through each country’s drug regulatory agency website and available published research. Complementary interviews with drug regulatory authorities were conducted when written documentation was unclear and had limited access. Fifty-two common drugs were selected to compare their actual classifications across the different countries.
+
+Results
+
+All selected countries classified drugs into two major groups: prescription drugs and non-prescription drugs. The studied countries further sub-classified non-prescription drugs into 1–4 categories. Principles of drug classification criteria among countries are similar; they comprised of three themes: disease characteristics, drug safety profile, and other drug characteristics. Actual drug classification of antibiotics, dyslipidemia treatments, and hypertension treatments in Thailand are notedly different from other countries. Furthermore, 77.4% of drugs studied in Thailand fall into the behind-the-counter (dangerous) drug category, which varied from antihistamines to antibiotics, dyslipidemia treatments, and vaccines.
+
+Conclusion
+
+Thailand’s drug classification criteria are comparable with other nations; however, there is a need to review drug classification statuses as many drugs have been classified into improper drug categories.
+
+Keywords: drug category, classification criteria, prescription, non-prescription, OTC, drug regulatory
+
+Introduction
+
+Regulators around the world impose different restrictions on drug availability, such as prescription status, to protect the health. Different drug categories, such as prescription and over-the-counter drugs, lead to different drug access, channel of drug distribution, and permitted advertisement.
+
+Drugs are classified into different categories based on their characteristics. Major factors that affect drug classification are the self-diagnosis nature of diseases and safety profile of drugs. Drugs for catastrophic diseases and drugs for minor ailments are usually classified into different categories, which are prescription drugs and non-prescription drugs, respectively. Drug status can be re-classified downward or upward depending mainly on the safety information being obtained from market experiences., For example, in the UK, diclofenac was re-classified upward from non-prescription to prescription status because an increased risk of cardiovascular diseases was found. Conversely, to increase drug accessibility, in the US, loratadine was re-classified from prescription to non-prescription status when its safety information was confirmed after placing it on the market for nine years. There is a precedent, then, that drug regulatory agencies make the final decision when assessing benefits and risks to re-classify drugs into appropriate categories in order to ensure patient safety while maximizing timely access to drugs.
+
+Thailand has been internationally recognized for its successful health development and universal health coverage policy. Currently, all Thai citizens are covered under one of the three public health insurance schemes: the National Health Security Office (NHSO), the Social Security Office (SSO) and the Civil Services Medical Benefits Scheme (CSMBS). Thailand has approximately 13,405 public hospitals, 384 private hospitals, 13,510 clinics, 17,069 type 1 modern community pharmacies, and 2865 type 2 drugstores., Type 1 modern community pharmacies can distribute all types of drugs ranging from traditional to western medicines and from household remedies to specially controlled substances (equal to the prescription status). They require a pharmacist on duty during their operating hours; while type 2 drugstores sell limited non-prescription drug items and drug dispensers are certified non-pharmacists. Since 2005, the Ministry of Public Health has no longer authorized new type 2 drugstore licensing; therefore, the number of type 2 drugstores have been predicted to decline. This was due to concerns regarding illegally dispensing of dangerous drugs, such as antibiotics or antihypertensive drugs, from the certified non-pharmacists.
+
+The Thai Food and Drug Administration (Thai FDA) has classified drugs into four legal categories: specially controlled drugs, dangerous drugs, non-dangerous drugs and household remedies. Regulatory details of each drug category are shown in Table 1.
+
+Table 1
+
+Current Legal Drug Categories and Their Regulatory Details in Thailand,
+
+Drug CategoriesGate KeeperPrescription RequirementDistribution ChannelAdvertising
+HospitalPharmacyNon-Pharmacy RetailerHealth ProfessionalDirect-to-Consumer
+Specially controlled drugsPhysicianYesYesYesNoYesNo
+Dangerous drugsPharmacistNoYesYesNoYesNo
+Non-dangerous drugsNoneNoYesYesNoYesYes
+Household remediesNoneNoYesYesYesYesYes
+
+As of 2017, Thailand has more than 37,500 drugs registered with the Thai FDA. Drugs in three categories, specially controlled drugs, dangerous drugs, and household remedies, must be formally designated by the Thai FDA. Drugs that are not included in the three mentioned categories are automatically classified as non-dangerous drugs. This drug classification system has been used in Thailand for more than five decades., Nonetheless; a study conducted in Thailand by Sriwiryanupab and her colleagues has proposed, along with various pharmacist groups in Thailand, that the non-dangerous drug category should be discontinued., In other words, the drug classification system in Thailand should be reformed. This is because non-dangerous drug category was initiated to support existence of type 2 drugstores where certified non-pharmacists can dispense non-dangerous drugs. As type 1 community pharmacies are now sufficient, type 2 drugstores and non-dangerous drug category can be deserted.
+
+Several drugs in Thailand are classified differently when compared to other countries. Many of them are very easy to access, which evidently result in irrational drug use. Examples of the consequences of classic irrational drug use are antibiotic resistance from antibiotics overuse, addiction from tramadol overuse, misuse of hydrochlorothiazide for weight loss, and dextromethorphan and brown mixture (opium preparation) abuse when mixed with beverages or other illicit drugs for recreational purposes. At the same time, some other drugs in Thailand are more difficult to access than in other countries. In Thailand, cetirizine and ibuprofen are classified as dangerous drugs which need to be kept behind the counter and dispensed by pharmacists. However, these two drugs are classified as general sale list drugs in the US and the UK, and can be sold by non-pharmacy retailers.,,
+
+The Thai Drug Act (No. 6) A.D. 2019 was announced in April 2019 as an addendum to the Thai Drug Act A.D. 1967. The main foci of the addendum were to change the renewal process for drug product licensing (from no re-licensing required to renewal every 7 years), to ensure timeline of the marketing authorization process, and to set up an official list of registered external experts or organizations., However, the revision of the drug classification system regarding the number of drug categories, classification criteria, and actual drug classification is an issue not yet resolved. Thus, a comprehensive review of the drug classification system is required to support the revision.
+
+There have been few research studies published comparing drug classification systems worldwide., Of these, just one includes Thailand, but this research still does not focus on a comprehensive review of drug classification systems among the countries in the study. As prescription and non-prescription drug classification systems can be used as regulatory frameworks to ensure the rational use of drugs, this study aims to explore Thailand and other selected countries’ regulatory management regarding their respective drug classification systems, the different criteria of drug classification, and how drug regulatory agencies actually classify drugs into different categories. Findings from this study could be used to support the revision of the drug classification system in Thailand.
+
+Methods
+<USER>

@@ -1,0 +1,162 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the penny stay in circulation?
+Text: Should the Penny Stay in Circulation? – Top 3 Pros and Cons
+
+Freshly minted pennies at the US Mint in Denver
+Source: Jeffrey Sparshott, “The Penny Cost More to Make Than It’s Worth, Again,” Dec. 27, 2016
+
+The US Mint shipped 8.4 billion pennies for circulation in 2017, more than all nickels (1.3 billion), dimes (2.4 billion), and quarters (1.9 billion) combined. [1] While countries such as Australia, Canada, and New Zealand have phased out their one-cent pieces, Harris Poll found that 55% of Americans are in favor of keeping the penny and 29% want to abolish it. [2][3]
+
+The US Mint produces coins as instructed by Congress, so a law would have to be passed by Congress and signed by the President in order for pennies to be removed from circulation. [4] Several unsuccessful legislative efforts have sought to bring about the penny’s extinction. Most recently, in 2017, Senators John McCain (R-AZ) and Mike Enzi (R-WY) sponsored ultimately failed legislation that would have suspended minting of the penny. [5]
+
+Should the Penny Stay in Circulation?
+
+Pro 1
+
+Preserving the penny keeps consumer prices down and avoids harming low-income households.
+
+Mark Weller, Executive Director of the pro-penny group Americans for Common Cents, says, “The alternative to the penny is rounding to the nickel, and that’s something that will negatively impact working families every time they buy a gallon of gas or a gallon of milk.” [6]
+
+The US Federal Reserve found that minorities and low-income people are more likely to use cash than credit cards. [7] Raymond Lombra, Professor of Economics at Pennsylvania State University, says the extra rounding charges would exceed $600 million annually and would “be regressive, affecting the poor and other disadvantaged people groups disproportionately.” [9]
+
+One study found that penny rounding in Canada costs grocery store customers an estimated 3.27 million Canadian dollars (2.5 million USD) annually. [9]
+
+Read More
+
+Pro 2
+
+A penny can be used for decades and is more cost-efficient to produce than a nickel.
+
+Most US coins have an expected circulation life of 20 to 30 years, meaning a single penny could be used thousands or even millions of times. [10][11] So what if it costs 1.8 cents to make? [1] That’s a bargain for how many times it gets used.
+
+Without pennies, the Mint would be forced to make more five-cent pieces. That would cost an estimated $10.9 million more annually than it would cost to keep making pennies. [12]
+
+Pennies and nickels both cost more to make than their face values, but on average over the last five years, nickels have been made at a loss of 2.58 cents per coin, compared to .65 cents per penny. [1][13] The cost of making and shipping pennies includes some fixed costs that the US Mint would continue to incur even if we abolished the penny, because the Mint would still make other coins. [12]
+
+Read More
+
+Pro 3
+
+The existence of pennies helps raise a lot of money for charities.
+
+Organizations such as the Leukemia and Lymphoma Society, the Salvation Army, and the Ronald McDonald House ask people to donate pennies to raise funds. [11] In 2009, the Leukemia and Lymphoma Society announced that school children had collected over 15 billion pennies in support of its charitable work — that’s $150 million dollars for blood cancer research and treatment. [14]
+
+Dagmar Serota, who created a nonprofit called Good Cents for Oakland, said, “Pennies are easy to ask for and they are easy to give. And it’s very easy for a child to say, ‘Will you help me support this nonprofit, will you give me your pennies?’” [6] Elementary school students in Los Angeles, CA, gain significant leadership and civic engagement experience from USC’s Penny Harvest program by choosing how to donate the money they raise. [15]
+
+Common Cents, a nonprofit based in Dallas, TX, has run a “Pennies from the Heart” program for 20 years, and the student-led efforts have raised over $850,000 for local charities. [16] The Ms. Cheap Penny Drive for Second Harvest in Tennessee raised enough to pay for 316,039 meals for the hungry in 2017. [17]
+
+Read More
+
+Con 1
+
+The penny has practically no value and should be taken out of circulation just as other coins have been in US history.
+
+You can’t buy anything for a penny; vending machines and parking meters won’t accept them. [18] Harvard economist Greg Mankiw stated, “The purpose of the monetary system is to facilitate exchange. The penny no longer serves that purpose. When people start leaving a monetary unit at the cash register for the next customer, the unit is too small to be useful.” [19] Former US Mint Director Philip Diehl said, “[T]he value of a penny has shrunk to the point that, if you earn more than the minimum wage, you’re losing money stopping and picking up a penny on the sidewalk.” [20]
+
+Comedian John Oliver noted, “Two percent of Americans admitted to regularly throwing pennies in the garbage, which means the US Mint is spending millions to make garbage.” [21] Two-thirds of the billions of pennies produced are never seen in circulation again once they reach a consumer via the bank. [22]
+
+Read More
+
+Con 2
+
+The process of making pennies is costly both financially and environmentally.
+
+At a total per unit cost of 1.82 cents, it costs nearly two pennies to make one penny. [1] Aaron Klein, former Deputy Assistant Secretary for Economic Policy at the Treasury Department, estimates that the United States could see $1.78 billion in losses over the next 30 years if the penny remains in production. [23]
+
+Making pennies also has environmental consequences from mining and transportation. Mining zinc and copper produces carbon dioxide emissions and pollutants, and uses vast amounts of energy. [24]
+
+Over the last 35 years, 107 million pounds of carbon dioxide have been emitted due to pennies being delivered from the Mint to banks. [25] A California company called Mike’s Bikes has banned the penny from its registers because “Making pennies wastes natural resources [and] is toxic to people and the environment.” [26]
+
+Read More
+
+Con 3
+
+Eliminating pennies would save time at the point of purchase without hurting customers or businesses financially.
+
+The use of pennies in paying for goods and making change adds time to sales transactions. A study by Walgreen’s and the National Association of Convenience Stores found that pennies add 2 to 2.5 seconds to each cash transaction. [27]
+
+As a result of that extra time per transaction, the average citizen wastes 730 seconds a year (12 minutes) paying with pennies. [28] Harvard economist Greg Mankiw says that this wasted time costs the US economy around $1 billion annually. [29] An estimate from Citizens to Retire the penny says that the 107 billion cash transactions in the United States annually add up to 120 million hours of time between customers and employees – at a cost of $2 billion to the US economy. [27]
+
+Rounding transactions to the nearest nickel instead of using pennies wouldn’t harm consumers or stores. Robert M. Whaples, Professor of Economics at Wake Forest University, crunched the numbers and found that “The convenience stores and the customers basically broke even.” [30]
+
+Read More
+
+Did You Know?
+
+1. In 1792, Congress created a national mint authorized to make gold, silver, and copper coins, including the one-cent piece known as the penny. Abraham Lincoln’s face replaced an image of Lady Liberty on the penny in 1909, the 100th anniversary of his birth, making him the first real person featured on a regular-issue American coin. [31][32][33]
+
+2. The first penny, known as the “Fugio cent,” was reportedly designed by Benjamin Franklin in 1787. Franklin is also credited with the saying, “A penny saved is a penny earned.” [35]
+
+3. The official name for the US penny is “one-cent piece,” according to the US Department of the Treasury, but early Americans were allegedly in the habit of using the British term “penny.” [4][35]
+
+4. Although originally made of pure copper, pennies today are composed of 97.5% zinc and 2.5% copper. [34]
+
+5. The Department of Defense banned the use of pennies at overseas military bases in 1980 because the coins were deemed too heavy and not cost effective to ship. [36]
+
+6. The difference between the face value of a coin and and the actual cost to make it is known as seigniorage. [37]
+
+7. Men are nearly twice as likely as women to favor dropping the penny (39% vs. 20%). [3]
+
+For more on US currency, explore “Currency and the US Presidents.”
+
+Click for an Encyclopaedia Britannica video about how coins became a form of money.
+
+Discussion Questions
+
+1. Should the penny stay in circulation? Why or why not?
+
+2. Should the US government consider removing other coins from circulation as transactions become more digital? Why or why not?
+
+3. How would removing pennies impact people who primarily rely on cash transactions? Explain your answer(s).
+
+Take Action
+
+1. Analyze the pro argument of Mark Weller from Americans for Common Cents.
+
+2. Explore the penny at the US Mint.
+
+3. Consider the con arguments from NPR’s Planet Money reporter Greg Rosalsky.
+
+4. Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+
+5. Push for the position and policies you support by writing US national senators and representatives.
+
+Sources
+<USER>

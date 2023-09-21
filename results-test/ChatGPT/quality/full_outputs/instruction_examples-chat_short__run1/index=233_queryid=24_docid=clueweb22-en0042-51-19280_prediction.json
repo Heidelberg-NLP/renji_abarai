@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ7MNu4oPPKPAqK6GdnccKV5K5ZX",
+  "object": "chat.completion",
+  "created": 1682691124,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3117,
+    "completion_tokens": 37,
+    "total_tokens": 3154
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This document is informative, providing factual information about the 2020 tax brackets and related tax provisions. There are no explicit arguments made, therefore there is no rhetorical argument quality to classify."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

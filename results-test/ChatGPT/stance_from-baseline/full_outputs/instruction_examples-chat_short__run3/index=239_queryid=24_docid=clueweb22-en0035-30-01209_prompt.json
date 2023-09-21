@@ -1,0 +1,158 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Does lowering the federal corporate income tax rate create jobs?
+Text: The 35 Percent Corporate Tax Myth – ITEP
+March 9, 2017
+
+The 35 Percent Corporate Tax Myth
+
+report
+
+Corporate Tax Avoidance by Fortune 500 Companies, 2008 to 2015
+
+Read the Report in PDF
+(Includes Company by Company Appendices and Notes)
+
+Read the Fact Sheet
+
+Go To Report Landing Page
+
+Executive Summary
+
+Introduction
+
+Who’s Paying Corporate Taxes—and Who’s Not
+
+The Size of the Corporate Tax Subsidies
+
+Tax Rates (and Subsidies) by Industry
+
+Historical Comparisons of Tax Rates and Tax Subsidies
+
+U.S. Corporate Income Taxes vs. Foreign Income Taxes
+
+How Companies Pay Low Tax Bills
+
+Who Loses from Corporate Tax Avoidance?
+
+A Plea for Better Disclosure
+
+Tax Reform (& Deform) Options
+
+YEAR-BY-YEAR DETAILS ON COMPANIES PAYING NO INCOME TAX
+
+Appendix 1: Methodology
+
+Appendix 2: Why“Current”Federal Income Taxes are the Best (and Only) Measure of the Federal Income Taxes Companies Pay
+
+Appendix 3: 15 Multinational Corporations that Do Not Provide Plausible Geographic Breakdowns of Their Pretax Profits
+
+Appendix 1: Methodology
+Appendix 2: Why“Current”Federal Income Taxes are the Best (and Only) Measure of the Federal Income Taxes Companies Pay
+Appendix 3: 15 Multinational Corporations that Do Not Provide Plausible Geographic Breakdowns of Their Pretax Profits
+
+EXECUTIVE SUMMARY
+
+Profitable corporations are subject to a 35 percent federal income tax rate on their U.S. profits. But many corporations pay far less, or nothing at all, because of the many tax loopholes and special breaks they enjoy. This report documents just how successful many Fortune 500 corporations have been at using loopholes and special breaks over the past eight years. As lawmakers look to reform the corporate tax code, this report shows that the focus of any overhaul should be on closing loopholes rather than on cutting tax rates.
+
+It’s important to note a key piece of this report’s methodology. The report only includes corporations that were consistently profitable over the eight-year period from 2008 to 2015. In other words, if a firm had a loss in even one year, it is excluded from this report. By leaving out corporations that had losses (which means they wouldn’t pay any tax), this report provides a straightforward picture of average effective tax rates paid by our nation’s biggest and consistently profitable companies. Two hundred and fifty-eight Fortune 500 companies were consistently profitable in each of the eight years between 2008 and 2015. Most of these companies were included in our February 2014 report, The Sorry State of Corporate Taxes, which looked at the years 2008 through 2012. There are new companies in the report, including Netflix, which entered the Fortune 500 after 2013. In addition, some companies were excluded from the study because they lost money in 2013, 2014 or 2015.
+
+Some Key Findings:
+
+  • As a group, the 258 corporations paid an effective federal income tax rate of 21.2 percent over the eight-year period, slightly over half the statutory 35 percent tax rate.
+  • Eighteen of the corporations, including General Electric, International Paper, Priceline.com and PG&E, paid no federal income tax at all over the eight-year period. A fifth of the corporations (48) paid an effective tax rate of less than 10 percent over that period.
+  • Of those corporations in our sample with significant offshore profits, more than half paid higher corporate tax rates to foreign governments where they operate than they paid in the United States on their U.S. profits.
+
+These findings refute the prevailing view inside the Beltway that America’s corporate income tax is more burdensome than the corporate income taxes levied by other countries, and that this purported (but false) excess burden somehow makes the U.S. “uncompetitive.”
+
+Other Findings:
+
+  • One hundred of the 258 companies (39 percent of them) paid zero or less in federal income taxes in at least one year from 2008 to 2015.
+  • The sectors with the lowest effective corporate tax rates over the eight-year period were Utilities, Gas and Electric (3.1 percent), Industrial Machinery (11.4 percent), Telecommunications (11.5 percent), Oil, Gas, and Pipelines (11.6 percent), and Internet Services and Retailing (15.6 percent). Each of these industries paid, as a group, less than half the statutory 35 percent tax rate over this eight-year period.
+  • The tax breaks claimed by these companies are highly concentrated in the hands of a few very large corporations. Just 25 companies claimed $286 billion in tax breaks over the eight years between 2008 and 2015. That’s more than half the $527 billion in tax subsidies claimed by all of the 258 companies in our sample.
+  • Five companies — AT&T, Wells Fargo, J.P. Morgan Chase, Verizon, and IBM — enjoyed more than $130 billion in tax breaks during the eight-year period.
+
+Recommendations for Reform:
+
+  • Congress should repeal the rule allowing American multinational corporations to indefinitely “defer” U.S. taxes on their offshore profits. This reform would effectively remove the tax incentive to shift profits and jobs overseas.
+  • Limit the ability of tech and other companies to use executive stock options to reduce their taxes by generating phantom “costs” these companies never incur.
+  • Having set “bonus depreciation” on a path toward expiration at the end of 2019, Congress should take the next step and repeal the rest of accelerated depreciation, too. At a minimum, lawmakers should resist calls to expand these tax breaks by allowing for the immediate expensing of capital investments.
+  • Reinstate a strong corporate Alternative Minimum Tax that does the job it was originally designed to do.
+  • Increase transparency by requiring country-by-country public disclosure of company financial information, including corporate income and tax payments, through filings to the Securities and Exchange Commission.
+
+INTRODUCTION
+
+For the first time in more than three decades, comprehensive corporate tax restructuring is a serious possibility in Washington. Republican leaders in Congress and President Donald Trump have each put forward corporate tax plans that would cut the corporate tax rate by as much as half. This misguided consensus is largely the result of a long-term aggressive push by corporate lobbyists on Capitol Hill to reduce the federal corporate income tax rate, based on the claim that our corporate tax is uncompetitive and high compared to other developed nations.
+
+This study takes a hard look at federal income taxes paid or not paid by 258 of America’s largest and most profitable corporations in the eight years between 2008 and 2015 — and compares those tax payments to the foreign taxes that a multinational subset of these same companies pay on their activities in the rest of the world. The companies in our report are all from Fortune’s annual list of America’s 500 largest corporations, and all of them were profitable in the United States in each of the eight years analyzed. Over eight years, the 258 companies in our survey reported total pretax U.S. profits of more than $3.8 trillion.
+
+While the federal corporate tax law ostensibly requires big corporations to pay a 35 percent corporate income tax rate, the 258 corporations in our study on average paid slightly more than half that amount: 21.2 percent over the 2008 to 2015 period. Many companies paid far less, including 18 that paid nothing at all over the entire eight-year period.
+
+We also find that for most of the multinationals in our survey — companies that engage in significant business both in the United States and abroad — the U.S. tax rates these companies paid are lower than the rates they faced abroad. More than half of the multinationals in our survey enjoyed lower U.S. tax rates on their U.S. profits than the foreign tax rates they paid on their foreign profits.
+
+PREVIOUS CORPORATE TAX STUDIES
+
+ • Corporate Income Taxes in the Reagan Years (CTJ 1984)
+
+• The Failure of Corporate Tax Incentives (CTJ 1985)
+
+• Corporate Taxpayers and Corporate Freeloaders (CTJ 1985)
+
+• Money for Nothing (CTJ & ITEP 1986)
+
+• 130 Reasons Why We Need Tax Reform (CTJ & ITEP 1986)
+
+• The Corporate Tax Comeback (CTJ & ITEP 1986)
+
+• It’s Working, But… (CTJ & ITEP 1989)
+
+• Corporate Income Taxes in the 1990s (ITEP 2000)
+
+• Corporate Income Taxes in the Bush Years
+(CTJ & ITEP 2004)
+
+• Corporate Taxpayers and Corporate Tax Dodgers
+(CTJ & ITEP 2011)
+
+• The Sorry State of Corporate Taxes(CTJ & ITEP 2014)
+
+There is wide variation in tax rates paid by the companies surveyed. A quarter of the companies in this study paid effective federal income tax rates on their U.S. profits close to the full 35 percent official corporate tax rate. But almost one-fifth paid less than 10 percent. One hundred of these profitable companies found ways to zero out every last dime of their federal income tax in at least one year during the eight-year period.
+
+There is plenty of blame to share for today’s sad situation. Corporate apologists will correctly point out that loopholes and tax breaks that allow corporations to minimize or eliminate their income taxes are generally legal, and stem from laws passed over the years by Congress and signed by various presidents. But that does not mean that low-tax corporations bear no responsibility. The tax laws were not enacted in a vacuum; they were adopted in response to relentless corporate lobbying, threats and campaign support.
+<USER>

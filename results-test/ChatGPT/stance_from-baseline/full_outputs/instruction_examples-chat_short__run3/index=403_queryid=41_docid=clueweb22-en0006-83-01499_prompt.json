@@ -1,0 +1,135 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should student loan debt be easier to discharge in bankruptcy?
+Text: 2020 Best Invention
+
+Can I Discharge a Private Student Loan in Bankruptcy?
+
+Upsolve is a nonprofit tool that helps you file bankruptcy for free. Think TurboTax for bankruptcy. Get free education, customer support, and community. Featured in Forbes 4x and funded by institutions like Harvard University so we'll never ask you for a credit card. Explore our free tool
+
+
+In a Nutshell
+
+Generally, private student loan borrowers have fewer options for managing their debt than federal loan borrowers. Private student loans that don't meet the definition of "student loan" in the Bankruptcy Code can be discharged. All others must been the undue hardship test.
+
+Written by Attorney John Coble, Your Upsolve TeamLegally reviewed by Attorney Andrea Wimmer
+Updated March 21, 2022
+
+
+Higher education is expensive. At the end of 2021, U.S. student loan debt peaked at $1.74 billion.[1] That number includes private and federal student loans. But federal student loan borrowers have options when hard times hit. Repayment plans, forbearance, or deferment can help. These options can lower monthly payments or pause loan payments. Private student loan borrowers rarely have such options. This leads some people to wonder if bankruptcy is the solution to deal with overwhelming private student loan debt.
+
+Generally, student loan debt can’t be discharged in a Chapter 7 or Chapter 13 bankruptcy case. It can only be discharged by filing an adversarial proceeding after filing your bankruptcy case. Then you have to prove the debt causes undue hardship using the Brunner Test. This sets a high bar, but there’s some evidence that filing bankruptcy to discharge student loans is becoming easier. Read on to learn more about how to deal with private student loans you’re struggling to repay.
+
+What Is a Private Student Loan?
+
+Private student loans are issued by private lenders like banks or other financial institutions. Navient and Sallie Mae are two common private student loan lenders. To be considered a qualified education loan — instead of a personal loan — the loan must be used solely for “qualified higher education expenses.” This includes the cost of attendance at any eligible educational institution. 
+
+Let’s break this down:
+
+  • Cost of attendance includes tuition, fees, room and board, books, necessary equipment and materials, supplies, and transportation.
+
+  • Eligible education institutions include most accredited public and private post-secondary institutions, including those that are for-profit. Put simply, most colleges and vocational institutions are eligible, accredited institutions. 
+
+If you default on a private student loan, the lender is out of luck. By contrast, federal student loans are issued by the U.S. Department of Education and guaranteed by the federal government. That means that if you default on these loans, the federal government pays for the loan. 
+
+Students often take out a mix of federal student loans and private student loans to cover their full college expenses.
+
+Can Student Loans Be Discharged in Bankruptcy?
+
+Student loan debt is unsecured debt just like credit card or medical debt. While credit card and medical debt can be discharged in a Chapter 7 bankruptcy, private and federal student loan debt are treated differently. This is outlined in the federal bankruptcy law known as the Bankruptcy Code.
+
+To discharge a student loan in bankruptcy, you must first file your bankruptcy case, then file an adversary proceeding (AP) with the bankruptcy court. These proceedings are very different from normal bankruptcy proceedings. Most bankruptcy cases aren’t heard before a judge, but an adversarial proceeding may require a full trial before a bankruptcy judge. This is why many people who try to discharge their student loans hire experienced bankruptcy attorneys to help with their cases. Even if you file an AP, you’ll need to pass the Brunner Test to secure a bankruptcy discharge for a student loan (in most jurisdictions).
+
+The Brunner Test
+
+In most courts in America, you need to pass the Brunner Test to discharge a student loan. The Brunner Test was originally created by the court in a case called Brunner v. New York State Higher Education Services Corp.[2] The Brunner Test is the standard courts look at to make a decision on student loan dischargeability in bankruptcy. All states and territories in the U.S. use the Brunner Test in their bankruptcy courts, except the following:
+
+  • Maine, Massachusetts, New Hampshire, Rhode Island, Puerto Rico, Minnesota, Iowa, North Dakota, South Dakota, Nebraska, Missouri, and Arkansas.
+
+There are three parts to the Brunner test to help the court determine if an undue hardship exists. The most common way of passing the BrunnerTest is to be permanently disabled.
+
+Part 1: Minimal Standard of Living
+
+To pass the first part of the Brunner Test you must prove you have extenuating circumstances that create a hardship. In other words: You can't pay the student loan and still maintain a minimum standard of living. Different courts across the country have different ways of deciding what a minimal standard of living is. 
+
+One example is a case known as In re Murrell[3]. In that case, the court basically said that the minimal standard of living requirement is met when a person's income is as high as it can be and their expenses are as low as they can be. This is a tough standard. In this case, a disabled debtor's student loans weren’t discharged because his expenses were too high. Those expenses included DirecTV and internet.
+
+Part 2: Hardship Persists for a Substantial Portion of the Repayment Period
+
+If you pass the first part of the test, you then have to prove that your hardship will continue for most of the loan’s repayment term. As you might imagine, it can be difficult to predict how long a bad financial situation will persist. To complicate matters, courts interpret hardship differently.  
+
+For example, a New Orleans court ruled that a debtor must be permanently unable to pay the debt because of reasons out of their control. But a Los Angeles court was less strict. It ruled that the debtor had to be unable to pay for most of the repayment period. Both of these courts apply the BrunnerTest to interpret the same part of the Bankruptcy Code. Yet, they have different interpretations. Your local bankruptcy court will have its own interpretation. 
+
+Part 3: Good Faith Effort To Repay the Student Loan
+
+The final hurdle in the Brunner Test is showing that you’ve made a “good faith effort” to repay your educational loans. Like the second part of the test, bankruptcy courts interpret this differently. Some are more strict than others. As a general rule, most courts want to see that you’ve at least made an effort to find employment, maximize your income, and minimize your expenses. If you haven’t made any student loan payments or attempted to negotiate a repayment plan, some courts don’t consider you to have made a good faith effort. 
+
+Upsolve User Experiences
+
+600+ Members Online
+Chelsea Sudderth
+Chelsea Sudderth
+★★★★★ 1 day ago
+What an amazing, caring, and professional team and community! Upsolve has literally changed my life! I am literally more than grateful for all of the help and support! You definitely get 5, actually 6 starts from me!!!
+Read more Google reviews ⇾
+Danielle
+Danielle
+★★★★★ 1 day ago
+I feel there is such weight lifted of my shoulders. I would recommend any one who may not be able to do the work for themselves, or be able to hire an attorney. This was a excellent tool. I want to thank the team at UPSOLVE for all the work they did for me.
+Read more Google reviews ⇾
+Kristie Love
+Kristie Love
+★★★★★ 4 days ago
+Awesome!!! I was able to file in time to stop a hearing!
+Read more Google reviews ⇾
+
+Are Bankruptcy Courts Evolving on Student Loan Bankruptcy?
+
+There are reasons to be optimistic about recent developments in bankruptcy courts as well as recent legislative proposals. For example, in 2019, Senator Warren and Congressman Clyburn introduced the Student Loan Debt Relief Act. If this legislation becomes law, it would provide debt relief for 95% of student loan borrowers. The act would eliminate all debt for 75% of student loan borrowers. Student loan debt is a part of the political conversation now more than ever. But Congress has been slow to act outside of the temporary student loan payment pause implemented during COVID-19.
+
+Recent Student Loan Bankruptcy Success Stories
+
+Two of the most important student loan bankruptcy successes in the last few years have involved attorneys who personally filed for bankruptcy. These debtors knew the law and they were highly motivated to get their debt discharged. Each had approximately $200,000 on the line. 
+
+  • Rosenberg v. N.Y. State Higher Education Services Corp.[0] was a student loan bankruptcy case filed by an attorney who got his educational loans successfully discharged. The judge in the case, Judge Morris, stated in the court ruling that she "would not participate in perpetuating the myth that student loans are impossible to discharge in bankruptcy." 
+
+  • Nitcher v. Educ. Credit Mgmt. Corp.[0]is another successful student loan bankruptcy case. In this case, the judge granted a partial discharge to the attorney who filed the case. The attorney graduated from law school in 2008 and passed the Brunner Test because she had difficulty finding a job after graduating from law school. When she did find a job, she didn't make as much money as she had expected. The judge granted her a partial discharge so that her student loan was reduced from $198,681 to $16,500.
+
+Student Loan Repayment With Private Lenders – What if You Can’t Pay?
+<USER>

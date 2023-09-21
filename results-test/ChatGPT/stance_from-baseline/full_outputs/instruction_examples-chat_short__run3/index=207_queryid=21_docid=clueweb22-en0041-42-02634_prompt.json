@@ -1,0 +1,78 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is human activity primarily responsible for global climate change?
+Text: How Much Does Human Activity Affect Climate Change? | National Center for Science Education
+
+How Much Does Human Activity Affect Climate Change?
+
+The Earth’s climate is changing rapidly. Scientists trying to find out what’s causing climate change work like detectives, gathering evidence to rule out some suspects and to ascertain just who is responsible. It’s clear, based on over a century of scientific investigation, that humans are responsible for most of the climate change we’ve seen over the last 150 years.
+
+Humans are not the only suspects. The climate has changed throughout the Earth’s history, well before humans evolved. The Sun is the primary driver of the climate. Roughly speaking, global temperatures rise when more energy from the Sun enters the atmosphere than returns to space through the atmosphere. The climate cools any time more energy returns to space than comes in from the Sun. While humans can influence that balance, other factors, from continental drift and changes in the shape of the Earth’s orbit to variations in the Sun’s activity and phenomena like El Niño, can all influence the climate. Considering the pace of climate change today, scientists can rule out most of those suspects: some happen too slowly to explain current climate change, while others move in small cycles, not long trends, and others only influence the climate in part of the planet. Scientists know about these factors and can account for them when assessing human-caused climate change.
+
+The potential for human beings to alter climate was first proposed over a century ago, building on research in the 1850s by John Tyndall. Light from the Sun warms the Earth’s surface, which then gives off energy as infrared radiation, the heat you feel from asphalt on a sunny day. Greenhouse gases such as water vapor and carbon dioxide (CO2), absorb this radiating energy, heating the atmosphere and the surface. This process results in the Earth’s temperature being warmer than it would if it were heated only by direct sunlight.
+
+For over 100 years, scientists have regarded humans as the prime suspect in current climate changes. Around the turn of the 20th century, Svante Arrhenius was the first to suggest that people could, through the burning of coal, increase the amount of greenhouse gases in the atmosphere and amplify the natural warming effect, thereby causing the atmosphere to warm more than it would through strictly natural processes.
+
+When humans burn gasoline, coal, natural gas, and other common fuels to make electricity or drive cars, they release a substantial amount of carbon dioxide into the atmosphere. For every gallon (or liter) of gasoline your car burns, 1300 times that volume of CO2 is released (a gallon of gas weighs about 6 pounds or 2.8 kilograms, but the released CO2 would weigh over 19 pounds or 8.75 kilograms). Greenhouse gases are emitted from power plants and cars, but also from landfills, from farms and cleared forests, and through other subtle processes. An interactive map from the Environmental Protection Agency shows US sources of key greenhouse gases. The World Resources Institute cataloged (PDF) global sources of greenhouse gases in 2005.
+
+In the 1950s, scientists began methodically measuring global increases in carbon dioxide. Since then they’ve been able to confirm that the increase has been caused primarily from the burning of fossil fuels (and through other human activities, such as clearing land, as well). This increase, and changes in the type of CO2 being added to the atmosphere provide the “smoking gun” that shows that humans are responsible for the increased levels of carbon dioxide in the atmosphere.
+
+Modeling the Climate System
+
+To clinch the case that climate change is mostly caused by humans, scientists had to take into account other factors: complicated atmospheric physics, the interactions between air and land and between air and water, changing amounts of ice and of desert and forest, and the natural processes that have changed the climate for 4.54 billion years. To do all this, scientists recreate the crime scene. Because there’s only one Earth, they do that with computers. Climate scientists use powerful computers to construct models based on physics of the climate system. These models enable scientists to make predictions and test hypotheses about what processes affect the climate.
+
+In constructing such models, climate scientists start with basic science: thermodynamic principles, orbital dynamics, interactions between infrared radiation and carbon dioxide and other gases, and other such factors influencing the basic balance of heat entering and leaving the atmosphere. They combine these with actual measurements of data, such as the current concentration of greenhouse gases in the atmosphere. And they test hypotheses about which processes affect which phenomena. They can then see what the resultant models predict about the climate system. When the predictions match observations, it counts as a confirmation of the model and its underlying assumptions. When the predictions diverge from what is observed, climate scientists revise their hypotheses. By such a trial-and-error process, they are able to ensure that their hypotheses become more and more accurate and reliable.
+
+Such models can be applied to the Earth as a whole or to different regions of the planet. To see how climate change affects different parts of the Earth, climate scientists break the models down into smaller pieces, calculate how small parts of the Earth’s surface react to the Sun and greenhouse gases, and then connect those small parts together, based on measurements of how the atmosphere and ocean interact. To ensure the accuracy of the models at projecting future climate trends, the models are often run backwards in time to “retrodict” past climate changes, and then compared with paleoclimate observations. The models through this process have become remarkably accurate and give the climate research community confidence that the future projections are robust.
+
+Scientists can do experiments with these models that they can’t do on the planet. They can set the atmosphere to match conditions a century ago, and see whether the model’s predictions match what scientists measured at the time. And they can set the models to match conditions millions of years ago, to better understand how past climate changed. This allows them to verify that the models are accurate and to fine-tune the output. They can also remove the effects of human activities from the models, and see how much of the climate change they observe is still predicted by the models. These models, which are carefully vetted by other experts, agree that human activities, especially the burning of fossil fuels and resulting release of carbon dioxide into the atmosphere, are now substantially altering the planet’s climate, as summarized by the Intergovernmental Panel on Climate Change. In many different sorts of climate models, from teams competing to produce the models that most accurately predict past climates, the consistent result is that humans are producing most of the climate change that we've observed in the last century. One recent analysis, reported in Scientific American, estimated that at least three quarters of climate change since 1950 is due to human activities.
+
+The links below provide more detail on how we know humans are causing climate change. Or continue to the next section to find out How will climate change affect the world and our society?
+
+Further reading
+
+230 Grand Avenue, Suite 101
+Oakland, CA 94610
+
+510-601-7203 info@ncse.ngo membership@ncse.ngo
+
+National Center for Science Education (NCSE) is a 501(c)(3) tax-exempt organization, EIN 11-2656357. NCSE is supported by individuals, foundations, and scientific societies. Review our annual audited financial statements and IRS 990 forms at GuideStar.
+
+© Copyright 2020 National Center for Science Education. Privacy Policy and Disclaimer | Disclosures Required by State Law
+<USER>

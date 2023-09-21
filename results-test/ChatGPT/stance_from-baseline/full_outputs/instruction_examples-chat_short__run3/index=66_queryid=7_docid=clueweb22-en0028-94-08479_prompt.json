@@ -1,0 +1,79 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should felons who have completed their sentence be allowed to vote?
+Text: Florida convicted felons allowed to vote for 1st time in presidential election after completing sentences - ABC News
+
+Florida convicted felons allowed to vote for 1st time in presidential election after completing sentences
+
+"It felt wonderful," pastor Clifford Tyson said after casting his vote.
+
+Under the amendment, which was passed in 2018, a person convicted of a felony in the state as of is eligible to vote after completing all terms of his or her sentence.
+
+ABC News' Lionel Moise spoke with Tampa resident pastor Clifford Tyson, who voted in a presidential election for the first time in 42 years.
+
+"It felt wonderful because I had my 90-year-old father with me, also I had my 26-year-old son," said Tyson.
+
+Voters overwhelmingly approved the ballot initiative in 2018. Previously, the state of Florida disenfranchised everyone who had a felony conviction.
+
+"Florida used to have the worst system in the country when it came to felony disenfranchisement," said Julie Ebenstein, a senior staff attorney with the American Civil Liberties Union's voting rights project. According to Ebenstein, when Amendment 4 was passed, about 1.6 million convicted felons who completed their sentences in the state were not allowed to vote.
+
+"Politicians in Florida, unfortunately, in 2019 passed a law that interpreted all terms of sentence to include payment of legal financial obligation," said Ebenstein.
+
+Like in many other states, people in Florida are charged various fines when they are convicted of an offense. The ACLU, along with several other groups, sued to block the financial requirement, but this September, a federal appeals court ruled that former felons are required to pay all expenses before they can vote.
+
+But even those willing to pay their fees often find it difficult to do so due to the alleged lack of justice in the system.
+
+"It's one thing to be able to say to folks, 'Hey, you got to pay back your fines and fees in order to vote.' It's another thing when those folks show up and say, 'How much do I owe?' The state says, 'Oh, well, we can't really tell you because there are 67 counties and it's really complicated,'" said Neel Sukhatme, an associate professor of law at Georgetown University and the co-founder and director of the non-partisan group Free Our Vote.
+
+Sukhatme said convicted felons who completed their sentences should always have accurate information on how much they owe in fines and fees -- regardless of their political beliefs.
+
+The Free Our Vote team gathered to analyze data sets from across the state, which including information from the Clerk of Courts, Department of Corrections and voter registration records. The goal was to make Free Our Vote into a clearinghouse, where those previously convicted of felonies could get the information they needed on what specific payments they owed and where they could pay them.
+
+It was a life-changing moment for Tyson when he found out his balance in Hillsborough County was zero dollars. He is now trying to encourage others to carry out their civic duty and exercise their right to vote.
+
+"They live to vote and die trying to vote," said Tyson of other felons who did their time. "My vote is just as important as theirs. My rights are just as important to me. I made some mistakes back in those days, I lost that right. But I paid my dues to society."
+
+According to Florida Department of State spokesperson Mark Ard, the state does not separately track registered voters who had their voting rights restored under Amendment 4. The Florida Rights Restoration Coalition estimates that since it passed, 67,000 people with prior felony convictions were able to register to vote.
+
+Florida is being closely observed ahead of the November election, and 29 electorates are up for grabs.
+
+"It's Florida, 600 votes can make the difference in national presidential elections. But I hope that those who are now registered, who passed the registration deadline, will go to the polls and cast their ballot and will join in the Democratic process in a very exciting time to be involved," said Ebenstein.
+
+Moise's full report can be heard on the ABC News "Perspective" podcast.
+<USER>

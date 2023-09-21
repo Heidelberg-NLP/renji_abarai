@@ -1,0 +1,116 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: What Is Universal Basic Income, and Should Everyone Get It?
+
+By: Dave Roos  | 
+
+Lorrine Paradela, UBI
+Lorrine Paradela poses for a photograph in Stockton, California, on Feb. 7, 2020. Paradela, a 45-year-old single mother was one of the 125 Stockton residents receiving monthly cash disbursements under a pilot universal basic income. NICK OTTO/AFP via Getty Images
+
+Near the end of Martin Luther King Jr.'s life, he turned his attention to fighting poverty and became convinced that "the simplest approach will prove to be the most effective," he wrote in "Where Do We Go From Here: Chaos Or Community?" "[T]he solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income."
+
+Over half a century later, one in eight Americans (38.1 million people) are still living below the poverty line, according to the Census Bureau. Millions more jobs threatened by automation and artificial intelligence, yet MLK's notion of a guaranteed income — writing a monthly check to every American adult, no questions asked — remains a radical idea in many economic and political circles.
+
+We spoke with Stacia Martin-West, a professor of social work at the University of Tennessee and co-principal investigator (with Amy Castro Baker of the University of Pennsylvania) of the Stockton Economic Power Demonstration (SEED), one of the only active programs testing guaranteed income, also known as universal basic income, on real Americans.
+
+Under the SEED program, 125 residents of Stockton, California, were given a guaranteed income of $500 a month, for 18 months to see how this cash payment affected their lives. Researchers hope to release SEED's first round of findings in March 2021.
+
+As Martin-West explains, universal basic income (UBI) holds tremendous promise for alleviating not only the financial burden of poverty, but also the damaging ripple effects of economic insecurity on health and family.
+
+Yet she admits that the very idea of a federal program paying poor Americans hundreds or even thousands of dollars a month faces tremendous political opposition, not only for its cost but because of the pervasive, if unproven, belief that "free government handouts" discourage people from working and foster dependence on the state.
+
+Advertisement
+
+How Universal Basic Income Works
+
+If you are poor in the United States, there already exists a "safety net" of both state and federal programs designed to help struggling individuals and families, but all of those programs are "means-tested," which means that they come with certain strings attached.
+
+To receive SNAP food benefits or housing assistance, for example, you need to prove that your income is below a certain threshold. To collect unemployment benefits, you need to show that you're actively looking for work. To collect Social Security retirement benefits, you need to have worked for a minimum number of years.
+
+That's why universal basic income is such a radical departure from the existing "welfare" programs. There is no means testing or "proof" required to qualify. Under a UBI scheme, every single American adult would receive a check — $500 or even $1,000 a month — with absolutely no strings attached. The cash is unconditional, leaving it up to the individual or family to decide how best to use it. (In other countries, UBI grants are sometimes linked to recipients getting medical checkups or sending their kids to school.)
+
+Recipients of UBI could use the extra money to pay for groceries, cover rent or mortgage, or buy clothes for the kids. They could also choose enroll in an online class or job skills program, take time off to raise a baby or care for a sick parent, or invest it in starting up a new business.
+
+The key is that even at $1,000 a month, universal basic income wouldn't fully replace earnings from a job, but it would provide a much-needed cushion for underpaid, overstressed workers who have never had the luxury of financial security.
+
+"UBI is 'basic' in that it meets your basic needs, and it's 'guaranteed income' in that you know that it's coming," says Martin-West. With the pilot SEED program, Martin-West and her collaborators are testing whether those two income characteristics, basic and guaranteed, are powerful enough to change people's lives.
+
+Advertisement
+
+The Potential Pros of Universal Basic Income
+
+Andrew Yang deserves a lot of credit for popularizing the notion of universal basic income during his 2020 presidential run. Yang pitched his $1,000-a-month Freedom Dividend as a way of protecting American workers from the impending robot takeover of millions of jobs over the next decade. While Martin-West understands the concerns about automation and AI in the future, she feels there are plenty of other urgent reasons to implement a UBI plan today.
+
+Sign supporting Yang's $1,000 UBI
+A man carries a sign supporting Democratic presidential candidate Andrew Yang's plan for a $1,000 monthly universal basic income during a rally in Washington Square Park, May 14, 2019 in New York City.
+Drew Angerer/Getty Images
+
+"There are people dying from capitalism now," says Martin-West, like the millions of Americans who work physically taxing jobs with unpredictable pay and hours. "The inability to predict what your paycheck is going to be from week to week or month to month has pretty devastating impacts on a person's stress levels and manifests in poor health outcomes like cardiovascular health decline, increased rates of diabetes, and more."
+
+Stockton resident Tomas Vargas was one of those chosen to receive a $500 check every month through the SEED program. His shifts at a warehouse job were unpredictable, says Martin-West, so Vargas had to work odd jobs late into the night to support a family he hardly had a chance to see. With the extra $500, he was able to skip a shift at the warehouse and interview for a new job with better pay and fixed hours, freeing him to spend more time with his family.
+
+UBI proponents like Martin-West argue that this is one of the secondary effects of guaranteed income: A cushion of $500 or $1,000 makes workers feel less desperate to take any job that comes along, even if the pay is bad and working conditions are lousy.
+
+"Nobody cares more about labor supply than these big companies that tend to not treat their employees very well," says Martin-West. "If you have employees saying, 'I can do better than this and now I have this bargaining power,' then you may see improved working conditions."
+
+By far one of the biggest benefits of universal basic income is that it would provide a steady paycheck to people currently doing critical work for free, namely stay-at-home parents and other unpaid caregivers who are far more likely to be women.
+
+"With a guaranteed income, we're essentially compensating women for the work they do in support of capitalism that's gone unpaid," says Martin-West.
+
+Advertisement
+
+Criticisms of Universal Basic Income
+
+The biggest criticism of UBI is how much it would cost. Under Yang's "Freedom Dividend" plan, each of America's 236 million adults would receive $12,000 a year for a total of $2.8 trillion, which is more than half of the 2020 federal budget. Yang's plan allows older Americans the option of keeping their current Social Security and Medicare benefits, while other UBI proposals vow to replace the entire welfare state with one guaranteed monthly check.
+
+Even though some of the money could be offset by doing away with other "entitlement" programs, the federal government would have to raise taxes substantially to pay for a UBI program. Some of those taxes would target the wealthiest 1 percent and the very technology companies that are making human workers obsolete, but regular Americans would get hit, too. For example, Yang and others propose a "value-added tax" (VAT) of 10 percent on all manufactured goods. Yang also thinks that his Freedom Dividend would produce more economic growth, therefore increasing the tax base.
+
+"It is more likely that his overall plan would reduce the long-run size of the economy and the tax base, The three major taxes in his plan (VAT, carbon tax, and payroll tax increase), while efficient sources of revenue, would tend to reduce labor force participation by reducing the after-tax returns to the working," wrote Kyle Pomerleau at the nonpartisan Tax Foundation website. "We estimate that one option to make his proposal sustainable would be to raise the VAT rate to 22 percent and reduce the cash transfer to $9,000 per year."
+
+UBI supporters like Martin-West agree that a nationwide guaranteed income program would be enormously expensive, but disagree that it's not worth the investment.
+
+"Like all the decisions this country makes, it really comes down to, 'What is our priority?'" says Martin-West. "If our priority is to let people waste away in poverty, have ill health, have their work not be valued, then we won't prioritize a guaranteed income as part of our national budget. But if we do, in fact, honor the social contract that we have in the U.S., that means we should likely look at something like a UBI."
+
+Which leads to the second and arguably more difficult obstacle to creating a national UBI program — the belief, deeply held by many Americans, that a guaranteed income is just another form of government "handout" that encourages people not to work.
+
+There have only been a few real-world studies so far on universal basic income. For instance, people involved in a UBI trial in Finland reported less stress and greater feelings of wellbeing compared to people who didn't receive the extra cash. But they weren't more likely to seek out employment, even though they wouldn't lose the benefit if they did, reported the Guardian.
+
+The truth is that we won't know if UBI schemes work until there is more data from experiments like SEED and a half-dozen more pilot programs being launched by a group called Mayors for a Guaranteed Income.
+<USER>

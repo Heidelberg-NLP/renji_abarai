@@ -1,0 +1,115 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should death penalty allow
+Text: Does the Bible allow for the death penalty / capital punishment?
+CompellingTruth.org needs your support
+
+Does the Bible allow for the death penalty / capital punishment?
+
+The topic of capital punishment or the death penalty has a polarizing effect both inside and outside the church. On one side are those who agree with the practice and believe that the punishment for some crimes should be the forfeiture of the offender's life. On the opposite side of the fence are those who decry the practice and feel that taking a life for any reason is morally wrong. Which side is correct?
+
+There are actually three positions on the subject. They are as follows:
+
+1. Reconstructionism, which says the death penalty should be possible for all major crimes
+2. Rehabilitationism, which says the death penalty should be withheld for all crimes
+3. Retributionism, which says the death penalty should be allowed for some capital crimes
+
+The reconstructionist position adheres to the laws of the Old Testament that prescribed the death penalty for a variety of offenses. In general, two Old Testament passages are used to support the reconstructionist stance: "Whoever sheds man's blood, by man his blood shall be shed, for in the image of God He made man" (Genesis 9:6) and "You shall not pollute the land in which you are; for blood pollutes the land and no expiation can be made for the land for the blood that is shed on it, except by the blood of him who shed it" (Numbers 35:33).
+
+There are at least 21 specific crimes for which the death penalty was prescribed in the Old Testament. Acts such as murder (Exodus 21:12), rape (Deuteronomy 22:25), causing a woman to miscarry a baby (Exodus 21:22-25), and kidnapping (Exodus 21:16) were to result in the offender being put to death. Hard-core reconstructionists advocate a return to Old Testament-style theocracy, including all the laws governing capital punishment. Those championing the reconstructionist view support their position with three arguments: the Old Testament law reflects God's unchanging character, Jesus said He did not come to abolish the law, and capital punishment is also prescribed in the New Testament.
+
+However, a closer examination of Scripture reveals the weaknesses of reconstructionism. First, the New Testament never calls for believers to follow Old Testament law. For example, when the church of Corinth had to deal with an adulterer, Paul did not call for execution, but excommunication (1 Corinthians 5:5). It would be safe to say that Paul was not a reconstructionist.
+
+Further, God did not always enforce the death penalty for each capital crime, even in the Old Testament. David was not put to death for his adulterous affair with Bathsheba, and Cain was not killed for murdering Abel. So, it would appear that a full-fledged reconstructionist view is at odds with the Bible's teaching on capital punishment.
+
+The rehabilitationist believes that justice is not to be retributive but remedial. An offender should be reformed, and execution makes reformation impossible. From a biblical perspective, rehabilitationist arguments focus on the following: God does not rejoice in the death of the wicked (Ezekiel 18:23), Christians are told to turn the other cheek (Matthew 5:38-39), loving our enemies bars us from killing them, and Christians should not pay back evil for evil, but leave room for God's vengeance (Romans 12:19).
+
+While the rehabilitationist's arguments sound admirable at first blush, there are some foundational problems. It is true that God does not delight in the death of the wicked, but it is perfectly reasonable for a judge to soberly impose a penalty that fits the crime. The judge does not "delight" in handing down the sentence, but justice must still be satisfied.
+
+As for turning the other cheek, the statement made by Christ in Matthew 5 describes an insult (which is what a slap on the cheek signified in the first century) and not a heinous crime. Moreover, the Lord was advising His hearers on an individual's response to personal offenses; He was not framing government policy. There is a difference between what an individual decides to do towards a felon and what a country or state must do to preserve justice and protect society.
+
+The rehabilitationist also ignores the clear death penalty commands given in both the Old and New Testaments. For example, while God did not kill Cain for his murder of Abel, Cain expected it (Genesis 4:14). Regarding leaving room for God's vengeance, Scripture clearly says that God has given human governments the responsibility of meting out punishment that fits the crime (Romans 13).
+
+The retribution viewpoint appears to be the most scriptural. The retributionist sees the death penalty as necessary for certain crimes, such as the murder of an innocent person., Retributionism views the primary goal of justice to be punishment, not reformation. It takes into account the broad Old Testament principles of capital punishment (Genesis 9:6) and the New Testament teaching of divinely sanctioned government authority to take the life of a capital offender (John 19:11; Romans 13:4).
+
+Retributionism answers the charge that capital punishment is cruel with the observation that it is also cruel to murder an innocent person; the punishment fits the crime. As to the concern that innocent people may be executed, the retributionist points out the great care the justice system takes to prevent such tragedies. In this age of DNA testing, the likelihood of a person being wrongfully convicted has dramatically decreased.
+
+Finally, some critics of capital punishment claim it serves as no real deterrent to crime.The retributionist counters that the problem is not the punishment, but the delays and loopholes that prevent it from being properly administered. As Solomon said, "Because the sentence against an evil deed is not executed speedily, the heart of the children of man is fully set to do evil" (Ecclesiastes 8:11).
+
+To sum up, it is traditionally accepted that the penalty for a broken law is based on the value of and loss to the victim. Because humans are made in God's image, God instituted capital punishment and ordained that government "bear the sword" and uphold His moral code.
+
+
+Related Truth:
+
+What does it mean that humanity is created in the image of God?
+
+The consequences of sin - What are they?
+
+Why did God command the Canaanites' extermination?
+
+Does God punish sin? Does God punish Christians who sin?
+
+Why should we forgive?
+
+
+Return to:
+Truth about Humanity
+
+
+Subscribe to the CompellingTruth.org Newsletter:
+
+
+
+
+
+
+
+
+
+Preferred Bible Version:
+
+
+
+
+
+
+
+
+CompellingTruth.org is a ministry of
+<USER>

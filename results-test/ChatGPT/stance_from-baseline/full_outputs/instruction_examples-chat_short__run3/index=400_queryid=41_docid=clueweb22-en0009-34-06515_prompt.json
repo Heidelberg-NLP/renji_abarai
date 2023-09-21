@@ -1,0 +1,131 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should student loan debt be easier to discharge in bankruptcy?
+Text: How to Discharge Student Loans in Bankruptcy - Savingforcollege.com
+
+How to Discharge Your Student Loans in Bankruptcy
+
+Facebook icon Twitter icon Print icon Email icon
+Mark Kantrowitz
+
+By Mark Kantrowitz
+
+August 17, 2021
+
+Discharging student loans in bankruptcy is difficult, very difficult, but not impossible. Some borrowers have succeeded in getting their student loans discharged in bankruptcy. There are several steps that borrowers should take if they wish to obtain a bankruptcy discharge for their student loans.
+
+Bankruptcy Discharge of Student Loans Is Very Rare
+
+You can’t simply wave a magic wand, announce to the world “I declare bankruptcy” and watch your student loans disappear. It isn’t that easy.
+
+In a 1981 bankruptcy court case, Judge Burton R. Lifland said that discharging student loans required “a certainty of hopelessness, not simply a present inability to fulfill the financial commitment.”
+
+It is much easier to wipe away credit card debt, personal loans, auto loans and mortgages than student loans. The U.S. Bankruptcy Code puts student loans in the same category as child support obligations, taxes and criminal fines.
+
+Statistics concerning the rarity of bankruptcy discharge for student loans are based on information provided by the Educational Credit Management Corporation (ECMC). ECMC is the guarantee agency that services defaulted federal student loans when the borrower files for a bankruptcy discharge.
+
+Only 29 of 72,000 student loan borrowers with active bankruptcy filings in 2008 succeeded in getting a full or partial discharge of their student loans, according to ECMC.
+
+That’s 0.04%, or odds of about 1 in 2,500. You’re more likely to die of a heart attack or of cancer than to get your student loans discharged in bankruptcy. Still, the odds of discharging student loans in bankruptcy are better than your odds of winning the Powerball lottery jackpot.
+
+Nevertheless, these low odds are due, in part, to very few borrowers including their student loans in their bankruptcy filing. Also, it is unclear if the ECMC statistics are limited to just federal student loans. Federal student loans are much more difficult to discharge in bankruptcy than private student loans because federal student loans offer income-driven repayment plans.
+
+Bankruptcy Discharge of Student Loans Requires Undue Hardship
+
+Qualified education loans, which include all federal education loans and many private student loans, cannot be discharged in bankruptcy unless this would “impose an undue hardship on the debtor and the debtor’s dependents” [11 USC 523(a)(8)]. Loans made under a program that is funded in whole or in part by a nonprofit institution are similarly excepted from discharge.
+
+Congress did not define what it meant by the term undue hardship. Since most bankruptcy court cases involve financial hardship, it seems that Congress wanted a harsher standard for student loans, one that presents an unreasonable or excessive burden. But, Congress left it to the bankruptcy courts to define the term.
+
+Originally, Congress allowed student loans to be discharged if they have been in repayment for at least five years. Undue hardship was provided as an alternative for discharging student loans that had been in repayment for a shorter period of time. The option for a bankruptcy discharge after five years was increased to seven years in 1990 and eliminated entirely in 1998, leaving just the undue hardship option.
+
+Most courts have adopted one of two standards for defining undue hardship, either the Brunner Test (all circuits but 1st and 8th) or the Totality of Circumstances Test (8th circuit).
+
+The Brunner Test involves three prongs:
+
+  • You must currently be unable to repay the student loans and maintain a minimal standard of living for yourself and your dependents.
+  • The circumstances that prevent you from repaying the student loans must be likely to continue for most of the repayment term of the loans.
+  • You must have made a good faith effort to repay the student loans, including using options for financial relief, such as deferments, forbearances and income-driven repayment.
+
+The Totality of Circumstances Test omits the third prong of the Brunner Test and is more flexible.
+
+In addition, the borrower must file the undue hardship petition in an adversarial proceeding, where the lender can challenge the claim of undue hardship.
+
+Get a Bankruptcy Attorney
+
+A borrower is more likely to obtain a bankruptcy discharge of their student loans if they are represented by an experienced attorney.
+
+However, most bankruptcy attorneys are unwilling to pursue an undue hardship claim because these cases involve an adversarial proceeding, which are expensive and involve a lot more work. It can cost $10,000 or more to pursue an adversarial proceeding and borrowers who file for bankruptcy usually don’t have the money to pay the lawyer’s fees. Lenders are also likely to appeal the decision, so a favorable decision is unlikely to be final.
+
+Even if you don’t have an attorney and are representing yourself pro se, always show up in court. If you don’t show up when required, the lender can win the case by default.
+
+Demand Proof that the Student Loan Debt Is Owing
+
+In any court case involving student loans, demand proof that the debt is owed. In particular, ask for a copy of the signed promissory note, especially if the loan has been sold.
+
+The lender may not have the original loan promissory note or a copy. If so, they will have difficulty proving that the borrower owes the money or that they hold title to the debt.
+
+Spreadsheets showing a history of loan payments are business records and are not proof that the debt is owed.
+
+Generally, courts show a lot of deference to lenders. Many will allow the lender to provide a copy of the promissory note that was in use at the time and proof that the borrower received or benefited from the loan proceeds in lieu of the borrower’s actual signed promissory note.
+
+But, if there is any evidence that suggests that you did not borrow the loan, present it and challenge the veracity of the lender’s proof. For example, compare the signature on the promissory note with your actual signature and present the court with copies of your signature on other documents. If you were incarcerated at the time the loan was supposedly borrowed, present the court with documentation of this, since incarcerated individuals are ineligible for federal student loans.
+
+Question Whether the Student Loans Are Qualified Education Loans
+
+If a loan is not a qualified education loan, it may be dischargeable in bankruptcy without requiring an undue hardship petition and adversarial proceeding. You should challenge whether the loan satisfies the requirements to be considered a qualified education loan.
+
+Qualified education loans must have been borrowed solely to pay for qualified higher education expenses of an eligible student who was enrolled on at least a half-time basis and seeking a degree, certificate or other recognized education credential at an eligible institution of higher education.
+
+A refinance of a qualified education loan is also considered a qualified education loan.
+
+Types of loans that are not qualified education loans
+
+  • Mixed-use loans, such as credit cards, personal loans, auto loans, home equity loans, HELOCs and cash-out refinance of a mortgage, are not qualified education loans because they were not borrowed solely to pay for qualified higher education expenses.
+  • Direct-to-consumer loans are not qualified higher education loans because they are designed to overcome restrictions on the amount borrowed and thus may exceed the college’s cost of attendance. Such loans are not school certified and therefore the college financial aid office cannot enforce a cost of attendance cap on the annual loan amount.
+  • Bar study loans are not qualified education loans because they are not used to pay for qualified higher education expenses. The borrower is also not an eligible student, since the student has already graduated.
+  • Residency and relocation loans are not qualified education loans for the same reasons as bar study loans.
+  • Continuing education loans and career training loans are not qualified education loans because the student is not enrolled on at least a half-time basis and is not seeking a degree or certificate.
+  • K-12 loans are not qualified education loans because they are not used to pay for qualified higher education expenses.
+
+As these loans demonstrate, there are several characteristics of a loan, the student, the borrower or the educational institution that may prevent it from being considered a qualified education loan.
+
+Criteria based on student loan characteristics
+
+A student loan is not considered a qualified education loan if:
+<USER>

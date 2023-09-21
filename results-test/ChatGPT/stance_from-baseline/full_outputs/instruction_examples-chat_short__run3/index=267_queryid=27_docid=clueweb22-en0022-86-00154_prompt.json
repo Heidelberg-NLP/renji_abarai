@@ -1,0 +1,72 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should more gun control laws be enacted?
+Text: Last updated on: 4/22/2015 | Author: ProCon.org
+
+Piers Morgan Biography
+
+Title:
+Journalist and TV Personality
+Position:
+Pro to the question "Should More Gun Control Laws Be Enacted?"
+Reasoning:
+
+“I assumed that after 70 people were shot in a movie theater, and then, just a few months later, 20 first-graders were murdered with an assault rifle in an elementary school, the absurd gun laws in this country would change. But nothing has happened…
+
+My point is simple: More guns doesn’t mean less crime, as the NRA repeatedly tries to tell you. It means more gun violence, more death and more profits for the gun manufacturers. And to those who claim my gun control campaigning has been ‘anti-American,’ well, the reverse is true. I am so pro-American that I want more of you to stay alive. But I’ve made my point. I’ve given it a tremendous whack. Now it’s down to you. It’s your country; these are your gun laws. And the senseless slaughter will only end when enough Americans stand together and cry: ‘Enough!'”
+
+Piers Morgan Live, www.youtube.com, Mar. 28, 2014
+
+Involvement and Affiliations:
+  • Editor-at-Large, MailOnline, Sep. 2014-present
+  • Host, CNN, Piers Morgan Live (formerly known as Piers Morgan Tonight), Jan. 17, 2011-Mar. 28, 2014
+  • Winner, The Celebrity Apprentice, 2008
+  • Cofounder, FirstNews, 2006-present
+  • Judge, America’s Got Talent, 2006-2011
+  • Editor, The Mirror, 1995-2004
+  • Editor, News of the World, 1994-1995
+  • Former Entertainment Editor, The Sun
+  • Education:
+  • Attended Harlow College (England)
+  • Other:
+  • Birth name is Piers Stefan Pughe-Morgan
+  • Twitter handle: @piersmorgan
+  • Quoted in:
+    Pro & Con Quotes: Should More Gun Control Laws Be Enacted in the United States?
+<USER>

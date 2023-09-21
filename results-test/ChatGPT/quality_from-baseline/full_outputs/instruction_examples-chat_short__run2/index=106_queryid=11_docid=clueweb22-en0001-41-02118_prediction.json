@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0keMyKF7eNAFqKNM2roy0eE2H13",
+  "object": "chat.completion",
+  "created": 1687863740,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The article does not provide a clear pro or con stance on whether anabolic steroid use should be accepted in sports, therefore it does not provide a clear reference for an argument quality prediction."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2910,
+    "completion_tokens": 37,
+    "total_tokens": 2947
+  }
+}

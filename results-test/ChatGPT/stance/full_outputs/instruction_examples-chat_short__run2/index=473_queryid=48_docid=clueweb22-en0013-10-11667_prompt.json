@@ -1,0 +1,74 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should voting age lower
+Text: Five reasons why we should lower Canada’s voting age
+
+1
+524
+
+Did you wake up on your 18th birthday and think to yourself, “wow, now that I’m 18, I am much more politically conscious, and totally ready to make well-informed decisions about my government?”
+
+I’ll go ahead and guess that you didn’t. Unfortunately, there is no ‘magic’ age when we suddenly become experts in Canadian politics. Youth are not any less able to think critically about their options to make informed decisions than anyone else, thus we need to consider lowering the voting age to get Canadian youth thinking more about politics.
+
+Denying youth the chance to participate in the democratic process is unjust. Put simply, age should not render an entire demographic powerless and without representation, and here’s my list of reasons why:
+
+ 
+
+1) To say that teens shouldn’t have the right to vote because they’re too weak, immature, or simply aren’t smart enough to make an informed decision is the exact same argument that kept women, indigenous peoples, and minorities from being able to vote for so long. Applying that same discriminatory philosophy to young people only weakens our democracy.
+
+2) If we encourage youth to participate in the democratic process from an early age, chances are they will become lifelong voters. Voting is a habit. There are people who vote in every election until the day they die, and others who have never even seen the inside of the voting booth. By bringing Canadian youth into the political fold sooner, we could ultimately increase voter turnout down the road.
+
+3) By age 16, we all are all looking for ways to assert our independence and assume greater responsibility; voting rights would give some recognition and a voice to a demographic craving just that. By giving them a legitimate way to empower themselves, we are helping them become accustomed to what adult life will be like.
+
+4) Youth can provide sufficient reasoning when it’s asked of them. If we act like they can’t, we are only doing them a disservice. Not to mention applying the ‘ability to reason’ to youth is a criteria we don’t even ask of adults when it comes to the voting booth. We don’t ask adults to prove their reasoning competencies before they cast their ballot, and to even suggest so sounds ridiculous. Youth deserve that same courtesy.
+
+5) Young adults and teens have the biggest stake in the game, period. I hear all the time from a variety of adults in my life that young people are the worst voters because they “have no stake in the game.” Simply put, some people are of the opinion that since young people don’t have any wealth or clout, they don’t know how to vote. This is 10 different shades of bullshit. Youth have the biggest stake in the game because they will inherit the deficit, they will be responsible for cleaning up the world we polluted, they are the ones suffering through a barebone public education system, they’re worried about being able to afford tuition and living costs and they’re often affected by systematic injustice and poverty. To say that they have “no stake in the game,” or that they are oblivious to the issues is simply insulting and untrue.
+
+ 
+
+Youth undoubtedly need protection from coercion (which is often the argument against lowering the voting age), but they also deserve representation, respect, equal opportunity, and the right to share their voice and agenda.
+
+It’s time we seriously look at lowering the voting age, and let youth take on the larger, more significant role in society they are capable of playing.
+
+1 COMMENT
+
+  1. Liberal Mariah Yonce
+
+    I completely AGREE with this Article!
+<USER>

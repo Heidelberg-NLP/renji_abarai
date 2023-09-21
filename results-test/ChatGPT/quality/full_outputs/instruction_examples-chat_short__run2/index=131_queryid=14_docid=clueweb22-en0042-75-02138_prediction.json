@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2c3kPqPKHgNzXSpIrPef6yrOpso",
+  "object": "chat.completion",
+  "created": 1683104335,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2704,
+    "completion_tokens": 89,
+    "total_tokens": 2793
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text provides an informative description of sexual orientation. The language used is clear and inclusive, with the text acknowledging that there are nuances to how individuals identify themselves in relation to their sexual desires. The text also cites scientific research on the topic, referencing the complex biological, hormonal and environmental factors that contribute to sexual orientation. Overall, the text has a reflective and educational tone, making it suitable for a general audience seeking a deeper understanding of sexual orientation."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

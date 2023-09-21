@@ -1,0 +1,146 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should recreational marijuana be legal?
+Text: Last updated on: 11/13/2018 | Author: ProCon.org
+
+Pro & Con Quotes: Should Recreational Marijuana Be Legal?
+
+PRO (yes)
+
+Pro 1
+
+Kamala Harris, JD, US Senator (D-CA), stated the following in her 2019 book titled The Truths We Hold: An American Journey:
+
+“Something else it’s past time we get done is dismantling the failed war on drugs – starting with legalizing marijuana… Between 2001 and 2010, more than seven million people were arrested for simple possession of marijuana. They are disproportionately black and brown. One stark example: during the first three months of 2018, 93 percent of the people the NYPD arrested for marijuana possession were people of color. These racial disparities are staggering and unconscionable. We need to legalize marijuana and regulate it. And we need to expunge nonviolent marijuana-related offenses from the records of the millions of people who have been arrested and incarcerated so they can get on with their lives.”
+
+2019 - Kamala Harris, JD
+
+Pro 2
+
+Jody Murphy, Democratic candidate for Governor of West Virginia, wrote in a Jan. 8, 2020 op/ed titled “The Reluctance to Tax the Willing,” available at register-herald.com:
+
+“We need to legalize the growth, cultivation, sale, possession and use of cannabis – both medicinal and recreational… We can generate millions of dollars in much-needed state revenue that people will willingly pay for. This is a huge untapped revenue stream…
+
+We need to get past the moral objection to marijuana. We to need understand and separate the fact that legalization of marijuana is not the same as individuals condoning it.
+
+Legalization is not moral acceptance.
+
+This is a tax, a revenue stream willingly paid by folks, and will reap benefits for our working class folks and their families and our economy.”
+
+Pro 3
+
+Andrew Cuomo, JD, Governor of New York, stated in his Jan. 9, 2020 State of the State Address, available at governor.ny.gov:
+
+“For decades, communities of color were disproportionately affected by the unequal enforcement of marijuana laws.
+
+Last year we righted that injustice when we decriminalized possession.
+
+This year, let’s work with our neighbors New Jersey, Connecticut, and Pennsylvania to coordinate a safe and fair system, and let’s legalize adult use of marijuana.”
+
+Pro 4
+
+Cory Booker, JD, MA, United States Senator (D-NJ), in an Oct. 17, 2017 interview with Alex Suskind for vice.com titled “Cory Booker Explains Why He’s Making Legal Weed His Signature Issue,” stated:
+
+“There is no doubt in my mind that the federal government should not be in the marijuana prohibition business. It’s making us less safe, it’s costing taxpayers too much money, it’s violating our values. From every perspective—a libertarian perspective, fiscal conservative’s perspective, Christian evangelical perspective, progressive perspective—marijuana prohibition is just wrong… I am not going to be silent on this issue, especially when I can see—as the only senator that lives in a low-income inner-city community—the damage that has been done over decades of a failed war on drugs…
+
+This war on drugs is a war on people, and not all people: It’s a war on poor people, on mentally ill people, on addicted people, and on people of color…
+
+I have never smoked marijuana, I have never smoked a cigarette, I have never eaten marijuana… This to me is not an issue I come at through my own experimentations. I come at this as an issue of justice, as an issue of safety for our communities, as an issue of utter fairness.”
+
+Oct. 17, 2017 - Cory Booker, JD, MA
+
+Pro 5
+
+Cynthia Nixon, actress and 2018 gubernatorial candidate in New York, stated the following in a video on her Twitter profile alongside the text, “A lot of you have been asking about my position on marijuana. Here it is,” posted on Apr. 11, 2018:
+
+“I believe it’s time for New York to follow the lead of eight other states and DC, and legalize recreational marijuana… We have to stop putting people of color in jail for something that white people do with impunity. 80% of the New Yorkers who are arrested for marijuana are black or Latino, despite the fact that whites and people of color use marijuana at roughly the same rates. The consequences follow people for the rest of their lives, making it harder to get jobs, or housing, and for noncitizens, putting them in the crosshairs for deportation. In addition to ending a key front in the racist war on drugs, regulating and taxing marijuana would generate hundreds of millions of dollars of tax revenues for our people, and create important agricultural opportunities for our state.”
+
+Apr. 11, 2018 - Cynthia Nixon
+
+Pro 6
+
+Karen O’Keefe, Director of State Policies at the Marijuana Policy Project (MPP), stated the following in a Feb. 9, 2018 email to ProCon.org:
+
+“Taxing and regulating marijuana allows for control, which is a far better approach than prohibition for marijuana consumers, workers, communities, and the environment.
+
+Only in a regulated system can the government ensure marijuana is tested for dangerous pesticides and contaminants. Regulation also allows for environmental and worker protections: When marijuana is prohibited, it is often grown in environmentally sensitive locations where streams are diverted, toxic waste is left behind, and illegal rodenticides enter the food chain and poison predators — including endangered animals. Relegating marijuana to the illicit market leaves workers vulnerable to sexual assault, wage theft, violence, and felony charges.
+
+With regulation, governments control where marijuana is sold, when it is sold, and to whom it is sold. They decide what types of products to allow — and many ban products likely to appeal to minors — and how cannabis must be packaged and labeled. Regulators can also require information be disseminated with cannabis and can fund honest education campaigns to educate marijuana consumers and youth about making healthy decisions.
+
+Ending marijuana prohibition also frees up law enforcement resources, allowing police to focus on crimes with victims rather than fighting an unwinnable 80-year-old war against a substance that is safer than alcohol.”
+
+Feb. 9, 2018 - Karen O’Keefe, JD
+
+Pro 7
+
+Paul Armentano, Deputy Director of the National Organization for the Reform of Marijuana Laws (NORML), in an Oct. 23, 2016 editorial titled “NORML: Marijuana Is Here to Stay,” available from usatoday.com, wrote:
+
+“America’s real-world experiment with regulating marijuana has been a success…
+
+Contrary to the fears of some, these policy changes are not associated with increased marijuana use or access by adolescents, or with adverse effects on traffic safety or in the workplace. Marijuana regulations are also associated with less opioid abuse and mortality. In jurisdictions where this retail market is taxed, sales revenue has greatly exceeded initial expectations.
+
+The enforcement of marijuana prohibition financially burdens taxpayers, encroaches upon civil liberties, engenders disrespect for the law, and disproportionately impacts young people and communities of color. It makes no sense from a public health perspective, a fiscal perspective, or a moral perspective to perpetuate the prosecution and stigmatization of adults who choose to responsibly consume a substance that is safer than either alcohol or tobacco…
+
+But legalization does not mean replacing criminalization with a marijuana free-for-all. Rather, it means the enactment of a pragmatic regulatory framework that allows for the licensed commercial production and retail sale of marijuana to adults, but also restricts and discourages its use among young people. Such a regulated environment best reduces the risks associated with the plant’s use or abuse.
+
+By contrast, advocating marijuana’s continued criminalization does nothing to offset the plant’s potential risks to the individual user and to society; it only compounds them.”
+
+Oct. 23, 2016 - Paul Armentano
+
+Pro 8
+
+Michael Capasso and Finn Selander, former Drug Enforcement Administration (DEA) agents, in their 2016 “Arguments Filed in Support of the Regulation and Taxation of Marijuana Act,” available from apps.azos.gov, wrote:
+
+“Each of us put in 20 or more years in the Drug Enforcement Administration and other law enforcement entities. And both of us realize that marijuana prohibition is a failed drug policy that should end.
+
+Prohibition doesn’t keep marijuana off our streets or decrease use. And it certainly doesn’t keep marijuana out of the hands of teens. But prohibition does result in billions of dollars in profits flowing to drug cartels. This drug money fuels lavish lifestyles among drug lords and deadly violence among rival cartels aiming to protect smuggling territory and street corners.
+
+We have seen the consequences of America’s marijuana prohibition policies. It is long past time to allow adults to legally buy marijuana. Taxation and strict regulation should be the mantra when it comes to marijuana. Now that we are retired from the DEA, we can speak out and say that marijuana should be taxed and regulated to keep profits from ruining our streets and causing mayhem south of the border.”
+
+2016 - Finn Selander
+Michael Capasso
+
+Pro 9
+
+Josh Hamilton, Co-Founder and Editor-in-Chief at The Jist, in a Sep. 26, 2017 article for medium.com titled “The Economic and Social Benefits of Taxing Marijuana,” wrote:
+
+“There is no way to argue with the cold hard facts of the economic boom that states such as Colorado and Washington have experienced since the legalization and taxation of recreational marijuana…
+
+As of September 2015, weed in Colorado was generating almost double the amount of tax revenue when compared to alcohol ($70 million to $42 million). Similarly, in Washington, the first year of legalization racked up an incredible $82 million in tax revenue.
+<USER>

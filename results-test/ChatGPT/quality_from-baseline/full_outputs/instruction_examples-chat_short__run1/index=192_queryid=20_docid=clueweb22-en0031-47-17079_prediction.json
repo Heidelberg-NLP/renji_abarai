@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VzItvDVzhM6Dg6SG6Jhrki9KgJ3C",
+  "object": "chat.completion",
+  "created": 1687858175,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This article presents both affirmative and negative arguments on whether drinking chocolate and other flavored milks are healthy. Therefore, it is classified as a general reference (not clearly pro or con)."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2315,
+    "completion_tokens": 36,
+    "total_tokens": 2351
+  }
+}

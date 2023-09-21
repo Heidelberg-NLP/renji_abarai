@@ -1,0 +1,138 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should death penalty allow
+Text: Does the 8th amendment allow for the death penalty?
+
+Does the 8th amendment allow for the death penalty?
+
+Asked By: Abdelfettah Munguira | Last Updated: 21st May, 2020
+Category: news and politics law
+4.9/5 (112 Views . 9 Votes)
+The Supreme Court has ruled that the death penalty does not violate the Eighth Amendment's ban on cruel and unusual punishment, but the Eighth Amendment does shape certain procedural aspects regarding when a jury may use the death penalty and how it must be carried out.
+Click to read full detail here.
+
+
+Accordingly, how does the 8th Amendment protect us?
+
+The Eighth Amendment (Amendment VIII) of the United States Constitution prohibits the federal government from imposing excessive bail, excessive fines, or cruel and unusual punishments.
+
+Also, what does the Constitution say about the death penalty? The Eighth Amendment to the U.S. Constitution forbids “cruel and unusual punishments.” The Fifth and 14th amendments require “due process of law.” The 14th Amendment also promises “equal protection of the laws.” The Sixth Amendment guarantees every defendant a fair trial.
+
+Keeping this in consideration, does the 8th Amendment apply to civil cases?
+
+In a unanimous ruling on Tuesday, the Supreme Court overturned an Indiana Supreme Court decision that said that part of federal Constitution's Eighth Amendment didn't apply to the states. The state of Indiana wanted to seize Timbs' Land Rover under its civil forfeiture laws, arguing it was used to commit a crime.
+
+Does lethal injection violate the 8th Amendment?
+
+They claim the lethal injection method used in 35 states can cause pain and suffering, a violation of the 8th Amendment, which prohibits cruel and unusual punishment.
+
+37 Related Question Answers Found
+
+What events led up to the 8th Amendment?
+
+The Eighth Amendment is almost exactly the same as a part of the 1689 English Bill of Rights, which also said that excessive bails or cruel and unusual punishment were unnecessary. This provision was written in because of a case where a man named Titus Oates lied and caused many innocent people because of it.
+
+What does plead the 8th mean?
+
+The Eighth Amendment of the Constitution states: 'Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted. ' The amendment is meant to safeguard Americans against excessive punishments.
+
+What does bail mean in the 8th Amendment?
+
+No Excessive Bail: The first portion of the Eighth Amendment concerns bail— the money paid by a defendant in a criminal case in exchange for his or her release from jail before trial. Bail is returned to the defendant when he or she appears at trial but is forfeited to the government if he or she does not appear.
+
+What is considered cruel and unusual punishment by the 8th Amendment?
+
+The Eighth Amendment to the United States Constitution states: “Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.” This amendment prohibits the federal government from imposing unduly harsh penalties on criminal defendants, either as the price for obtaining
+
+What are examples of cruel and unusual punishment?
+
+Here are some punishments that courts have found cruel and unusual:
+  • execution of those who are insane.
+  • a 56-year term for forging checks totaling less than $500.
+  • handcuffing a prisoner to a horizontal bar exposed to the sun for several hours, and.
+
+
+What is not considered cruel and unusual punishment?
+
+The Eighth Amendment to the United States Constitution states: “Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.” This amendment prohibits the federal government from imposing unduly harsh penalties on criminal defendants, either as the price for obtaining
+
+Why is the 8th Amendment so important?
+
+The 8th Amendment is important because it protects the individual from excessive bail or fines, and from "cruel and unusual punishments." The court has ruled that punishments involving lingering deaths (such as quartering and burning at the stake) are banned by this amendment, but not other forms of capital punishment.
+
+What are the rights of the 8th Amendment?
+
+Amendment VIII
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
+
+Why was the 8th amendment included in the Bill of Rights?
+
+What is the 8th Amendment? This amendment to the US Constitution protects American citizens from being forced to pay extremely high amounts of money for bail if they are accused of a crime, being charged exorbitant fines and from cruel and unusual punishments being inflicted upon them by the government.
+
+What is the 8th Amendment in simple terms?
+
+The Eighth Amendment of the Constitution states: 'Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted. ' The amendment is meant to safeguard Americans against excessive punishments.
+
+
+Who does the 8th amendment protect?
+
+A deep dive into the Eighth Amendment, which protects citizens from excessive fines and cruel and unusual punishment.
+
+Why did the Founding Fathers create the 8th Amendment?
+
+It is clear that the Founding Fathers were intent to prevent any government from laying abusive fines or punishments on anyone. "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
+
+What constitutes an excessive fine?
+
+A claim based upon the Excessive Fines Clause challenges the fine itself. The Excessive Fines Clause limits the government's power to extract payment as punishment for an offense. A fine is excessive when it is grossly disproportionate to the gravity of the offense that it was designed to punish.
+
+What is cruel and unusual punishment under the Constitution?
+
+In a nutshell, the cruel and unusual punishment clause measures a particular punishment against society's prohibition against inhuman treatment. It prevents the government from imposing a penalty that is either barbaric or far too severe for the crime committed. The Eighth Amendment and Fines.
+
+What is the 9th amendment in simple terms?
+
+The Ninth Amendment was part of the Bill of Rights that was added to the Constitution on December 15, 1791. It says that all the rights not listed in the Constitution belong to the people, not the government. In other words, the rights of the people are not limited to just the rights listed in the Constitution.
+
+
+What does I plead the 3rd mean?
+
+Third Amendment
+The 3rd Amendment has only one clause: The No Quartering of Troops Clause - This means that the government is not allowed to house troops in people's homes or on their property during peace time without their consent, or during war time except as prescribed by law.
+<USER>

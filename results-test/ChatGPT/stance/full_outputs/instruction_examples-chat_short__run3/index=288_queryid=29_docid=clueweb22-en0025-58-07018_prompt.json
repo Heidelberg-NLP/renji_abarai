@@ -1,0 +1,146 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should government allow illegal immigrant become citizen
+Text: Should illegal immigrants get voting rights? Why? - Quora
+177 Answers
+
+No. And neither should legal ones, unless they are citizens.
+
+Nope. They are ILLEGAL, so let me try to explain the simple concept of legal and illegal.
+
+#1 I live in this country legally. I'm gainfully employed, pay my taxes, and have sworn an oath of allegiance to this country. I am an American citizen. I get to vote as part of my rights as a citizen.
+
+#2 I snuck into this country illegally. I broke lots of laws entering this country. This country is not mine. I swore an oath of allegiance to another country. I'm not an American citizen. Since I'm not an American citizen, I don't get to vote, because many of the laws that I have broken to enter this country
+
+Nope. They are ILLEGAL, so let me try to explain the simple concept of legal and illegal.
+
+#1 I live in this country legally. I'm gainfully employed, pay my taxes, and have sworn an oath of allegiance to this country. I am an American citizen. I get to vote as part of my rights as a citizen.
+
+#2 I snuck into this country illegally. I broke lots of laws entering this country. This country is not mine. I swore an oath of allegiance to another country. I'm not an American citizen. Since I'm not an American citizen, I don't get to vote, because many of the laws that I have broken to enter this country illegally say I can't.
+
+Go vote in your own country and if you argue that you were BORN here because your parents are criminals, and you want to vote. Leave the country, re-enter according to the many laws showing you step by step how to become an American citizen. Become gainfully employed, pay your taxes (and any fines you incurred for illegally entering our country and breaking the law), swear an oath of allegiance to America, take the citizenship test, become an American citizen the right way (like ALL of my family did), and then you can earn the right to vote.
+
+If you're not willing to do those things (or your criminal parents/grandparents), then go back to your third world home country and have a nice life.
+
+In the U.S. the Constitution provides that ONLY citizens 18 years old and older are allowed to vote. Period. There is no exception. On the other hand, the "no voter i.d." nonsense pushed by the left is opening the door for non-citizens to vote, which is the point of their concerted effort.
+
+Eighty-nine percent of illegals in the U.S. are on food stamps, while nearly 50% receive cash assistance (welfare). In California, for example, these folks are being given driver's licenses. This is sufficient information to register to vote. The left pushes these welfare programs and giveaways, so who do yo
+
+In the U.S. the Constitution provides that ONLY citizens 18 years old and older are allowed to vote. Period. There is no exception. On the other hand, the "no voter i.d." nonsense pushed by the left is opening the door for non-citizens to vote, which is the point of their concerted effort.
+
+Eighty-nine percent of illegals in the U.S. are on food stamps, while nearly 50% receive cash assistance (welfare). In California, for example, these folks are being given driver's licenses. This is sufficient information to register to vote. The left pushes these welfare programs and giveaways, so who do you think the illegals want in office?
+
+I have a friend from Wales who is a permanent resident in the U.S. She is married to a U.S. citizen. They will eventually return to Wales; she is not interested in becoming a U.S. citizen. The state where we lived issued her a driver's license and, at the same time, asked if she wished to register to vote. (I was present when this happened.) She declined the offer.
+
+Three weeks later, she got her voter registration card in mail. She is registered as a Democrat. Neither of us has a clue how or why this happpend, nor does the Board of Elections. Duh. The information included the location of her polling place. She did not vote, but she could have.
+
+At this same Registrar's office, I reported my new address. I got a new voter card. I now am registered as a Democrat and it has been impossible to get that changed back to the "I" that it has been since I started voting.
+
+My polling place, since 2008 refuses identification. There are signs outside saying that you must show i.d. but once inside, no one asks to see identification. When I offer it, no one will look at it. They just wave me off. On one occasion (a presidential election), a bus load of Somalis arrived. None could speak English. There was an English-speaking individual with each pair of Somalis, all of whom were handed ballots. The English-speaking individual filled out the ballots. The Somalis clearly had no clue what was going on and did not speak a word of English.
+
+I also saw an elderly woman, clearly vegetative following a stroke, wheeled to the registration table and handed a ballot, which the young man pushing her wheelchair took into the voting booth while the unconcious woman waited behind him.
+
+Don't tell me that illegals and comatose people do not vote.
+
+I am pretty sure I could take my dog to the polls, tell the attendant that my dog is actually my neighbor (who I know is at work), and get a ballot. It's ridiculous.
+
+Short answer? All of them. Better answer? All of them, and an online mailing service can help you find the right carrier for each package, usually USPS, UPS or FedEx. And because every shipment is different, it won’t always be the same one. ​ Start by asking yourself three questions: What
+
+Well, as you said, they are illegal. Meaning law breaking. Meaning that no, a person who is NOT a citizen should ever vote in our elections.
+
+Why worry about fake ‘russian interference’ then?
+
+No because it's illegal for non-citizens to vote and its illegal for illegal immigrants to be in the country.
+
+No and neither should you for asking such a stupid question.
+
+NO!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+no
+
+You’ve done it. You’ve built up a little cushion in your bank account — $1,000! It feels good, right? Those days of checking your account balance in a panic are behind you. But, there are six moves you should make once your bank account gets past this magical number. ​​1. Invest in Famous A
+
+No, absolutely not.
+
+Voting is a right received for citizens of the USA.
+
+I’m a little put off by this question. My father, grandfather, great-grandfather and other male relatives fought in our wars and for our freedoms. Some were injured or killed.
+
+Undocumented or illegal immigrants shouldn’t be here to being with.
+
+Absolutely not - voting is for the citizens of a country.
+
+  • To understand election issues, one must have a future stake in the outcome. Since the illegal is in the country for as long as it takes for the nation to deport them, said future stake does not exist.
+  • In virtually no nation are non-citizens allowed to vote. The reason for this is that there is a citizenship test attached to the process. People must understand the country’s traditions, laws, customs and (most importantly) language in order to be able to make an intelligent choice.
+  • I am a legal immigrant in the country where I live, and have
+
+Absolutely not - voting is for the citizens of a country.
+
+  • To understand election issues, one must have a future stake in the outcome. Since the illegal is in the country for as long as it takes for the nation to deport them, said future stake does not exist.
+  • In virtually no nation are non-citizens allowed to vote. The reason for this is that there is a citizenship test attached to the process. People must understand the country’s traditions, laws, customs and (most importantly) language in order to be able to make an intelligent choice.
+  • I am a legal immigrant in the country where I live, and have no right to vote, nor do I expect to have one. One understands when one immigrates that one is a guest in a country, so they don’t get to pick and choose. Maybe you let your guests choose how you live in your home, but not many people do.
+  • In the case of the Anglosphere, voting with it the responsibility of serving on a jury, since in some jurisdictions (especially the US jurisdictions) the jury lists are taken from the lists of registered voters.
+  • People who violate the law, and thus obviously don’t take it seriously are seldom the kind of people one would want choosing their leaders.
+
+If anyone that wants illegals to vote thinks it’s a good idea, maybe they might look at the countries of origin of these people, and then consider how much they’d like their own country to resemble these places. No on immigrates illegally to move to someplace that’s worse than the place they left - how daft can people actually be?
+
+No. You must be a citizen to vote.
+
+No
+
+NO!
+
+Simple answer is no. The right to vote is for citizens. Even imigrants that have not yet become citizens can’t vote in federal elections so why should those here illegally have the right.
+
+Of course not. It’s unconstitutional. Only United States citizens are eligible to vote. Immigration is a completely separate issue, and I do support immigration reform.
+
+No, only citizens are allowed to vote in elections for federal offices. Even legal immigrants that are not citizens are not allowed to vote in these federal elections.
+
+“Federal law prohibits noncitizens from voting in federal elections”
+
+Voting rights in the United States - Wikipedia
+
+18 U.S. Code § 611 - Voting by aliens It shall be unlawful for any alien to vote in any election held solely or in part for the purpose of electing a candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of
+
+No, only citizens are allowed to vote in elections for federal offices. Even legal immigrants that are not citizens are not allowed to vote in these federal elections.
+
+“Federal law prohibits noncitizens from voting in federal elections”
+
+Voting rights in the United States - Wikipedia
+<USER>

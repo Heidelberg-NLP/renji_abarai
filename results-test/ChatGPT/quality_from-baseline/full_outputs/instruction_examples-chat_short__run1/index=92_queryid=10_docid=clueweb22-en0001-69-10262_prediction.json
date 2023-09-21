@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz9Qx2UGIx45hRZNRmtMzCCeivbA",
+  "object": "chat.completion",
+  "created": 1687857588,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This is a news article and not a text containing a rhetorical argument that requires prediction of \"well-writtenness\". Therefore, this text is not applicable to the task."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1337,
+    "completion_tokens": 33,
+    "total_tokens": 1370
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2lQJQqG6nC84ilxbhGS8D0RKIIk",
+  "object": "chat.completion",
+  "created": 1683104916,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2820,
+    "completion_tokens": 29,
+    "total_tokens": 2849
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The provided text is general reference material and is not clearly pro or con on the topic of allowing immigrants who are here illegally to become US citizens."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

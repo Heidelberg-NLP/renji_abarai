@@ -1,0 +1,80 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: standardize test improve education
+Text: The History of Standardize Testing - Running head: THE HISTORY OF STANDARDIZED TESTING 1 The History of Standardize Testing Myesha White Post | Course Hero
+
+Your browser is unsupported. We recommend upgrading your browser to access full site features.
+
+The History of Standardize Testing - Running head: THE...
+
+This preview shows page 1 - 3 out of 6 pages.
+
+The preview shows page 1 - 3 out of 6 pages.
+Running head: THE HISTORY OF STANDARDIZED TESTING1The History of Standardize TestingMyesha WhitePost University
+THE HISTORY OF STANDARDIZED TESTING2Standardized testing has been a part of the American education since the mid-1800. In the1830’s teachers begin to come up with a way that would formally assess student’s achievement(NEA.org. n.d). As the years progressed in 1875, a new testing method was being used tomeasure the mental ability of the students and to see what they’ve learned throughout the yearsin school (NEA.org. n.d). In 1890 Charles William Eliot (Harvard President) proposed thatdifferent test is given to each state.Which makes sense because they did not want the children to have the ability to cheat. Inthe 1900’s the colleges started giving entrance exams to find out if the student was ready forcollege and to see their academic status (NEA.org. n.d). Five years later a French psychologist bythe name of Alfred Binet started developing the standardized test for intelligence which was soonto be combined in the modern IQ test (NEA.org. n.d). In World War 1 they too did standardizetesting that was called the Army Mental Test. Even in the war, you have to make sure that everyman (at that time) was capable of protecting and serving the United States.From 1908 to 1916 Edward Thorndike and his students at Columbia Universitydeveloped the standardized achievement test for arithmetic, handwriting, (which is no longergiven), spelling, reading, and language ability (NEA.org. n.d). I am happy to hear that studentshad some part of creating this test. Nevertheless, by 1925 the U.S. Bureau of Education show thegreat result in doing standardized testing in the student's intelligence as well as their achievementin testing (NEA.org. n.d). After testing students and seeing the positive reaction out of thestandardized testing; the College Board came up with the SAT (Scholastic Aptitude Test) thatwas originally 90 mins and had about 315 question, now who can answer that many problems inan hour in half.
+THE HISTORY OF STANDARDIZED TESTING3Now the SAT is three hours long, and it has about 170 questions that are broken up intocategories, writing, math, and critical reading. The SAT and the ACT are now the most popularstandardize testing in today’s education. Furthermore, the SAT and the ACT are only the firststeps that are taken before college. Before 1936 educators were grading the testing by hand, andI’m sure was rather time-consuming. In 1936 the first automatic test scanner was created whichwas called the IBM805, even though this machine has been set up to be helpful, it was also fullof errors as well.The students had to make sure that the circled in the bubbles on their answer key so thecomputer could grade the test correctly. Fast forward to the 21stcentury the No Child LeftBehind Act that mandated each state to give a standardized testing to assess the students and theschool performance (NEA.org. n.d). There are pros and cons to taking the standardized testing.Some students benefit academic wise from the standardized test (ASCD.org. n.d.). However,some student is not great test takers and even if they study the still manage to obtain reducedscores. Standardize testing can also help diagnose a student by finding out he or she has alearning disability (Slavin, 2015).Standardize testing was also unfair and discriminatory against students that did not speakEnglish and special need students (ASCD.org. n.d.). The No Child Left Behind Act made for thekids that did not get the best scores still move on (ASCD.org. n.d.).Like most educators, theywant to ensure that their students are improving and understanding the work that has been givento them. In the meantime some students are still not able to test under pressure and that whatstandardize test create in children from the first grade all the way up to college is incrediblyoverwhelming. Another positive about standardized testing is that it gives the educator an idea ofwhere each student is academically (Slavin, 2015).
+THE HISTORY OF STANDARDIZED TESTING4By knowing your students status can help the teacher better prepare the student byfocusing on his and her weakness and polishing their strengths (ASCD.org. n.d.). A standardizedtest is something that is objective to the student's achievement, meaning that the test cannot favora student it can only grade them occurring to the test results (ASCD.org. n.d.). Without thestandardize policy in place could give the teachers the opportunity to be impartial to givingunearned grades to their students. By being graded by a machine keeps the down human errorand is not subjective or bias (ASCD.org. n.d.).Despite these computer generated scores it still cannot compute the student performs overthe years and if a teacher was grading the test and not a machine he or she could take that intoconsideration when grading the student test. That type of thought can go a long when a childstudies so hard but still come up short. These test can be a significant cause of depression,especially when that student know that they did everything right. On the contrary, there are about20 school systems that have achieved significant, and sustained international assessmentsthrough the standardized testing by monitoring the system progress (ASCD.org. n.d.).On average from pre-k to 12thgrade a child may take a total of 113 standardized testwhich most of them are not graded but are put in place to evaluate where the student isacademically. It is tough to say really how many each stat take but I do know that it does have tobe annual. I sometimes worry about the number of tests that my son takes in son because he isstill struggling in math and reading. It just might be too many standardized tests to be worriedabout. Yes as parents we want our children social and academically ready for the word, but wealso do want them to feel bad that they are not great test takers. Standardize testing is federallymandated.
+THE HISTORY OF STANDARDIZED TESTING5
+However, President Obama has opened up some lead way for each state to minimize thefrequency of the testing but he stills want to keep annual testing in place (ASCD.org. n.d.).Furthermore, standardized testing is also focusing on the curriculum that was being taught in theclass that may help the child improve academically (Slavin, 2015). When a child is thinkingabout the test, they believe that it always mean a grade and that is not the case.Overall I believe that the test could be less and also be audio standardize testing. At leastif the test is audio, it can better help students that do not understand some of the thing that theyread. I know that when I am reading, I sometimes do not understand the meaning of the word, soI will look up the word to better get and understanding. I tell my children that the test that youtake in school does not define your intelligence it only is set in place for you to know what areyour weakness and strengths.By knowing that information gives them the opportunity to become great and there is nottest in the world that can say otherwise. Some billionaires has never step a foot into college orgraduated high school. It is all about the determination a drive that you feed into their mindsletting them know that they are great and phenomenal and when they set their heart to do greatthat is when they will become masters at what they do.
+THE HISTORY OF STANDARDIZED TESTING6ReferencePaulina Alcocer, NEA Education Policy, and Practice Intern. (n.d.). History of StandardizedTesting in the United States. Retrieved June 21, 2017, fromSlavin, R. E. (2015).Educational psychology: Theory and practice(11thed.). Upper SaddleRiver, NJ: Pearson Education, Inc.A. (n.d.). Why Standardized Tests Don’t Measure Educational Quality. Retrieved June 21, 2017,from-Standardized-Tests-Dont-Measure-Educational-Quality.aspx
+End of preview. Want to read all 6 pages?
+
+Upload your study docs or become a
+
+Course Hero member to access this document
+
+Term
+Spring
+Professor
+N/A
+Tags
+Standardized test, Norm referenced test, History of Standardize Testing
+
+  • Left Quote Icon
+
+    Student Picture
+
+  • Left Quote Icon
+
+    Student Picture
+
+  • Left Quote Icon
+
+    Student Picture
+<USER>

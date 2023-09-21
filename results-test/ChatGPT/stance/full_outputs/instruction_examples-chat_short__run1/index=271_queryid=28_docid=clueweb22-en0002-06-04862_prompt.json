@@ -1,0 +1,131 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should prostitution legal
+Text: Last updated on: 2/27/2018 | Author: ProCon.org
+
+Should Prostitution Be Legal?
+
+PRO (yes)
+
+Pro
+
+Amnesty International, in its May 26, 2016 policy paper titled “Amnesty International Policy on State Obligations to Respect, Protect, and Fulfil the Human Rights of Sex Workers,” available from amnesty.org, wrote:
+
+“Amnesty International considers that to protect the rights of sex workers, it is necessary not only to repeal laws which criminalize the sale of sex, but also to repeal those which make the buying of sex from consenting adults or the organization of sex work (such as prohibitions on renting premises for sex work) a criminal offence…
+
+The fact that various aspects of sex work are treated as criminal conduct in many countries means that sex workers cannot rely on support or protection from the police. For many sex workers, reporting crimes experienced during the course of their work means putting themselves at risk of criminalization and/or penalization on the basis of their involvement in sex work, seizure of their earnings, potential loss of their livelihood through related sanctions and/or monitoring by the police to detect their clients. As a result, sex workers are frequently unable to seek redress for crimes committed against them, thereby offering impunity to perpetrators. In addition, the stigmatized and criminalized status that sex workers experience gives law enforcement officials in many countries the scope to harass, extort and perpetrate physical and sexual violence against them, also with impunity. When they are not threatened with criminalization/penalization, sex workers are better able to collaborate with law enforcement to identify perpetrators of violence and abuse, including human trafficking.”
+
+May 26, 2016 - Amnesty Intenational
+
+Pro
+
+Gaye Dalton, former sex worker, in written evidence submitted to the UK Home Affairs Committee’s Prostitution Inquiry dated Feb. 23, 2016, available from parliament.uk, wrote:
+
+“I cannot understand why any form of criminal sanction should be considered applicable to the voluntary sale and purchase of sexual services in 2016. This is clearly a private matter in which the state should not seek to legislate…
+
+Criminalisation does not help people get out of prostitution and legalisation does not trap them in it.
+
+As a society we can choose whether to make it easier for people to escape prostitution or whether to make life harder for those trapped in it.
+
+I have always believed that any person selling sex has a right to demand whatever resources it would take for them to leave prostitution into a situation that they can realistically thrive and grow in.”
+
+Feb. 23, 2016 - Gaye Dalton
+
+Pro
+
+Marshall Frank, Retired Captain from the Metro-Dade Police Department, in an Aug. 29, 2015 article for floridatoday.com titled “Frank: Let’s Legalize, Regulate Prostitution,” wrote:
+
+“It’s time for legislators to wake up from slumber land by legalizing and regulating prostitution…
+
+Some folks disapprove of the immoral nature of sex for sale and, perhaps, rightfully so. But judging morality is for churches, employers, family members and peers. It should not be a matter for law enforcement, court dockets and jail cells, costing the taxpayer dearly, every day, every month, every year…
+
+Prostitution flourishes in the black market that would not exist if brothels and hookers were legitimized, licensed, medically inspected, zoned and taxed. Like drugs, gambling and other crimes of morality, or alcohol prohibition of years past, the black market is nourished by draconian laws that forever fail to accomplish its intended purpose…
+
+In Germany, and other countries, prostitution is legal and taxed. They turn the ‘crime’ into an economic plus. In other countries like the United States, we create the ‘crime,’ which turns the behavior into an economic negative. And, it’s still a thriving business, law or no law.”
+
+Aug. 29, 2015 - Marshall Frank
+
+Pro
+
+Jeanne LoCicero, JD, Deputy Legal Director of the American Civil Liberties Union (ACLU) of New Jersey, and Udi Ofer, JD, Deputy National Political Director and Director of the Campaign for Smart Justice at the American Civil Liberties Union, in their July 6, 2016 article for nj.com titled “ACLU: It’s Time to Decriminalize Prostitution,” wrote:
+
+“As civil libertarians, we believe the government should not throw consenting adults in jail for private sexual conduct. An adult who chooses to engage in sexual activity, whether for recreation, procreation or in exchange for something of value, makes a private, individual choice that should not be subject to criminal sanctions. Our rights to individual autonomy and privacy allow us all to make these decisions as adults.
+
+As advocates for equality, we know that anti-sex work laws disproportionately target women along with LGBTQ people, young people and people of color, all of whom are overrepresented in the sex industry and at highest risk of arrest. Systemic discrimination can factor into the decision to participate in sex work. In the face of job discrimination, no viable alternatives for earning a living, ejection from school, eviction from housing or ostracism from your family for your gender identity or sexual orientation, sex work may offer one of the more stabilizing and accessible ways to support yourself and your family. As criminal justice reformers, we see laws criminalizing sex work as another way of misdirecting law enforcement resources and expanding our unjust system of mass incarceration. Scarce tax dollars underwrite people’s arrests and imprisonment for consensual activity. In addition to criminal records, arrests for sex work come with devastating collateral consequences, including eviction, loss of child custody and deportation.”
+
+July 6, 2016 - Udi Ofer, JD Jeanne LoCicero, JD
+
+Pro
+
+Peter Singer, MA, Ira W. DeCamp Professor of Bioethics at the University Center for Human Values at Princeton University, in a Nov. 14, 2016 article for Project Syndicate titled “The Case for Legalizing Sex Work,” wrote:
+
+“Contrary to stereotypes of paid sex, work in a legal brothel is not especially dangerous or hazardous to one’s health. Some sex workers view their profession as involving greater skill and even a more human touch than alternative jobs open to them. They take pride in their ability to give not only physical pleasure, but also emotional support, to needy people who cannot get sex any other way.
+
+If sex work is not going to disappear anytime soon, anyone who cares about the health and safety of sex workers – not to mention their rights – should support moves to make it a fully legal industry. That is what most sex workers want as well…
+
+[C]ountries that criminalize the sex industry should consider the harms these laws cause, as Amnesty International has done. It is time to put aside moralistic prejudices, whether based on religion or an idealistic form of feminism, and do what is in the best interests of sex workers and the public as a whole.”
+
+Nov. 14, 2016 - Peter Singer, MA
+
+Pro
+
+The Prostitutes’ Education Network wrote in its “Prostitution Act of 1996” provided on its website (accessed Jan. 16, 2009):
+
+“No person’s human or civil rights should be violated on the basis of their trade, occupation, work, calling or profession.
+
+No law has ever succeeded in stopping prostitution.
+
+Prostitution is the provision of sexual services for negotiated payment between consenting adults. So defined, prostitution is a service industry like any other in which people exchange skills for money or other reward…
+
+Non-consenting adults and all children forced into sexual activity (commercial or otherwise) deserve the full protection of the law and perpetrators deserve full punishment by the law.
+
+Workers in the sex industry deserve the same rights as workers in any other trade, including the right to legal protection from crimes such as sexual harassment, sexual abuse and rape…
+
+There are some unscrupulous people in all walks of life -government, law, journalism, banking, law enforcement, the stock exchange, medicine, the clergy, prostitution, etc. If every profession were criminalised when some of its members broke the law, there would be few legally sanctioned professions. Unscrupulous people should be summarily dealt with by the law, regardless of which profession they corrupt.”
+
+Jan. 16, 2009 - Sex Workers Education Network (formerly Prostitutes' Education Network)
+
+Pro
+
+The American Civil Liberties Union (ACLU), wrote in its 2007 Policy 211, faxed to ProCon.org on Apr. 30, 2007:
+
+“The ACLU supports the decriminalization of prostitution and opposes state regulation of prostitution. The ACLU also condemns the abuse of vagrancy or loitering laws or licensing or regulatory schemes to harass and arrest those who may be engaged in solicitation for prostitution. While there are both male and female prostitutes, laws against prostitution most frequently refer to, or are applied to woman. Despite the statutory stress on female prostitution, the ACLU’s policy is applicable to prostitutes of both sexes…
+
+Such laws have traditionally represented one of the most direct forms of discrimination against women. The woman who engage in prostitution is punished criminally and stigmatized socially while her male customer, either by the explicit design of the statute or through a pattern of discriminatory enforcement is left unscathed.
+<USER>

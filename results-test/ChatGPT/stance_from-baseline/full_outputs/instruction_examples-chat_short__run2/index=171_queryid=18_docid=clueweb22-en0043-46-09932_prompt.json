@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should churches remain tax-exempt?
+Text: Last updated on: 8/14/2019 | Author: ProCon.org
+
+Pro & Con Quotes: Should Churches (Including Mosques, Synagogues, etc.) Remain Tax-Exempt?
+
+PRO (yes)
+
+Pro 1
+
+Luke Goodrich, JD, Vice President and Senior Counsel at Becket law firm, stated the following as quoted in a Mar. 15, 2019 Becket press release titled “Court Protects Ministers from $1B Tax Lawsuit,” available at becketlaw.org:
+
+“The tax code treats ministers the same as hundreds of thousands of nonreligious workers who receive tax-exempt housing for their jobs—that’s not special treatment, it’s equal treatment… [S]triking down the parsonage allowance would devastate small, low-income houses of worship in our neediest neighborhoods and would cause needless conflict between church and state.”
+
+Mar. 15, 2019 - Luke Goodrich, JD
+
+Pro 2
+
+Tobin Grant, PhD, Political Science Professor at Southern Illinois University, stated the following in his Aug. 26, 2016 article titled “5 Reasons We Should Never Tax Churches, Even if John Oliver Is Right,” available at religionnews.com:
+
+“If we tax churches, then we will need to tax all not-for-profit organizations. Government may exempt churches from property taxes and other taxes so long as they do so for other charities. There are some who argue that, as in the case of religious groups on public campuses (Rosenberger v UVA), government can’t select just religious groups to tax while leaving all other organizations like schools, women shelters, soup kitchens, and fraternal organizations tax-exempt…
+
+To tax churches, government would need to have the (currently unconstitutional) authority to audit and regulate churches. Income is revenue minus expenses. So, to tax revenue, the government has rules about what counts as legitimate business expenses and regulations on how businesses perform their accounting. The government may also audit organizations. To do this for churches means that the government would define what is and is not legitimate and then act to ensure compliance. This raises a constitutional issue as Congress cannot make laws that affect the free exercise of religion.”
+
+Aug. 26, 2016 - Tobin Grant, PhD
+
+Pro 3
+
+Donald J. Trump, real estate developer and 2016 Republican presidential nominee, stated the following in his July 21, 2016 speech at the Republican National Convention:
+
+“I would like to thank the evangelical community because, I will tell you what, the support they have given me — and I’m not sure I totally deserve it — has been so amazing. And has been such a big reason I’m here tonight. They have much to contribute to our policies.
+
+Yet our laws prevent you from speaking your mind from your own pulpits. An amendment, pushed by Lyndon Johnson, many years ago, threatens religious institutions with a loss of their tax-exempt status if they openly advocate their political views. Their voice has been taken away. I will work hard to repeal that language and to protect free speech for all Americans.”
+
+July 21, 2016 - Donald J. Trump
+
+Pro 4
+
+Richard W. Garnett, JD, Paul J. Schierl / Fort Howard Corporation Professor of Law at the University of Notre Dame, stated the following in his article titled “Should Churches Be Tax Exempt?,” available at uscatholic.org (accessed July 28, 2016):
+
+“In the United States, churches and other religious institutions are, generally speaking, exempt from federal, state, and local taxes. They have been for a long time. This deeply rooted practice is good policy and it helps to promote and protect our fundamental right to religious freedom. After all, that right includes the right of religious believers to act in and through religious institutions, so it makes sense to protect those institutions from the intrusions and burdens of tax laws…
+
+[O]ur tradition of exempting churches and religious institutions from taxes is justified and important. The separation of church and state is not a reason to invalidate or abandon these tax exemptions but is instead a very powerful justification for retaining them…
+
+There are also many good policy reasons for exempting churches, faith-based homeless shelters, parochial schools, and religious hospitals from taxes. Many of these reasons also apply forcefully to cultural, artistic, and social welfare agencies of all kinds. It is a good thing to have a vibrant, diverse, and competitive civil society, to support rather than resist pluralism, to increase rather than shrink the opportunities for engagement with others, and to avoid monopolization by governments of too many activities. There are things that, probably, only governments can do, but there are many more things that non-state agencies can do too, and better.”
+
+July 28, 2016 - Richard W. Garnett, JD
+
+Pro 5
+
+Rick Perrin, Former Chairman of the Board at World Reformed Fellowship, stated the following in his Aug. 5, 2016 blog post titled “The Case for Churches to Remain Tax Exempt,” available at rethinkingnews.wordpress.com:
+
+“If the government begins to tax contributions… [c]hurches may well resist payment of those taxes, even to the point of closing the church’s doors. The simple reason is that this is money given by the people to God in response to his command to serve him through tithes and offerings. This is money to which the government has no right, and to seek it violates a law that God has established which overrides government authority. Literally the government would be robbing God. That is not a safe thing to do.
+
+But should the confiscation of church giving come to pass, it would reduce a church’s income significantly. Would the government claim twenty-five percent? Add that to the loss of a tax deduction on the part of donors, and a church’s income might be reduced by fifty percent, for the government would be taking money away from the donor through personal taxation that he currently has available to give to his church.”
+
+Aug. 5, 2016 - Rick Perrin, MDiv, ThM
+
+Pro 6
+
+Erik Stanley, JD, Senior Legal Counsel with Alliance Defending Freedom, stated in his Mar. 7, 2012 post titled “Should Churches Be Tax Exempt?” on Alliance Defending Freedom’s “Speak Up” blog:
+
+“There are very sound and valid reasons for church tax exemption… The social benefit theory justifies tax exemption for churches as a kind of bargain – churches provide needed services, so they are entitled to tax exemption.
+
+One corollary of the ‘social benefit’ theory that is often overlooked is what I have termed the ‘intangible benefit’ theory of tax exemption. This highlights the intangible and often unseen benefits provided by churches to the community. Things like reduced crime rates resulting from transformed lives, suicides prevented when people surrender to Christ, and people with destructive behavioral patterns that harm the community changing into hard-working and virtuous citizens who contribute to the well-being of the community. It is difficult to put a price tag on these types of intangible benefits provided by churches, but there is no question that they exist.”
+
+Mar. 7, 2012 - Erik Stanley, JD
+
+Pro 7
+
+Winnie Varghese, MDiv, Priest in Charge at St. Mark’s Church-in-the-Bowery, New York City, wrote in her May 10, 2012 NYTimes.com article titled “Sustaining Progressive Faith”:
+
+“I am religious — a progressive Christian — and I will argue for the tax-exempt status of religious organizations for only one reason. Moderate and progressive religion is overwhelmingly formed in the U.S., and it is an essential voice in national and international discourse. We are an important moral and ethical voice for society as a whole, a voice that has to be religious to respond to other kinds of religious movements.
+
+The bottom line is that if historic churches like the one I serve had to pay property taxes, many of us would close. The liberal, diverse, urban churches in historic buildings would be priced out, and the newer, suburban minimall churches would be the church of the future. They are not always, but tend to be, overwhelmingly conservative. In the political arena, the right defends its agenda by that same conservative Christian language. The Christian center and left are a minority whose faith demands they work toward a more just or compassionate society, and many of us are also the stewards of prime real estate.
+
+Our tax-exempt status gives minority views a space to seed and grow, often ahead of the political culture.”
+
+May 10, 2012 - Winnie Varghese, MDiv
+
+Pro 8
+
+Mark L. Rienzi, JD, Senior Counsel at the Becket Fund for Religious Liberty, stated in his May 10, 2012 NYTimes.com article titled “Good for Religion, Good for America”:
+
+“Religious exemptions are an essential part of our democracy. They provide breathing space for religious individuals and institutions to exist. They benefit all Americans, regardless of religion or lack thereof…
+
+[Exemptions] protect religious liberty by providing room for religious institutions to thrive with minimal government encroachment and burden. That is why federal, state and local governments have virtually always exempted churches from taxation…
+
+Simply put, religious exemptions preserve religious freedom, which benefits us all.”
+
+May 10, 2012 - Mark L. Rienzi, JD
+
+Pro 9
+
+Walz v. Tax Commission of the City of New York, the US Supreme Court case whose 7-1 majority opinion dated May 4, 1970 was written by Chief Justice Warren E. Burger, stated:
+
+“[F]or the men who wrote the Religion Clauses of the First Amendment, the ‘establishment’ of a religion connoted sponsorship, financial support, and active involvement of the sovereign in religious activity…
+
+The grant of a tax exemption is not sponsorship, since the government does not transfer part of its revenue to churches, but simply abstains from demanding that the church support the state. No one has ever suggested that tax exemption has converted libraries, art galleries, or hospitals into arms of the state or put employees ‘on the public payroll.’ There is no genuine nexus between tax exemption and establishment of religion…
+<USER>

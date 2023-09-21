@@ -1,0 +1,87 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should euthanasia physician - assist suicide legal
+Text: euthanasia
+
+
+Also found in: Dictionary, Thesaurus, Medical, Encyclopedia, Wikipedia.
+Related to euthanasia: Animal euthanasia
+
+Euthanasia
+
+[Greek, good death.] The term normally implies an intentional termination of life by another at the explicit request of the person who wishes to die. Euthanasia is generally defined as the act of killing an incurably ill person out of concern and compassion for that person's suffering. It is sometimes called mercy killing, but many advocates of euthanasia define mercy killing more precisely as the ending of another person's life without his or her request. Euthanasia, on the other hand, is usually separated into two categories: passive euthanasia and active euthanasia. In many jurisdictions, active euthanasia can be considered murder or Manslaughter, whereas passive euthanasia is accepted by professional medical societies, and by the law under certain circumstances.
+
+Passive Euthanasia
+
+Hastening the death of a person by altering some form of support and letting nature take its course is known as passive euthanasia. Examples include such things as turning off respirators, halting medications, discontinuing food and water so as to allowing a person to dehydrate or starve to death, or failure to resuscitate.
+
+Passive euthanasia also includes giving a patient large doses of morphine to control pain, in spite of the likelihood that the painkiller will suppress respiration and cause death earlier than it otherwise would have happened. Such doses of painkillers have a dual effect of relieving pain and hastening death. Administering such medication is regarded as ethical in most political jurisdictions and by most medical societies.
+
+These procedures are performed on terminally ill, suffering persons so that natural death will occur sooner. They are also commonly performed on persons in a persistent vegetative state; for example, individuals with massive brain damage or in a coma from which they likely will not regain consciousness.
+
+Active Euthanasia
+
+Far more controversial, active euthanasia involves causing the death of a person through a direct action, in response to a request from that person. A well-known example of active euthanasia was the death of a terminally ill Michigan patient on September 17, 1998. On that date, Dr. Jack Kevorkian videotaped himself administering a lethal medication to Thomas Youk, a 52-year-old Michigan man with amyotrophic lateral sclerosis. CBS broadcast the videotape on 60 Minutes less than a week later. Authorities subsequently charged Kevorkian with first-degree premeditated murder, criminal assistance of a suicide, and delivery of a controlled substance for administering lethal medication to a terminally ill man. There was no dispute that the dose was administered at the request of Mr. Youk, nor any dispute that Mr. Youk was terminally ill. A jury found Kevorkian guilty of second-degree murder in 1999. He was sent to prison.
+
+Physician-Assisted Suicide
+
+Somewhat of a hybrid between passive and active euthanasia is physician-assisted suicide (PAS), also known as voluntary passive euthanasia. In this situation, a physician supplies information and/or the means of committing suicide (e.g., a prescription for lethal dose of sleeping pills, or a supply of carbon monoxide gas) to a person, so that that individual can successfully terminate his or her own life.
+
+Physician-assisted suicide received greater public attention after Dr. Kevorkian, a retired pathologist from Michigan, participated in his first such procedure in 1990. Kevorkian set up a machine that allowed a 54-year-old woman suffering from Alzheimer's disease (a degenerative neurological condition) to press a button that delivered a lethal poison into her veins. Kevorkian went on to assist in the suicides of dozens of individuals suffering from terminal, debilitating, or chronic illnesses. In 1992, Michigan passed an assisted-suicide bill (Mich. Comp. Laws § 752.1021) that was specifically designed to stop Kevorkian's activities, but technicalities and questions as to its constitutionality delayed its implementation, thus allowing Kevorkian to continue assisting suicides—often in direct opposition to court injunctions.
+
+Kevorkian was charged with murder several times but was not initially found guilty. When murder charges were brought against him for his first three assisted suicides, for example, they were dismissed because Michigan, at that time, had no law against assisted suicide. In 1994, Kevorkian was tried and found not guilty of assisting in the August 1993 suicide of Thomas W. Hyde Jr. In December 1994, however, Michigan's supreme court ruled in People v. Kevorkian, 447 Mich. 436, 527 N.W. 2d 714, that there is no constitutional right to commit suicide, with or without assistance, and upheld the Michigan statute that made assisted suicide a crime. The following year, the U.S. Supreme Court refused to hear Kevorkian's appeal from the state supreme court's ruling.
+
+Observers disagree about the humanity of Kevorkian's activities. Some see him as a hero who sought to give suffering people greater choice and dignity in dying. Others point to his lack of procedural precautions and fear that the widespread practice of assisted suicide will lead to the unnecessary death of people who could have been helped by other means, including treatment for depression. Many opponents of assisted suicide find the same faults in the practice that they see in other forms of euthanasia. They envision its leading to a devaluation of human life and even to a genocidal killing of vulnerable or so-called undesirable individuals.
+
+The U.S. Supreme Court has made two important rulings on assisted suicide. In washington v. glucksberg, 521 U.S. 702, 117 S.Ct. 2258, 138 L.Ed.2d 772, 65 (1997), three terminally ill patients, four physicians, and a non-profit organization had brought action against the state of Washington for Declaratory Judgment, that a statute banning assisted suicide violated due process clause. On June 26, 1997, the Supreme Court unanimously upheld the right of states to prohibit assisted suicide, holding that: (1) asserted right to assistance in committing suicide was not a fundamental liberty interest protected by due process clause, and (2) Washington's ban on assisted suicide was rationally related to legitimate government interests. In Vacco v. Quill, 521 U.S. 793, 117 S.Ct. 2293, 138 L.Ed.2d 834 (1997), physicians challenged the constitutionality of New York statutes making it a crime to aid a person in committing suicide or attempting to commit suicide. The Supreme Court held that New York's prohibition on assisting suicide did not violate the equal protection clause of the Fourteenth Amendment.
+
+Involuntary Euthanasia
+
+The term involuntary euthanasia is used to describe the killing of a person who has not explicitly requested aid in dying. This term is most often used with respect to patients who are in a persistent vegetative state and who probably will never recover consciousness.
+
+Euthanasia Considerations
+
+Euthanasia is a divisive topic, and different interpretations of its meaning, practice, and morality abound. Those who favor active euthanasia and a patient's right to die, do not acknowledge a distinction between active and passive euthanasia. They assert that the withdrawal of life-sustaining treatment cannot be distinguished in principle from affirmative steps to hasten a patient's death. In both situations, they argue, a person intends to cause the patient's death, acts out of compassionate motives, and causes the same outcome. In their view, turning off a life-sustaining respirator switch and giving a lethal injection are morally equivalent actions.
+
+Opponents of active euthanasia argue that it undermines the value of, and respect for, all human life; erodes trust in physicians; desensitizes society to killing; and contradicts many people's religious beliefs. Moreover, they maintain that the intentions and natures of active and passive euthanasia are not essentially the same. In active euthanasia, a person directly intends to cause death and uses available means to achieve this end. In passive euthanasia, a person decides against using a certain form of treatment and then directs that such treatment be withdrawn or withheld, accepting but not intending the patient's death, which is caused by the underlying illness.
+
+While people cite differing reasons for choosing to end their own lives, those suffering from a terminal illness typically state that a serious disorder or disease has adversely affected their quality of life to the point where they no longer wish to continue living. Under such circumstances, patients may have been diagnosed with a degenerative, progressive illness such as ALS, Huntington's disease, multiple sclerosis, AIDS, or Alzheimer's disease. Patients with such illnesses often fear, with good reason, a gradual loss of the quality of life in the future as the disease or disorder progresses, or they might already have lost a good deal of their independence and thus might require continuous care. Some feel that this loss of autonomy causes an unacceptable loss of personal dignity. Others realize that they will be dying in the near future and simply want to have total control over the process. Some point out that in addition to physical considerations, they do not want to diminish their assets by incurring large medical costs as their death approaches. They feel that they ought to have the option to die sooner and to pass on their assets to their beneficiaries.
+
+Euthanasia and Physician-Assisted Suicide
+<USER>

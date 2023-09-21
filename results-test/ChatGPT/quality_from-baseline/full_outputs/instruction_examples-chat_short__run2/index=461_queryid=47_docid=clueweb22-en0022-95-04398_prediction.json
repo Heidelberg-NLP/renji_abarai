@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1BqYqgu2u8Ia2qztsqd25eetFjL",
+  "object": "chat.completion",
+  "created": 1687865426,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Outline:\n\nI. Introduction\n    A. Background information\n    B. Thesis statement: High school students struggle to balance school, work and homework all at once. The question arises in the mind, why do students have so much homework?\nII. Cons\n    A. Critics argue that too much homework can be harmful and lead to various issues such as:\n        1. Spending less time for other activities\n        2. Forgoing hobbies and interests\n        3. Lack of social interaction\n        4. Sedentary lifestyle, leading to health problems\nIII. Pros\n    A. Supporters argue that homework:\n        1. Improves student achievement\n        2. Helps to develop good study habits and life skills\n        3. Allows for parent involvement in student's learning\n        4. Reduces screen time\n IV. The Impact of Homework on Students' Life\n     A. Self-regulation skills development\n     B. The health impact of homework\n     C. State of mind of students\nV. The Role of Family and Teachers \n     A. Strategies for teachers to assign the right amount of homework\n     B. Communication Network between Teachers and Parents\nVI. Conclusion \n     A. Recap of the thesis statement\n     B. Final thoughts and recommendations. \n\nWorks Cited:\n\nBembenutty, H. (2009). Self-regulation of learning and academic achievement in college. Handbook of college reading and study strategy research, 251-262.\n\nBempechat, J., Li, J., & Neier, S. (2004). The homework experience: Perceptions of low-income youth. Journal of Advanced Academics, 16(3), 424-445.\n\nCorno, L. (2000). Looking at homework differently. Beyond the Horizon.\n\nLexile Measure. (2012). Do students get too much homework. Capstone Publishers.\n\nProcon. (Sep. 2018). Is Homework Beneficial? - Top 3 Pros and Cons. \n\nRamdass, D., & Zimmerman, B. J. (2011). Developing self-regulation skills: The important role of homework. Journal of Advanced Academics, 22(2), 194-218.\n\nTrautwein, U., & K\u00f6ller, O. (2003). The relationship between homework and achievement\u2013still much of a mystery. Educational Psychology Review, 15(2), 115-145.\n\nVittana. (2019). 20 Pros and Cons of Homework. \n\nWhy Homework Is Bad: Stress and Consequences. (2014, March 11). Retrieved August 3, 2020, from https://www.healthline.com/health-news/children-more-homework-means-more-stress-031114#1."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1966,
+    "completion_tokens": 576,
+    "total_tokens": 2542
+  }
+}

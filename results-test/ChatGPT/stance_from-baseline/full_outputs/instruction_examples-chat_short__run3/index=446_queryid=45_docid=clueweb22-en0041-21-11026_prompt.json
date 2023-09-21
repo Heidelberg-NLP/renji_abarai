@@ -1,0 +1,116 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the penny stay in circulation?
+Text: 1948 Wheat Penny Values - See If You Have A Valuable 1948 Penny + Rare 1948 Wheat Pennies And 1948 Error Pennies You Should Look For | U.S. Coins Guide
+
+The 1948 Penny Value Ranges From 3 Cents To Over $10,000! See What Your 1948 Wheat Penny Is Worth
+
+This post may contain affiliate links. If you buy thru these links, we may earn a commission at no additional cost to you.
+
+
+If you’ve found a 1948 penny and want to know its value, then you’ve come to the right place!
+
+Today I’m going to talk about 1948 wheat pennies, including:
+
+  • How much a 1948-S penny, a 1948-D penny, and a 1948 penny with no mintmark are worth
+  • The most valuable 1948 penny
+  • How many 1948 pennies were made
+  • Which 1948 pennies are rare
+  • 1948 error pennies to look for — including doubled die pennies
+
+1948 Penny Value
+
+So… what’s your 1948 penny worth?
+
+Probably not as much as you had hoped, but it’s definitely worth more than face value! A typical 1948 wheat cent with moderate to heavy wear (which pretty much describes most old pennies you’ll find in pocket change) is worth 3 to 5 cents.
+
+That’s the average value for any old 1948 wheat penny you’ll find in circulation — including a 1948-D penny from the Denver Mint and a 1948-S penny that was made in San Francisco.
+
+TIP: If you see a 1948 wheat penny without a mintmark (that little letter under the date), then it was made at the Philadelphia Mint.
+
+However, some 1948 pennies are worth much more. A 1948 wheat penny that is well-preserved, say in “mint” condition (or what coin collectors call uncirculated or mint state), can be worth 75 cents to $5… or more.
+
+In fact, the most valuable 1948 penny was sold in 2012 for $10,350. This nearly perfect penny was graded Mint State 67 “Red” by Professional Coin Grading Service and encapsulated in a certified plastic “slab.”
+
+NOTE: Slabbed coins are traded by collectors and won’t be found in circulation.
+
+How Many 1948 Wheat Pennies Were Made?
+
+Here’s a breakdown on how many 1948 pennies were struck at the Philadelphia, Denver, and San Francisco Mints:
+
+  • 1948 penny — 317,570,000 minted
+  • 1948-D penny — 172,637,500 minted
+  • 1948-S penny — 81,735,000 minted
+
+*These mintage figures are for business-strike pennies. The United States Mint did not strike proof coins for collectors in 1948. 
+
+IMPORTANT: Do You Know The Grade Of Your Penny?
+
+To determine the true value of your 1948 penny, you first need to know what condition (or grade) your coin is in.
+
+Grab a coin magnifier and a copy of the U.S. Coin Grading Standards book. Then, watch this video to see how to grade coins yourself at home:
+
+
+Rare 1948 Pennies
+
+As the production figures above suggest, 1948 pennies aren’t really rare.
+
+You might not see many of them in pocket change, but there are still millions sitting around in collections and hoards.
+
+So, a 1948 penny is not a rare coin — but there are some unusual 1948 pennies that are scarcer than the typical 1948 Lincoln wheat cent!
+
+Collectors of error coins and varieties will be glad to know that there are several 1948 doubled die pennies to look for:
+
+There are also other types of 1948 penny oddities to look for, including:
+
+Must read: The Difference Between Rare Coins And Scarce Coins
+
+More Info About Old Pennies
+
+In addition to the links I’ve included above, here are some of our other articles about old pennies that are valuable:
+
+Don’t miss our latest tips!
+
+Stay up to date with everything about U.S Coins
+
+We don’t spam! Read more in our privacy policy
+
+Share via
+Copy link
+<USER>

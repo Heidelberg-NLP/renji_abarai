@@ -1,0 +1,89 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Should COVID-19 vaccines be required for students? | king5.com
+x
+Breaking News
+More (-1) »
+
+Seattle school board recommends state reviews COVID-19 vaccine requirement for students
+
+Board members recommended that the Washington State Board of Health begin reviewing the COVID-19 vaccine for inclusion on the list of required immunizations.
+
+SEATTLE — The Seattle Public Schools board of directors approved a resolution Wednesday that asks the Washington State Board of Health to review the COVID-19 vaccine for inclusion on the list of required immunizations for students prior to attending school. 
+
+The resolution clarifies that the school board is only asking the Washington State Board of Health (BOH) to begin its review once the vaccine is fully approved by the Food and Drug Administration (FDA) and recommended by the Advisory Committee on Immunization Practices.
+
+>> Download KING 5's Roku and Amazon Fire apps to watch live newscasts and video on demand
+
+The vote, which was postponed from Oct. 13, comes just weeks after Pfizer’s COVID-19 vaccine for children ages 5-11 was given emergency authorization by the FDA and Centers for Disease Control and Prevention (CDC).
+
+According to a KING 5 News poll, 41% of Washingtonians strongly support the requirement and 20% somewhat support it. Meanwhile, the same poll shows 27% of Washingtonians strongly oppose the requirement while 9% somewhat oppose it.
+
+Data on COVID-19 vaccinations for children ages 5-11 has yet to be released, as of Wednesday morning, but children ages 12-17 continue to lag behind other age groups who were able to get the vaccine sooner.
+
+Still, about 57% of children ages 16 and 17 are considered fully vaccinated and about 50% of children ages 12-15 are fully vaccinated, as of Nov. 13, according to data from the Washington State Department of Health (DOH).
+
+Those numbers are expected to go up, and the DOH said prior to its approval that about 30% of children ages 5-11 throughout the state would initially get the pediatric COVID-19 vaccine.
+
+Any decision on vaccine requirements for children attending school in Washington state is made by the BOH.
+
+The DOH released a report on Oct. 29 covering the state’s COVID-19 outbreaks in schools, which are defined by either three or more probable or confirmed cases within a group or probable or confirmed cases in at least 10% of students and staff. The latest report shows that between Aug. 1 and Sept. 30, there were 189 outbreaks across Washington’s K-12 schools. About 1,280 COVID-19 cases were associated with these outbreaks, and nearly 90% of those cases were among those ages 19 and under.
+<USER>

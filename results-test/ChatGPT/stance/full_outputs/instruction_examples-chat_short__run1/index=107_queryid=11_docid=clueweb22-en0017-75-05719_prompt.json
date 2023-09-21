@@ -1,0 +1,108 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should performance - enhance drug accept sport
+Text: Drugs and Testing – Sports Law
+SHOW SUPPORT TO UKRAINEDONATE
+Happy family
+
+Find a legal form in minutes
+
+Browse US Legal Forms’ largest database of 85k state and industry-specific legal forms.
+
+Drugs and Testing
+
+Drug use by athletes has been a controversial issue for many years. Athletes often use artificial stimulants to give them a physical and mental advantage over their opponents. The use of performance- enhancing drugs can be traced to the ancient Olympic Games where fame and fortune were rewarded, just as today, for athletic success. Drug testing of athletes is becoming common in all sports to one degree or the other. This raises constitutional issues including the right to privacy and due process protections from illegal searches and seizures, particularly since testing involves an analysis of a sample from urine or blood. Performance-enhancing drugs are substances athletes inject or consume to increase the human body’s ability to perform during training sessions and sports contests. This includes common, over-the-counter muscle-building supplements, recovery products, and endurance-enhancing blood doping. Performance-enhancing drugs might be consumed orally or via needle injection.
+
+When the government or a governmental entity such as a public school or public college desires to test a student-athlete for drugs, this constitutes state action. There is no state action for private sports leagues, and therefore the fourth, fifth, and fourteenth Amendment issues are generally not applicable in such context unless such testing is established by contract. Federal laws that regulate drug use and distribution include the Anabolic Steroid Control Act of 1990. Steroids are artificial and synthetic forms of hormones, such as testosterone, that improve muscle building, growth, and repair. Since the government (state) desires to invade the privacy of athletes by testing their urine or blood for drugs, athletes have constitutional safeguards that allow a challenge to such a test on the grounds of its constitutionality. Numerous challenges to such policies have failed, and recently courts have given support to the use of mandatory, suspicion- less testing. Still, private organizations have their own testing policies that usually require consent to such policies (including appeals) as a condition for participating in that league.[1]
+
+Fourth Amendment
+
+Any time a governmental agency tests an athlete for drugs, it must comply with the Fourth Amendment, which states:
+
+The right of the people to be secure in their persons, houses, papers and effects against unreasonable searches and seizures, shall not be violated and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation and particularly describing the place to be searched and the persons things to be seized.
+
+While many athletes now understand that being tested is a necessary part of the nature of competition, numerous cases have reached the courts to determine whether or not an individual athlete has a legitimate expectation of privacy when it comes to drug testing.[2]
+
+In a decision involving Oklahoma high school’s drug testing policy, the U.S. Supreme Court held in Vernonia School District v. Acton, 515 U.S. 646 (1995) that high school athletes have a lower expectation of privacy than the public in general, and that mandating testing policies nationwide are valid as a condition for participating in high school sports. Additionally, though there may not be probable cause per se in testing high school athletes, the Supreme Court affirmed that public school districts do have special needs. The Court held that random drug testing was valid since such programs serve a compelling interest in public systems to deter the use of drugs.
+
+Fifth Amendment
+
+Another constitutional consideration for drug testing of athletes is the Fifth Amendment, which provides:
+
+No person shall be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+
+An athlete should be granted a process for a hearing and appealing a positive drug test result. The right to go to school or participate in athletics is a property right.[3]
+
+NCAA Regulation
+
+Intercollegiate athletes must sign a consent form in order to play college sports under the National Collegiate Athletic Association’s policies. The NCAA established its own drug testing program in 1986 and comprehensively tests for both illegal street drugs and performance-enhancing drugs. Whether the NCAA is a state actor [4] is subject to debate, though the answer seems to be that it is not and therefore is characterized as a private actor.[5]
+
+Professional Sports
+
+Major professional sports in the United States coordinate their own drug testing and use policies through collective bargaining agreements (CBAs) or consent from the professional athletes from their individual professional contract. The major aim of professional sports and drug testing appears to be treatment for the offender rather than punishment. Such a policy is much different than the Olympic Games where punishment and future deterrence appears to be the primary concern. [6]
+
+One of the major concerns with drug testing in professional sports is that there is no uniform standard that applies to the NFL, NBA, NHL, and MLB. Each has different testing for a variety of drugs and punishments and treatment are different in each league. Additionally, there is confusion as to what drugs should be banned since the spectators themselves could legally purchase certain performance-enhancing training supplements at the local supermarket while the athletes could be punished for using the same supplements. Drug testing issues in professional sports center on contract and consent issues rather than constitutional issues.[7]
+
+National Football League
+
+The National Football League prohibits the illegal use of drugs and the abuse of prescription drugs, over-the-counter drugs, and alcohol. This applies to all players who have not yet retired from the league. However, the NFL’s collective bargaining agreement sets the sole and exclusive means of testing for drugs and treating those players who have positive results. The National Football League’s program is called the Intervention Program and purportedly establishes the appropriate levels of discipline. However, NFL players are only tested for cocaine, marijuana, amphetamines, morphine, codeine, and PCP. All players are tested in April and August, during the preseason.[8]
+
+The Olympic Games
+
+The International Olympic Committee (IOC) has taken a more proactive stance on the prevention of the use of performance-enhancing drugs than any other organization in the world. In 1968 the IOC established the first testing of 40 International Olympic Committee athletes in Grenoble, France’s Winter Olympic Games. One of the more famous cases involving an Olympic athlete was the use of illegal steroids by Canadian track star Ben Johnson in 1988 during the Seoul, Korea, Games. The Olympic Movement has set the standard for both competition drug testing and out of competition testing. However, enforcement is often the sole responsibility of each country’s national Olympic committee (NOC) and the particular national governing body (NGB) for that particular Olympic sport.[9]
+
+International Olympic Committee Policies
+
+While many top U.S. Olympic caliber athletes have been drug tested throughout their careers, few have truly understood the drug testing process. The ever-changing rules and regulations, as well as the increase in number of doping control programs, while appearing to assist in the fight against doping in sport, have proven to be confusing and sometimes inconsistent. Many organizations cannot interpret their own rules, nor do they fully understand the jurisdictional issues that arise with respect to every sample taken until they are caught in a crisis.[10]
+
+The collection process of drug testing includes dividing a urine sample into two (2) containers, respectively known as the “A” sample and the “B” sample. The “A” sample is always analyzed first. The “B” sample is only analyzed in the event the “A” sample reveals the presence of a prohibited substance.
+
+Drug testing of athletes is becoming common in all sports to one degree or the other. This raises constitutional issues including the right to privacy and due process protections from illegal searches and seizures, particularly since testing involves an analysis of a sample from urine or blood. Performance-enhancing drugs are substances athletes inject or consume to increase the human body’s ability to perform during training sessions and sports contests. This includes common, over-the-counter muscle-building supplements, recovery products, and endurance-enhancing blood doping. Performance-enhancing drugs might be consumed orally or via needle injection.
+
+Each sport within the Olympic Movement has a national federation, which is responsible for coordinating the activity for that particular sport in the country. In the United States these federations are known as national governing bodies (NGB). The USOC has set forth a “due process” checklist and each NGB is required to comply with this list. It includes:
+
+  • notice of the specific charges,
+  • reasonable time between the receipt of notice of charges and the hearing,
+  • the right to have the hearing conducted at a convenient time and place,
+  • the right to be assisted in the presentation of one’s case at the hearing before a disinterested and impartial body of fact finders,
+  • the right to call witnesses and present both written and oral evidence,
+  • the right to cross-examine, the right to a record of the hearing,
+  • the right to a written decision, and
+  • the right to written notice of appeal procedures.[11]
+<USER>

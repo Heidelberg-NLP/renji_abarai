@@ -1,0 +1,459 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should recreational marijuana legal
+Text: States Where Recreational Marijuana is Legal - ProCon.org
+Last updated on: 3/2/2022 | Author: ProCon.org
+
+Recreational Marijuana Legality by State
+
+
+For information on medical marijuana, please visit our Legal Medical Marijuana States resource.
+
+*Please consult the state for the most recent information.
+
+
+1. Alaska
+
+State Marijuana Laws
+
+Ballot Measure: Ballot Measure 2 — Approved Nov. 4, 2014 by 53% of voters
+
+Law: Alaska Statute Chapter 17.38: The Regulation of Marijuana
+
+State Website: Alaska Alcohol and Marijuana Control Office
+
+Effective: Feb. 24, 2015
+
+Alaska Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 6 plants with no more than 3 mature plants
+
+Hash & Concentrates: Possession of hash and concentrates is illegal. Possession of up to 3 g is a misdemeanor, more is a felony.
+
+*Please consult the state for the most recent information.
+
+2. Arizona
+
+State Marijuana Laws
+
+Ballot Measure: Smart and Safe Act (Prop 207) — Approved Nov. 3, 2020 by 59.95% of voters
+
+Law: Smart and Safe Arizona Act
+
+Effective: Nov. 30, 2020; sales Mar. 2021
+
+Arizona Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: Up to 6 plants per person; up to 12 plants for a single residence with more than one 21+ resident
+
+Hash & Concentrates: up to 5 grams
+
+*Please consult the state for the most recent information.
+
+
+3. California
+
+State Marijuana Laws
+
+Ballot Measure: Proposition 64: The Adult Use Marijuana Act — Approved Nov. 9, 2016 by 57% of voters
+
+Law: Control, Regulate and Tax Adult Use of Marijuana Act
+
+State Website: California Cannabis Portal
+
+Effective: Nov. 9, 2016 (revised penalties); Jan. 1, 2018 (retail sales); 2023 (restrictions to be lifted on large-scale corporations)
+
+California Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 6 plants, including the harvest from those 6 plants
+
+Hash & Concentrates: up to 8 g (more than 8 g is a misdemeanor)
+
+*Please consult the state for the most recent information.
+
+
+4. Colorado
+
+State Marijuana Laws
+
+Ballot Measure: Amendment 64 (55%) — Approved Nov. 6, 2012 by 55% of voters
+
+Law: Colorado Constitution: Article 18, section 16
+
+State Website: Colorado Marijuana
+
+Effective: Dec. 10, 2012 (revised penalties) Jan. 1, 2014 (commercial sales)
+
+Colorado Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 6 plants with no more than 3 mature plants
+
+Hash & Concentrates: up to 1 oz
+
+*Please consult the state for the most recent information.
+
+5. Connecticut
+
+State Marijuana Laws
+
+Law: SB 1201 –signed by Governor Ned Lamont on June 22, 2021
+
+Effective: July 1, 2021 (revised penalties); May 2022 (commercial sales); July 2023 (growing plants)
+
+Connecticut Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1.5 oz; up to 5oz in a locked container
+
+Plants: up to 6 plants with no more than 3 mature plants (on or after July 2023)
+
+Hash & Concentrates: up to 7.5 g (up to 750 mg of THC); 25 g  (up to 2,500 mg of THC) in a locked container
+
+*Please consult the state for the most recent information.
+
+
+6. District of Columbia
+
+State Marijuana Laws
+
+Ballot Measure: Initiative 71 — Approved Nov. 4, 2014 by 64.87% of voters
+
+Law: Marijuana Legalization and Regulation Act of 2015
+
+DC Website: DC Metro Police Department
+
+Effective: Feb. 26, 2015
+
+Retail sales are not allowed
+
+DC Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 2 oz
+
+Plants: up to 6 plants per person with no more than 3 mature plants; up to 12 plants (no more than 6 mature) for a single residence with more than one 21+ resident
+
+Hash & Concentrates: Possession of hash and concentrates is illegal and punishable with 180 days in jail and a $1,000 fine.
+
+*Please consult the state for the most recent information.
+
+
+7. Illinois
+
+State Marijuana Laws
+
+Legislation: HB 1438
+
+Law: Cannabis Regulation and Tax Act
+
+Effective: Jan. 1, 2020
+
+Illinois Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz (30 g) for residents and 500 milligrams of THC contained in a cannabis-infused product for state residents (15 g/250 mg non-residents)
+
+Plants: None
+
+Hash & Concentrates: up to 5 g (2.5 g non-residents)
+
+*Please consult the state for the most recent information.
+
+
+8. Maine
+
+State Marijuana Laws
+
+Ballot Measure: Question 1 — Approved Dec. 17, 2016 (after recount of Nov. 8, 2016 election results was abandoned) by 50.26% of voters
+
+Law: The Marijuana Legalization Act
+
+Effective: Jan. 30, 2017 (grow and possess)
+
+[Editor’s Note: On May 2, 2018, the Maine House (109-39) and Senate (28-6) voted to override Gov. Paul LePage’s veto of LD 1719 (Chapter 409 Public Law). The Department of Administration and Financial Services is required to present regulatory rules for legal sale and production of marijuana to the legislature in January 2019; marijuana retail shops are expected to open no sooner than Spring 2019. The bill lowers the recreational marijuana possession limits from 6 mature plants to 3 mature plants.]
+
+Maine Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 2.5 oz
+
+Plants: up to 3 flowering plants, 12 immature plants, unlimited seedlings, and all marijuana produced from the plants
+
+Hash & Concentrates: up to 5 g
+
+*Please consult the state for the most recent information.
+
+
+9. Massachusetts
+
+State Marijuana Laws
+
+Ballot Measure: Question 4 — Approved Nov. 8, 2016 by 53.66% of voters
+
+Law: Regulation and Taxation of Marijuana Act
+
+State Website: Massachusetts Cannabis Control Commission
+
+Effective: Dec. 15, 2016
+
+Massachusetts Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 6 plants; no single residence may exceed 12 plants
+
+Hash & Concentrates: up to 5 g. Possession of hash is illegal though decriminalized for possession of up to 1 oz.
+
+*Please consult the state for the most recent information.
+
+
+10. Michigan
+
+State Marijuana Laws
+
+Ballot Measure: Proposal 1 — Approved Nov. 6, 2018 by 56% of voters
+
+State Website: Michigan Department of Licensing and Regulatory Affairs (LARA)
+
+Effective: Jan. 2020
+
+Michigan Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: 2.5 oz; up to 10 ounces at home, but amounts over 2.5 ounces must be kept in locked containers
+
+Plants: up to 12 plants
+
+Hash & Concentrates: 15 grams of marijuana may be in the form of marijuana concentrate
+
+*Please consult the state for the most recent information.
+
+11. Montana
+
+State Marijuana Laws
+
+Ballot Measure: I-190 – Marijuana Legalization Initiative — Approved Nov. 3, 2020 by 56.89% of voters
+
+Constitutional Amendment: CI-118 — Allow for a Legal Age for Marijuana — Approved Nov. 3, 2020 by 57.82% of voters
+
+Effective: Jan. 1, 2021
+
+Montana Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 4 mature plants and up to 4 seedlings
+
+Hash & Concentrates: up to 8 grams
+
+*Please consult the state for the most recent information.
+
+
+12. Nevada
+
+State Marijuana Laws
+
+Ballot Measure: Question 2 — Approved Nov. 8, 2016 by 54.47% of voters
+
+Law: Nevada Revised Statutes, Chapter 453D – Regulation and Taxation of Marijuana
+
+State Website: Marijuana in Nevada
+
+Effective: Jan. 1, 2017
+
+Nevada Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+Plants: up to 6 plants; no single residence may exceed 12 plants
+
+Hash & Concentrates: up to 3.5 g
+
+*Please consult the state for the most recent information.
+
+13. New Jersey
+
+State Marijuana Laws
+
+Constitutional Amendment: New Jersey Marijuana Legalization Amendment — Approved Nov. 3, 2020 by 66.88% of voters
+
+Law: Amendment to Article IV, Section VII of the New Jersey Constitution
+
+Effective: Jan. 1, 2021
+
+New Jersey Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz
+
+*Please consult the state for the most recent information.
+
+
+14. New Mexico
+
+State Marijuana Laws
+
+Legislation: HB 2 — signed by Governor Michelle Lujan Grisham on Apr. 12, 2021
+
+Law: Cannabis Regulation Act
+
+State Website: New Mexico Cannabis Control Division
+
+Effective: June 29, 2021; commercial sales begin in Apr. 2022
+
+New Mexico Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 2 oz
+
+Plants: up to 6 plants per person with no more than 12 per household
+
+Hash & Concentrates: Up to 16 grams of concentrated marijuana, and 800 milligrams of edible cannabis
+
+*Please consult the state for the most recent information.
+
+
+15. New York
+
+State Marijuana Laws
+
+Legislation: S854A — Passed Senate and Assembly, and signed into law by Governor Cuomo on Mar. 31, 2021
+
+Law: Marihuana Regulation and Taxation Act
+
+Effective: Mar. 31, 2021
+
+New York Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 3 oz
+
+Plants: up to 12 plants with no more than 6 mature plants and 6 immature per residence
+
+Hash & Concentrates: up to 24 g concentrated cannabis
+
+*Please consult the state for the most recent information.
+
+
+16. Oregon
+
+State Marijuana Laws
+
+Ballot Measure: Oregon Legalized Marijuana Initiative, Measure 91 — Approved Nov. 4, 2014 by 56.11% of voters
+
+Law: Oregon Revised Statutes Chapter 475B – Cannabis Regulation: Recreational Use of Cannabis
+
+State Website:Oregon Recreational Marijuana
+
+Effective: Mar. 29, 2016
+
+Oregon Medical Marijuana Laws
+
+Possession and Cultivation Limits
+
+Age: 21+
+
+Usable Marijuana: up to 1 oz in public; up to 8 oz homegrown at home
+
+Plants: up to 4 plants per residence
+
+Hash & Concentrates: up to 16 oz solid infused at home; up to 72 oz liquid infused at home; up to 1 oz extract at home
+
+*Please consult the state for the most recent information.
+<USER>

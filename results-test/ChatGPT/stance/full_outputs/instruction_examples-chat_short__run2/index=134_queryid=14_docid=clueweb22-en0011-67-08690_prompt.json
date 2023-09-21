@@ -1,0 +1,102 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: sexual orientation determine birth
+Text: Sexual Orientation | Psychology Today
+Skip to main content
+
+Verified by Psychology Today
+
+Subodh Agnihotri/Shutterstock
+
+Sexual Orientation
+
+Reviewed by Psychology Today Staff
+
+Sexual orientation describes patterns of sexual, romantic, and emotional attraction—and one's sense of identity based on those attractions. Sexual orientation is distinct from gender identity, the internal sense of being male, female, or non-binary.
+
+Understanding Sexual Orientation
+
+Hans Christiansson/Shutterstock
+
+Heterosexuality (attraction to members of the opposite sex), homosexuality (attraction to members of the same sex), and bisexuality (attraction to members of both sexes) are the three most commonly discussed categories of sexual orientation, although they are by no means the only ones in the world of sexual identification.
+
+The designation queer, for example, is used by some for its non-specificity to sexual orientation and gender identity, and acts as an umbrella term for non-heterosexual, cisgender individuals. Pansexual and omnisexual are terms gaining currency as the binary division of gender itself is called into question in some subcultures.
+
+What is sexual orientation?
+
+Sexual orientation describes patterns of sexual, romantic, and emotional attraction—and one's sense of identity based on those attractions. Some scientists categorize sexual orientation as being attracted to men or masculinity (androphilic), women or feminity (gynephilic), bisexual, asexual, or something else.
+
+What’s the difference between sexual orientation and gender identity?
+
+Sexual orientation refers to who individuals feel attracted to, while gender identity refers to one’s self-concept of being male, female, or non-binary. Developing a common vocabulary can help foster inclusive and productive discussions about sex and gender.
+
+article continues after advertisement
+
+The Process of Coming Out
+
+Olimpik/Shutterstock
+
+Disclosing one’s sexual identity—to parents, friends, employers, or partners—is a unique experience for each individual. Many emotions and questions can emerge during this process, as one comes to understand their own sexuality, share that information with loved ones, and forge new relationships. Coming out is a continuous process, and the LGBTQ individual should feel in control of the choices and conversations every step of the way.
+
+How do I process my own sexuality or confront internalized homophobia?
+
+Society has become much more accepting of the queer community, but some LGBTQ individuals may still experience internalized homophobia, which means internalizing society’s negative attitudes, stereotypes, and prejudice. Research shows that cultivating self-compassion—relating to oneself with understanding and kindness—is key to achieving self-acceptance, along with seeking out social support.
+
+How do I come out to my friends and family?
+
+When an individual comes to understand and accept their identity, they may decide to disclose the information to those in their lives. Each unique disclosure, at each point in time, occurs after a process of awareness, assessment, and decision. Rather than a one-time event, it may be helpful to view coming out as a continuous process.
+
+Sexual Orientation and Mental Health
+
+wavebreakmedia/Shutterstock
+
+Being different can be an inherent source of stress, one that sexual minorities can experience acutely. Research shows that LGBTQ individuals suffer from anxiety, depression, substance use, and suicidality at higher rates than their heterosexual peers. These mental health challenges reveal how critical it is for individuals, clinicians, and society at large to examine how to address the challenges and needs of the queer community.
+
+Are LGBTQ youth at higher risk for suicide?
+
+Sexual minority youth attempt suicide around five times more often than their heterosexual peers, and their attempts more often require medical treatment. Instances of abuse and harassment can contribute to suicide attempts. Supportive friends and family members, however, can help protect the mental health of sexual minorities.
+
+Why do LGBTQ face unique mental health challenges?
+
+Sexual minorities may be exposed to more risk factors for suicide than their heterosexual peers. Risk factors include childhood maltreatment, mental illness, chronic feelings of hopelessness, and the perceived sense of being a burden or not belonging. Risk factors specific to queer youth include gender nonconformity, low family support, and victimization. The combination can render sexual minority youth more vulnerable.
+
+Essential Reads
+
+Recent Posts
+<USER>

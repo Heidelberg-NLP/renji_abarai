@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should abortion legal
+Text: Should abortion be legal? | Debate.org
+  • Abortion should be legalized
+
+    Sometimes people make a mistake, but that mistake should not be able to ruin someones live especially if they have a bright future ahead of them. For example, if a teenager gets pregnant, I believe she should get an abortion. Teenagers aren't capable of raising themselves without a challenge, if they could, why would they still be living with their parents?
+
+  • Here's a test
+
+    I am holding something in each of my hands. In one hand, I am holding a two month old baby. In the other, an unborn fetus in a Petri dish. I am going to drop one of them, and you choose which one. Shot in the dark you choose the fetus, because you know there's a difference.
+
+  • A woman has the right to control her body
+
+    If a woman were to become pregnant, and it would effect her life in a way she wasn't ready for, who are we to tell her that she has to carry it anyways? Also, say she got raped? Forcing her to carry a child that she might not even love is cruel, both for the mother and the child. Once the child is born, it would become a constant reminder to the mother about the rape. She wouldn't love the child, she could spurn it and hate it, and take her anger out on in. No child should be subject to the emotional and physical abuse that could occur.
+
+  • It should be Legal
+
+    I think that abortion should be legal and for the people who want to go get an abortion can go get one.. And the people who dont believe in it then dont worry about the people doing it! Its their body and they should be able to do as they please
+
+  • Abortion should be legal
+
+    I think it should be legal because so many teenagers party and take ilegal substances which may cause them to sexual intercourse unpretected an make the young teenager pregnant. She should have an abortion if she is pregnant because she may have a bright future an this may ruin it.
+
+  • Better not make a child than make his life miserable
+
+    A child shouldn't spend his life knowing his parents are stuck with him. Also a woman has to have all the rights to her own body. If someone rapes you, do you want to have his child? I don't think so. Besides, there are already too much of us on this planet.
+
+  • Yes, it should be legal
+
+    For instance, suppose the person got raped? Or is not financially stable to take care of this baby? These are things we must look at, it is bad for ourselves to not have family planning but to be pregnant and not have a good financial background or not even have a father to help in supporting the mother .. So yes I think abortion should be legal.. Thank you
+
+  • abortion debate
+
+    No matter how you look at it, killing a baby in its mother womb IS murder in the FIRST DEGREE! NO taxpayer should be paying for murder of innocent babes, they should be funding a program to HELP POOR MOTHERS care for their child, or legally put them up for adoption.
+
+  • THERE ARE CIRCUMSTANCES WHERE WOMEN SHOULD BE ALLOWED TO HAVE AN ABORTION
+
+    What if she gets raped? What if her life is at risk, or what if the baby has no chance in having a normal life? What if she is in no means financially stable to have a baby? What happens when abortion is illegal? That is about 900,000 unwanted babies.
+
+  • Should Abortion Be Legal?
+
+    Abortion should at least be given a chance because no one under the age of 19, is ready to have a baby yet. They just don't want to be lonely. Although people make mistakes, there is still a such thing called protection. They should always double or triple the condom.
+
+  • Abortion is Murder
+
+    At the moment of Conception a life is created. When a woman has an abortion she is essentially murdering her baby. If the child is not wanted there are other options such as adoption, if you can not love your own child there are others than can and will love them.
+
+  • No, not right
+
+    I understand that people on the yes side continually bring up rape, but you guys have to know that God knows everything that's going to happen to you before it happens. He might have planned it to where he wanted you to raise the baby (if girl) to be a respectful young lady and (if boy) to be a way better man than his father was. And not being ready or having it not be the right time excuse? Well.... Was it the right time when you spread your legs? Or when you forgot to use protection? Or when you "thought" he did? Those excuses are your own mistake, if you did the deed, then you should be responsible for the life that YOU created instead of taking it away.
+
+  • Personhood and Babies
+
+    Abortion should be legal if the babies are not persons. What is the difference between a baby in the womb and a 2 year old? There are 4 basic differences, they are the size, level of development, environment, and degree of dependency.
+    Is a fetus a nonperson due to its size? Is a 4 foot person any less a person than a 6 foot one? No, so the size no matter what of the fetus should make the fetus or any human a nonperson.
+    The second thing is level of developement. Is a 17 year old more developed physically and mentally than a 2 year old? Yes. But is that 2 year old any less human? No. Level of developement had nothing to due with the nature of personhood.
+    Thirdly is the environment. How does a change of location classify a human as a nonperson? Does moving to a new state make you not a person? So how does living in a womb make a baby not a person, and quite simply it doesn't.
+    And finally is the degree of dependency. Are diabetics living on insulin or a man living on life support make them nonpersons? Would it be right to kill them based on their condition? No, so why would it be right to murder a baby in the womb.
+    The abortion issue isn't about the rights of the mother. It's about the rights of the baby. Murdering a human being is never okay. And. Based on the evidence above I have concluded that fetuses are persons and shod therefore have their own undeniable rights.
+
+    -Hobbes
+
+  • What if it was you?
+
+    What if you were the fetus in the womb? What if your mother chose abortion? Where would you be today? You wouldn't be here to read this. So choose life for your children's sake and your child's children's sake. Because when you take away one life, you take away many. My mother chose life and I'm glad she did.
+
+  • It is Murder
+
+    There is a tremendous consensus in the scientific community about when life begins. This is hardly controversial. If the claim were made that life was discovered on another planet, for example, there are well-defined criteria to which we could refer to conclusively determine whether the claim was accurate. How do scientists distinguish between life and non-life?
+
+    LIFE cover photo A scientific textbook called "Basics of Biology" gives five characteristics of living things; these five criteria are found in all modern elementary scientific textbooks:
+
+    1. Living things are highly organized.
+
+    2. All living things have an ability to acquire materials and energy.
+
+    3. All living things have an ability to respond to their environment.
+
+    4. All living things have an ability to reproduce.
+
+    5. All living things have an ability to adapt.
+
+    According to this elementary definition of life, life begins at fertilization, when a sperm unites with an oocyte. From this moment, the being is highly organized, has the ability to acquire materials and energy, has the ability to respond to his or her environment, has the ability to adapt, and has the ability to reproduce (the cells divide, then divide again, etc., and barring pathology and pending reproductive maturity has the potential to reproduce other members of the species). Non-living things do not do these things. Even before the mother is aware that she is pregnant, a distinct, unique life has begun his or her existence inside her.
+
+    Furthermore, that life is unquestionably human. A human being is a member of the species homo sapiens. Human beings are products of conception, which is when a human male sperm unites with a human female oocyte (egg). When humans procreate, they don't make non-humans like slugs, monkeys, cactuses, bacteria, or any such thing. Emperically-verifiable proof is as close as your nearest abortion clinic: send a sample of an aborted fetus to a laboratory and have them test the DNA to see if its human or not. Genetically, a new human being comes into existence from the earliest moment of conception.
+
+  • PRO LIFE always
+
+    A baby is living in the womb and deserves a chance. If your raped give the baby away. Pro-abortionists say that outlawing abortion would restrict a woman’s right to privacy. Is that right absolute? Does somebody’s right to privacy exceed another’s right to live? God created life and it is a sin to take it away.
+
+  • No no no!!!!!!!!
+
+    Abortion kills living children that could one day grow up to be an important part of the world. What if Abraham Lincoln's mother decided to get an abortion? Slavery might still be a part of our lives. Abortion is horrible and kills our own people. How would you feel if you had to die without a say or an argument. Your parents didn't abort you, so don't abort your child.
+
+  • Abortion is murder, the killing of an innocent human life
+
+    Scientifically, the life of a human begins at fertilization. This is agreed upon among embryologists, but debated among those who are not experts in the field. (For some reason, people seem to assume they know better than embryologists.) Thus, killing the fetus is killing a human. This is called murder.
+
+  • No, it shouldn't and Here's Why
+<USER>

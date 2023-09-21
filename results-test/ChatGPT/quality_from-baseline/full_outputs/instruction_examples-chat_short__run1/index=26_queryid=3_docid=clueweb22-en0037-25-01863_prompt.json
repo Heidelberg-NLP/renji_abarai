@@ -1,0 +1,84 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Determinants of Insider Trading Windows
+
+Determinants of Insider Trading Windows
+
+Wayne R. Guay is Yageo Professor of Accounting at the The Wharton School of the University of Pennsylvania; Shawn Kim is a Ph.D. Student in Accounting at The Wharton School; and David Tsui is Assistant Professor of Accounting at the University of Southern California Marshall School of Business. This post is based on their recent paper. Related research from the Program on Corporate Governance includes Insider Trading Via the Corporation by Jesse Fried (discussed on the Forum here).
+
+At most publicly traded firms, an insider trading policy (ITP) establishes a pre-specified open trading window each quarter when insiders are allowed to trade, which dictates a corresponding “blackout” period in which they are prohibited from doing so. The typical trading window begins 2-3 trading days after the previous quarter’s earnings release and ends approximately 2-3 weeks prior to the end of the next fiscal quarter, resulting in an allowed trading window of about six weeks. These restrictions on insider trading activity potentially provide both protection from legal or regulatory action as well as liquidity and cost of capital benefits (e.g., Fishman and Hagerty, 1992). Although there is substantial variation in the length and timing of these trading windows, little is known about the factors boards consider when determining these constraints. Furthermore, in addition to these pre-specified trading windows and corresponding blackout periods, firms may impose event-specific trading restrictions on insiders (e.g., due to ongoing merger or acquisition negotiations). These “ad hoc blackout windows,” which are undisclosed to the public, are largely unexplored in prior literature.
+
+In this paper, we provide a deeper understanding of the determinants of firms’ insider trading restrictions. Specifically, we explore the determinants of the following three corporate policy decisions: 1) How soon after each quarterly earnings announcement should insiders be allowed to trade; 2) Once trading is allowed to commence after the earnings announcement, how long should insiders be allowed to trade before the window is again closed, and 3) For what types of firm-specific events will an ad hoc blackout window be imposed on insider trading. Regarding this last question, we additionally explore whether an abnormal absence of trading in a given quarter contains information about material future corporate events and/or results in capital market responses.
+
+We predict that the length and timing of allowed insider trading windows each quarter are, in part, related to how quickly information is impounded in price at the time of the earnings announcement, as well as how private information about the firm tends to build up during a quarter. Specifically, we expect that the faster information asymmetry is resolved following the earnings announcement, the sooner the trading window will open. Similarly, when information asymmetry builds up more quickly during a quarter, we expect that firms will close down the open trading window sooner. We also explore whether external monitoring from stakeholders may pressure firms to employ shorter open trading windows, or alternatively, that such monitoring may serve as a substitute governance mechanism that allows firms to keep trading windows open longer. Finally, we consider whether a firm’s compensation practices might influence the length of trading windows. Specifically, firms that provide executives and employees with greater amounts of equity-based compensation may allow longer trading windows to accommodate liquidity needs.
+
+A major challenge with empirically examining insider trading windows is that disclosure of ITPs is voluntary, and only a small proportion of firms choose to do so. We address this issue by using the empirical distribution of actual insiders’ trades to estimate the start and end of each firm’s allowed trading window. Specifically, to determine each firm’s open trading window start and endpoints, we examine observed insider trades over a rolling eight-quarter period (imposing certain minimum number of trade requirements) and identify both the earliest trades following each earnings announcement and the latest trades prior to the next earnings announcement. We then set simple distribution rules (e.g., the date, relative to the prior earnings announcement, at which 90% of the quarters’ trades have been executed) to estimate the parameters of the open trading windows. We validate our open trading windows using a small sample of firms that publicly disclose their ITP and find that our estimates are highly correlated (approximately 60%) with the trading window dates stated in these firms’ actual ITPs.
+
+We find that boards allow insiders to trade more quickly following earnings announcements at firms where a greater proportion of total return variation occurs at the earnings announcement dates and where announcements are associated with greater trading volumes. We also find that boards allow insiders to trade more quickly following earnings announcements at firms that have lower bid-ask spreads on earnings announcement dates and when the announcements are associated with greater reduction in bid-ask spreads, consistent with more relaxed insider trading windows when post-announcement information asymmetry is less of a concern. Regarding the endpoint of the insider trading window, we find that firms whose stock price movements are more concentrated around earnings announcement dates tend to have trading windows that end earlier in the quarter. Further, firms with greater average bid-ask spreads over the quarter also have trading windows that close earlier, suggesting that information asymmetry concerns are an important factor shaping trading windows. We also find that firms with greater analyst following, institutional ownership, and board independence have trading windows that end earlier in the quarter, suggesting that external monitoring disciplines the strictness of ITP, rather than serving as a substitute mechanism for monitoring insider trading that could allow for less restrictive trading windows. Finally, we find mixed evidence that executives’ or employees’ liquidity needs shape the design of insider trading windows. For example, we find that firms whose CEOs hold more equity tend to face stricter ITPs, but firms with higher insider trading volumes and stock price volatility tend to impose less stringent policies.
+
+In addition to establishing pre-specified quarterly trading windows, ITPs typically note that additional ad hoc blackout windows may be imposed when there are firm-specific events that can expose insiders to material non-public information. Identifying ad hoc blackout windows is challenging as firms generally do not disclose the occurrence or the length of these periods. Thus, similar to our preceding analyses, we infer the presence of ad hoc blackout windows using actual insider trading data. Specifically, we identify ad hoc blackout windows based on firm-quarters with abnormally low levels of insider trades and find that these periods are associated with greater future 8-K filings, particularly filings related to asset acquisitions or disposals as well as changes in executives or directors. We also find higher bid-ask spreads during ad hoc blackout periods and significant increases in both trading volumes and stock returns in the quarters following these ad hoc blackout periods. Collectively, these results provide evidence that firms impose ad hoc blackout windows when facing material corporate events, and that such windows are leading indicators of these future corporate events or disclosures.
+
+To our knowledge, our study is the first to explore the informational determinants of the length and timing of company-imposed insider trading windows. Our approach provides a more in-depth understanding of insider trading policies and the purposes that boards intend for them to serve. These findings complement the work in prior studies that explore the presence of insider trading policies (e.g., Bettis et al., 2000; Lee et al., 2014) and how these policies constrain the returns to informed trading by insiders (e.g., Roulstone, 2003; Denis and Xu, 2013). We also contribute to the literature on the information content of insider trades by studying a new empirical phenomenon that we refer to as an “ad hoc blackout window.” We present a novel method of identifying these ad hoc blackout windows and find that these abnormally quiet periods of insider trading tend to be followed by a greater number of future disclosures about material corporate events. These findings complement prior insider trading literature, which largely focuses on the information content of insider purchases or sales, by demonstrating that the absence of insider trading can also be informative (e.g., Seyhun, 1986; Lakonishok and Lee, 2001; Veenman, 2012; Suk and Wang, 2020).
+
+The complete paper is available for download here.
+
+Both comments and trackbacks are currently closed.
+<USER>

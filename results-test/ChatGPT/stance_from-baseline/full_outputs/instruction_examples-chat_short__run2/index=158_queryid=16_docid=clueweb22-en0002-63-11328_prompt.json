@@ -1,0 +1,85 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should prescription drugs be advertised directly to consumers?
+Text: eCFR :: 21 CFR 202.1 -- Prescription-drug advertisements.
+Site Feedback
+
+Title 21
+
+Displaying title 21, up to date as of 4/20/2022. Title 21 was last amended 4/20/2022.
+eCFR Content
+
+The Code of Federal Regulations (CFR) is the official legal print publication containing the codification of the general and permanent rules published in the Federal Register by the departments and agencies of the Federal Government. The Electronic Code of Federal Regulations (eCFR) is a continuously updated online version of the CFR. It is not an official legal edition of the CFR.
+
+Learn more about the eCFR, its status, and the editorial process.
+
+§ 202.1 Prescription-drug advertisements.
+
+(a)
+
+(1) The ingredient information required by section 502(n) of the Federal Food, Drug, and Cosmetic Act shall appear together, without any intervening written, printed, or graphic matter, except the proprietary names of ingredients, which may be included with the listing of established names.
+
+(2) The order of listing of ingredients in the advertisement shall be the same as the order of listing of ingredients on the label of the product, and the information presented in the advertisement concerning the quantity of each such ingredient shall be the same as the corresponding information on the label of the product.
+
+(3) The advertisement shall not employ a fanciful proprietary name for the drug or any ingredient in such a manner as to imply that the drug or ingredient has some unique effectiveness or composition, when, in fact, the drug or ingredient is a common substance, the limitations of which are readily recognized when the drug or ingredient is listed by its established name.
+
+(4) The advertisement shall not feature inert or inactive ingredients in a manner that creates an impression of value greater than their true functional role in the formulation.
+
+(5) The advertisement shall not designate a drug or ingredient by a proprietary name that, because of similarity in spelling or pronunciation, may be confused with the proprietary name or the established name of a different drug or ingredient.
+
+(b)
+
+(1) If an advertisement for a prescription drug bears a proprietary name or designation for the drug or any ingredient thereof, the established name, if such there be, corresponding to such proprietary name or designation shall accompany such proprietary name or designation each time it is featured in the advertisement for the drug; but, except as provided below in this subparagraph, the established name need not be used with the proprietary name or designation in the running text of the advertisement. On any page of an advertisement in which the proprietary name or designation is not featured but is used in the running text, the established name shall be used at least once in the running text in association with such proprietary name or designation and in the same type size used in the running text: Provided, however, That if the proprietary name or designation is used in the running text in larger size type, the established name shall be used at least once in association with, and in type at least half as large as the type used for, the most prominent presentation of the proprietary name or designation in such running text. If any advertisement includes a column with running text containing detailed information as to composition, prescribing, side effects, or contraindications and the proprietary name or designation is used in such column but is not featured above or below the column, the established name shall be used at least once in such column of running text in association with such proprietary name or designation and in the same type size used in such column of running text: Provided, however, That if the proprietary name or designation is used in such column of running text in larger size type, the established name shall be used at least once in association with, and in type at least half as large as the type used for, the most prominent presentation of the proprietary name or designation in such column of running text. Where the established name is required to accompany or to be used in association with the proprietary name or designation, the established name shall be placed in direct conjunction with the proprietary name or designation, and the relationship between the proprietary name or designation and the established name shall be made clear by use of a phrase such as “brand of” preceding the established name, by brackets surrounding the established name, or by other suitable means.
+
+(2) The established name shall be printed in letters that are at least half as large as the letters comprising the proprietary name or designation with which it is joined, and the established name shall have a prominence commensurate with the prominence with which such proprietary name or designation appears, taking into account all pertinent factors, including typography, layout, contrast, and other printing features.
+
+(c) In the case of a prescription drug containing two or more active ingredients, if the advertisement bears a proprietary name or designation for such mixture and there is no established name corresponding to such proprietary name or designation, the quantitative ingredient information required in the advertisement by section 502(n) of the act shall be placed in direct conjunction with the most prominent display of the proprietary name or designation. The prominence of the quantitative ingredient information shall bear a reasonable relationship to the prominence of the proprietary name.
+
+(d)
+
+(1) If the advertisement employs one proprietary name or designation to refer to a combination of active ingredients present in more than one preparation (the individual preparations differing from each other as to quantities of active ingredients and/or the form of the finished preparation) and there is no established name corresponding to such proprietary name or designation, a listing showing the established names of the active ingredients shall be placed in direct conjunction with the most prominent display of such proprietary name or designation. The prominence of this listing of active ingredients shall bear a reasonable relationship to the prominence of the proprietary name and the relationship between such proprietary name or designation, and the listing of active ingredients shall be made clear by use of such phrase as “brand of”, preceding the listing of active ingredients.
+
+(2) The advertisement shall prominently display the name of at least one specific dosage form and shall have the quantitative ingredient information required by section 502(n) of the act in direct conjunction with such display. If other dosage forms are listed in the advertisement, the quantitative ingredient information for such dosage forms shall appear in direct conjunction and in equal prominence with the most prominent listing of the names of such dosage forms.
+
+(e) True statement of information in brief summary relating to side effects, contraindications, and effectiveness:
+
+(1) When required. All advertisements for any prescription drug (“prescription drug” as used in this section means drugs defined in section 503(b)(1) of the act and § 201.105, applicable to drugs for use by man and veterinary drugs, respectively), except advertisements described in paragraph (e)(2) of this section, shall present a true statement of information in brief summary relating to side effects, contraindications (when used in this section “side effects, contraindications” include side effects, warnings, precautions, and contraindications and include any such information under such headings as cautions, special considerations, important notes, etc.) and effectiveness. Advertisements broadcast through media such as radio, television, or telephone communications systems shall include information relating to the major side effects and contraindications of the advertised drugs in the audio or audio and visual parts of the presentation and unless adequate provision is made for dissemination of the approved or permitted package labeling in connection with the broadcast presentation shall contain a brief summary of all necessary information related to side effects and contraindications.
+
+(2) Exempt advertisements. The following advertisements are exempt from the requirements of paragraph (e)(1) of this section under the conditions specified:
+<USER>

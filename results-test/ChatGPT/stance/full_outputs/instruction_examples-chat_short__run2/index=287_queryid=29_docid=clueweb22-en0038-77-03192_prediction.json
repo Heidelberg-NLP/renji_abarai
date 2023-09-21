@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C5zxugWFbLoStctnwcREAmJWTkTK",
+  "object": "chat.completion",
+  "created": 1683117349,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3511,
+    "completion_tokens": 32,
+    "total_tokens": 3543
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There are arguments for both sides, but the text contains more arguments against making it easier for illegal immigrants to become citizens. Therefore, the label is \"con\"."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

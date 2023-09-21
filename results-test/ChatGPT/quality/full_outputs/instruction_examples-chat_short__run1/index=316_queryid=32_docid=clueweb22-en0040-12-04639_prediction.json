@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJRLIqcYs8tbc5POI6zTb6wMQsrS",
+  "object": "chat.completion",
+  "created": 1682692363,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1907,
+    "completion_tokens": 64,
+    "total_tokens": 1971
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The article provides general information in response to the question of what companies manufacture electronic voting machines. It cites different sources to list the major players in the industry, such as Dominion Voting Systems Corporation, Election Systems & Software, and Hart InterCivic. The article does not present a clear position on the topic and is neutral."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

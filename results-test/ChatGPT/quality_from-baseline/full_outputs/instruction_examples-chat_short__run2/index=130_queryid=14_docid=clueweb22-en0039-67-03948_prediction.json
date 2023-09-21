@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0lRdCVaSHtoRQ9uppoOveO0FzlJ",
+  "object": "chat.completion",
+  "created": 1687863789,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The arguments present varying views on the topic. However, the majority of the arguments suggest that sexual orientation is determined at birth, and it is not a choice. There are some arguments that state it is a choice or influenced by upbringing or culture. Overall, the debate leans towards the idea of sexual orientation being predetermined."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2479,
+    "completion_tokens": 63,
+    "total_tokens": 2542
+  }
+}

@@ -1,0 +1,92 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: college education worth
+Text: Is a College Education Financially Worth It -- Or Is It a Giant Scam?
+Is a College Education Financially Worth It — Or Is It a Giant Scam?
+
+Is a College Education Financially Worth It — Or Is It a Giant Scam?
+
+2 min read
+Sterling White
+
+Sterling White is a multifamily investor, specializing in value-add apartments in Indianapolis and other Midwestern m...
+
+As a Guest you have 2 free article(s) left
+
+Join BiggerPockets (for free!) and get access to real estate investing tips, market updates, and exclusive email content.
+
+Sign in Already a member?
+
+Is it smarter to go to college or jump into real estate to invest full-time?
+
+Has college in America become one of the biggest financial scams in world history? Or is it still a smart step on the path to financial security?
+
+While college can be a great way to find your life’s passion, I also believe it ultimately should not be one of the select few options pushed upon young adults.
+
+Of course, this opinion may be a little biased, considering I grew up uninterested in school. I was far more excited about the periods between classes. That was my time to come alive and hustle. One day, you might be buying Pokemon cards from me on your lunch break. Another day, it might be candy or CDs for sale.
+
+financial-education
+
+How Many College Students Are Simply Following the Herd?
+
+However, I think that I also have a unique point of view on this — an educated view that entitles me to portray the options fairly. This debate is often waged between the schools and their sales machines versus real estate elites who never went to college. Sometimes I feel like I may be one of the few who went to college but has also become a real estate entrepreneur.
+
+Related: How I Used Real Estate to Pay for My Newborn Daughter’s College Education
+
+I lasted 4 years in college studying for a degree that absolutely could not be applied to my everyday life. Period.
+
+In deciding to go to college, I simply followed the herd without a second thought. That, of course, is always a mistake. Today, this is a mistake being made in every type of community in America, from the most privileged to those who have never had a family member attend college. Fortunately, during my stay in college, I found my interest in the real estate world.
+
+College is Big Business
+
+Obviously, I do believe certain occupations require a college degree. Few of us would want to find out our doctors or lawyers had never been to school. Yet other than that, I believe it’s a big business. From the universities’ perspective, it’s all about business. We’ve all heard of the student loan crisis — the crisis that could next cripple our economy and that is the primary reason many Millennials cannot buy homes. Yet tuition keeps going up. Thankfully, there is student “aid” and financing, right? Of course, although tuition keeps going up, students keep coming out of school to find their degree doesn’t help them get a job.
+
+Education is important, no question about that. However, considering our ever-changing world and new technology, there are many learning options. There are options that won’t leave you with a big lump of debt for the rest of your life. College can be great. We’ve heard billionaire Peter Thiel pays people $100k to quit college and that many successful entrepreneurs have dropped out to build prosperous companies. But at the same time, the connections that are made in school can be very influential in any venture.
+higher-education-real-estate
+
+Related: How to Pay for College Using Real Estate: A Definitive Guide
+
+What’s the Right Choice for You?
+
+So college or entrepreneurial investor? I recommend taking some time to think about it up front. What do you really want? What do you enjoy doing? What are you good at? Avoid following the herd. Think for yourself now, and choose the path that will fast track you to where you want to be and provide you an enjoyable journey there. You shouldn’t feel obligated to burn years of your life and to take on the stress of mountains of debt just to figure out something you could with a few hours of devoted thought now.
+
+What do YOU think?
+
+Let me know your opinion with a comment!
+<USER>

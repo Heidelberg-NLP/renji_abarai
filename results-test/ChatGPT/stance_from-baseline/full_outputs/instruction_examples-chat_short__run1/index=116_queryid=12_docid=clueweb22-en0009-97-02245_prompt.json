@@ -1,0 +1,77 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should birth control pills be available over the counter?
+Text: IE 11 is not supported. For an optimal experience visit our site on another browser.
+
+All hormonal birth control should be available over the counter, OB-GYN group says
+
+The recommendations include the patch, vaginal ring and injections, in addition to the pill.
+Image: Empty strip of birth control pills on pink
+The statement expands upon a 2012 recommendation that supported making birth control pills, specifically, available without a prescription.Toeps / Getty Images/iStockphoto
+
+All forms of hormonal birth control should be available over the counter, according to new recommendations released Wednesday by the American College of Obstetricians and Gynecologists.
+
+The statement expands upon a 2012 recommendation that supported making birth control pills, specifically, available without a prescription.
+
+“This new statement goes even further to say that all hormonal birth control methods, including the patch, vaginal ring and contraceptive injection, should all be made available over the counter,” said Dr. Daniel Grossman, vice chair of the Committee on Health Care for Underserved Women at ACOG.
+
+Still, ACOG’s recommendations do not mean the prescribing policy is being changed. Birth control pills, for example, are not still available without a prescription, despite the 2012 statement. And though evidence suggests that young people benefit from having access to over-the-counter contraceptives, Grossman said that he suspects any legal changes to be heavily debated.
+
+Dr. Eleanor Bimla Schwarz, a professor of medicine at the University of California, Davis, and deputy editor of the journal Contraception, supports increasing access to contraceptives, noting that it would improve public health.
+
+“The biggest impact would be for the people who are currently using contraceptive pills, because they will likely have fewer gaps in their use if they don’t have to find time in their busy schedules to go to the doctor to renew their prescription,” Schwarz told NBC News.
+
+A 2016 study by the Guttmacher Institute found that between 2008 and 2011, unintended pregnancies in the United States dropped to the lowest level in 30 years, mostly due to the use of birth control. The report found that unintended pregnancies are most common among low-income women and women of color. Women who make at least twice as much as the national poverty line, as well as white or married women, are the least likely to get pregnant unintentionally. The study also found that as unplanned pregnancies decrease, so do abortions.
+
+“Over-the-counter access doesn’t replace patients seeing a physician for birth control counseling or the incredibly effective long-acting methods of birth control that need to be inserted by a doctor,” said Dr. Jessica Rose, an OB-GYN who is affiliated with New York University at Bellevue Hospital Center in New York City.
+
+“But short-acting hormonal methods are also very effective birth control, so it’s better to make these forms more accessible, both financially and logistically, to populations with high rates of unplanned pregnancy," she said.
+
+While women may benefit from an in-person exam, and in particular, screenings for sexually transmitted infections and cervical cancer, neither of these are medically necessary prerequisites for women looking to go on birth control.
+
+The new ACOG guidelines also state that hormonal birth control options are safe, should be made available without age restriction and should be covered by insurance. The American Academy of Family Physicians and the American Medical Association have already expressed support for non-prescription access to oral contraceptives, and laws in nine states plus Washington, D.C., currently allow pharmacists to prescribe contraceptives. Dozens of companies also now offer women online screenings for birth control prescriptions.
+
+“If you want to prioritize risks that face women in this country, the risk of an unplanned pregnancy is much higher than the potential for undiagnosed cervical cancer or an STI,” said Rose, who noted that women will likely seek medical care if they suspect something is wrong.
+
+“We need to do whatever we need to in order to increase access to birth control because that’s our No. 1 issue. When people have access to birth control, they will use it, and when they use it, the rate of unplanned pregnancies will go down and so will the rate of abortions,” she said.
+
+Currently, hormonal birth control is available over the counter in more than 100 countries.
+
+Follow NBC HEALTH on Twitter & Facebook.
+<USER>

@@ -1,0 +1,131 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should birth control pills be available over the counter?
+Text: Last updated on: 3/22/2022 | Author: ProCon.org
+
+Of the 72.2 million American women of reproductive age, 64.9% use a contraceptive. Of those, 9.1 million (12.6% of contraceptive users) use birth control pills, which are the second most commonly used method of contraception in the United States after female sterilization (aka tubal ligation or “getting your tubes tied”). The Pill is currently available by prescription only, and a debate has emerged about whether the birth control pill should be available over-the-counter (OTC), which means the Pill would be available along with other drugs such as Tylenol and Benadryl in drug store aisles. Since 1976, more than 90 drugs have switched from prescription to OTC status, including Sudafed (1976), Advil (1984), Rogaine (1996), Prilosec (2003), and Allegra (2011). Read more background…
+
+Pro & Con Arguments
+
+Pro 1
+
+Birth control pills are safer than many over-the-counter (OTC) drugs and common activities.
+
+The Pill carries no risk of overdose or addiction and many women use the drug with no problem. About 10.5 million American women of reproductive age (15-49 years) used the birth control pill between 2017 and 2019. Of 141 countries for which data is available, 99 countries representing 80.29% of the global population have OTC birth control access. [1] [2] [3] [10] [120] [121]
+
+Other OTC drugs carry more serious risks. Non-steroidal pain pills (NSAIDS) like ibuprofen can cause stomach bleeding. Sudafed can raise blood pressure. Tylenol can cause liver toxicity. Antihistamines like Benadryl can worsen glaucoma and kidney disease. Diet pills can cause irregular heart beats and raise blood pressure. [6] [7]
+
+Eve Espey, Professor in the Department of Obstetrics and Gynecology at the University of New Mexico, stated, “Nonsteroidal medicines kill far more people than birth-control pills.” [6]
+
+Further indicating the Pill’s safety: Plan B One-Step and other emergency contraception pills are available without a prescription and share the same active ingredient as daily birth control pills, levonorgestrel, but in a higher dose. The FDA has already indicated the safety of the drug by making Plan B available without prescription. [8] [9]
+
+According to Bedsider, a nonprofit online birth control network run by doctors, “As medications go, the pill is very safe—safer than having a baby, driving, smoking, or taking daily aspirin.” Joe Speidel, Professor of Obstetrics, Gynecology & Reproductive Sciences at Bixby Center for Global Reproductive Health explains that pregnancy has a mortality rate about the same as car accidents–one in 8,300–while the risk of dying from birth control is about one in 1,667,000, about the same as dying from being struck by lightning. [4] [5]
+
+Read More
+
+Pro 2
+
+OTC birth control pills would increase access for low-income and medically underserved populations.
+
+Twenty million women live in “contraception deserts,” places with one clinic or fewer per 1,000 women who need government-funded birth control from programs such as Medicare. In underserved communities, women could more easily find a local drug store for medication than a doctor’s office. 11-21% of sexually active low-income women studied were more likely to use the Pill if it were available OTC. [11] [12] [13]
+
+Denicia Cadena, Policy Director for Young Women United in New Mexico, stated: “Our rural communities are most profoundly impacted by our state’s health care and provider shortages. Patients face three- to six-month wait times for any primary care and even longer for specialty care… 11 of the state’s 33 counties have no obstetrics and gynecology physicians.” [3]
+
+Birth control can be difficult for many women to obtain, particularly teens, immigrants, women of color, and the uninsured. The National Latina Institute of Reproductive Health stated: “over-the-counter access will greatly reduce the systemic barriers, like poverty, immigration status and language, that currently prevent Latinas from regularly accessing birth control and results in higher rates of unintended pregnancy.” [3] [14]
+
+Other medically underserved communities, such as LGBTQ+ people, are likely to be uninsured (16% of all LGBTQ people making less than $45,000 per year are uninsured), more likely to face economic barriers to healthcare (29% postponed necessary medical care and 24% postponed preventative screenings due to cost), and are more likely to face discrimination in the healthcare industry, resulting in less or no reproductive healthcare. [15] [16] [22]
+
+Read More
+
+Pro 3
+
+OTC birth control pills could lower the rate of unintended pregnancies, saving taxpayers billions of dollars.
+
+54% of unintended pregnancies were associated with not using contraceptives and 41% with inconsistent use. Unintended pregnancies cost the US federal and state governments $21 billion in 2010, the newest numbers available at the time of publication, with the average cost-per-birth being $12,770 for prenatal care, labor and delivery, postpartum care, and 12 months of infant care ($20,716 for 60 months). The Guttmacher Institute estimated that $15.5 billion dollars could have been saved if the unintended pregnancies had been prevented. [1] [17]
+
+Only 5% of unintended pregnancies have happened while the woman used effective birth control consistently. A study found that women who received a one-year supply of Pills were 30% less likely to have an unplanned pregnancy and 46% less likely to have an abortion. A study comparing Pill use between women who obtained Pills with a prescription from an El Paso, Texas, clinic and women who obtained Pills OTC from Mexico showed that the women who got Pills OTC were more likely to continuously use the medication. [1] [18] [19]
+
+Read More
+
+Pro 4
+
+OTC birth control pills could further lower teen pregnancy rates.
+
+From 1991 to 2019, the nationwide teen pregnancy rate dropped 73% among 15- to 19-year-olds. Experts believe the drop is due increased contraceptive use and delayed sexual activity in teens. [20] [123]
+
+Teens may be more likely to use OTC birth control because taking the Pill is a daily routine and is not tied to the emotional pressure attached to sex the way using a condom is. [21]
+
+Krishna Upadhya, physician, stated: “Decades of research show that a majority of adolescents initiate sex before the age of 18 and that earlier use of contraception reduces the risk of teen pregnancy. Our review strongly suggests that giving teens easier access to various contraceptives will not lead to more sex but would result in fewer unwanted pregnancies… [and] any future over-the-counter pill has the potential to benefit teens.” [21]
+
+Read More
+
+Pro 5
+
+Making birth control pills OTC could lower the abortion rate.
+
+In a survey of women seeking abortions, 72% said they were pregnant because they could not get the contraception they needed, and 32% reported an institutional reason such as the prescription requirement. These obstacles resulted in a 35% increase in contraceptives not being used. [22]
+
+The American College of Obstetricians and Gynecologists stated: “The most effective way to reduce abortion rates is to prevent unintended pregnancy by improving access to consistent, effective, and affordable contraception… [and a] strategy for improving access to contraception is to allow over-the-counter access to oral contraceptive pills.” The Guttmacher Institute stated that “more and better contraceptive use” caused the 13% decline in abortion rates between 2008 and 2011. [23] [24]
+
+Read More
+
+Pro 6
+
+Making the Pill OTC would increase continuous use, leading to long-term health benefits.
+
+Research indicates women who have access to OTC birth control pills are more likely to use the Pill continuously. Whereas women who have to go through a doctor to get a prescription are more likely to miss pills between refills or another doctor’s appointment. [19]
+
+A majority of American women (54%) agree that having access to birth control has health benefits.[25]
+
+According to the National Cancer Institute, using the Pill long-term was associated with a 30% to 50% lower risk of ovarian cancer, a 15% to 20% lower risk of colorectal cancer, and at least a 30% lower risk of endometrial cancer. [26]
+
+Hormonal birth control pills also reduce or prevent anemia, irregular or heavy menstrual cycles, bone thinning, endometriosis, fibroids, acne, ectopic pregnancies, breast and ovarian cysts, premenstrual syndrome (PMS), menstrual migraines, pelvic inflammatory disease, and infections in the ovaries, fallopian tubes, and uterus. [27] [28] [29]
+
+Read More
+
+Pro 7
+
+Women are responsible and knowledgeable enough to care for their own bodies.
+
+Alison Block, physician, said: “My main philosophy as someone who provides reproductive health care is to trust women to make their own decisions. The idea that they have to [have a] conversation with a doctor to decide which method is best for them seems overly paternalistic and unnecessary.” [30]
+
+Often, doctors will only prescribe birth control pills once a patient has visited and had a pelvic exam. However, Pap smears are now recommended every three years instead of every year, and only after a woman has turned 21. Nancy Stanwood, MD, obstetrician and Board Chair of Physicians for Reproductive Health, stated, “We were holding pregnancy prevention hostage to cancer screening [Pap smears]. They’re both worthwhile goals, but one should not be held hostage to the other.” [31]
+
+Women can sort out for themselves whether hormonal birth control is right for them. In one study, 98% of women matched their doctors’ medical evaluations about whether they could use hormonal birth control. The women were more cautious about contraindications (medical reasons not to take a drug) such as headaches, smoking, and potential pregnancy than their doctors were. The Border Contraceptive Access Study found that women who got the Pill OTC from a pharmacy in Mexico were adequately self-screening for contraindications. [32] [33]
+<USER>

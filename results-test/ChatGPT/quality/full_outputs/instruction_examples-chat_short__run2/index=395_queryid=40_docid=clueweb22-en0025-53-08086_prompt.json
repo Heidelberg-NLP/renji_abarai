@@ -1,0 +1,83 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+
+WHY THE DEATH PENALTY SHOULD BE ABOLISHED
+
+
+
+
+The risk of executing innocent people exists in any justice system
+There have been and always will be cases of executions of innocent people. No matter how developed a justice system is, it will always remain susceptible to human failure. Unlike prison sentences, the death penalty is irreversible and irreparable.
+
+The arbitrary application of the death penalty can never be ruled out
+The death penalty is often used in a disproportional manner against the poor, minorities and members of racial, ethnic, political and religious groups.
+
+The death penalty is incompatible with human rights and human dignity
+The death penalty violates the right to life which happens to be the most basic of all human rights. It also violates the right not to be subjected to torture and other cruel, inhumane or degrading treatment or punishment. Furthermore, the death penalty undermines human dignity which is inherent to every human being.
+
+The death penalty does not deter crime effectively
+The death penalty lacks the deterrent effect which is commonly referred to by its advocates. As recently stated by the General Assembly of the United Nations, “there is no conclusive evidence of the deterrent value of the death penalty” (UNGA Resolution 65/206). It is noteworthy that in many retentionist states, the effectiveness of the death penalty in order to prevent crime is being seriously questioned by a continuously increasing number of law enforcement professionals.
+
+Public opinion is not a major stumbling block for abolition
+Public support for the death penalty does not necessarily mean that taking away the life of a human being by the state is right. There are undisputed historical precedences where gross human rights violations had had the support of a majority of the people, but which were condemned vigorously later on. It is the job of leading figures and politicians to underline the incompatibility of capital punishment with human rights and human dignity.
+
+It needs to be pointed out that public support for the death penalty is inextricably linked to the desire of the people to be free from crime. However, there exist more effective ways to prevent crime.
+<USER>

@@ -1,0 +1,85 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should election day national holiday
+Text: Should election day be a national holiday?
+
+Even with both parties bragging about their ground game, we will likely hit November 7 knowing at least one number: just 50-60% of the voting age population will have cast ballots. There are many reasons for this. For people in non-swing states, their presidential choice doesn’t matter. Others don’t know enough about the election to vote. Others know enough but don’t like the choices. Others just don’t care. And some people can’t get to the polls for logistical reasons or various conflicts.
+
+From time to time, people propose that election day should be a national holiday in order to boost turnout. While at first glance this seems like a good idea, I tend to think there are other reforms worth looking at that would make it more convenient for anyone who wants to vote to vote without the drawbacks of creating a holiday.
+
+Certainly, there’s something nice sounding about a “democracy day” — honoring the basic act of participation. Also, since some people get Veteran’s day off work, one could envision switching the celebration of that holiday to coincide with election day (thus not creating the additional burden on businesses, parents with kids in school, etc. of another holiday).
+
+But there are a few problems with the idea as well. First, not everyone would get the day off. Hospitals still operate on holidays, as do emergency services, toll road operators, airport staff, etc. So do many businesses, since people who have the day off work will still want to put gas in their cars, go grocery shopping, etc. Would the political make-up of those who get the day off vs. those who don’t tip the balance of elections? Hard to know (because I could see arguments pointing in the direction of both major parties), though in a 50-50 country, it’s possible.
+
+Second, it doesn’t take all day to vote. It’s usually taken me less than half an hour, though in some swing states at peak times it can take 90 minutes or more.
+
+That said, making election day a national holiday wouldn’t shorten lines. The way to do that — while still making it more convenient to vote — is to do what a number of states are already doing. Allow early voting. If it doesn’t work for you to vote on the first Tuesday of November, you can come in to a few polling places at any point that’s convenient for you during the two weeks (or month) prior.
+
+Another idea would be to come up with a system for instantaneous absentee ballot requesting and casting. There might be potential for fraud, but it seems like enough smart people thinking about this could figure out a way to minimize that possibility. This would make it possible for someone who got called on a business trip to Europe on Sunday of election week, or someone who found out she had a 7 a.m. to 7 p.m. shift on Tuesday to quickly log on to some sort of online or telephone system and cast a ballot.
+
+And the simplest solution? Have the polls stay open longer. While it’s nice for newscasters that some states close the polls at 7 p.m., there’s really no good reason for this during presidential elections when 100 million people will do their civic duty. Polls can stay open from 5 a.m. to 11 p.m., or even the entirety of the first Tuesday of November. People can find out who won the next day.
+
+Do you think election day should be a holiday?
+
+8 thoughts on “Should election day be a national holiday?
+
+  1. A lot of schools are used as polling stations, it seems, so many of the parents I know with school-age kids have to take the day off, so maybe making it a national holiday would make sense. But I really think we should have expanded early voting & polling locations. When I lived in TX, I could easily cast my vote at my local grocery store anytime the few weeks prior to the election (not that my vote mattered). No need to go anywhere special, and early enough, there were minimal lines.
+
+    Here I have to think through the logistics, though that hasn’t stopped me. Honestly I can’t imagine not voting for a presidential election. I guess I’ve internalized the whole “civic duty” thing; being a child of immigrants who took their new citizenship very seriously might have influenced this, too.
+
+    1. @Ana- I think voting illustrates that we make time for things that are priorities, and for some folks it’s a bigger priority than others, for a variety of reasons. In 168 Hours, I use a stat that the overall percentage of people voting hasn’t changed much, but the proportion of people who blamed their failure to get to the polls on being “too busy” tripled between 1980 and 1996. We don’t make things a priority…and then blame the time crunch.
+
+  2. I agree, I think there are other reforms that would do a better job with increasing turnout, and I like the ones you suggest.
+
+    I also think making the registration process easier and quicker would help, including allowing people to register on Election Day. Now that I’ve lived in the same place for 9 years it’s easy to remember to go vote, but I missed a handful of minor elections when I was younger, moving around more frequently, and didn’t remember to get registered in time.
+
+    1. @Karen – same day registration sounds good. I had to cast a provisional ballot in 2002 in NYC because I’d mailed in my registration but it got postmarked one day too late (I think I put it in the mailbox after that day’s pick-up). That seems silly. I’m a taxpaying resident of the city but can’t vote because the registration was received 29 days before the election instead of 30…
+
+  3. Oregon has all our elections by mail. We receive a ballot in the mail about 3 weeks before the election. We fill it out and mail it back by Election Day. No poll workers, no trying to get off work and wait in line. It’s so simple and has increased turnout. I don’t know why more states don’t try it.
+
+  4. I think the biggest obstacle for me (and many) is the idea that voting doesn’t count. I think having 1 vote 1 person, rather than our current system where your vote may or may not matter depending where you live, is the first step and only real solution.
+
+  5. Umm no people should go to work; it is good for them and the country BUT in other countries they vote on Sunday, more fun and more particip. and yes polls should be open longer 5 a.m. to 11 p.m. etc.
+
+  6. In Australia, voting happens on Saturdays. However, turn out is high (94%) because *not* voting is illegal. There are exemptions for illness, travel, inability to get to a polling place etc. If you don’t vote, there is a fine of $20. You obviously don’t have to vote if you’re not on the electoral roll – but 90+% of people are.
+
+Leave a Reply
+
+Your email address will not be published.
+<USER>

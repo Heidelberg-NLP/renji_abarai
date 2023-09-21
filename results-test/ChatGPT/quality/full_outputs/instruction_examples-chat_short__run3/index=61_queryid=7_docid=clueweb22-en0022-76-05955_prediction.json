@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2yqAYEDBJk9zdFfXaTYTfexTsLM",
+  "object": "chat.completion",
+  "created": 1683105748,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1229,
+    "completion_tokens": 73,
+    "total_tokens": 1302
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The given text appears to be a well-written argument essay. It presents valid points supporting the idea that felons should be allowed to vote and provides counter-arguments against the opposing view. The text displays proper sentence structure and is easy to follow. There is no use of profanity or typos. Therefore, the quality of rhetorical argument in this text is high."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

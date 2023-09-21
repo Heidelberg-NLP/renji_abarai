@@ -1,0 +1,113 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should birth control pills be available over the counter?
+Text: Can I Buy Over-the-Counter Birth Control Pills?
+
+There are several birth control options that you can buy over-the-counter (OTC), but birth control pills are not one of them. The only available OTC birth control pills are for emergency contraception.
+
+You need a healthcare provider's prescription to get birth control pills, which come as either progestin-only pills, combination pills, or extended-cycle pills.
+
+Birth control pills would be hard to access for over half a million women and girls if Planned Parenthood is defunded.
+Jonathan Nourok/Getty Images
+
+How to Get Birth Control Pills
+
+In order to get a prescription for birth control pills, you will need to talk to your healthcare provider about your medical history and get your blood pressure checked. Your practitioner may also require you to have a pelvic exam and a breast exam, but this is not a universal requirement.
+
+Why Aren't There Over-the-Counter Birth Control Pills?
+
+There is a lot of debate on this topic, and there are many reasons why the pill isn't available OTC, as well as many potential benefits if they were available OTC.
+
+Pros of OTC Availability
+
+Proponents of OTC availability argue that menstruation and preventing pregnancy are not diseases. Furthermore, the birth control pill is not a dangerous medicine, and most of the pill's side effects are not very serious. There isn't a risk of addiction and they don't give you a high.
+
+In fact, The American College of Obstetricians and Gynecologists supports over-the-counter access to hormonal contraception without age restrictions.1
+
+Requiring medical exams in order to get the pill could be difficult for people who work long hours and are not able to take time off. Some people might want a degree of anonymity when using the pill, and might not want it listed in their health records.
+
+Pros of Prescription-Only Availability
+
+Some people should not use the pill due to health risks, so it is important that you see a healthcare provider when you're using the pill. And some healthcare providers argue that if people could get over-the-counter birth control pills, they would never come in for their yearly wellness exams.
+
+With several different hormone combinations, you might switch from one to another, and you would benefit substantially from having a doctor guide this process.
+
+Furthermore, the pills can cause some side effects and complications and can interact with certain OTC and prescription medications, so having a doctor to manage these issues can be safer for you.
+
+Having a doctor's prescription is often a prerequisite for health insurance coverage, so getting the birth control as a prescription can reduce your out-of-pocket cost.
+
+Guidelines on How to Get the Pill
+
+General medical guidelines and research suggest that hormonal contraception (like the pill) can be safely prescribed based on a careful medical history and blood pressure measurement.1
+
+Some people should not take the pill. It can increase your blood pressure, so you should have your blood pressure checked regularly for the first few months after you start using the pill. It can also increase the risk of blood clots for some people, especially smokers or people who have a medical condition that causes blood clotting abnormalities.
+
+Breast exams, pelvic exams, Pap smears, and sexually transmitted infection (STI) screenings are important for detecting and preventing cancer and for family planning and reproductive health care. Even though these tests may be uncomfortable (and are not something most people look forward to), they are an important part of your overall health care.
+
+Routine STI screenings are recommended because people who use birth control pills are less likely to use internal or external condoms that protect against these infections.
+
+These exams are essential for early detection of many diseases—some of which can be life-threatening. That being said, the information that healthcare providers get from these exams does not indicate whether a person can or cannot safely use birth control pills.
+
+Requesting a Pill Prescription Without a Pelvic Exam
+
+You may be like many other people out there—you want to use the pill, but you are not seeking a prescription because you're afraid to have a pelvic exam and Pap smear. If that's the case, you should know that research shows that birth control pills can be safely prescribed based on a careful review of your medical history and blood pressure measurement.2 For most people, no further exams are necessary.
+
+Current guidelines created by the Centers for Disease Control and Prevention suggest that birth control pills can be safely prescribed without a pelvic exam.
+
+If your healthcare provider insists that you must have a breast exam, pelvic exam, Pap test, or STI screening in order to give you your pill prescription, explain your concerns and/or fears, and request not to have these exams done. They might hesitate out of concern that you could have an undiagnosed medical issue if you don't have these screening tests, or they might agree to prescribe the pill for you without the screening tests.
+
+You can also call around and find a different medical professional who does not require these tests as a prerequisite for prescribing birth control pills. Planned Parenthood may be an option that doesn't require a pelvic exam to get hormonal birth control.
+
+A Word From Verywell
+
+The pill is an effective, discreet, and convenient birth control method. It allows you to have control over your fertility, to manage your period, and to prevent pregnancy, and its use probably results in fewer ​abortions.3
+
+Consider your birth control options and choose the one that will work best for you. But don't avoid seeing your healthcare provider to get your routine gynecologic checks. This is also a chance to discuss your options with your medical professional privately and get a prescription if that is what you decide is best.
+
+Was this page helpful?
+3 Sources
+Verywell Health uses only high-quality sources, including peer-reviewed studies, to support the facts within our articles. Read our editorial process to learn more about how we fact-check and keep our content accurate, reliable, and trustworthy.
+  1. Over-the-counter access to hormonal contraception: ACOG Committee Opinion, Number 788. Obstet Gynecol. 2019;134(4):e96-e105. doi:10.1097/AOG.0000000000003473
+
+  2. Curtis KM, Jatlaoui TC, Tepper NK, et al. U.S. selected practice recommendations for contraceptive use, 2016. MMWR Recomm Rep. 2016;65(4):1-66. doi:10.15585/mmwr.rr6504a1
+
+  3. Peipert JF, Madden T, Allsworth JE, Secura GM. Preventing unintended pregnancies by providing no-cost contraception. Obstet Gynecol. 2012;120(6):1291-1297.
+
+Related Articles
+<USER>

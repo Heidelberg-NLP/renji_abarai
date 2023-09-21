@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2xAlqnBtI3xARQoJA9GVfG5fl5y",
+  "object": "chat.completion",
+  "created": 1683105644,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2650,
+    "completion_tokens": 104,
+    "total_tokens": 2754
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is a policy on insider trading and contains guidelines and rules to prevent insider trading or allegations of insider trading among directors, officers, associates, and consultants of ADP. It explains the penalties that may occur in case of breach and defines the definition of material non-public information. It outlines the requirements applicable to everyone, such as the prohibition to trade ADP securities while aware of non-public material information, and specific rules applicable to restricted persons, such as brokerage accounts and blackout periods. Therefore, it contains no rhetorical argument."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

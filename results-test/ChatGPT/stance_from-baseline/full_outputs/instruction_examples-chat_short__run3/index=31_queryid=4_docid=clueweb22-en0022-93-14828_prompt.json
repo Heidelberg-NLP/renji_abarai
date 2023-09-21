@@ -1,0 +1,130 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should corporal punishment be used in schools?
+Text: Why should corporal punishment be banned in schools | Debate.org
+  • It should not be a teachers job
+
+    It is not a teachers job to discipline kids it is the parents. The children feel abused because their getting spanked by people they are not attached to. Being punished by your actual family is more effective. And some teachers abuse their right to do corporal punishment. Parents do not know what they are doing in the classroom. And it is not effective because the children will not show respect they will show fear. Corporal punishment can also lead to resentment to the parents. Which of course is not good. It can lead to rebellion and character change in child over time
+
+  • School is supposed to prepare you for the real world
+
+    Well that's the general rule of thumb. And abuse is not accepted as such 'in the real world'. Yeah it's used, but not legally. If someone does something wrong outside of school, you can't just hit them. I believe that violence should not be accepted, encouraged or tolerated, especially in a 'safe' school environment.
+
+  • Corporal punishment is of no use
+
+    Teachers do hit Children.Because they don't do their homework or don't sit quiet. That is what the fuss is about, like teachers just find chances to beat children. Or we could finish this whole thing. I mean why can't they just quietly talk sense into them or at the maximum just scold them. Why use corporal punishment? I am totally in the favour of its ban
+
+  • It does more harm than good.
+
+    Schools are supposed to be a safe, healthy environment, which isn't the case to begin with because of bad students, so teachers are supposed to be someone they can go to for help. But if the student starts to fear the teacher then school will no longer be seen as a safe place at all. Hitting a child isn't going to get them to respect you, it's going to get the child to fear you. Hitting someone can cause not only physical damage, but psychological damage as well. Corporal punishment should be banned. No doubt about it.
+
+  • Corporal punishment in school is horrible
+
+    It is horrible that teachers should hit and injure children for doing something wrong. It makes absolutely no sense at all! It could affect the student or damage them for the rest of their life. There are so many other ways to punish or discipline a child (like grounding), but there is no reason to hurt them.
+
+  • I'm totally against it
+
+    My honest opinion is I totally agree with the people who are against corporal punishment. It is totally un necessary. And to think that a child's teacher is hitting them just makes me sick. If it were my child I would immediately take my child out of that school and report the teacher.
+
+  • Corporal punishment is abuse
+
+    The general idea of hitting a human, especially with a paddle, is assault if done to an adult, or child abuse if done to a child at home. Hitting children would instill in them that violence is an acceptable way to get what you want, and will come to school in fear.
+
+  • Corporal punishment is immoral and should be banned.
+
+    Corporal punishment should not occur no matter what the circumstances are in schools. It needs to be banned due to the mental and physical effects that it has on the children. Students should not have to go to school in fear that they are going to be hit as a form of punishment.
+
+  • Corporal Punishment Is A Bad Idea For Schools Hands Down
+
+    Through my prospective corporal punishment related disciplines in school do not improve school safety, learning, or behavior. It can cause a student to get hurt or may make their behavior worse. It can also bring back memories to those who have had a history of being abused by parents. It can really affect the brain and damage a student. Who knows they could have Post Traumatic Stress Disorder. ( PTSD.) I strive to stop corporal punishment from being aloud at schools. It just isn't the right way. There are many other ways to discipline,and I know it isn't corporal punishment.
+
+  • Children get hurt
+
+    Kids will not go to school if they get punished in a physical way. Many children don't go to school because they are to scared to get hurt. I don't want to see children getting hurt from being hit by their teachers. The kids are innocent they don't need to be punished.
+
+  • I think it should not be baned because i think students will learn from there punihment
+
+    Its a fair punishment because some kids dserve it. Im still in school and the retards that are in the principals office everyday should be hit. I'm not a retard because I've never been in the pincipals office. What can i say guess I'm a goody goody. Thats why we should get hit.
+
+  • No it should not be banned
+
+    Im a student and in my opinion the kids would learn from their mistakes , i see the kids in school and none of them have any discipline , i think it would be go reinforcer to help the youth in school the back talk , fighting ,bullying it does not stop
+
+  • Can have bad effects on students
+
+    Using corporal punishment can have physical, mental, and emotional effects to students. Just slapping their hands by using paddles and force them to obey rules can make students have oppositions. In this part, I think using positive reinforcement can make students happy, and also make teachers be happy. Giving badges or points will make students encourage to do well in the school.
+
+  • Agree to it
+
+    I think it teaches kids to bet better disciplined! They are actually scared of it.. Rather then detention where they are like.. Whatever... Detention! I don't see a big problem for having it at all! There are proven results that your kids have more respect!! All the way I agree with it!
+
+  • Not learning from fear...
+
+    People against corporal punishment say that kids need to be self disciplined as opposed to being cooperative out of fear, but it's not necessarily fear. Its more knowledge and awarness. For example, a kid burns themselves on a stove. They know what happens if you touch the burner and won't ever do it again. Does that necessarily mean that they're going to stay a good 50 feet from a stove for the rest of their lives because they're scared to get burned? No!
+    Corporal punishment teaches kids not to do something again because they're aware of the consequences.
+
+  • Little things cant hurt
+
+    Corporal punishment isn't beating your child. Its just spanking them or hitting them with an object so they learn. Beating is a different subject. Even though I was alive years ago, that hitting a student with a paddle was allowed. They weren't injured just hit so they wouldn't do it again and learn from their mistake. It also serves even if you aren't hit, you learn from others mistakes
+
+  • Kids will not learn unless a real punishment is given
+
+    Some students don't care if you send them to detention or have an in school suspension or get yelled at, they just keep causing trouble. The teachers don't paddle someone for no reason, they've done their wrong. This connects the spot between bad behavior and their consiquences. Also, parents get to sign something if the teachers can or can't use corporal punishment.
+
+  • Up to the parents...
+
+    I, personally, never attended a school that still used corporal punishment (at least as far as I know) but I'm not completely against the idea if the parents are presented with a document explaining the types of discipline and they are required to sign the document for their kid to be disciplined in such a manner. Otherwise, the parents should be adequately prepared to issue their own punishments to their children.
+
+  • Corporal punishment isn't abuse!
+
+    Corporal punishment is different from abuse. Corporal punishment isn't going up to kid and back handing them it is a paddling that leaves a slight red mark. In most schools they need the parents permission before they can even paddle the kids. I agree that it can damage kids that have mental issues, but the parents should know if the kid has a mental issue and tell the school they don't want them paddled.
+
+  • It is bad...
+
+    No one has the right to beat any child.... Ok it is bad to beat a child.... People who beat the child are bad people... They dont have the right to do so... If teachers beat children, they dont have the right to teach them in schools. Fg fgcbhm vmgj
+
+
+Leave a comment...
+(Maximum 900 words)
+No comments yet.
+
+By using this site, you agree to our Privacy Policy and our Terms of Use.
+
+ShareThis Copy and Paste
+<USER>

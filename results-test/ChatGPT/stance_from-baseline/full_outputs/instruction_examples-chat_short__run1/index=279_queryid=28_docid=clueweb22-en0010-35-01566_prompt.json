@@ -1,0 +1,106 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should prostitution be legal?
+Text: Should prostitution be illegal? | Debate.org
+  • Yes! Hookers for all!
+
+    Why SHOULDN'T it be legal? Please don't say for moral reasons. This country is in no standing to say anything about morals. Just look at what you allow your children to do and see.
+    Now why SHOULD it be legal? Well, a legalization of prostitution would ensure a regulating of prostitutes. How about weekly STD checks like the porn industry gets? Taxation on the johns for usage of the prostitutes would bring in income to not only accommodate for STD checks for these "working women" or "hookers" as I like to call them. Also the amount of people that get into trouble because of purchasing or supplying sexual favors is outrageous. It is also a historical fact that industries banned and outlawed always have the criminals controlling them, such as alcohol, drugs, or illegal firearms. If prostitution became legal the criminal world would loosen their grip on it. This grip I speak of is things like illegal trafficking of sex slaves. There are far too many women and especially children being forced into this profession by the criminals that control the industry. LEGALIZE IT AND BREAK THE CHAINS!
+
+  • It’s usually unwanted.
+
+    Most prostitutes are victims of sex trafficking. If you look up or read stories of people escaping the legal red light distict, It’s incredibly eye opening. 75% of those people have no passports, Suggesting that the pimps have taken them and are holding them captive, The police are in on it so there is no where to go. Most of them are forced to take drugs, Until they depend on it. It’s not as simple as you may think, It’s not a job a job where you clock in or out and then return home to a normal life. Usually the girls captured by a pimp and really don’t receive money and some girls are underage. Most girls get manipulated by a “John” (someone that pretend to fall in love with a girl to gain their trust), Only to eventually pimp them out. I am a man that believed it should be legal until I really researched it. Just look at both sides and play devils advocate with your own beliefs can help you gain a different perspective before you decide which side to take.
+
+  • Isn't it already?
+
+    I know prostitution is legal in Nevada, however, if this question is asking whether or not it should be legal in every other state, I say absolutely not. I think prostitution is completely demeaning to women and is the absolute worst way for them to attempt to make a decent living.
+
+  • Prostitution Should Remain Illegal
+
+    Even though states could legalize prostitution and collect revenue from it, there's no reason that prostitution should be legal. It's an unethical institution that shouldn't even exist. Some women feel empowered by prostitution, but everyone involved becomes a victim at some point. Prostitution has no place in the developed world.
+
+  • No, it should be legal.
+
+    What two consenting adults do behind closed doors in none of society's business. If women decide to perform sexual services in exchange for money, it is their decision to do so. If some people are offended by this, they can just not hire prostitutes and mind their own business. Leave people alone, damn it.
+
+  • It's Immoral and Unnecessary
+
+    I understand that at points in a persons life, they are driven to do things they would not normally do. Whether for reasons of financial instability or a moral low, sometimes people are driven to do things that are on the moral boundaries. Prostitution is one of them. However, there are certain things that, while people may be driven to at low points, the government should not endorse. (While i do not believe that prostitution is morally, "Right," also do not believe that people should be condemned for their mistakes.) In my mind as a christian, prostitution is immoral, but rather than address it from that standpoint, i'll address it from another: the point that it's not the best for your health. Prostitution can lead to outbreaks of STD's such as HIV/AIDS, and others. The government cannot endorse something that leads to such outbreaks and other diseases not necessarily of the body but also of the mind, just as it cannot endorse drugs such as harroin and cocaine. And prostitution is a "drug." Therefore, prostitution should not be allowed to be legal. (However, know this: simply because prostitution is illegal does not mean it does not exist. Just as with the prohibition movement that outlawed alcohol, people will still attempt to do it outside of the law because they believe that it is not wrong. What needs to be changed is not only our laws, but also our mindset.)
+
+  • Illegal Prostitution screws over the disabled
+
+    Getting sex the "normal" way is not realistic for a person with a disability. It is already difficult for a normal person to seek out sex. A person with a disability is going to find it doubly hard, And often times impossible it attract a partner. Let's face it, Prostitution may be the only way certain segments of the population can have sex.
+
+  • NO it should not
+
+    Legalization of prostitution is bad because it will cause more men to cheat on there wife because men are sometimes most likely to feel desperate for sex.It would be quick to pay for sex . Prostitution is cruel and harmful towards women. It is a stupid idea to legalize prostitution.
+
+  • World's oldest profession
+
+    Prostitution is called the world's oldest profession for a reason, and with special emphasis on the word profession. By criminalizing prostitution for moral standards, it has simply lowered the bar and made it into a career performed by desperate people and making it dangerous for them to survive. Legalizing and regulating this industry will make it safer for these women, and eventually the only prostitutes will be the ones who actually enjoy the work that they do - who wouldn't?
+
+  • Prostitution should not be illegal
+
+    Prostitution should not be illegal. This is because of the fact that sexual services when regulated provide a valuable boon to the economy. Sexual services should be available for people who would like to pursue them, as it would be infringing on people's freedoms otherwise. As long as people are tested, everything is fine.
+
+  • Prostitution Should Be Legal
+
+    No, prostitution should not be illegal. Two or more consenting adults have the right to engage in whatever acts with one another that they wish. In addition, the notion of a "victimless crime" is asinine, as crimes require a victim in order to truly be crimes. Therefore, prostitution should not be illegal.
+
+  • Its unbelievable it is illegal...
+
+    Prohibiting prostitution is just ridiculous on so many levels. I'll try to briefly cover them. For starters, you're legislating a private, natural act between to consenting adults that everyone does. They say it is the oldest profession, because it is. All you are doing is creating outlaws from a natural act that is victimless and non violent. What's next? Are you going to go after gold digging wives? How about the boyfriend who gets laid because he made his girlfriend dinner. The benefit of regulation puts pimps out of business, tax revenue, not locking people up for a non-crime, and being able implement health/sanitation codes.
+
+  • Yes I do believe it should be legalized.
+
+    This question was worded wrong lol. Should prostitution be illegal?? NO. Now if they wanted a yes answer they should of asked should prostitution be legal.. But they said illegal. So I believe in legalized prostitution. I do so because I believe that women and men should have equal protection from predators when they are out there. One could argue that if they were not in that profession they would not have to worry about it, but I also believe that excuses the predators. I also think that if someone's husband or wife goes and cheats on the other with a prostitute than maybe you should not be with them, that being said.. I think it should be legalized. Protection is one of the main reasons, also you can then legally test people before becoming regular clients and thus reducing the spread of HIV/Hepatitis related diseases. From there you can also crack down on sex trafficking. But my main concern is protection, a lot of women and men get victimized when out on the streets... I don't like that, I don't like how people see someone and then think that it automatically gives them right to victimize someone else. Some prostitutes get raped up to 30 times within a month. Its sad. If we can regulate, we can have better protection LEGALLY for these women and men.
+
+  • I just wanna say
+
+    I noticed this argument, i have no reasoning behind it, except for the fact that you can defiantly tell that there is an abundance of males on this website. If there were an abundance of females i can guarantee that the percentage of people that agree or disagree with this argument would change dramatically
+
+
+Leave a comment...
+(Maximum 900 words)
+No comments yet.
+
+By using this site, you agree to our Privacy Policy and our Terms of Use.
+
+ShareThis Copy and Paste
+<USER>

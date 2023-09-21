@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C39D7vKi2THB044tvXNQMby1IJD7",
+  "object": "chat.completion",
+  "created": 1683106391,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1625,
+    "completion_tokens": 33,
+    "total_tokens": 1658
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This is not a valid input for predicting rhetorical argument quality since it is a copy-paste of a debate between two people, and does not represent a single text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

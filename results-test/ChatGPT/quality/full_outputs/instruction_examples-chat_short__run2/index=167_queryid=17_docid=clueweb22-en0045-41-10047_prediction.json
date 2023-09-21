@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2d55Hvuok3dwvD620BEHkOPmcZM",
+  "object": "chat.completion",
+  "created": 1683104399,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 3380,
+    "completion_tokens": 31,
+    "total_tokens": 3411
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but I cannot predict an argument quality or well-writtenness rating for a list of state marijuana laws. This is simply an informational resource."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

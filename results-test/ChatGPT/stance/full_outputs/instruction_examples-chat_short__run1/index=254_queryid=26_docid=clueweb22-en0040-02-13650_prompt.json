@@ -1,0 +1,106 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: standardize test improve education
+Text: An infographic details the U.S. Army Financial Management Command’s business process standardization efforts. USAFMCOM’s Business Process Management directorate completed a three-year mission of documenting and standardizing all of the Army’s business processes impacting financial statements Oct. 1, 2020. (U.S. Army graphic by Mark R. W. Orders-Woempner)
+1 / 2 Show Caption + Hide Caption – An infographic details the U.S. Army Financial Management Command’s business process standardization efforts. USAFMCOM’s Business Process Management directorate completed a three-year mission of documenting and standardizing all of the Army’s business processes impacting financial statements Oct. 1, 2020. (U.S. Army graphic by Mark R. W. Orders-Woempner) (Photo Credit: Mark Orders-Woempner) VIEW ORIGINAL
+A draft process map sits on a desk in the U.S. Army Financial Management Command headquarters in Indianapolis, May 13, 2019. USAFMCOM’s Business Process Management directorate completed a three-year mission of documenting and standardizing all of the Army’s business processes impacting financial statements Oct. 1, 2020. (U.S. Army photo by Mark R. W. Orders-Woempner)
+2 / 2 Show Caption + Hide Caption – A draft process map sits on a desk in the U.S. Army Financial Management Command headquarters in Indianapolis, May 13, 2019. USAFMCOM’s Business Process Management directorate completed a three-year mission of documenting and standardizing all of the Army’s business processes impacting financial statements Oct. 1, 2020. (U.S. Army photo by Mark R. W. Orders-Woempner) (Photo Credit: Mark Orders-Woempner) VIEW ORIGINAL
+
+Whether renovating a 100 year old house or working to modernize a 245 year old organization, sometimes it takes digging down to a solid foundation to build bigger, better and stronger.
+
+Such a foundation was laid for the first time as the U.S. Army Financial Management Command just completed a three-year mission of documenting and standardizing all of the Army’s business processes impacting financial statements, and the results have already paid dividends.
+
+“We started standardization because Congress mandated the Department of Defense go through a full financial statement audit, and we quickly realized the only way to achieve a clean audit opinion was to get a baseline,” said Chris Reynolds, USAFMCOM Business Process Management director. “And, the only way to get a baseline was to standardize our processes and practices across the entire Army enterprise.”
+
+“I think this is an initiative the whole department needs to undertake, and I’d imagine with some of the audit efforts they are doing that, but the difference with the Army’s business process standardization was it really focused on operations and improving them across the Army,” said Greg Schmalfeldt, Defense Finance and Accounting Service Indianapolis director and Army client executive. “You get the benefit for the audit, but you’re not doing it for the audit.”
+
+Reynolds went on to define auditability as “doing things right” and having the evidence to document how money was spent, which directly impacts readiness and lethality.
+
+“Money is a weapon system – every uniform, piece of equipment and weapon we equip Soldiers with starts with dollars,” Reynolds explained. “So every dollar we are inefficient with reduces our readiness because we aren’t able to move the Army forward and modernize.”
+
+That is a reality the U.S. Army Forces Command, the Army’s command responsible for training and preparing a combat ready and globally responsive force, deals with every day.
+
+“Our primary mission is readiness – readiness to provide ready trained forces for the combatant commanders and readiness in support of national disasters,” said Tommy Byrd, FORSCOM chief resource management officer. “The standardization helps us predict and determine cost requirements, and having available funding at the right time so that the warfighters can have the right equipment they need to be trained and ready.”
+
+A prime example of readiness through reform is found in the Army’s capstone stewardship forum, the Command Accountability and Execution Review (CAER), which was directly supported by the business process standardization initiative.
+
+Through CAER, the Army and DFAS were able to identify and correct issues causing approximately $700 million in Army funds to be de-obligated each year, said Schmalfeldt.
+
+Congress appropriates funds to the Army with specific periods of availability. When funds, obligated in the Army’s annual budget, are de-obligated after that period, there are very limited instances where they are allowed to be re-spent. Consequently, the Army loses the purchasing power to procure things like weapons systems and ammunition.
+
+Reynolds said the BPS team was already in the process of standardizing the Army’s transportation business processes when Lt. Gen. Thomas Horlander, military deputy to the Assistant Secretary of the Army for Finance and Comptroller and creator of the CAER forum, reached out to USAFMCOM and Schmalfeldt to help reduce the amount of de-obligated funds.
+
+“We were able to standardize how [transportation accountability] codes would get funded and utilized and we were able to update the systems and…establish a pre-validation process, which ensured the funding was available for the billings once it was posted,” said Byrd. “That would not have come together as smoothly if there wasn’t a time where we started to sit down and look at and standardize the process for the transportation of things.”
+
+“CAER changed our transportation billing processes, and the Army needed a way to get those changes out to the field,” said Reynolds. “Our role was listening, documenting and making sure the end user understood the changes.”
+
+On top of the benefits to the warfighter, Reynolds said standardization is also fulfilling an obligation and responsibility to the American people beyond providing for a strong national defense.
+
+“All of the funds we spend are taxpayer dollars, so we owe it to the taxpayers, the individuals who are working hard, to show we are using their dollars in a very efficient and effective manner,” he explained.
+
+“The general public is now becoming more confident we are paying our bills on time and utilizing the funding for what it’s meant for,” added Byrd.
+
+When the BPM team began its mission in 2016, Reynolds said that across all three components they found the Army had only documented a total of five sub-processes, which were nothing more than basic flow charts.
+
+“What we found were there were several individuals and organizations that were doing things their own way,” he recalled. “So, when auditors would come in, they would find different business practices across the Army, and we would get audit findings saying the Army doesn’t have a documented and standardized process.”
+
+Today, with the standardization of military pay, the team wrapped up the last of all seven major end-to-end business processes, encompassing 415 sub-processes, which are all housed in an innovative, one-stop collaboration tool called the Army Process Portal.
+
+The APP provides both auditors and end users with interactive process maps with increasing granularity. On top of that, the maps link applicable laws, policies, regulations, forms, job and training aids, and audit checklists and sample packets.
+
+“If I were to identify our biggest accomplishment, I don’t think it would be tied to a process itself – it’s the APP,” said Brig. Gen. Mark S. Bennett, USAFMCOM commanding general. “We took multiple domains and brought them all into one tool with all the resources our Soldiers, civilian employees, contractors and auditors all need to do business in a standardized way, just one click away.”
+
+Denise Gallion, USAFMCOM Audit Response Center director, said she felt the APP is a great resource for both auditors and the Army.
+
+“We have a lot of information where the auditors can go…but I think it’s more important that we have that resource out there for the field so that they can understand the end-to-end processes,” Gallion explained. “So, I think having a lot of that information out there along with these processes should help us, as Army, be able to tell our story no matter where the auditor chooses to go [in their audit].”
+
+“The APP allows a central repository, allows a place for the field to go and find available checklists to help them prepare for audits,” added FORSCOM’s Byrd.
+
+While building the APP was daunting enough, documenting all business processes across the Army worldwide was no easy task.
+
+“The biggest challenge was getting nearly 2 million people across the Army at hundreds of installations and in thousands of commands to all do business the same way,” said Reynolds. “Four of the seven E2E processes are outside the financial management domain, but they’re all processes that trigger financial transactions, so we needed to engage everyone from senior leaders to technicians across a broad spectrum of domains including logistics, human resources, real property, transportation and more.”
+
+Reynolds said he started with the senior leaders to get their buy-in first.
+
+“I beat the halls of the Pentagon for months, getting those individual champions to buy in and get them to understand that if they could be more efficient with their business processes, they can do more for their organization,” he recalled. “It also helped when we explained we were going to do all the work; we were just asking them to open the doors to their people.”
+
+There was also some additional education needed when it came to the necessity and the scope of the project.
+
+“Some leaders thought our Enterprise Resource Planning systems were the only way to standardize, but there are so many things happening outside of those systems that are a part of the processes,” said Reynolds. “We needed to show them we needed to standardize our day-to-day activities, not just our ERPs.”
+<USER>

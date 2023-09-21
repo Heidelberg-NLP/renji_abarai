@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C30V7iNBbY7VWI69fLSHbZ3w6j0R",
+  "object": "chat.completion",
+  "created": 1683105851,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2551,
+    "completion_tokens": 153,
+    "total_tokens": 2704
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text presents arguments against legalizing performance-enhancing drugs, including that they are often harmful, lead to health risks, and are not typically available for sports use. The author also argues against making doping legal by stating that many banned substances are banned for a reason and that a lack of regulation could result in performances that are inhumane for the athletes. The author also considers the impact of arousing public suspicions about the possibility of performers using performance-enhancing drugs, which could ultimately diminish public interest in sports. The author presents sound arguments that support the position presented and provides supporting evidence to back up each of the points made throughout the text. \n\nOverall, the rhetorical argument quality can be classified as high for the logical reasoning, coherence and evidence provided throughout the text."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

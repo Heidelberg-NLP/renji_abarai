@@ -1,0 +1,143 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: can alternative energy effectively replace fossil fuel
+Text: Last updated on: 9/23/2020 | Author: ProCon.org
+
+Can Alternative Energy Effectively Replace Fossil Fuels?
+
+PRO (yes)
+
+Pro
+
+Erich Pica, President of Friends of the Earth, in an Oct. 7, 2019 article, “Climate and Energy Experts Debate How to Respond to a Warming World,” available at nytimes.com, stated:
+
+“Transitioning to renewable energy is not only necessary to fight the climate crisis, it is also the only way we can quickly and effectively meet rising energy demands. It is foolish to think, however, that the fossil fuel industry will eagerly embrace this transition. We must push governments to enact an ambitious climate strategy that phases out all fossil fuels and transitions to a sustainable economy.
+
+Over a billion people around the world lack access to electricity, and increasing fossil fuel-based generation will not fix this. Coal and nuclear power plants are expensive boondoggles. Communities living in energy poverty are continuously left in the dark without access to the grid as corporations sell power to industrial users and for export to recoup the costs.
+
+Renewables, particularly small-scale renewables, are cheaper and faster to install. Small-scale renewables also tend to generate and keep power locally. This becomes a more effective way to fight energy poverty. Renewables are cheaper than nuclear, can compete with gas, and their price continues to fall. Rapidly phasing out fossil fuels and transitioning to renewables is the only choice for the climate and the economy.”
+
+Oct. 7, 2019
+
+Pro
+
+Mark Moody-Stuart, PhD, Chairman of the United Nations Global Compact Foundation, in an Oct. 7, 2019 article, “”Climate and Energy Experts Debate How to Respond to a Warming World,” available at nytimes.com, stated:
+
+“Undoubtedly yes, the world must accelerate its transition to renewable energy…
+
+Cost is no longer a major barrier for renewables; intermittency is. So we need to develop technologies to store energy for periods of little or no wind or sunshine. Batteries are one answer, but they face scale, resource availability and environmental challenges. An alternative is to use spare capacity at times of high renewable availability to split water into oxygen and hydrogen. The hydrogen can then generate electricity or drive heavy transport, aircraft or processes not easy to electrify.”
+
+Oct. 7, 2019
+
+Pro
+
+May Boeve, Executive Director of 350.org, in an Oct. 7, 2019 article, “”Climate and Energy Experts Debate How to Respond to a Warming World,” available at nytimes.com, stated:
+
+“Rapidly phasing out fossil fuels is critical to address the climate crisis because fossil fuels are the biggest driver of the climate crisis. Reports from the Intergovernmental Panel on Climate Change based on the work of thousands of scientists have confirmed there are no scenarios in which we both keep digging out fossil fuels and keep the world from a climate disaster. We must act now, and decisively, to switch to alternative sources of energy…
+
+We can do it because people want it and are increasingly demanding it. Technology is an important part of the coming transition, and so is finance. But what is going to make it happen is public outrage, public imagination, and public inspiration.”
+
+Oct. 7, 2019
+
+Pro
+
+Bjarne Pedersen, Executive Director of Clean Air Asia, in an Oct. 7, 2019 article, “Climate and Energy Experts Debate How to Respond to a Warming World,” available at nytimes.com, stated:
+
+“The science on how human activities — predominantly the use of fossil fuels — have caused and continuously aggravate the impacts of climate change is indisputable. An accelerated shift to renewable energy is necessary not only to mitigate the impacts of the global climate crisis, but also to provide safe and clean air, particularly in Asia, which bears the highest health burden from air pollution…
+
+The role of the private sector is critical to the needed shift to renewable energy. Divesting from coal-powered energy generation and investing in renewable energy is imperative, particularly in Asia, where energy demand is increasing.
+
+With millions of people in Southeast Asia still without access to electricity, and with the rapidly declining costs of renewable energy technologies, there is huge potential for its use on remote islands and in areas not easily accessible to the national grid. Equally important is investing in, and placing emphasis on, sustainable transport and clean energy solutions for buildings and consumers.”
+
+Oct. 7, 2019
+
+Pro
+
+Richard Heinberg, MA, Senior Fellow at the Post Carbon Institute, stated the following in his Feb. 22, 2016 article titled “100% Renewable Energy: What We Can Do in 10 Years,” published by Yes! Magazine:
+
+“It will take at least three decades to completely leave behind fossil fuels. But we can do it…
+
+But the transition will entail costs—not just money and regulation, but also changes in our behavior and expectations. It will probably take at least three or four decades, and will fundamentally change the way we live…
+
+Nearly everyone agrees that the easiest way to kick-start the transition would be to replace coal with solar and wind power for electricity generation…
+
+The collective weight of these challenges and opportunities suggests that a truly all-renewable economy may be very different from the American economy we know today. The renewable economy will likely be slower and more local; it will probably be a conserver economy rather than a consumer economy. It will also likely feature far less economic inequality.”
+
+Feb. 22, 2016 - Richard Heinberg, MA
+
+Pro
+
+Michael Klare, PhD, Professor of Peace and World Security Studies at Hampshire College, stated the following in his Apr. 22, 2015 article titled “The Age of Wind and Solar Is Closer Than You Think” available at the Scientific American website:
+
+“That day will come: the life-changing moment when renewable energy—wind, solar, geothermal and others still in development—replace fossil fuels as the principal source of world energy…
+
+The transition to renewables will be hastened by dramatic improvements in the pricing and performance of such systems. Due to steady increases in the efficiency of wind and solar systems, coupled with the savings achieved through large-scale manufacture, the price of renewables is falling globally…
+
+The transition from fossil fuels to renewable energy will not occur overnight, and it will not escape recurring setbacks. Nevertheless, renewables are likely to replace fossil fuels as the dominant source of electrical power well before mid-century as well as make giant strides in other areas such as transportation.”
+
+Apr. 22, 2015 - Michael Klare, PhD
+
+Pro
+
+Richard Schiffman, environmental journalist, stated the following in his June 26, 2014 article “Why the Shift to Alternate Energies Continues, Despite Shale Boom,” available at reuters.com:
+
+“However difficult and expensive it may be at the outset to green the U.S. power system, it won’t take long before our initial investment begins to pay off in lower electric bills — which are no longer a hostage to global oil prices — and a cleaner environment…
+
+It does cost more to build wind farms and install solar arrays. But once these plants are set up and running, they have lower operation and maintenance costs than conventional power on a yearly basis. No more regular fuel bills and only minimal expenses for upkeep of solar, for example, which has no movable parts that wear out and need to be replaced.
+
+The price argument is also fallacious because we have never paid the real price for the power we use, which includes the cost to the environment and human health of the carbon pollution that fossil-fuel mining and burning generates… We should be supporting technologies that help us to put the brake on destructive climate change, rather than feeding the unsustainable fossil-fuel habit that is driving it.”
+
+June 26, 2014 - Richard Schiffman
+
+Pro
+
+Alfred W. Crosby, PhD, Professor Emeritus of History, Geography, and American Studies at the University of Texas at Austin, stated the following in a June 19, 2009 email to ProCon.org:
+
+“Alternative sources of energy can become a satisfactory substitute for fossil fuels if we put as much effort and genius in the effort as we did in producing the first atomic bomb. The most satisfactory single alternative would be hydrogen fusion but that quasi-miracle may be beyond our capability. We may discover that wind, solar, biomass, etc., all piled on top of each other, may have to do, but their success may turn out to require an effort that started a generation ago. Essential to any and all success is the realization on our part that we may be able to do anything, which includes fail.”
+
+June 19, 2009 - Alfred W. Crosby, PhD
+
+Pro
+
+Patrick Moore, PhD, Chair and Chief Scientist of Greenspirit Strategies Ltd. and former International Director of Greenpeace International, stated the following in a Feb. 18, 2009 email to ProCon.org:
+
+“It all depends on what you mean by ‘alternative energy’. Alternative to what? Specifically if nuclear energy is considered ‘alternative’ (to fossil fuels) then I am in the Pro camp. If nuclear is not considered alternative I am decidedly in the Con camp because I do not believe it is remotely possible to replace fossil fuels with wind, solar, geothermal etc. by themselves. Then there is the question of whether hydroelectricity is ‘alternative’. If both hydro and nuclear are not considered alternative then it is doubly impossible to replace fossil fuels with alternatives.
+
+The terms ‘renewable’, ‘sustainable’, ‘clean’, ‘green’, and ‘alternative’ tend to be tossed about as if they all mean the same thing when they each have distinct meanings, some of which are less than objective. ‘Green’, for example, can be a shameless marketing term. ‘Clean’ is relatively straightforward, meaning there is no pollution involved. Hydroelectric energy is renewable. Nuclear energy is not renewable but it is sustainable.”
+<USER>

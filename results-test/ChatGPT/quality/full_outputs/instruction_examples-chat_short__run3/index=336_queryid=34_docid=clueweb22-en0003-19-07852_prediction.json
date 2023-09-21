@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3A8KIZTdSmZUemLrCZbxhYOanfE",
+  "object": "chat.completion",
+  "created": 1683106448,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2682,
+    "completion_tokens": 17,
+    "total_tokens": 2699
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text does not present a clear argument, so it cannot be given a label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

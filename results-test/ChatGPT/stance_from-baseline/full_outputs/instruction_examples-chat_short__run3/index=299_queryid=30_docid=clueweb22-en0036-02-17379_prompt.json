@@ -1,0 +1,124 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should adults have the right to carry a concealed handgun?
+Text: Are Online Concealed Carry Permits A Scam? » Concealed Carry Inc
+
+Top Menu
+
+Are Online Concealed Carry Permits a Scam?
+
+UPDATE Dec 30th 2020: As of January 1st 2021 Virginia will no longer be accepting online-only training as qualifying one to apply for the concealed carry permit. The below article becomes then very outdated or irrelevant but has been left in its original state as a reference for anyone researching the topic.
+
+As a full-time marketer in the firearm industry, I see a lot of advertising for “Online Concealed Carry Classes, Permits, and Certificates.” While there is legitimacy at the core of some of the product offerings these courses and products are often marketed in a way that is unethical and misleading and worse many of the providers are deceiving customers and setting them up for legal challenges.
+
+This is extra frustrating because here at ConcealedCarry.com we also have an online concealed carry qualifying course we offer and we strive to do it with integrity and many of these “Online Concealed Carry” websites and companies give us and every other legitimate company in the firearm training space a bad name.
+
+Today I hope to clarify what it is all about and remove the veil of confusion placed there by unethical marketers, scammers, and the various people who just have no idea what they are talking about.
+
+What Is The Real Loophole / Product Being Offered?
+
+There are 3 things that are true about the Virginia State Concealed Carry Permit that together create a perfect storm or loophole.
+
+First, Virginia will issue a permit to a non-resident. So anyone living in any of the 50 states may apply.
+
+Second, the Virginia non-resident permit is relatively widely honored. As of this writing, it is valid in 29 US states.
+
+Third, while Virginia does require applicants to complete a firearm training course; they allow that the ENTIRE course can be completed virtually or online.
+
+So this creates an opportunity for any US adult resident to watch some online videos and apply for the Virginia permit which will then be valid in 29 US states. Not bad right? This tends to appeal to a number of consumers including:
+
+  • Someone who lives in a state or county where permits are may-issue and essentially impossible to obtain (Think NJ, MD, MA, HI, and parts of CA). By getting the VA non-resident permit they still can't carry in their home state but at least they have concealed carry options in 29 other states they may travel to.
+  • Someone who lives in one of those 29 states that honor the VA non-resident permit AND their home state doesn't require residents obtain the resident permit. Residents of these states (Think TX, IA, NM, AZ, OH, & others) may prefer watching some online videos to taking an in-person class for the sake of convenience or cost.
+  • Someone who already has their home permit but is very limited in reciprocity (Think residents of IL, PA, DC, CA, OR and others) may find that by getting the VA non-resident permit in addition to their own they increase the number of states where they can carry by a small or substantial amount.
+
+Here is an example of the states who honor the Virginia non-resident concealed carry permit. More than half of that map is green, which is where it's honored. Click here to see where you permit is honored in.
+
+
+So companies like this one (the site you are on right now) and many others figured out we can create an online video-based course that someone can watch and then be qualified to apply for the Virginia permit.
+
+What Are The Misleading Ways These Online Courses Are Often Marketed?
+
+The problem with this? Many of the companies that offer such a product advertise it in ways that are misleading or unethical.
+
+Here is an example that was sent out by GunBroker about 2 weeks ago (Note Gunbroker isn't selling this product. GunBroker “rents” their email list out to third party advertisers who pay GunBroker a fee to have their advertisement sent to GunBroker email subscribers. Apparently GunBroker doesn't vet them for good ethics or morals. The actual advertiser behind this BS misleading advertisement is USConcealedOnline dot com)
+
+Here are the lies and misleading parts of this email advertisement:
+
+  1. You cannot download a Concealed Carry Permit. You can download a certificate that says you completed a class but that certificate is NOT a permit. You still have to turn around and mail that certificate to a government agency (State of Virginia) and apply for the permit.
+  2. There are NO ANTI-GUN groups trying to get rid of this. There is plenty of anti-gun legislation out there and we work hard to track it and report on it but there isn't so much as a whisper by any politician or group about trying to force Virginia to stop accepting online training or stop issuing permits to non-residents. NOBODY CARES AT ALL. If the advertisement said, “anti-gun groups might try to get rid of it” that would at least be plausible and acceptable. As it is written it is a lie.
+  3. It says you will encounter Zero government red tape and specifically says you won't expose your info to the feds. BIG FAT LIE. After you download your fancy class completion certificate from their site you have to mail it to the State of Virginia along with some fingerprints and a notarized application. Virginia State Police then conducts a background check that includes an FBI check with your fingerprints. So while you don't have to go through any government red tape to download the certificate from their site you do very much so have to go through a standard state background check and FBI check to get the permit.
+
+Ultimately there is a great danger in that this site and its advertisement are giving gun owners the impression that the class completion certificate they will download IS an actual concealed carry permit. It is not. That paper doesn't give you special permission to do anything whatsoever beyond being able to apply for a REAL permit from the state of Virginia.
+
+Please note I've picked on this particular advertiser and website but a quick Google search will yield about a dozen comparably deceptive websites offering a similar product.
+
+One thing many of them do that I feel is unethical is asking you to invest your time in watching the videos and answering questions without any mention that there is going to be a cost or how much that cost is. After you have given them your time and energy then you get the payment form. If you don't want to pay you have wasted that time.
+
+If Interested How Do You Choose From the Various Options?
+
+If you are interested in taking an online class and applying for your non-resident Virginia permit you have options out there. Here are 3 considerations you might use in helping select the online course you are going to take … and remember I'm biased as we sell one of these online courses ourselves on this website.
+
+Ethical Standards
+
+I think anyone would agree after reading the above that many of these companies are trying to deceive you or hide the truth in the fine print. Do you want to give them your hard-earned money and count on them to guide you through a legal process that will hopefully lead you to carry a firearm legally? I don't recommend it. Look for a provider that is honest about what they are selling, what the process to obtain the permit will entail, and what it is going to cost you.
+
+Quality of Content
+
+You have to consider the quality of the education itself. If you have to sit in front of a screen and watch some videos about gun safety, basic handling, laws, etc., I would expect you want a quality education. This can be hard to ascertain as to the quality of the instructor who recorded the videos or the content itself but one thing you can look for is the length of content.
+
+Many of these websites boast that the entire online “class” is only 30 minutes long. You may have spent a lifetime shooting guns and may have taken a dozen concealed carry classes previously and thus feel you don't really need to learn anything new. That would be a mistake and a poor approach to gun ownership. We should all endeavor to learn as much as we can and get a refresher on things we already know as often as we can.
+
+Cost
+
+I've priced out many of these online courses and from what I can tell the average is about $65. I found a few as high as $95 and one as low as $39 but $65 to $70 seems to be the standard cost. Now, all other things being equal (the ethical and quality standards mentioned above) I would say go with one of the cheaper options.
+
+Customer Service and Consumer Experience
+
+Some of these websites are poorly engineered, lack modern security protocols, and have an online user experience that is poor and confusing. If you are going to pay money for an online video course buy it from a company that has technology that makes it easy to understand how to take that course.
+
+Worse, a lot of these guys have zero customer support or really bad customer support. Check the reviews on their Facebook pages or Google the website and the word SCAM to see if there are negative reviews online. Or, just call the phone number and see if someone actually picks up the phone.
+
+Our customer service team gets 1-2 calls or emails a week from someone who purchased an online class from one of our “competitors” who need help with the actual VA State application process and contacts us for support. That is a good indication that those other companies are in some cases NOT taking care of their customers.
+
+Frequently Asked Questions:
+
+Now if you are considering pursuing one of these online concealed carry classes you may have a few questions I haven't answered above. Here are the most common questions we get on this topic along with some concise answers:
+
+I was told that the paper / certificate / permit I downloaded from a website is a concealed carry permit. Is that not true?
+<USER>

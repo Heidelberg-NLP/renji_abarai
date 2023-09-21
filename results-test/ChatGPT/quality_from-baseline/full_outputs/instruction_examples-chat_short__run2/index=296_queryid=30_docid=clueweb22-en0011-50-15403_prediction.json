@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W15kYmlIo2Sn6gESSL2FSN2B83B5",
+  "object": "chat.completion",
+  "created": 1687865048,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Neutral (this is not a written argument, it's a news article presenting both sides of the issue without taking a position)"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2494,
+    "completion_tokens": 25,
+    "total_tokens": 2519
+  }
+}

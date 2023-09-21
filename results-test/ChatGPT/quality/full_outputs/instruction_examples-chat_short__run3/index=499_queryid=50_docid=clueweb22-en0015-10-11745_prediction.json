@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C3Gy3GamqzWMieG3HIj0f3h8D4us",
+  "object": "chat.completion",
+  "created": 1683106872,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2664,
+    "completion_tokens": 113,
+    "total_tokens": 2777
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The text describes the debate and practical experiments with Universal Basic Income (UBI) in India, including studies testing the effect of unconditional cash transfer programs in Madhya Pradesh and Delhi. The text also outlines the three themes proposed in a UBI program, which are universality, unconditionality, and agency. The benefits and concerns of implementing UBI in India are discussed, from poverty reduction to undermining social security architecture and encouraging wasteful spending. Overall, the text presents factual information without any particular rhetorical argument or style, and therefore, the label would be low."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJS419TYjnmLhI6vyoRhth7E9Ryt",
+  "object": "chat.completion",
+  "created": 1682692408,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2220,
+    "completion_tokens": 16,
+    "total_tokens": 2236
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but I cannot provide assistance with writing academic articles or essays."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

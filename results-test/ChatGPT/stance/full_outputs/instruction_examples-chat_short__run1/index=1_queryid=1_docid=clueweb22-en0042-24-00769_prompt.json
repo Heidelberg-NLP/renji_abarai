@@ -1,0 +1,223 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should teacher get tenure
+Text: Last updated on: 1/13/2011 | Author: ProCon.org
+
+Teacher tenure is the increasingly controversial form of job protection that public school teachers in 46 states receive after 1-5 years on the job. An estimated 2.3 million teachers have tenure.
+
+Proponents of tenure argue that it protects teachers from being fired for personal or political reasons, and prevents the firing of experienced teachers to hire less expensive new teachers. They contend that since school administrators grant tenure, neither teachers nor teacher unions should be unfairly blamed for problems with the tenure system.
+
+Opponents of tenure argue that this job protection makes the removal of poorly performing teachers so difficult and costly that most schools end up retaining their bad teachers. They contend that tenure encourages complacency among teachers who do not fear losing their jobs, and that tenure is no longer needed given current laws against job discrimination. Read more background…
+
+ 
+
+Pro & Con Arguments
+
+Pro 1
+
+Tenure protects teachers from being fired for personal, political, or other non-work related reasons.
+
+Before tenure, teachers could be dismissed when a new political party took power or a principal wanted to make room to hire his friends. Women were dismissed for getting married, becoming pregnant, wearing pants, or being out too late in the evenings. [1]
+
+Read More
+
+Pro 2
+
+Tenure prohibits school districts from firing experienced teachers to hire less experienced and less expensive teachers.
+
+The threat of firing has increased in recent years as many school districts face budget cuts. [8] Marcia Rothman, a teacher for 14 years, said at a protest in New York, “They don’t want old experienced teachers who are too expensive. It’s a concerted effort to harass older teachers, so they can hire two young teachers.” [9]
+
+Read More
+
+Pro 3
+
+Tenure protects teachers from being fired for teaching unpopular, controversial, or otherwise challenged curricula such as evolutionary biology and controversial literature.
+
+[10] According to Edison State College teacher David McGrath, tenure “ensures academic freedom to teach important concepts such as evolution, and classic texts such as ‘Huckleberry Finn,’ ‘To Kill a Mockingbird’ or ‘Catcher in the Rye,’ all of which have been banned by some school districts.” [11]
+
+Read More
+
+Pro 4
+
+The promise of a secure and stable job attracts many teachers to the teaching profession, and eliminating teacher tenure would hamper teacher recruitment.
+
+Starting salaries for teachers are frequently lower than other occupations requiring similar levels of education and training. [12] A Sep. 2018 report by the Economic Policy Institute found that public school teachers received 18.7% lower weekly earnings than workers with comparable education and work experience. [48]
+
+Read More
+
+Pro 5
+
+Tenure helps guarantee innovation in teaching.
+
+Without the protection of tenure, teachers may feel pressured to use the same lesson plans and teach directly to standardized tests. [14] Former California Teachers Association President Barbara Kerr said, “Teachers are afraid to try new, innovative things if they are afraid of losing their job.” [3]
+
+Read More
+
+Pro 6
+
+Teacher tenure is a justifiable reward for several years of positive evaluations by school administrators.
+
+Administrators are responsible for evaluating teachers before granting tenure and helping to develop struggling teachers. The existence of inadequate teachers should be blamed on the poor judgment of administrators, not teacher tenure. [4] According to a Dec. 2017 report by the National Council on Teacher Quality, only four states have developed a tenure-granting process where teacher effectiveness is “the determinative factor in tenure decisions.” [49]
+
+Read More
+
+Pro 7
+
+Tenure is a good system that has become a scapegoat for problems facing education.
+
+Eliminating tenure will not reduce class sizes or make schools cleaner and safer. [16] If tenure is abolished, problems of underfunding, overcrowding, and lack of control over students’ home lives will persist. [10]
+
+Read More
+
+Pro 8
+
+Tenure allows teachers to advocate on behalf of students and disagree openly with school and district administrators.
+
+[14] Award-winning history teacher Kerry Sylvia said that without tenure, she would be afraid of being fired because of her public opposition to initiatives by administrators. [17]
+
+Read More
+
+Pro 9
+
+Contrary to public perception, tenure does not guarantee a teacher a job for life.
+
+Each state’s tenure laws establish strict requirements and processes for removing a tenured teacher. Tenure also guarantees teachers a termination hearing before the board of education or an impartial hearing panel. [18]
+
+Read More
+
+Pro 10
+
+Tenure protects teachers from being prematurely fired after a student makes a false accusation or a parent threatens expensive legal action against the district.
+
+After an accusation, districts might find it expedient to quickly remove a teacher instead of investigating the matter and incurring potentially expensive legal costs. The thorough removal process mandated by tenure rules ensures that teachers are not removed without a fair hearing. [14]
+
+Read More
+
+Pro 11
+
+Tenure encourages the careful selection of qualified and effective teachers.
+
+Since it is difficult to remove tenured teachers, tenure encourages school administrators to take more care when making hiring decisions. Additionally, tenure prompts administrators to dismiss under-performing teachers before they achieve tenure and cannot be removed as easily. [19]
+
+Read More
+
+Pro 12
+
+The formal dismissal process guaranteed by tenure protects teachers from punitive evaluation systems and premature dismissal.
+
+It allows under-performing teachers a chance to improve their skills rather than be hastily fired. [4]
+
+Read More
+
+Pro 13
+
+Tenure allows teachers to work more effectively since they do not need to be in constant fear of losing their jobs.
+
+Without the anxiety and fear of losing employment, teachers can focus their efforts on providing the best education for students. [19]
+
+Read More
+
+Con 1
+
+Teacher tenure creates complacency because teachers know they are unlikely to lose their jobs.
+
+Tenure removes incentives for teachers to put in more than the minimum effort and to focus on improving their teaching. [8]
+
+Read More
+
+Con 2
+
+Tenure makes it difficult to remove under-performing teachers because the process involves months of legal wrangling by the principal, the school board, the union, and the courts.
+
+A study by the New Teacher Project found that 81% of school administrators knew a poorly performing tenured teacher at their school; however, 86% of administrators said they do not always pursue dismissal of teachers because of the costly and time consuming process. [2] [4] A 2018 survey by the New York State School Boards Association found that over one-third of school districts declined to pursue dismissal of poorly performing tenured teachers because of the costly and “cumbersome” process. [54] In a study of 25 school districts, the Thomas B. Fordham Institute found that it can take between one and six years to remove an experienced tenured teacher, concluding that, “the line from dismal performance to dismissal has hardly been streamlined. For the most part, state and local policies create a tortuous maze of paperwork, regulations, and directives.” [50]
+
+Read More
+
+Con 3
+
+Tenure often makes seniority the main factor in dismissal decisions instead of teacher performance and quality.
+
+Tenure laws often maintain the “last-hired, first-fired” policy. [21] According to a Dec. 2017 report by the National Council on Teacher Quality, 30 states and DC do “not require performance to be considered” when making layoff decisions, with nine of these states remaining “exclusively wedded to a policy of seniority only.” [49] A further ten states require “performance to be considered, but not as the determinative factor.” [49]
+
+Read More
+
+Con 4
+
+Tenure is not needed to recruit teachers.
+
+Sacramento Charter High School, which does not offer tenure, had 900 teachers apply for 80 job openings. [3]
+
+Read More
+
+Con 5
+
+With job protections granted through court rulings, collective bargaining, and state and federal laws, teachers today no longer need tenure to protect them from dismissal.
+
+[24] For this reason, few other professions offer tenure because employees are adequately protected with existing laws. [25]
+
+Read More
+
+Con 6
+
+Tenure makes it costly for schools to remove a teacher with poor performance or who is guilty of wrongdoing.
+
+It costs an average of $313,000 to fire a teacher in New York state. [50] New York Department of Education spent an estimated $15-20 million a year paying tenured teachers accused of incompetence and wrongdoing to report to reassignment centers (sometimes called “rubber rooms”) where they were paid to sit idly. [51]
+
+Read More
+
+Con 7
+
+With most states granting tenure after three years, teachers have not had the opportunity to “show their worth, or their ineptitude.”
+
+[28] A study by the University of Washington’s Center on Reinventing Public Education found that the first two to three years of teaching do not predict post-tenure performance. [29]
+
+Read More
+
+Con 8
+
+Tenure does not grant academic freedom. No Child Left Behind in 2001 took away much academic freedom when it placed so much emphasis on standardized testing.
+
+[10] According to a survey published in Planning and Changing, 56% of school board presidents disagreed with the statement that teacher tenure ensures academic freedom. [18]
+
+Read More
+
+Con 9
+
+Tenure at the K-12 level is not earned, but given to nearly everyone.
+<USER>

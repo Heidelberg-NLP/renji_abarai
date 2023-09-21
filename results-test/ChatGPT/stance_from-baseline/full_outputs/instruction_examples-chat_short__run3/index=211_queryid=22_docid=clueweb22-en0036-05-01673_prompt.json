@@ -1,0 +1,131 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?
+Text: Last updated on: 7/20/2017 | Author: ProCon.org
+
+Is a Two-State Solution (Israel and Palestine) an Acceptable Solution to the Israeli-Palestinian Conflict?
+
+General Reference (not clearly pro or con)
+
+ARCHIVED WEBSITE
+
+This site was archived on Aug. 3, 2021. The two-state solution is no longer the most popular solution among the jurisdictions involved. A reconsideration of the topic is possible in the future.
+
+David Remnick, Editor of the New Yorker, in a Nov. 17, 2014 article titled “The One-State Reality,” available at the New Yorker website, stated:
+
+“The one-state/two-state debate is highly fraught not least because of proximity. Too much history, too little land. This is not India and Pakistan; the map of Ireland is a veritable continent compared with Israel and the Palestinian territories. Gaza is about as close to Herzliya as Concord is to Hanover; the West Bank, as Israelis are quick to point out, is seven miles from Ben Gurion Airport. Any two-state solution with a chance of working would have to include federal arrangements not only about security but also about water, cell-phone coverage, sewage, and countless other details of a common infrastructure. Talk of a one-state solution, limited as it is, will never be serious if it is an attempt to mask annexation, expulsion, or population transfer, on one side, or the eradication of an existing nation, on the other. Israel exists; the Palestinian people exist. Neither is provisional. Within these territorial confines, two nationally distinct groups, who are divided by language, culture, and history, cannot live wholly apart or wholly together.”
+
+Nov. 17, 2014 - David Remnick
+
+The Harry S. Truman Research Institute for the Advancement of Peace at the Hebrew University of Jerusalem and the Palestinian Center for Policy and Survey Research (PCPSR) in Ramallah, in a June 23, 2015 press release titled “Joint Israeli Palestinian Poll, June 2015,” available from the PCPSR website, wrote:
+
+“Compared to our findings in June 2014, support for the two-state solution decreases among Israelis from 62% to 51% and among Palestinians from 54% to 51%…
+
+56% of Palestinians think that Israel’s goals in the long run are to extend its borders to cover all the area between the Jordan River and the Mediterranean Sea and expel its Arab citizens. 25% think the goals are to annex the West Bank while denying political rights to the Palestinians.
+
+43% of the Israelis think that the Palestinian aspirations in the long run are to conquer the State of Israel and destroy much of the Jewish population in Israel; 18% think the goals of the Palestinians are to conquer the State of Israel.”
+
+June 23, 2015 - Palestinian Center for Policy and Survey Research (PSR)
+
+The Pew Research Center, in an Apr. 29, 2014 article titled, “Public Divided over Whether Israel, Independent Palestinian State Can Coexist,” available from the Pew Research Center website, wrote:
+
+“Amid the breakdown of peace talks between Israeli and Palestinian negotiators, the [US] public is divided over whether a way can be found for a peaceful two-state solution in the Middle East. Overall, 46% say an independent Palestinian state can coexist peacefully with Israel, 44% do not think this can happen. A year ago, 50% thought it was possible for an independent Palestinian state to exist peacefully alongside Israel, 41% did not.
+
+The new national survey by the Pew Research Center… finds that Republicans are particularly skeptical about the prospects for a peaceful two-state solution: just 34% think a way can be found for this to happen. Independents (50%) and Democrats (52%) are more optimistic that a solution can be found.
+
+A landmark 2013 Pew Research survey of Jewish Americans found 61% of U.S. Jews expressing optimism about the possibility of a peaceful two-state solution. A Pew Global Attitudes Project survey, conducted last spring, found that 50% of Israelis and just 14% of Palestinians believed that a peaceful two-state solution was possible. That report found optimism for a two-state solution was highest in France (71%) and lowest in Lebanon (11%) and the Palestinian territories, among the 13 countries surveyed.”
+
+Apr. 29, 2014 - Pew Research Center
+
+PRO (yes)
+
+Pro
+
+John Kerry, JD, former US Secretary of State, in a Dec. 28, 2016 press conference, a transcript of which is available from Time.com in the article titled “Read John Kerry’s Full Speech on Israeli Settlements and a Two-State Solution,” stated:
+
+“[T]he two-state solution is the only way to achieve a just and lasting peace between Israelis and Palestinians. It is the only way to ensure Israel’s future as a Jewish and democratic state, living in peace and security with its neighbors. It is the only way to ensure a future of freedom and dignity for the Palestinian people, and it is an important way of advancing United States interests in the region.”
+
+Dec. 28, 2016 - John Kerry, JD
+
+Pro
+
+Lara Friedman, MA, Director of Policy and Government Relations for Americans for Peace Now, in an Oct. 14, 2016 statement delivered at the United Nations Security Council, a transcript of which is available from the Peace Now website under the title “Statement by Lara Friedman, Americans for Peace Now Delivered at the United Nations Security Council – October 14, 2016,” stated:
+
+“[T]he two-state solution is not a goal in itself. Rather, it is a political compromise to end the Israeli-Palestinian conflict. It is a solution that has consistently been embraced by majorities of both Israelis and Palestinians and their political leaderships. And it is the only solution that offers Israelis and Palestinians alike the hope for a normal life – a better life – for their children and their children’s children.
+
+But with every day that passes, Israeli settlement policies further cement a one-state reality on the ground, making the two-state solution harder to imagine, let alone achieve…
+
+And that is why, on behalf of Americans for Peace Now, I urge you here today to finally take action in the Security Council to send a clear message to Israel that the international community stands by the two-state solution and unambiguously rejects policies that undermine it – including Israeli settlement policies.”
+
+Oct. 14, 2016 - Lara Friedman, MA
+
+Pro
+
+Benjamin Miller, PhD, Professor of International Relations at the School of Political Sciences at the University of Haifa (Israel) in an Aug. 16th, 2016 article for Ethnopolitics titled “Israel–Palestine: One State or Two: Why a Two-State Solution is Desirable, Necessary, and Feasible,” wrote:
+
+“The only possible peaceful solution is one of two-states for two nations based on the exchange of ‘refugees for settlers.’ This would enable the formation of two relatively, even if not perfectly, nationally congruent states…
+
+Moreover, the key aspiration of both Palestinians and Israelis is national independence. This is the basic quest of both the Zionist and the Palestinian national movements and the Jewish Israeli and the Palestinian peoples. Thus, the two-state solution can meet the key aspiration even if not meeting additional secondary desires (such as the control over the whole area between the Mediterranean and the Jordan River).
+
+Further, two-states for the two nations is the most effective way of minimizing state-to-nation imbalances. Partition resolves the ‘nation without state’ and the stateless refugees problem for the Palestinian imbalance, while producing a clear-cut Jewish majority state in Israel instead of the unstable and imbalanced de-facto bi-national situation.”
+
+Aug. 16, 2016 - Benjamin Miller, PhD
+
+Pro
+
+Barack Obama, JD, 44th President of the United States, in May 14, 2015 remarks at a press conference at Camp David after meeting with the Gulf Cooperation Council (GCC), available from the White House website, stated:
+
+“We reiterate the urgent need for a two-state solution between Israelis and Palestinians… I continue to believe that a two-state solution is absolutely vital for not only peace between Israelis and Palestinians, but for the long-term security of Israel as a democratic and Jewish state.”
+
+May 14, 2015 - Barack Obama, JD
+
+Pro
+
+Mahmoud Abbas, Csc, President of the Palestinian Authority (PA), in a Jan. 2014 interview with Israeli lawyer and 2000 Camp David Summit negotiator Gilead Sher, available from the Mondoweiss website under the title “Abbas Lays Out His Two-State Vision in Video Address to Israeli Security Conference,” stated:
+
+“[T]he two-state vision must become real in which the State of Israel will live alongside the State of Palestine on the 1967 borders in security and stability. The second most important section is that East Jerusalem be the capital of the Palestinian state. Jerusalem will remain open to all religions with arrangements between the two parties. The borders of the Palestinian state will eventually be in the hands of Palestinians, not the Israeli army. The refugee issue must be addressed based on the guidelines of the Arab Peace Initiative which calls for just and agreed solution to the problem of Palestinian refugees according to UNGA resolution 194. If the elements are honored, I believe this will be an acceptable, lasting and legitimate solution. The agreement will be applied to both the West Bank and Gaza Strip, and to the safe passage between them.”
+
+Jan. 2014 - Mahmoud Abbas, Csc
+
+Pro
+
+Yehiel Hilik Bar, MA, member of the Knesset for the Labor Party and Chair of the Knesset Caucus to Resolve the Israeli-Arab Conflict, in a Jan. 6, 2015, Op-Ed for the Jewish Week titled “Time to Recognize the Palestinian State,” wrote:
+
+“[W]e, the Israelis, should recognize the Palestinian state, and then we should argue over the borders. Let’s name it and turn the ‘Palestinian entity’ into a state, and then we can enter into the stormy border negotiations. A political horizon and the two-state solution are both possible and achievable…
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJ1lWLqwr9TQhWO5BAjPgn6AIadP",
+  "object": "chat.completion",
+  "created": 1682690777,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2039,
+    "completion_tokens": 74,
+    "total_tokens": 2113
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There are varied opinions on whether insider trading is ethical or not. The arguments in favor of it being unethical are that it is misleading to investors and it contributes to an uneven playing field, while the opposing views suggest that it is a matter of preference and investors have the right to use insider information to increase their profits. Therefore, the argument quality of this text is medium."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

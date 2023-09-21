@@ -1,0 +1,135 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should felons who have completed their sentence be allowed to vote?
+Text: Last updated on: 8/6/2021 | Author: ProCon.org
+
+Should People Who Have Completed Felony Sentences Be Allowed to Vote?
+
+General Reference (not clearly pro or con)
+
+German Lopez, Senior Correspondent for Vox.com, in a Sep. 18, 2020 article, “The State of Ex-Felons’ Voting Rights, Explained,” available at vox.com, stated:
+
+“Preventing people with criminal records from voting in the US goes back to the colonial era and the concept of “civil death” — the notion that some bad actions effectively left a person dead in terms of civic engagement. But there’s also a uniquely American, racist twist to this story, rooted in Jim Crow.
+
+Felony disenfranchisement laws were part of the push after the Civil War, particularly in the South, to limit civil rights gains following the end of slavery and ratification of the 13th, 14th, and 15th constitutional amendments protecting minority rights. This resistance also included the Jim Crow laws that legally enforced racial segregation, as well as other limits on Black voting power. Undoing all of this has been a decades-long project for civil rights activists.
+
+For example, after the South lost the Civil War, state lawmakers in Florida enacted laws — the Black Codes — to constrain Black rights. They created crimes, such as disobedience and ‘disrespect to the employer,’ that could be enforced in a way that would target and criminalize Black people in particular.”
+
+Sep. 18, 2020
+
+Chris Uggen, PhD, Ryan Larson, Sarah Shannon, PhD, and Arleth Pulido-Nava, writing for the Sentencing Project, a group that tracks and works against the disenfranchisement of people with felony convictions, in an Oct. 30, 2020 report, “Locked Out 2020: Estimates of People Denied Voting Rights Due to a Felony Conviction,” available at sentencingproject.com, stated:
+
+“–As of 2020, an estimated 5.17 million people are disenfranchised due to a felony conviction, a figure that has declined by almost 15 percent since 2016, as states enacted new policies to curtail this practice. There were an estimated 1.17 million people disenfranchised in 1976, 3.34 million in 1996, 5.85 million in 2010, and 6.11 million in 2016.
+
+–One out of 44 adults – 2.27 percent of the total U.S. voting eligible population–is disenfranchised due to a current or previous felony conviction.
+
+–Individuals who have completed their sentences in the eleven states that disenfranchise at least some people post-sentence make up most (43 percent) of the entire disenfranchised population, totaling 2.23 million people.
+
+–Rates of disenfranchisement vary dramatically by state due to broad variations in voting prohibitions. In three states – Alabama, Mississippi, and Tennessee – more than 8 percent of the adult population, one of every thirteen people, is disenfranchised.
+
+–We estimate that nearly 900,000 Floridians who have completed their sentences remain disenfranchised, despite a 2018 ballot referendum that promised to restore their voting rights. Florida thus remains the nation’s disenfranchisement leader in absolute numbers, with over 1.1 million people currently banned from voting – often because they cannot afford to pay court-ordered monetary sanctions or because the state is not obligated to tell them the amount of their sanction.
+
+–One in 16 African Americans of voting age is disenfranchised, a rate 3.7 times greater than that of non-African Americans. Over 6.2 percent of the adult African American population is disenfranchised compared to 1.7 percent of the non-African American population.
+
+–African American disenfranchisement rates vary significantly by state. In seven states – Alabama, Florida, Kentucky, Mississippi, Tennessee, Virginia, and Wyoming – more than one in seven African Americans is disenfranchised, twice the national average for African Americans.
+
+–Although data on ethnicity in correctional populations are still unevenly reported, we can conservatively estimate that over 560,000 Latinx Americans or over 2 percent of the voting eligible population are disenfranchised.
+
+–Approximately 1.2 million women are disenfranchised, comprising over one-fifth of the total disenfranchised population.”
+
+Oct. 30, 2020
+
+PRO (yes)
+
+Pro
+
+Tarra Simmons, JD, Washington State Representative (D), who was formerly incarcerated for felony theft and drug crimes, as quoted by Quinn Scanlan in an Apr. 9, 2021 article, “Some States Work to Expand Voting Rights for People with Felony Convictions,” available at abcnews.go.com, stated:
+
+“When you are told that you are not worthy of being a part of that collective decision making, it’s like another layer of stigma that you walk through the world with, and that internalized message that I am not worthy … that this community doesn’t want me here is what leads people to being isolated. In that isolation, people are more likely to relapse with their substance use disorder or commit a new crime because they’re not connected…
+
+The years of time that people spend in prison is a sufficient deterrent, is a sufficient punishment. When we over punish people, when we saddle them with thousands of dollars of court fines and fees and we take away the right to vote and we tell them that they can’t get a job or a place to live — all of that is actually harming all of us because that’s creating more crime.”
+
+Apr. 9, 2021
+
+Pro
+
+Amy Fettig, Executive Director of the Sentencing Project, in an Oct 30, 2020 interview with Kristen O’Toole, “The Sentencing Project Takes on Felony Disenfranchisement,” available at squarespace.com, stated:
+
+“We also know that the overwhelming majority of Americans favor restoring voting rights to people who have either completed their sentences, or are living in the community while on probation or parole. Those voices and that commitment to democracy should be heard and reflected in our laws and policies at the local and national level…
+
+We believe that the bedrock of any democracy is the right to vote. Laws that exclude people from voting have destabilized communities and families in America for decades by denying them a voice in determining their futures.”
+
+Oct 30, 2020
+
+Pro
+
+Joel Castón, Advisory Neighborhood Commission 7F Commissioner in Washington, DC, who is currently incarcerated, in a July 26, 2021 article, “A Seat at the Table,” available at inquest.com, stated:
+
+“Whenever we enfranchise the incarcerated population or someone who was once justice-involved, once that individual is fully enfranchised then they can obtain true citizenship…
+
+If you have an incarcerated population who are functioning in the democratic process, my belief is that that same mindset will follow individuals once they transition back to society. We know the results we receive when we’re always doing the same thing. If we want something different, or get different results, we have to do something different. Enfranchisement of one of us proves that you can enfranchise all of us. Allowing one of us to have a seat proves that you can allow all of us to have a seat. We were once on the wrong side of things, now we’re on the right side of things. We were once a part of the problem, now we want to be a part of the solution.”
+
+July 26, 2021
+
+Pro
+
+Kwame Akosah, JD, Equal Justice Works Fellow at the Brennan Center for Justice, stated the following in a Mar. 4, 2017 article “Restore Ex-Felons’ Voting Rights — It’s the Right Thing,” available on the Miami Herald website:
+
+“Over the past two decades, states across the country have made significant progress scaling back archaic laws that collectively deny voting rights to millions of Americans with criminal convictions in their past. But Florida is not one of them: The state has a 150-year-old law that bans people from voting for life if they have a conviction.
+
+Imagine if nearly every adult citizen living in Miami-Dade County lost their right to vote. By the numbers, that is the reality in Florida. According to estimates from the Sentencing Project, nearly 1.5 million citizens across Florida have permanently lost the right to vote even though they have fully completed their sentences…
+
+[V]oters should consider the importance of a second chance to someone who has committed a crime in his or her past, but is now part of the community and trying to care for themselves and their families just like everyone else. It is hard to do that without a voice in our government.”
+
+Mar. 4, 2017 - Kwame Akosah, JD
+
+Pro
+
+Barack Obama, JD, 44th President of the United States, stated the following in his July 14, 2015 speech “Remarks by the President at the NAACP Conference,” available at whitehouse.gov:
+
+“[O]n Thursday, I will be the first sitting President to visit a federal prison.  And I’m going to shine a spotlight on this issue, because while the people in our prisons have made some mistakes – and sometimes big mistakes – they are also Americans, and we have to make sure that as they do their time and pay back their debt to society that we are increasing the possibility that they can turn their lives around… if folks have served their time, and they’ve reentered society, they should be able to vote.”
+
+July 14, 2015 - Barack Obama, JD
+
+Pro
+
+Eric H. Holder, JD, US Attorney General, stated the following in his Feb. 11, 2014 speech “Attorney General Eric Holder Delivers Remarks on Criminal Justice Reform at Georgetown University Law Center,” available at www.justice.gov:
+
+“In many states, felony disenfranchisement laws are still on the books. And the current scope of these policies is not only too significant to ignore – it is also too unjust to tolerate…
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJUE9s36wIi4H6MAqR6NOVBueNMe",
+  "object": "chat.completion",
+  "created": 1682692542,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1718,
+    "completion_tokens": 24,
+    "total_tokens": 1742
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text is not clear in presenting a definite argument, therefore it cannot be assigned a \"well-writtenness\" label."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W0kUqFPUoCiApLEI1Xz4aweCgmOb",
+  "object": "chat.completion",
+  "created": 1687863730,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The provided text token does not include an argument, so a prediction cannot be made."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2933,
+    "completion_tokens": 17,
+    "total_tokens": 2950
+  }
+}

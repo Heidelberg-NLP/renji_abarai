@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W22S4OTwtiz4uqy7FCpRylzt5eK6",
+  "object": "chat.completion",
+  "created": 1687868688,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text does not provide a clear stance on whether drinking milk is healthy for humans. It mostly presents different arguments for and against flavored milk. Thus, the label is \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2203,
+    "completion_tokens": 36,
+    "total_tokens": 2239
+  }
+}

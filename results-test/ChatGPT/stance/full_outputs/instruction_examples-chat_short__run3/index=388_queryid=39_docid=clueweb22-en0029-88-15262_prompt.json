@@ -1,0 +1,189 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should federal minimum wage increase
+Text: Advertiser Disclosure
+
+Minimum Wage
+
+Home > Jobs & Unemployment > Minimum Wage
+
+The federal minimum wage is the lowest hourly wage an employer can legally pay, with some exceptions. Nearly 1.6 million Americans, 1.9% of hourly workers, make the federal minimum wage of $7.25 an hour.
+
+It was established in 1938 as part of the Fair Labor Standards Act as a way to set a fair guideline for worker pay, as well as to boost the post-Great Depression economy.
+
+At the time it was established, it was 25 cents an hour. It’s been increased periodically over the years, the last time in 2009. Some workers can be paid less than the hourly wage, and self-employed workers and tip workers come under different rules.
+
+States can set their own minimum wages, and so can local governments.
+
+Federal Minimum Wage vs. State
+
+A state doesn’t have to have a minimum wage law, but as of 2021, 29 states and Washington, D.C., did. A state with its own law can make the wage lower, equal to or higher than the federal minimum wage.
+
+Federal minimum wage overrides state if the state wage is lower. It doesn’t if the state wage is higher. Hourly workers who come under Fair Labor Standard Act guidelines, which most hourly workers do, always get the higher wage. Some cities have higher minimum wage laws than their state wage. In those cases, too, the higher wage prevails.
+
+If a state has no minimum wage law, the federal wage prevails.
+
+What Happens if a State’s Minimum Wage Is Lower Than the Federal Minimum Wage?
+
+In places where the state minimum wage is lower than the federal wage, workers who come under the Fair Labor Standards Act earn the federal wage.
+
+If workers don’t come under the FLSA, they can be paid less. Georgia, Oklahoma and Wyoming have minimum wages lower than the federal wage.
+
+Georgia and Wyoming’s are both $5.15 an hour. In Oklahoma employers pay the federal minimum wage if their business is a certain size that’s more generous than federal requirements. If not, workers get $2 an hour.
+
+Do States Have to Follow the Federal Minimum Wage?
+
+States are required to follow federal minimum wage law. States can pass their own laws to make the wage higher, equal to or lower than the federal law, but they can’t make other changes that overrule the federal law, for instance, who is exempt or how many hours constitutes a work week.
+
+Check Out Our Guide to COVID-19 Relief
+
+Federal Minimum Wage
+
+The federal minimum wage is $7.25 an hour at the start of 2021. The wage was last increased in 2009, the longest it has ever gone without an increase.
+
+The act also requires that workers who are paid by the hour get an overtime rate of 1.5 times the standard wage for more than 40 hours worked in a week and sets rules for child labor, equity and more.
+
+Exceptions to Federal Minimum Wage
+
+Some hourly workers can be paid less than the federal minimum wage, though an employer can’t just decide who to pay less.
+
+Employers that come under the FLSA must get a certificate for exempt workers that’s issued by the Wage and Hour Division of the federal Department of Labor.
+
+Businesses that come under federal wage rules have annual sales of at least $500,000 or are engaged in interstate commerce. Any business that gets or sends mail to another state, makes phone calls to or takes orders from another state is engaged in interstate commerce, so that’s most businesses.
+
+Employee exceptions to the federal minimum wage for FLSA businesses are:
+
+  • Vocational education students 16 or older in jobs they’re studying for, referred to “student learners” in federal law, may be paid 75% of the federal minimum.
+  • Full-time students in retail or service jobs, agriculture or higher education institutions may earn 85% of the federal minimum.
+  • Workers under age 20 may earn $4.25 for their first 90 calendar days (not work days) before getting the full minimum.
+  • People who have a physical or mental disability that impairs their ability to fully earn or be productive, don’t have to be paid the minimum wage.
+
+Tipped Employees
+
+The federal minimum wage for tipped employees is $2.13 an hour. Tipped workers aren’t the same as workers who are exempt from the federal minimum. Tips, added to the lower hourly wage, must meet the federal minimum.
+
+Many state laws have other provisions for tipped pay, but they are still required to meet the federal hourly minimum of $7.25 with a combination of pay and tips, and to pay at least the federal minimum of $2.13 an hour.
+
+Federal Rules Don’t Apply
+
+Businesses that don’t come under FLSA rules may be seasonal amusement parks, newspapers with circulations less than 4,000, small farms and more. If you’re not sure if your job qualifies, and you’re being paid less than minimum wage, check with your state’s labor office.
+
+Self-employed and contract workers also don’t come under minimum wage rules, and the IRS has strict rules about who qualifies as self-employed and who doesn’t.
+
+Minimum Wage by State
+
+As of Jan. 1, 2021, 29 states and Washington, D.C. had their own minimum wage. Some of the states have complex structures for who gets paid what and how the wage increases annually, and 15 states have areas with different minimum wages. It’s best to check your state’s government website to find out how it works in your state.
+
+Minimum Wage by State
+
+  • Alabama $7.75
+  • Alaska $10.34
+  • Arizona $12.15 (increases annually based on cost of living) $15/$12 tipped wage in Flagstaff
+  • Arkansas $11
+  • California $14 (increases to $15 Jan. 1, 2022; rises annually with consumer price index beginning in 2023; several cities have higher wage)
+  • Colorado $12.32/$14.77 in Denver
+  • Connecticut $12 (increases to $13 Aug. 1, 2021 step increases to $15 June 1, 2023; employment cost index beginning 2024)
+  • Delaware $9.25
+  • Florida $8.65 (COL annual increase)
+  • Georgia $5.15 ($7.25 for FLSA employees)
+  • Hawaii $10.10
+  • Idaho $7.25
+  • Illinois $11 ($12 beginning Jan. 1, 2022, rises $1 a year through Jan. 1, 2025) $14/$8.40 tipped wage in Cook County
+  • Indiana $7.35
+  • Iowa $7.25
+  • Kansas $7.25
+  • Kentucky $7.25
+  • Louisiana $7.25
+  • Maine $12.15 (CPI annual increase) $13 in Portland beginning 2022, rises $1 a year through 2024, then COL annual increase)
+  • Maryland $11.75 (step increases to $15 in 2025) $3.63 tipped wage; $14/$4 in Montgomery County
+  • Massachusetts $13.50 ($14.25 in 2022; $15 in 2023)
+  • Michigan $9.87 (annual step increases to $12.05 Jan. 1, 2030)
+  • Minnesota $10.08; $13.25 in Minneapolis; $12.50 in St. Paul; all rates include tipped wages.
+  • Mississippi $7.25
+  • Missouri $10.30 ($11.15 beginning Jan. 1, 2022; $12 in 2023; COL annual increase/decrease beginning 2024); $5.15 tipped wages;
+  • Montana $8.75 (COL annual increase)
+  • Nebraska $9
+  • Nevada $9 without health benefits; $8 with (annual increases to $12 July 1, 2024)
+  • New Hampshire $7.25
+  • New Jersey $12 (annual increases to $15 in 2024, then CPI annual increase)
+  • New Mexico $10.50 (annual increases to $12 in 2023) $12.10 in Santa Fe City; tipped wage varies in five counties.
+  • New York $12.50 base, $15 for some New York City workers, ranges from $14-15 based on industry and region; all increase to $15 Dec. 31, 2021.
+  • North Carolina $7.25
+  • North Dakota $7.25
+  • Ohio $8.80/$7.25 for employers grossing $299,000 annually or less.
+  • Oklahoma $7.25 for businesses with at least 10 full-time employees at any one location; annual sales over $100,000 with any number of employees/ $2 otherwise for non FLSA workers.
+  • Oregon $12, $13.25 in Portland urban area, both include tipped wage ($13.50,$14.75 by July 1, 2022)
+  • Pennsylvania $7.25
+  • Rhode Island $11.50
+  • South Carolina $7.25
+  • South Dakota $9.45 (annual indexed increases)
+  • Tennessee $7.25
+  • Texas $7.25
+  • Utah $7.25
+  • Vermont $11.75
+  • Virginia $7.25
+  • Washington $13.69, $16.69 in Seattle, SeaTac $16.57, all include tipped wages (annual indexed increases)
+  • Washington, D.C. $15 (annual CPI increases beginning July 1, 2021)
+  • West Virginia $8.75
+  • Wisconsin $7.25
+  • Wyoming $5.15 ($7.25 for FLSA employees)
+
+Will the Minimum Wage Increase?
+
+The U.S. House of Representatives has included a federal minimum wage raise to $15 an hour by 2025, in the $1.9 million coronavirus relief package.
+
+If it passes as written, it would go into effect 30 days after passage. Minimum wage hourly workers would get a raise to $9.50 an hour, and tipped workers’ wage would be $4.95. The wage would rise to $11 in 2022, with the tipped wage increasing to $6.95. Yearly increases would bring both to $15 in 2025.
+
+The Raise the Wage Act would:
+
+  • Index increases after 2025
+  • Phase out subminimum wage for tipped workers
+  • Phase out subminimum wage for workers under 20
+  • End subminimum wage certificates for workers with disabilities
+
+The relief package passed the House, but also has to be approved by the Senate, where it will get a tougher reception.
+
+The wage hike is favored by President Joe Biden, who proposed it in his America Rescue Act on Jan. 20. He also favors eliminating the separate wage for tipped employees and sub-minimum wage for people with disabilities.
+
+If it doesn’t pass, some in Congress have indicated they would favor a wage hike that’s not as steep as the proposed $15.
+
+Pros and Cons of a $15 Minimum Wage
+
+Pros of a $15 Minimum Wage
+<USER>

@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W1MWFtjfTAeYmgYCUvGLhZ7UFTpT",
+  "object": "chat.completion",
+  "created": 1687866088,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, I'm an AI language model, and I'm unsure about what your question or request is. How may I assist you today?"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2589,
+    "completion_tokens": 30,
+    "total_tokens": 2619
+  }
+}

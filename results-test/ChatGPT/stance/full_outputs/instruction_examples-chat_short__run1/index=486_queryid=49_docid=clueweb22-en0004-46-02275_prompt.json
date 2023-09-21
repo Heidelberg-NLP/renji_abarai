@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should body camera mandatory police
+Text: Body Worn Camera Policy | San Jose Police Department, CA
+  • San Jose Police Department gate sign
+Crime Stoppers - Submit a tip anonymously, earn a reward!
+
+Northern California Most Wanted - Safeguard your community by reporting wanted criminals
+
+Body Worn Camera Policy
+
+Print
+Share & Bookmark, Press Enter to show all options, press Tab go to next option
+
+1. Background, Scope and Purpose
+
+The Department adopts the use of body-worn cameras to visually and audibly record specific categories of interactions between officers and the public and to retain associated video for a period of time. Officers shall utilize the device in accordance with the provisions of this policy.
+
+2. User Training
+
+The Department shall ensure that each officer is trained in the use of the body-worn camera prior to issuance and deployment. The training shall include:
+
+  1. Training on operation (including when to activate and deactivate), maintenance and care;
+  2. Training on mandatory, discretionary and non-permissible uses of body-worn cameras;
+  3. Periodic training on significant changes in the law pertaining to body worn cameras;
+  4. Additional training at periodic intervals to ensure continued effective use of the body-worn camera equipment, performance, and to incorporate changes, updates or other revisions in policies and equipment.
+
+3. Officer Responsibilities
+
+Each uniformed officer assigned a body-worn camera and working a patrol assignment, including pay cars, is responsible for ensuring that they are equipped with a Department-issued body-worn camera and that the camera is fully charged and in good working order at the beginning of their shift. If a device is in need of repair, members will notify their supervisor and turn the body-worn camera into Central Supply for repair or replacement. Actual time spent testing or reporting damage to a body-worn camera shall be regarded as time worked.
+
+Uniformed officers should wear the camera on their uniform at a location that will facilitate an optimum recording field of view.
+
+Officers shall not deliberately remove, dismantle or tamper with any hardware and/or the evidence management software component of the body-worn camera.
+
+Each officer is responsible for ensuring that their assigned body-worn camera is downloaded/ uploaded during their shift as needed or at the completion of their shift, or at any time the device’s memory is deemed to be full. Actual time spent downloading/uploading the body- worn camera files at the completion of an officer’s shift shall be considered booking evidence and regarded as time worked.
+
+Media captured via the body-worn camera shall only be downloaded/ uploaded to Department- approved secure storage. Since the content of the recording may be considered evidence, and are considered Department records of investigation, officers will comply with all sections in the Duty Manual regarding the handling of evidence and official Department records.
+
+4. Supervisor Responsibilities
+
+Supervisors will ensure that officers utilize the body-worn camera according to these policy guidelines.
+
+Supervisors shall ensure videos related to Officer-Involved Incidents, as defined in Section 16, are uploaded/downloaded as soon as possible following the event or as requested by a supervisor.
+
+Supervisors completing a Use of Force investigation where a body-worn camera was used should review the video and follow procedures set forth in Duty Manual Section L 2605 (Supervisor’s Responsibilities).
+
+Supervisors may have the ability to immediately resolve citizen complaints by viewing video captured by the officer’s body-worn camera prior to contacting the citizen. At no time, except at the direction of the Chief or designee, shall the supervisor allow the citizen to view the file footage. In those circumstances where a complaint is resolved with no further action needed, supervisors shall make notes in the CAD event.
+
+5. When to Activate
+
+There are many situations when to activate the body-worn camera, however, this policy is not intended to describe every possible circumstance.
+
+The safety of officers and members of the public is the highest priority, and the Department acknowledges there may be situations in which operation of the device is impractical or may be an impediment to public and officer safety. Additionally, the Department recognizes human performance limitations during particularly stressful, critical situations.
+
+Officers shall make every effort to record non-enforcement contacts should they become confrontational, assaultive or enforcement-oriented. In addition to the required conditions, personnel may activate the system any time they feel its use would be appropriate and/or valuable to document an incident. Also, officers shall not be required to activate or deactivate
+
+their body-worn camera based solely on the requests or demands of a citizen, but rather rely on their training and this policy to direct their use of the body-worn camera.
+
+During their shift, officers shall make every reasonable effort to activate the body-worn camera prior to initiating, or as soon as practical after initiating, the following police actions:
+
+  1. All enforcement encounters where there is at least reasonable suspicion the person(s) has committed, is committing or may be involved in criminal activity. This includes, but is not limited to:
+  2. Taking or attempting to take a person into custody (e.g., arrests, protective custody of mentally disturbed person, etc.).
+  3. Enforcement encounters where there is reason to believe that the individual is committing a violation for which a citation may be issued.
+  4. All incidents involving a use of force.
+  5. All public interaction, regardless of context, that escalates and becomes adversarial.
+  6. Service of search or arrest warrants.
+  7. Suspect statements.
+  8. Witness/Victim statements (when practical).
+  9. Pursuits (when practical).
+  10. Response to complaints or calls for service.
+
+6. When to Deactivate
+
+Body-worn camera recordings shall not be intentionally terminated until the conclusion of the encounter, except for tactical or safety reasons, or the encounter no longer holds evidentiary or investigative value.
+
+Anytime the recording is terminated prior to the end of the encounter, the reason(s) should be documented both on the body-worn camera recording before deactivation and in the subsequent police report. If no police report is filed for the recorded encounter, then the reason(s) for the early termination should be recorded on the citation, CAD event or Street Check.
+
+Officers will use reasonable judgment in determining when to deactivate the body-worn camera, such as when the purpose for activation is no longer present. (Example: An officer is assigned to an outer perimeter position for an extended period of time and has no verbal or visual contact with involved parties.) (Example: Officers have secured a prisoner and are completing paperwork outside the presence of the prisoner, unless the prisoner is combative, agitated or otherwise uncooperative.)
+
+Keeping in mind that static situations may change rapidly, officers need to recognize it may be necessary to re-activate their body-worn camera unexpectedly. (Example: Officers are assigned to an outer perimeter position with their cameras turned off, and a suspect exits the residence to surrender or run from police.)
+
+Officers shall deactivate the body-worn camera when engaged in conversations with individuals with whom the officer is in a privileged relationship (e.g. spouse, attorney, police peer counselor, labor representative, minister, etc.) Officers will verbally indicate why the body- worn camera is being deactivated and will reactivate the body-worn camera at the conclusion of the private conversation if the need for recording the police encounter or investigation still exists.
+
+7. Advisement and Consent
+
+Generally, officers are not required to advise or obtain consent to utilize the body-worn camera from a private person when:
+
+  1. In a public place; or
+  2. In a location where there is an expectation of privacy (e.g., inside a building or dwelling) but the officer is lawfully present.
+
+However, when initiating a police action as described in Section #5 (When to Activate), officers shall make a reasonable effort to advise persons they are being recorded with the body-worn camera, unless the officer has reason to believe that doing so will endanger the safety of the officer or another officer or a member of the public or will interfere with the conduct of an investigation.
+
+When an officer’s legal grounds for a search of a residence is based solely on consent, they are required to both advise and obtain consent to record with a body-worn camera from the person, with legal standing, who is being recorded and/or searched. This does not apply to crimes in progress or other circumstances that would allow the officer to be lawfully present without a warrant.
+
+8. When Not to Activate
+
+Personnel are not required to activate the camera system during routine, incidental contact with a citizen, (i.e. giving directions or lunch breaks).
+
+Officers will not knowingly activate the body-worn camera in the following circumstances:
+<USER>

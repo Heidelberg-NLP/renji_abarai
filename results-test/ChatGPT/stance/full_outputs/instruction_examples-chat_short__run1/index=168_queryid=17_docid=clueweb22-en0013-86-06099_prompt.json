@@ -1,0 +1,173 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should recreational marijuana legal
+Text: Is Recreational Marijuana Legal in Illinois? | CriminalDefenseLawyer.com
+Image of Professional Top Banner
+online now!
+Connect with Criminal Defense Attorneys in your area.
+start chat
+
+Illinois Marijuana Laws on Sale and Possession
+
+While Illinois is one of the states to legalize some recreational use of marijuana, restrictions still exist. Penalties for illegal possession or sale of marijuana range from a civil infraction to a felony.
+
+By , Attorney
+Free Case Evaluation | CriminalDefenseLawyer.com
+
+Please answer a few questions to help us match you with attorneys in your area.
+
+By clicking “Submit,” you agree to the Martindale-Nolo Texting Terms. Martindale-Nolo and up to 5 participating attorneys may contact you on the number you provided for marketing purposes, discuss available services, etc. Messages may be sent using pre-recorded messages, auto-dialer or other automated technology. You are not required to provide consent as a condition of service. Attorneys have the option, but are not required, to send text messages to you. You will receive up to 2 messages per week from Martindale-Nolo. Frequency from attorney may vary. Message and data rates may apply. Your number will be held in accordance with our Privacy Policy.
+
+You should not send any sensitive or confidential information through this site. Any information sent through this site does not create an attorney-client relationship and may not be treated as privileged or confidential. The lawyer or law firm you are contacting is not required to, and may choose not to, accept you as a client. The Internet is not necessarily secure and emails sent through this site could be intercepted or read by third parties.
+
+show all options
+
+"In Nolo you can trust."
+
+— The New York Times
+  • We match 50,000 consumers with lawyers every month.
+  • Our service is 100% free of charge.
+  • Nolo is a part of the Martindale Nolo network, which has been matching clients with attorneys for 100+ years.
+master:2022-04-19_10-08-26
+
+Marijuana possession, sale, and cultivation are regulated by both state and federal law. In Illinois, marijuana is regulated under three laws: the Cannabis Control Act, the Cannabis Regulation and Tax Act, and the Compassionate Use of Medical Cannabis Program Act.
+
+As of January 1, 2020, Illinois legalized marijuana possession in limited circumstances, which can be found in the Cannabis Regulation and Tax Act. Illinois has allowed the use of medical marijuana since 2013. Outside these limits, the Cannabis Control Act regulates and penalizes unlawful acts relating to marijuana possession, sale, and cultivation.
+
+This article discusses recreational marijuana possession and sale. Different regulations that apply to medical use of marijuana are not covered here.
+
+Marijuana Possession
+
+While Illinois is one of the states that legalizes certain recreational use of marijuana, legalization is not without limits. Illinois law sets specific parameters for legal possession and use of marijuana. Acting outside the legal limits can result in civil or criminal penalties.
+
+Legalized Possession
+
+Illinois legalizes possession of marijuana for personal use by adults age 21 and older within the following limits:
+
+  • for Illinois residents, not more than 30 grams of cannabis flower, 500 milligrams of THC, or five grams of cannabis concentrate, and
+  • for nonresidents, not more than 15 grams of cannabis flower, 250 milligrams of THC, or 2.5 grams of cannabis concentrate.
+
+The law also requires that possession and use be restricted to certain locations. The law prohibits possession in places such as school grounds or in private vehicles (unless sealed and inaccessible to the driver). And a person cannot use (smoke) marijuana in any public place, in vehicles, on school grounds, or where smoking tobacco is prohibited. Other restrictions can be found in Illinois Statutes, chapter 410, section 705, article 10.
+
+Driving under the influence of marijuana remains illegal and dangerous.
+
+(410 Ill. Comp. Stat. § 705/10 (2019).)
+
+Prohibited Possession
+
+The following penalties apply to marijuana possession by a person under age 21 (any amount) or adults age 21 and older outside the legalized amounts and limitations.
+
+  • 10 grams or less is a civil violation, punishable by a fine of $100 to $200.
+  • More than 10 but not more than 30 grams is a Class B misdemeanor, punishable by up to six months' incarceration and a $1,500 fine.
+  • More than 30 but not more than 100 grams is a Class A misdemeanor, punishable by incarceration of less than one year and a fine of up to $2,500.
+  • More than 100 but not more than 500 grams is a Class 4 felony, punishable by incarceration of one to three years.
+  • More than 500 but not more than 2,000 grams is a Class 3 felony, punishable by incarceration of two to five years.
+  • More than 2,000 but not more than 5,000 grams is a Class 2 felony, punishable by incarceration of seven to 14 years.
+  • More than 5,000 grams is a Class 1 felony, punishable by incarceration of four to 15 years.
+
+A person convicted of a felony faces a possible fine of up to $25,000. Repeat convictions may be subject to enhanced penalties and mandatory minimum sentences.
+
+(410 Ill. Comp. Stat. § 705/10; 720 Ill. Comp. Stat. § 550/4; 730 Ill. Comp. Stat. §§ 5/5-4.5-50, -5-3 (2019).)
+
+Additional Penalties for a Person Younger Than 21
+
+Fake ID. A person younger than 21 who attempts to purchase marijuana using false identification commits a Class A misdemeanor.
+
+Revocation of driving privileges. The use of a fake ID or illegal possession of marijuana by a person younger than 21 can result in suspension or revocation of driving privileges. (410 Ill. Comp. Stat. §§ 705/10-15, 10-20 (2019).)
+
+Marijuana Sale or Delivery
+
+Except for authorized cannabis business establishments, delivery or sale of marijuana is unlawful. Transferring marijuana to any person that is contrary to law is also prohibited.
+
+Penalties for Illegal Sale or Delivery
+
+The punishment for the delivery of, or possession with the intent to deliver, marijuana depends on the amount of the substance involved.
+
+  • Up to 2.5 grams is a Class B misdemeanor, punishable by incarceration up to six months and a fine up to $1,500.
+  • Between 2.5 and ten grams is a Class A misdemeanor, punishable by incarceration of less than a year and a fine up to $2,500.
+  • More than ten grams but not more than 30 grams is a Class 4 felony, punishable by incarceration of one to three years and a fine up to $25,000.
+  • More than 30 grams but not more than 500 grams is a Class 3 felony, punishable by incarceration of two to five years and a fine up to $50,000.
+  • More than 500 grams but not more than 2,000 grams is a Class 2 felony, punishable by incarceration of three to seven years and a fine up to $100,000.
+  • More than 2,000 grams but not more than 5,000 grams is a Class 1 felony, punishable by incarceration of 15 to 30 years and a fine up to $150,000.
+  • More than 5,000 grams is a Class X felony with a fine up to $200,000.
+
+(720 Ill. Comp. Stat. § 550/5 (2019).)
+
+Enhanced Penalties for Sale or Delivery
+
+Illinois provides enhanced penalties for sales near schools or to minors.
+
+Delivery on school grounds. Any person who delivers or sells marijuana on or near school grounds (while minors might be present) can be convicted of the next higher offense level.
+
+Delivery to a minor. An adult (18 or older) who sells or delivers marijuana to a minor who is at least three years younger faces twice the maximum sentence.
+
+(720 Ill. Comp. Stat. §§ 550/5.2, 7 (2019).)
+
+Talk to an Attorney
+
+While Illinois is one of the states to legalize some recreational use of marijuana, restrictions still exist. Penalties for illegal possession or sale of marijuana range from a civil infraction to a felony. If you face charges for a marijuana crime, you should contact an attorney who specializes in drug crimes to understand the charges you face, any possible defenses or options, and the possible outcomes of your case.
+
+Talk to a Lawyer
+
+Start here to find criminal defense lawyers near you.
+
+How it Works
+
+  1. Briefly tell us about your case
+  2. Provide your contact information
+  3. Choose attorneys to contact you
+DEFEND YOUR RIGHTS
+
+Talk to a Defense attorney
+
+We've helped 95 clients find attorneys today.
+
+How It Works
+
+  1. Briefly tell us about your case
+  2. Provide your contact information
+  3. Choose attorneys to contact you
+LIVE CHAT
+Click for live chat!
+live chat
+Image of Professional
+live chat
+Get FREE personalized attorney recommendations in your area.
+Image of Chat Icon
+<USER>

@@ -1,0 +1,53 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should felons who have completed their sentence be allowed to vote?
+Text: Should Felons Be Allowed to Vote? Essay - 794 Words | Bartleby
+preview
+
+Should Felons Be Allowed to Vote? Essay
+
+Decent Essays
+Should Felons be Allowed to Vote?
+About 5.26 million people with a felony conviction are not allowed to vote in elections. Each state has its own laws on disenfranchisement. Nine states in America permanently restrict felons from voting while Vermont and Maine allow felons to vote while in prison. Proponents of felon re-enfranchisement believe felons who have paid their debt to society by completing their sentences should have all of their rights and privileges restored. They argue that efforts to block ex-felons from voting are unfair, undemocratic, and politically or racially motivated. Opponents of felon voting say the restrictions are consistent with other voting limitations such as age, residency, mental capacity, and other felon
+…show more content…
+If we thought that prisoners could not be rehabilitated, then they should not be released. If felons are released, we make a judgment that they are fit to live in society; therefore, they are capable of making trustworthy decisions.
+Moreover, not allowing felons to vote is a violation of the US Voting Rights Act of 1965. The Voting Rights Act of 1965 is a landmark piece of legislation in the United States that outlawed discriminatory voting practices that had been responsible for the widespread disenfranchisement of African Americans in the United States. Section Two of the Voting Act contains a general prohibition on voting discrimination. Furthermore, Congress amended this section to prohibit any voting practice or procedure that has a discriminatory result or prohibits a group of people from voting. New York is one state that restricts felony voting. In the New York Election Law 5-106, it clearly disqualifies a group of people, incarcerated felons and felons on parole, from voting in elections. This is a blatant violation of the Voting Rights Act of 1965.
+Further, prohibiting felons from voting is a violation of the eighth amendment of the United States Constitution. The eighth amendment prohibits excessive penalties and demands that the punishment fits the crime. As a result, states that exclude felons from voting permanently, including Alabama,
+Get Access
+<USER>

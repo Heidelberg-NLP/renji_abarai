@@ -1,0 +1,110 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should the government allow illegal immigrants to become citizens?
+Text: Should we kick illegal immigrants out of the USA? | Debate.org
+  • Foreign enemy invaders
+
+    How is it possible that letting no telling how many millions of job stealing illegal alien scum into the USA is good for the average citizen? Time for people to quit being afraid of being called racist by these thieves and send them back to their third world dumps their so proud of.
+
+  • Yes we should
+
+    I say we should. #1 They take all the jobs for less which is causing unemployment. #2 They ruin a lot of our property ( apartments, buildings, stores) They just make it dirty and infected. #3 They can't speak ENGLISH. THIS IS AMERICA you should be able to speak English if you want to come over here!!! I think its plain stupid that I have to learn another language just so they can feel better. THEY should be the ones learning English in the first place since they decided to come! Now they want us to make their holidays legal?? This is American, and until I see Pakistan or what ever celebrating Christmas, Halloween, Thanksgiving, and our American holidays I say no! I mean if you can't even come here legally....How do you except us to everything for you?? (Change laws, welfare, social security, Medicaid all that stuff you get for free that we have to pay for is being completely taken advantage of) America is being to nice. You run away from your country because of the stuff happening sooner or later were going to have to run away because of people destroying it
+
+  • Save the middle class! Send them back.
+
+    These people are not just picking fruits any more. They are stealing blue collar jobs in many areas. To be fair it's not just cheap uneducated labor from Mexico and South America it's also well educated Canadians and Others who get low cost education in the home land and then compete with American students who have to pay more for their education. This has nothing to do with racism but more about protecting the middle class, increase earnings, and opportunity for our children. Find me a Mexican American who is willing to allow illegal's from Mexico to complete for his job. As far as the children of illegals, they can find jobs in Mexico's tourist industries. They all speak English when I go down there. We cant reward their parents for illegally planting these kids here.
+
+  • Yes we should
+
+    We are a nation of law and our law has been broken. They should leave and come in according to the law of our land. Immigrants have made this country great but, immigration should be lawful and orderly. No person should be able to steal their way into any country. Come here legally and you will be welcomed with open arms.
+
+  • Yes, I do.
+
+    I believe, and this is not being racist of any kind, but I do think that we should not allow any illegal character into our country. If they broke one law, why wouldn't they break another. I believe that illegal immigrants shouldn't be allowed in the united states, for many reasons. But one includes that illegal immigrants from mexico, could be sneaking drugs or other illegal things over the border. Not all of them do this, but a large range of them do.
+
+  • Send them home
+
+    Having worked in the construction business for many years, yes these Mexican do in fact take jobs from Americans by low bidding on work, they are able to get fake ID's, vehicle registration and healthcare without going through legal channels. US laws do not apply to them, they know how to get around laws which were meant to curtail their activities but actually hamper US citizens. Just plain crazy! Send them home!!
+
+  • Being here in a nutshell is "ILLEGAL" so they DO NOT BELONG HERE!
+
+    The word illegal means "wrong". I feel if we kick illegal immigrants out of the USA we can finally get our country back. The native language of this country is English AND the flag of this country is the US flag. If someone wants to become a citizen of the USA then they should have to go through everything anyone who wants to be a citizen has to go through. Learn the language and pay taxes just like the rest of us do.
+
+  • Kick them out.
+
+    I would want for them to be here the legal way and to not march, and think we don't care they are marching on our streets that we paid to be constructed in this country by paying taxes. I know they can be useful in this country, but how about coming in the right way.
+
+  • Taking jobs from Americans and using services without paying.
+
+    Americans and legal aliens need the jobs that illegals take. Americans and legal aliens wind up paying for the services that illegals get. Many illegals hate this country and aren't interested in supporting charities, businesses and civic organizations in the US. Other countries have strick work visa rules, and they enforce them. We should do the same.
+
+  • The survival of democracy and the middle class are at stake!
+
+    First, I can't believe we have to debate the validity of an illegal act. There are reasons we have laws, borders, citizenship, etc. Unfortunately, neither political party has the best interest of their constituents or the country. We have been sold out... Uneducated and dependent votes for Democrats and cheap "slave" labor, wage and benefit depression for Republican corporate donors. Unless the majority of US citizens wake up and start using what's left of their mind-washed brains, we will revert to a system where a tiny minority of the people have a super majority of the money/power, Just like modern day Mexico! Educate yourself, stop feeding your mind and body garbage, get up of the couch and do something about it.
+
+    Reasons not to continue down the slippery slope of illegal alien amnesty:
+
+    Unlike almost all previous "legal" immigrants to this country, a majority of the current "illegal" immigrants refuse to assimilate to the language and customs of this country. This is largely due to their low education and socioeconomic status. This is what growing up in a third world country produces. Why do you think Mexico is so happy to send them north? The rich in Mexico won't take care of them because they know "we" will.
+
+    Illegal immigrants may bring with them "cheap labor" but at what cost? We end up paying for their housing, medical and education through welfare and subsidies. Don't be fooled into thinking they will pay taxes! Look at the typical illegal immigrant family. Lot's of dependents and low reported wages. That equals NO tax revenue.
+
+    Do I need to mention the crime associated with illegal immigrants? Do some homework and get the actual statistics involving illegal immigrants, crime rates where they live, etc. The facts will speak clearly.
+
+    Lastly, we can't afford to take care of the people and problems we currently have! Why in the world are the traitors in DC even contemplating this? WHY? To those of you who say it is the compassionate thing to do, why stop with Mexico? Why not allow every underprivileged person in the world a free ticket and pass here. We can afford it, right?
+
+    This is about the erosion of the middle class. The middle class IS the back bone and truly the reason the USA is a democracy. It seems we have been sold out to the highest bidder and vote. Ironically, the moronic masses keep voting for the traitors. I guess the bumper sticker I recently read holds some truth. "Never underestimate the power of a large number of stupid people."
+
+  • Separated from the Family
+
+    If we kicked out illegal immagrants my mom would be separated from my family and I'm only 13! With a brother who is 6 with a jobless Dad! You racist jerks! Most illegal immigrants are most of the workers of the economy to provide what the country has today! Dueces!
+
+  • Should we kick immigrants out of the USA.
+
+    No, it's not fair. Us Mexicans want respect just like whites. And when whites go to Mexico,Mexicans don't kick them out or do we? Not all Mexicans are bad, not everyone will get pushed around because of our color. I bet whites wouldn't like it if we Mexicans kicked them out of Mexico.
+
+  • We should not kick them out of the USA.
+
+    No, we should not kick them out. Us Mexicans have the right to be in the country just like you whites. People all over the world have the right to visit some other country. No one deserves to get kicked out of a country because they are illegal. Just give them a chance.
+
+  • There are Americans who wouldn't even try to do the work that the hard working immigrants do as a living.
+
+    Who are we to kick out these innocent people who want to come to the United States of America to truly seek a better life for themselves and/or their families? Who are we to say, “These immigrants are taking our jobs?” In opposition, there are homeless Americans who don’t even try to do better for themselves or families even though they were already born here. These homeless Americans are beggars. Why don’t they go out into the hot sun, and work under conditions that Americans may consider unbearable? These migrant labor workers are sometimes immigrants, but are doing nothing wrong. They are just working under these difficult conditions to make a better life for their families instead of being lazy bums. Americans who are trying to kick every immigrant out of the United States and are enforcing the immigration laws have no clue what it’s like to work under the scorching sun in unbearable conditions. Here is a clip of Stephen Colbert who did an experiment and testified it at a House immigration hearing: https://www.Youtube.Com/watch?V=9Of4EFOghk4. Americans are trying to kick these innocent dream seekers out of this country; even though they are the ones picking the fruits and vegetable not only to make a living, but also, so that the most obese country in the world will eat a little healthy. (http://www.Fool.Com/investing/general/2013/05/20/the-9-most-obese-countries-in-the-world.Aspx).
+
+  • Are we setting a good example?
+<USER>

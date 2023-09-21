@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2evtMxbU9fVtoN6WB4SQBIBqHYA",
+  "object": "chat.completion",
+  "created": 1683104513,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1144,
+    "completion_tokens": 92,
+    "total_tokens": 1236
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "ation\" are also sometimes referred to as educational philosophies. These philosophies examine the purpose and nature of education, and provide a framework for both understanding and assessing educational practices. Some examples of educational philosophies include perennialism, progressivism, and critical theory. Each of these philosophies approaches education from a unique perspective and has its own set of goals, values, and ideals. The study and analysis of educational philosophies is an important part of education sciences."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should everyone get universal basic income
+Text: What Is Universal Basic Income?
+
+Universal Basic Income Explained
+
+couple reviewing bills at a laptop
+••• Photo by JGI/Jamie Grill/Getty Images
+
+Universal basic income (UBI) is a government-guaranteed payment that each citizen receives. It is also called a citizen’s income, guaranteed minimum income, or basic income.
+
+The intention behind the payment is to provide enough to cover the basic cost of living and establish a sense of financial security for everyone. The concept is also seen as a way to offset job losses caused by technology. Learn more about how it works, its pros and cons, and what it might look like in the U.S.
+
+Definition and Examples of Universal Basic Income
+
+Universal basic income is a program where every citizen receives a flat monthly payment, regardless of whether they're working and earning an income.
+
+Different programs outline who exactly receives the income—some state that all citizens would get it regardless of what they make, while other programs may only give it to those who fall below the poverty line. One proposal would pay just those left jobless due to robotics, a plan that 48% of Americans support.1
+
+  • Alternate names: Citizen’s income, guaranteed minimum income, or basic income
+  • Acronym: UBI
+
+In 1967, Martin Luther King Jr. argued that a guaranteed income would directly abolish poverty.2
+
+How Universal Basic Income Works
+
+Proponents of universal basic income vary widely in their views of how to fund and execute the program. Some plans call for a tax increase on the wealthy, while others say corporations should be taxed.
+
+Economist Milton Friedman proposed a negative income tax. The poor would receive a tax credit if their income fell below a minimum level. It would be equivalent to the tax payment for the families earning above the minimum level.3 
+
+In 2018, Facebook co-founder Chris Hughes outlined his plan in his book "Fair Shot."4 He argued that U.S. workers, students, and caregivers making $50,000 or less a year should receive a guaranteed income of $500 a month.
+
+“Cash is the best thing you can do to improve health outcomes, education outcomes and lift people out of poverty,” Hughes has said in interviews. His guaranteed income plan is financed by taxes on the top 1%. It would work through a modernization of the earned income tax credit.
+
+Sir Richard Branson said a guaranteed income is inevitable because automation has fundamentally changed the structure of the U.S. economy. Similarly, Elon Musk said robotics will take away most people’s jobs, so a universal income is the only solution.
+
+Pros and Cons of Universal Basic Income
+
+Pros
+  • Workers could wait for better jobs or better wages
+
+  • Freedom for people to return to school or stay home to care for a relative
+
+  • May help remove the "poverty trap" from traditional welfare programs
+
+  • Simple, straightforward financial assistance that minimizes bureaucracy
+
+  • Lower administrative costs than with traditional welfare
+
+  • More money for young families
+
+  • Economic stability during recessions
+
+Cons
+  • Could trigger inflation
+
+  • No increased standard of living in the long run
+
+  • Reduced program wouldn't make real difference
+
+  • Free income may not incentivize people to get jobs
+
+  • Could perpetuate falling labor force participation rate
+
+  • Many oppose giving money to the unemployed
+
+Pros Explained
+
+  • Workers could wait for better situations: An unconditional basic income would enable workers to wait for a better job or negotiate better wages.5
+  • Freedom for people to return to school or stay home to care for a relative: Workers could improve their marketability by going back to school. They would feel less pressure to keep a job if they needed to take time to care for a relative.
+  • May help remove the "poverty trap" from traditional welfare programs: Many existing welfare programs are criticized for keeping people below the poverty line. Oftentimes, if welfare recipients make too much, they lose food stamps, free medical care, and housing vouchers, even if their income is still unequal to the cost of living. A basic income could serve as a supportive springboard rather than a chain to the welfare system.6
+  • Simple, straightforward financial assistance that minimizes bureaucracy: Current welfare programs are also complicated for administrators and recipients. A universal income would replace housing vouchers, food stamps, and other programs.
+  • Lower administrative costs than with traditional welfare: The simplicity of the program means it would also cost governments less. Cash payments that went to everyone would eliminate costly income-verification paperwork.
+  • More money for young families: Some countries are concerned about falling birth rates. A guaranteed income would give young couples the confidence they need to start a family.
+  • Economic stability during recessions: From a macro-economic viewpoint, it would give society a much-needed ballast during a recession.
+
+Cons Explained
+
+  • Could trigger inflation: If everyone suddenly received a basic income, it could create inflation. Most would immediately seek to spend the extra cash, driving up demand and, eventually, raising prices.
+  • No increased standard of living in the long run: Higher prices would soon make the basics unaffordable to those at the bottom of the income pyramid. In the long run, a guaranteed income would not raise their standard of living.
+  • Reduced program wouldn't make a real difference: A guaranteed income that’s enough to eliminate poverty would be too expensive. That makes a truly effective program a difficult investment.
+  • Free income may not incentivize people to get jobs: Oren Cass, a senior fellow at the Manhattan Institute, says it would make work seem optional.7 Many recipients might prefer to live on the free income and would not acquire work skills or a good resume.
+  • Could perpetuate falling labor force participation rate: This cycle could prevent some from ever getting a good job in a competitive environment, thus reducing an already-falling labor force participation rate.
+  • Many oppose giving money to the unemployed: This "no strings attached" income is difficult for some people to support. They fear that it incentivizes people to stay unemployed and live only off of welfare.
+
+Studies of areas that have implemented some form of UBI have found that it does not impact overall labor force participation rate, and may in some cases increase employment.8
+
+How Much Would UBI Cost the U.S.?
+
+In 2012, there were 163 million Americans in the labor force.9 It would have cost $2.04 trillion to pay each of them $12,490 (the poverty level for one person in 2019) for that year.10 Some of that cost would be curbed by cutting redundant welfare programs and other forms of consolidation, but it would still likely add to the national deficit.11
+
+Passing a plan robust enough to make a real impact would be difficult to do in the U.S. Over half of Americans oppose universal basic income.12 Many would only support it if tech companies paid for it. Even raising the U.S. minimum wage has been difficult, despite the fact that 67% of Americans are in favor of increasing it to $15 per hour.13
+
+Guaranteed Income History in the US
+
+In fact, there have been a number of attempts at getting UBI off the ground in the U.S. In 1968, President Johnson's administration launched a test of the negative income tax in New Jersey.
+
+It found that welfare recipients received a higher payment from that program than they did from the standard income tax. A higher-paying program was tested in Seattle and Denver. Results of both studies did find a reduced incentive to work.14
+
+Today, the earned income tax credit is a form of guaranteed income. It provides a percentage tax credit for every dollar of earned income up to a maximum credit. Since the credit increases along with income, it promotes the incentive to work. But as the income reaches a maximum level, the tax credit phases out and decreases.15 Critics argue that creates a disincentive to earn more, which is what could happen with universal basic income, too.
+
+Economists Kalle Moene and Debraj Ray propose a payment system tied to a country’s economic output. They suggest 10% to 12% of GDP go directly to the universal income payments. This setup would cause payments to rise or fall in relation to economic output.16
+
+Which Countries Have Universal Basic Income?
+
+There are many cities, states, and countries that are experimenting with a universal basic income. Here are a few of the major ones.
+
+United States
+
+Several states in the U.S. are experimenting with different forms of UBI.
+
+  • Alaska has had a guaranteed income program since 1982.17 The Alaska Permanent Fund paid each resident an average of $992 in 2020, all out of oil revenues.18
+  • In 2017, the Hawaii state legislature passed a bill declaring that everyone is entitled to basic financial security. It directed the government to develop a solution, which may include a guaranteed income.19
+  • In Oakland, California, the seed accelerator Y Combinator began a five-year study in 2019 in which it pays 100 families between $1,000 and $2,000 a month.20
+  • In 2019, Stockton, California, began a two-year pilot program. It gave $500 a month to 125 local families.21
+  • Chicago has also considered a pilot program in which 1,000 low-income families would receive $1,000 a month.22
+
+Canada
+
+Canada recently ran a three-year universal income program. It gave 4,000 Ontario residents living in poverty 17,000 Canadian dollars a year or CA$24,000 per couple. The government forecasted it would cost CA$50 million annually.23
+
+Finland
+
+In 2017, Finland gave 2,000 unemployed people 560 euros a month for two years, even if they found work.
+<USER>

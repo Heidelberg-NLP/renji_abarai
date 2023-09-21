@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2ngJXvPWDF1V4aDGhCYYbt8BaY4",
+  "object": "chat.completion",
+  "created": 1683105056,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1894,
+    "completion_tokens": 54,
+    "total_tokens": 1948
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but this is not a proper argumentative text. Rather, it appears to be a collection of information and resources for an essay on the topic of whether social networking sites are good for society. Therefore, I cannot provide a label of rhetorical argument quality."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

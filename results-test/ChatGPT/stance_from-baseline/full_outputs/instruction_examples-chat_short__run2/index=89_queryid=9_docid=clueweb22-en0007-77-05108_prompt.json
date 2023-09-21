@@ -1,0 +1,62 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should students have to wear school uniforms?
+Text: Why Should Students Wear School Uniforms? - School Uniforms Australia
+­
+
+Why Should Students Wear School Uniforms?
+
+Why Should Students Wear School Uniforms?
+
+Uniforms form an essential part of school life in a lot of schools around the world. Students are expected to abide by a strict dress code where everyone wears the same school uniform. But why is this custom necessary? Why should all the students be made to wear the same uniform? There are a lot of reasons for this.
+
+1. Save cost
+
+Now imagine a scenario where your children are supposed to wear casual clothes everyday to school. This would mean that they would want to buy a lot of fancy clothes frequently. Add to it the impact of peer pressure and no amount of clothes would be enough for them. Now instead, if they are supposed to wear a uniform throughout the year, it solves the problem completely. Having a few pairs of uniform that would last your children at least for 2-3 years is much better than spending on new clothes every few days. Thus, a uniform substantially reduces the cost of school clothing for your children.
+
+2. Equality among student
+
+One of the biggest reasons why uniforms are promoted and appreciated throughout the world is because they promote equality among students. Since all the children come from different socioeconomic backgrounds, they would have different quality of clothes. Now if the students are to wear these different casual clothes to school, it would create a sense of inequality. Some would feel richer and have a superiority complex while others would feel poorer and have an inferiority complex. It would also make students judge each other on the basis of their clothes and the assumed socio-economic status. Now instead if all the children have to wear the same uniform, this class divide diminishes. All the students would be wearing the same dress, thus creating a sense of equality amongst them.
+
+3. Positive learning environment
+
+School is a place where students are supposed to learn and grow, personally as well as professionally. However, efficient learning requires a certain mindset. A positive learning environment is required which would felicitate the urge to learn in students. That is why schools are build in a particular way that promotes learning. However, when you allow students to wear casual clothes to school, you are taking away that sense of sincerity and seriousness out of the school environment. Instead, if you make them all wear a uniform, it would create a more structured and disciplined environment. A mindset will be created that will encourage students to focus on learning while wearing the uniform. Thus, school uniforms play a very important role in building a school environment that will encourage students to learn more and more.
+
+Apart from this, there are a lot of other reasons why school uniforms are a good idea. Basically, the idea is to promote better learning by using uniforms as a tool.
+<USER>

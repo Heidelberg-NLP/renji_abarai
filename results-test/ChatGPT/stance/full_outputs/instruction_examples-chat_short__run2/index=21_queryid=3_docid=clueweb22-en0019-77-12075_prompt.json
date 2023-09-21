@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should insider trading allow
+Text: Insider Trading Policy
+
+‹ Back to Ethics
+
+Insider Trading Policy
+
+See also:
+Code of Business Conduct & Ethics
+ADP Anti-Bribery Policy
+Code of Ethics for Principal Executive Officer and Senior Financial Officers
+Reporting an Ethical Concern
+Political Contributions Policy
+
+Jump to:
+Introduction
+Sanctions and Penalties
+Persons Covered
+Definition of Material Non-Public Information
+Requirements Applicable to Everyone
+Additional Requirements Applicable to Restricted Persons
+10b5-1 Plans
+Inquiries
+
+
+Introduction
+
+The Board of Directors of ADP has adopted this policy to provide guidelines to all directors, officers, associates and consultants of ADP with respect to trading in ADP securities, as well as the securities of publicly traded companies with whom ADP has a business relationship.
+
+This policy has been designed to prevent insider trading or even allegations of insider trading. Your strict adherence to this policy will help safeguard ADP’s reputation and will further ensure that ADP conducts its business with the highest level of integrity and in accordance with the highest ethical standards. Each ADP associate is responsible for the consequences of his or her actions. You are responsible for understanding and complying with this policy.
+
+Federal and state securities laws prohibit the purchase or sale of a company’s securities by anyone who is aware of material information about that company that is not generally known or available to the public. These laws also prohibit anyone who is aware of material nonpublic information from disclosing this information to others who may trade. Companies and their controlling persons may also be subject to liability if they fail to take reasonable steps to prevent insider trading by company personnel.
+
+It is important that you understand the breadth of activities that constitute illegal insider trading and the consequences, which can be severe. Cases have been successfully prosecuted against trading by associates through foreign accounts, trading by family members and friends, and trading involving only a small number of shares. Both the U.S. Securities and Exchange Commission (the “SEC”) and the Financial Industry Regulatory Authority (“FINRA”) investigate and are very effective at detecting insider trading. Both the SEC and the U.S. Department of Justice pursue insider trading violations vigorously.
+
+Back to top
+
+Sanctions and Penalties
+
+Violations of the insider trading laws can result in severe civil and criminal sanctions. For example, under U.S. securities laws, individuals may be subject to imprisonment for up to 20 years, criminal fines of up to $5 million and civil fines of up to three times the profit gained or loss avoided. Failure to comply with this policy may also subject you to sanctions imposed by ADP, up to and including immediate dismissal for cause, whether or not your failure to comply with this policy results in a violation of law.
+
+Back to top
+
+Persons Covered
+
+As a director, officer, associate or consultant of ADP or its subsidiaries, this policy applies to you. The same restrictions that apply to you apply to your family members who reside with you, anyone else who lives in your household, and any family members who do not live in your household but whose transactions in ADP securities are directed by you or are subject to your influence or control (such as parents or children who consult with you before they trade in ADP securities). You are responsible for making sure that any transaction in securities covered by this policy by any of these people complies with this policy.
+
+Back to top
+
+Definition of Material Non-Public Information
+
+“Material non-public information” is any material information about ADP that has not yet become publicly available.
+
+Information is “material” if a reasonable investor would likely consider it important in making a decision to buy, hold or sell securities. Any information that could reasonably be expected to affect the price of the security is material. The information may be positive or negative. Financial information is frequently material, even if it covers only part of a fiscal period or less than all of ADP’s operations, since either of these might convey enough information about ADP’s consolidated results to be considered material information. Other common examples of information that may be material include:
+
+  • information regarding sales, revenues or earnings (including projections);
+  • financial forecasts of any kind, including earnings estimates or changes in previously announced earnings estimates;
+  • significant business trends and metrics;
+  • significant proposed mergers, acquisitions, investments or divestitures;
+  • significant developments in products or services;
+  • gain or loss of substantial customers;
+  • execution or termination of significant contracts;
+  • financings or restructurings;
+  • significant unusual gains or losses;
+  • changes in business strategies;
+  • developments in significant litigation or government investigations;
+  • public or private debt or equity offerings;
+  • significant changes in senior management;
+  • ADP share repurchases; or
+  • stock splits or dividend information.
+
+It is not possible to define all categories of material information, and you should recognize that the public, the media and the courts may use hindsight in judging what is material. Therefore, it is important to err on the safe side and assume information is material if there is any doubt.
+
+Information is “non-public” if it is not generally known or available to the public. Information may still be non-public even though it is widely known within ADP.
+
+Release of information to the media does not immediately mean the information has become publicly available. Information is considered to be available to the public only when it has been released broadly to the marketplace (such as by a press release or an SEC filing) and the investing public has had time to absorb and evaluate it. Ordinarily, information about ADP should not be considered public until at least one full trading day has passed following its formal release to the market. For example, if ADP announces earnings before trading begins on a Tuesday, the first time you can buy or sell ADP securities is the opening of the market on Wednesday (assuming you are not aware of other material non-public information at that time). If, however, ADP announces earnings after trading begins that Tuesday, the first time you can buy or sell ADP securities is the opening of the market on the Thursday.
+
+Back to top
+
+Requirements Applicable to Everyone
+
+No trading in ADP securities while aware of material non-public information
+
+You are prohibited from engaging in any transaction in ADP securities while aware of material non-public information about ADP. It makes no difference whether or not you relied upon or used material non-public information in deciding to trade – if you are aware of material non-public information about ADP, the prohibition applies. You should avoid even the appearance of an improper transaction to preserve ADP’s reputation for adhering to the highest ethical standards of conduct.
+
+This prohibition covers virtually all transactions in ADP securities. “Securities” includes common stock, options to purchase common stock, debt securities, preferred stock and derivative securities such as put and call options, warrants, swaps, caps and collars. Transactions in ADP securities include purchases, sales, pledges, hedges, loans and gifts of ADP securities, as well as other direct or indirect transfers of ADP securities. Certain of these transactions are addressed in more detail below and may not be permitted under this policy. This prohibition extends to trades of ADP securities in which you have any “beneficial” or other interest, or over which you exercise investment control, including:
+
+  • transactions in ADP securities held in joint accounts or accounts of persons or entities controlled directly or indirectly by you;
+  • transactions in ADP securities for which you act as trustee, executor or custodian; and
+  • transactions in any other account or investment involving in any way any ADP securities over which you exercise any direct or indirect control.
+
+Stock Option Exercises. This prohibition does not apply to the exercise of stock options issued under ADP plans if the exercise price is paid in cash or through ADP withholding a portion of the shares underlying the options. Similarly, ADP may withhold underlying shares to satisfy tax withholding requirements. This prohibition does apply, however, to sales of the underlying stock and broker-assisted cashless exercises of options, as well as to any other market sales for the purpose of generating the cash needed to cover the costs of exercise.
+
+Vesting of Restricted Stock or Settlement of Performance Stock Units. This prohibition does not apply to the automatic deduction of shares by ADP from your restricted stock or performance stock unit account to satisfy the minimum statutory tax withholding liability upon the vesting of restricted stock or settlement of performance stock units. The prohibition does apply, however, to any open market sale of vested shares, including to satisfy tax liabilities.
+
+10b5-1 Plans. This prohibition does not apply to trades made pursuant to a valid “10b5-1 plan” approved by ADP as described below.
+
+Dividend Reinvestment Plan. This prohibition does not apply to purchases of ADP stock under the ADP dividend reinvestment plan that result from your reinvestment of dividends paid on ADP stock held in such plan. This prohibition does apply, however, to other purchases of ADP stock under the plan that result from additional contributions you choose to make to the dividend reinvestment plan, or to increases or decreases in your level of participation in the plan. This prohibition also applies to your sale of any ADP securities purchased pursuant to the plan.
+<USER>

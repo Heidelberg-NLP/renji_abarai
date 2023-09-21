@@ -1,0 +1,133 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: homework beneficial
+Text: Homework Pros and Cons | Advantages of Homework
+
+Homework pros and cons
+
+10/26/2021 | 328
+
+Homework is the word of which most of the students get feared. Even after studying in the class for continuous hours, we are still not given peace of mind. This is because we are provided with lots of homework which usually spoils our precious weekend.
+
+However, assigning homework to the students is the mandatory rule of traditional schooling. It is well known that students have different opinions about homework. Some believe that doing homework regularly helps us achieve better educational futures; others think that homework time is better spent on other activities. Let’s dive into both perspectives to make a better decision about whether students should be assigned homework.
+
+Pros of doing homework
+
+1. Homework Encourages Practice
+
+Many people think that one positive effect of homework is that it fosters the discipline of practice. While homework may be time-consuming and boring, but it is absolutely essential to improving skills. When students do their homework, they improve their understanding of concepts and gain more career opportunities.
+
+Consult Essay Writing Expert & Get Premium Essay Topics
+
+2. Homework Gets Parents Involved
+
+The homework schedule also involves the parent in the lives of the children if things become crucial. When parents help their children with their homework, they play a key role in their academic success while staying informed about what their children are doing in school. Also, it can be a great way to teach a child to move on the right path of success.
+
+3. Homework Teaches Time Management
+
+Homework is not just stuck to completing the provided task and learning the concept. Instead, it also helps the students develop time management skills, insists the students to plan accordingly plan and complete the homework within the time frame provided by the teachers.
+
+By doing this, the students can easily develop problem-solving and independent thinking skills. The other greatest positive outcome of doing homework regularly also enables the students to be mature and make the right decisions and compromises.
+
+4. Homework Opens A Bridge Of Communication
+
+The homework serves as a connection between the students, parents, teachers, and the school. The regular assigning of the homework help the parents understand their child’s progress report and determine the struggling phases of their child.
+
+On the other side, the parents/guardian will also be able to determine the strong point of their child. However, this, in turn, will allow the parents to make better education plans for the child.
+
+5. Homework Allows For More Learning Time
+
+Homework grants more time to students to complete the learning process, which was missed during school hours. The school hours are not sufficient enough to completely understand the major concepts. However, the regular homework will not only allow you to understand the core concept, ultimately benefitting students, even when they cannot see it at the time.
+
+6. Homework Reduces Screen Time
+
+According to the reports, most of the students in North America are far too addicted to watching TV. Especially when they are not at school, they spend most of their time watching TV, which is not the right thing for their health and reduces memory power.
+
+However, the burden of homework might insist the students focus on completing the homework on time, and it will also improve study habits. As a result, it discourages the student from wasting time watching TV. As another extracurricular activity, homework can be seen as a simple way to fill extra time; many parents already invest money and time into different classes or clubs for their children. Like extracurricular activities, homework can be scheduled around one’s busy schedule.
+
+Cons of doing homework
+
+1. Homework Encourages A Sedentary Lifestyle
+
+Is homework beneficial for students? Well, this thing completely depends on the progress report of the students. In contrast, there are advantages and disadvantages to having homework.
+
+All the students need to have a good playground time. Since playground time is equally important as classroom time, if children are provided lots of homework, they will rarely find time to play, which will impact their physical health.
+
+Hence, they won’t be able to focus on their studies the very next day. According to the studies, it has been determined that students who contribute more to physical health are more active and can manage to acquire better grades in school. Moreover, the regular playground time also helps the students focus more on studying with a calm and cool mind.
+
+In addition to sitting long hours in the classroom, homework assignments only increase children’s spent sitting. Sedentary lifestyles can be dangerous and have health consequences, including obesity. Physical activity cannot be done while doing homework.
+
+Hire an Essay Writer to Write your Complete Essay on Time
+
+2. Homework Isn’t Healthy In Every Home
+
+It is always believed that home is considered one of the most peaceful environments for the students to learn the core concept that is not possible while at school. However, not every home gives a peaceful environment for the students to focus on their studies.
+
+As not every parent has sufficient funds to invest in the houses. Some parents are unable to provide necessary support or homework help to their children. This is one of the reasons why homework is bad since it can create friction between parents and children.
+
+3. Homework Adds To an Already Full-Time Job
+
+School is like a full-time job for students, as they generally spend over 6 hours each day in class. In addition, students also often have extracurricular activities such as sports, music, or art that are just as important as their traditional courses.
+
+Adding on extra hours to all of these demands is a lot for children to manage and prevents students from having extra time to themselves for various creative endeavors. In addition, homework prevents self-discovery and learning new skills outside of the school system. This is one of the main disadvantages of homework.
+
+4. Homework Has Not Been Proven To Provide Results
+
+Numerous surveys demonstrate that homework contributes to a negative attitude toward school and does not contribute to greater academic achievement.
+
+Whether homework makes students better at certain subjects has not been sufficiently proven. Even if students get outside assistance, there is no real proof that homework helps students.
+
+In most situations, we have seen that it’s quite a challenging task to complete the homework, especially when there is some emergency at the house. Also, most of the students acquire fantastic grades without doing regular homework. Extra time for studies does not always mean acquiring better grades; instead, decent quality and concentration should be maintained to get good marks. As it is always said that quality over quantity.
+
+In regards to homework, accurate practice is simply not reliable. Homework can cause negative outcomes if misinterpreted, especially since students and their parents rely on it. This is one of the cons of homework.
+
+Children often copy from each other or read off the internet to avoid doing their homework at home. Likewise, students prefer to cheat in class rather than do their homework at home.
+
+5. Causes unnecessary stress
+
+Students can feel anxious, stressed, and unmotivated just by uttering the word “homework.” Likewise, if students are overburdened with work and tasks become increasingly challenging, this can cause anxiety, stress, and unmotivated among them. The result can be sleep deprivation and behavioral changes, while homework can become associated with the negative aspects of schooling.
+
+Hire our certified assignment experts for homework help in the USA
+
+Parents and teachers often clash over the issue of schoolwork, leaving the student stuck in the middle with little input. The pros and cons of homework are valid, yet the answer does not seem to be a simple one. Everyone is ultimately concerned about the success of their students.
+
+However, if you need any assistance regarding homework and seek reliable assignments to help you in this regard, nothing is better than students assignment help. We are the most reliable firm, always ready to help the students acquire higher grades and also enable them to complete the homework on time. Therefore, if you require any sort of homework help USA quickly reaches out to us through our email address.
+
+Consult with USA Essay Writers to Write your College Essay
+<USER>

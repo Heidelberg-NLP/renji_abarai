@@ -1,0 +1,100 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: two - state solution acceptable solution israeli - palestinian conflict
+Text: Extended-protected article
+
+Two-state solution
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+
+A peace movement poster: Israeli and Palestinian flags and the words peace in Arabic and Hebrew. Similar images have been used by several groups supporting a two-state solution to the conflict.
+Map of the West Bank and the Gaza Strip, 2011. Agreeing on acceptable borders is a major difficulty with the two-state solution.
+Area C of the West Bank, controlled by Israel, in blue and red, December 2011
+
+The two-state solution to the Israeli–Palestinian conflict envisions an independent State of Palestine alongside the State of Israel, west of the Jordan River. The boundary between the two states is still subject to dispute and negotiation, with Palestinian and Arab leadership insisting on the "1967 borders", which is not accepted by Israel. The territory of the former Mandate Palestine (including West Jerusalem) which did not form part of the Palestinian State would continue to be part of Israel.
+
+In 1947, the United Nations General Assembly adopted United Nations Partition Plan for Palestine, which was rejected by Arab leaders.[1] In 1974, a UN resolution on the "Peaceful settlement of the question of Palestine" called for "two States, Israel and Palestine … side by side within secure and recognized borders" together with "a just resolution of the refugee question in conformity with UN resolution 194".[2][3][4] The borders of the state of Palestine would be "based on the pre-1967 borders". The latest resolution, in November 2013, was passed 165 to 6, with 6 abstentions;[5] with Israel and the United States voting against.[6]
+
+The Palestinian leadership has embraced the concept since the 1982 Arab Summit in Fez.[7] Israel views moves by Palestinian leaders to obtain international recognition of a State of Palestine as being unilateral action by the Palestinians and inconsistent with a negotiated two-state solution.
+
+It was reported in 2009 that although polls had consistently shown Israeli and Palestinian majorities in favor of a negotiated two-state settlement, there was "growing disillusionment" with a two-state solution.[8] In 2014, 60% of Palestinians said the final goal of their national movement should be "to work toward reclaiming all of historic Palestine from the river to the sea".[9] A poll published in 2021 by the Palestinian Center for Policy and Survey Research revealed that only 39% of Palestinians support the two-state solution.[10] Another report published in 2021 by the RAND Corporation found that Israelis across the political spectrum opposed a two-state solution.[11]
+
+There have been many diplomatic efforts to realize a two-state solution, starting from the 1991 Madrid Conference. There followed the 1993 Oslo Accords and the failed 2000 Camp David Summit followed by the Taba negotiations in early 2001. In 2002, the Arab League proposed the Arab Peace Initiative. The latest initiative, which also failed, was the 2013–14 peace talks. A 2021 survey of experts found that 52 percent believe that the two-state solution is no longer achievable; 77 percent believe that if not achieved, the result would be a "one-state reality akin to apartheid".[12]
+
+History of the two-state solution
+
+The first proposal for the creation of Jewish and Arab states in the British Mandate of Palestine was made in the Peel Commission report of 1937, with the Mandate continuing to cover only a small area containing Jerusalem. The recommended partition proposal was rejected by the Arab community of Palestine,[13][14] and was accepted by most of the Jewish leadership.
+
+Partition was again proposed by the 1947 UN Partition plan for the division of Palestine. It proposed a three-way division, again with Jerusalem held separately, under international control. The partition plan was accepted by the Jewish leadership. However, the plan was rejected by the leadership of Arab nations and the Palestinian leadership, which opposed any partition of Palestine and any independent Jewish presence in the area. The 1948 Arab–Israeli War for control of the disputed land broke out on the end of the British Mandate, which came to an end with the 1949 Armistice Agreements. The war resulted in the fleeing or expulsion of 711,000 Palestinians, which the Palestinians call Nakba, from the territories which became the state of Israel.[15] Rather than establishing a Palestinian state on land that Israel did not control, the Arab nations chose instead to support the United Nations Relief and Works Agency for Palestine Refugees in the Near East and the Palestinian refugees remained stateless.[16]
+
+UN resolution 242 and the recognition of Palestinian rights
+
+After the 1967 Arab–Israeli war, the United Nations Security Council unanimously passed resolution 242 calling for Israeli withdrawal from the territories occupied during the war, in exchange for "termination of all claims or states of belligerency" and "acknowledgement of sovereignty, territorial integrity and political independence of every state in the area". The Palestine Liberation Organization (PLO), which had been formed in 1964, strongly criticized the resolution, saying that it reduced the question of Palestine to a refugee problem.[17]: 18 
+
+In September 1974, 56 Member States proposed that "the question of Palestine" be included as an item in the General Assembly's agenda. In a resolution adopted on 22 November 1974, the General Assembly affirmed Palestinian rights, which included the "right to self-determination without external interference", "the right to national independence and sovereignty", and the "right to return to their homes and property". These rights have been affirmed every year since.[3]: 24 
+
+PLO acceptance of two-state solution
+
+The first indication that the PLO would be willing to accept a two-state solution, on at least an interim basis, was articulated by Said Hammami in the mid-1970s.[18][19]
+
+Security Council resolutions dating back to June 1976 supporting the two-state solution based on the pre-1967 lines were vetoed by the United States,[20] which supports a two-state solution but argued that the borders must be negotiated directly by the parties. The idea has had overwhelming support in the UN General Assembly since the mid-1970s.[21]
+
+The Palestinian Declaration of Independence of 15 November 1988, which referenced the UN Partition Plan of 1947 and "UN resolutions since 1947" in general, was interpreted as an indirect recognition of the State of Israel, and support for a two-state solution. The Partition Plan was invoked to provide legitimacy to Palestinian statehood. Subsequent clarifications were taken to amount to the first explicit Palestinian recognition of Israel.[22][23]
+
+Diplomatic efforts
+
+In 1975, the General Assembly established the Committee on the Exercise of the Inalienable Rights of the Palestinian People. In 1976, the Committee presented two sets of recommendations, one concerned with the Palestinians' right of return to their homes and property, and the other with their rights to self-determination, national independence and sovereignty. The Security Council discussed the recommendations but failed to reach a decision due to the negative vote of the United States.[17]: 25 
+
+After the First Intifada began in 1987, considerable diplomatic work went into negotiating a two-state solution between the parties, beginning with the Madrid Conference in 1991. The most significant of these negotiations was the Oslo Accords, which officially divided Palestinian land into three administrative divisions and created the framework for how much of Israel's political borders with the Palestinian territories function today. The Accords culminated in the Camp David 2000 Summit, and follow-up negotiations at Taba in January 2001, but no final agreement was ever reached. The violent outbreak of the Second Intifada in 2000 had demonstrated the Palestinian public's disillusionment with the Oslo Accords and convinced many Israelis that the negotiations were in vain.
+
+  Recognition of Israel only
+  Recognition of both Israel and Palestinian State
+  Recognition of Palestinian State only
+
+Possible two-state solutions have been discussed by Saudi and US leaders.[24] In 2002, Crown Prince Abdullah of Saudi Arabia (who would go on to be King from 2005 to 2015) proposed the Arab Peace Initiative, which garnered the unanimous support of the Arab League while Israeli leaders continually refuse to discuss the initiative. President Bush announced his support for a Palestinian state, opening the way for United Nations Security Council Resolution 1397, supporting a two-state solution.[25][page needed][26]
+
+At the Annapolis Conference in November 2007, three major parties—The PLO, Israel, and the US—agreed on a two-state solution as the outline for negotiations. However, the summit failed to achieve an agreement.
+
+Following the conflict that erupted between the two main Palestinian parties, Fatah and Hamas, Hamas took control of the Gaza Strip, splintering the Palestinian Authority into two polities, each claiming to be the true representatives of the Palestinian people. Fatah controlled the Palestinian National Authority in the West Bank and Hamas Governed in Gaza.
+
+The latest initiatives were the 2013–14 Israeli–Palestinian peace talks under the guidance of John Kerry, the United States Secretary of State. These talks also failed to reach an agreement.
+
+Viability
+<USER>

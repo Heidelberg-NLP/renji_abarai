@@ -1,0 +1,112 @@
+<USER>
+Your task is to predict in a given text the rhetorical argument quality, i.e. "well-writtennes": (1) whether the document contains arguments and whether the argument text has a good style of speech, (2) whether the text has a proper sentence structure and is easy to follow, (3) whether it includes profanity, has typos, etc.
+You should return one of the three labels: "high", "medium" and "low".
+
+
+
+Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Todays feminism isn't needed, They have no rights that they need to fight for, And are establishing a bad name for feminism, As if when some of them think that all men should die and that sort. Women have the same rights as men do, So change my mind.
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. This would obviously require so much hard work for it to ever come true but I believe that we could do it, if we joined together as one. There wouldn't need to be countries as we would have only one flag. We would all live together as one. We would be greater, richer and smarter. What do you people think?
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+military spending in uganda should be reduced because takes all of taxpayers money and many people are dying in hospitals
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+There are all kinds of beauty contests for boys as well. They are similar to girl beauty contests in many ways. And, there are other types of beauty-related contests for men, judging their handsomeness and bodies. So beauty contests are not exclusive to females.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Cheerleading is a sport because of the physical activity involved, and it meets all the requirements to be a sport.
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+Beauty pageants are not trying to sexualize children. They are judging children on their beauty and how beautifully they dress and are "made up". Some parents might aim for "sexy", but this does not mean this is a winning formula; it would usually be considered offensive if there was such an over the top attempt. In general, contestants are going for classy, sophisticated, cute, adorable, even if they're only 5 years old.
+<USER>
+<CHAT>
+high
+<CHAT>
+<USER>
+Hell is any place of turmoil and pain...therefore making the center of earth hell...this should be proof enough...
+<USER>
+<CHAT>
+medium
+<CHAT>
+<USER>
+I admit this is clearly my lose to this debate. Everyone, please vote for Xera. She have right to win in this debate. Your argument and logic is more well than mine so I cannot oppose some part of your opinions. But you have already opposed my every arguments. This mean you teach me well in this debate. Thank you for debating with me, Xera. See you next debate. I'll pay back you my debt later in the next debate!
+<USER>
+<CHAT>
+low
+<CHAT>
+<USER>
+Electronic voting machine using RFID
+Successfully reported this slideshow.
+
+Electronic voting machine using RFID
+
+17
+
+Share
+
+Loading in …3
+×
+1 of 18
+8
+
+More Related Content
+
+You Might Also Like
+
+Related Books
+
+Free with a 30 day trial from Scribd
+
+See all
+
+Related Audiobooks
+
+Free with a 30 day trial from Scribd
+
+See all
+
+Electronic voting machine using RFID
+
+  1. 1. Electronic Voting Machine USING RFID
+  2. 2. Reason for choosing RFID in voting….
+  3. 3. Conformation unit (Buzzer) Voting Power Control Unit Display Unit Voting Unit Candidate A Candidate B Candidate C Result Candidate D
+  4. 4. Power supply unit: 230~ V 230 to 19(~) Volts Step down transformer IC 780X (x=5)
+  5. 5. Of our Project……  RFID Transponder and Reader Module  At mega 16 Micro controller
+  6. 6. RFID: Radio Frequency Identification Parts of RFID module:  Transponder  Reader
+  7. 7. RFID Tag or Transponder:
+  8. 8. RFID Reader:
+  9. 9. Overall working function of RFID:
+  10. 10. In This Project Atmega 16
+  11. 11. Key features of Atmega 16 µc:  • • High-performance, Low-power AVR 8-bit Microcontroller Advanced RISC Architecture Up to 6 MIPS Throughput at 16MHz  • • Nonvolatile Program and Data Memories 16k Bytes of In-System Self-Programmable Flash 512K Bytes EEPROM  • • • • Peripheral Features On-chip Analog Comparator Programmable Serial USART 8-channel, 10-bit ADC Byte-oriented Two-wire Serial Interface  • • • Special Microcontroller Features Internal Calibrated RC Oscillator External and Internal Interrupt Sources Six Sleep Modes: Idle, ADC Noise Reduction, Power-save, Power-down, Standby, and Extended Standby
+  12. 12. Schematic Diagram
+  13. 13. Communication Protocol: IC Max232 To convert the TTL/CMOS logic levels to RS232 logic levels during serial communication of microcontrollers with PC PC works on RS232 standards (-25 V to + 25V). The controller operates at TTL logic level (0-5V) • The intermediate link is provided through MAX232. • It is a dual driver/receiver that includes a capacitive voltage generator to supply RS232 voltage levels from a single 5V supply.
+  14. 14. Serial communication:
+  15. 15. Binary logic levels:
+  16. 16. Future Scope Applications: It can be used in taking group decisions where voting is confidential. It can be used in companies, industries, Schools, Colleges or any Private or Government Sectors. It can be used for different purposes not only for voting system. Advantages: Tampering is not possible. Good security can be achieved by using this technology. Process for voting would be very easy.
+  17. 17. Disadvantages: • If Micro controller is damaged, then it’ll be difficult to re install, program and solder the part. • There must be scrutiny of the persons because RFID card is transferable and there can be a chance for a person to come with other person’s card. • Extreme care must be taken to protect the entire circuit/PCB from getting damaged. Future scope: • A timer could be included, which could automatically end the voting after specified duration of time. • Biometric verification of voters, so that automatically it can be insured that one person is voting only onc • It can be made more interactive by adding sound effect (speech) to it. • EEPROM can be used to store the data permanently. • If we make more than one EVM, each to be used at all different locations and the final result is the addition of result of all, we could think of connecting them to communicate with each other and final result can be shown on one of the LCD. • Touch can be implemented in place of switches.
+
+×
+<USER>

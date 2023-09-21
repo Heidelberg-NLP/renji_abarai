@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2bQJqrknMHqqXW8vjtd4vCmQAug",
+  "object": "chat.completion",
+  "created": 1683104296,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2918,
+    "completion_tokens": 27,
+    "total_tokens": 2945
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text presents a collection of quotes from people arguing in favor of requiring vaccines for children, which indicates a pro stance on the issue."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

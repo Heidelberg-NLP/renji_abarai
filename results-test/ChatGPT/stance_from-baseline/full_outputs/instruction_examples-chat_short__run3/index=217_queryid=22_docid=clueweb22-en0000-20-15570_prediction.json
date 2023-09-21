@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W40aFXXTO7VWSgEOnoIhhh8BTOMG",
+  "object": "chat.completion",
+  "created": 1687876260,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text does not provide a clear stance towards the two-state solution, therefore it is labeled as \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2491,
+    "completion_tokens": 22,
+    "total_tokens": 2513
+  }
+}

@@ -1,0 +1,98 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should social security privatize
+Text: Should We Privatize Censorship?
+
+Over the past few decades, the United States has increasingly relied on the private sector to carry out missions that were once considered largely the mission of the state. There are now more private cops (security guards and the like) than public police; there have been about the same number of private contractors carrying out the wars in Afghanistan and Iraq as soldiers. There is a sharp rise in for-profit prisons, and even collecting intelligence and torture have been privatized to some extent. Most recently, major technology companies such as Facebook, Google, and Twitter have been, in effect, deputized as censors. They have been pressured to remove a great variety of messages deemed offensive by large parts of the public and its elected representatives. The result is a legal, ethical, and administrative mess, but it is not easy to develop a viable alternative.
+
+Some argue that because tech corporations are private companies they cannot censor; only the government can. The First Amendment states that Congress shall make no law abridging freedom of the press, not that private companies cannot control messages they host or circulate. Moreover, one company might have no objection to posting a message that another company has banned. Only the government can prevent access to all mediums and thus truly censor.
+
+However, given that these companies control a very large amount of the communication space—50% or more in some categories—if they restrict someone’s access, that person’s power of self-expression is greatly limited. Anyone banned from Google, Facebook, and/or Twitter will find it very difficult to reach the masses through social media.
+
+For many years after their inception, tech companies largely avoided responsibility for the content posted on their sites. The tech giants argued that they are platforms, not publishers. The Communications Decency Act of 1996 sought to regulate indecent material, chiefly pornography, on the internet. Free speech advocates, fearful that such regulation would have a chilling effect on all speech, convinced Congress to include this language in the bill: “No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.” In other words, online service providers are not liable for content posted by third parties.
+
+Over the years that followed, various critics argued that the tech companies should control content. These sentiments reached a high point following the revelations about Russia’s meddling in the 2016 US elections to sow social discord and division through coordinated social media misinformation campaigns. However, Congress has been reluctant to regulate anything involving speech and has in effect shifted responsibility to the tech companies.
+
+Having heard the message, tech companies have taken several key steps to control content. They hired tens of thousands of moderators to continuously review posts and remove violent, lewd, hateful, and misleading material. The companies are also increasingly using artificial intelligence (AI). Facebook uses image matching, language-understanding software, cluster group targeting, and fake account detection to crack down on repeat offenders espousing radical ideology. Facebook developed DeepText, which it describes as “a deep learning-based text understanding engine that can understand with near-human accuracy the textual content of several thousand posts per second, spanning more than 20 languages.” Instagram trained the DeepText algorithm to identify words and comments deemed toxic and to filter them out without human input. Google uses AI to scrub terrorist videos from YouTube, reporting that it is faster and more accurate than human moderators.
+
+Finally, tech companies are also relying on community engagement, with users flagging offensive speech for review by companies’ moderators. And some companies are partnering with third-party fact-checkers, such as Snopes and Politifact, to review flagged fake news content.
+
+Administrative challenges
+
+All these censoring activities present major challenges for tech companies due to the large volumes involved—billions of unique posts every day. In some cases human moderators have as little as 10 seconds to review a post. They can hardly take much longer given the astronomical number of posts that must be reviewed. The work pays poorly and is psychologically stressful. Furthermore, different companies have different standards for what is considered a violation of their user agreement. Thus, for a while Alex Jones was silenced on Facebook, but his voice was carried by Twitter.
+
+Companies face difficulty moderating material in countries where they do not have sufficient language experts to properly review content. Facebook often relies on translation software in such countries, but that is far from foolproof. In Bosnia, a failure to properly translate text resulted in perpetrating the falsehood that an imprisoned war criminal was still a fugitive.
+
+Another pressing problem is that companies face different demands in different countries. For instance, hate speech is banned in many western democracies but not in the United States. Hence, citizens in countries in which some content is banned can nevertheless access it on the World Wide Web, using various applications to circumvent censorship.
+
+No wonder the results often seem capricious both in terms of what is allowed to stand and what is blocked.
+
+The tech companies seem to be limiting online speech much more than Congress and the courts restrict offline content. Although there are no comprehensive statistics on how much online content is being removed, the data that are emerging indicate the expansive scope of the action involved. The types of content being removed include:
+
+Hateful content. In one typical month (September 2018) YouTube removed 94,400 videos it deemed to violate guidelines on “violent or graphic” content. Between January and June of 2018 Twitter suspended or banned more than half a million accounts for abusive or violent content. In the third quarter of 2018 Facebook took action on 15.4 million posts with violent or graphic content, meaning they removed content, put a warning screen over content, disabled offending accounts, notified law enforcement, or used some combination of these measures.
+
+Specific examples include:
+
+  • Right-wing conspiracy theorist Alex Jones was banned from Facebook, Apple, YouTube, Twitter, and Spotify.
+  • Beatrix von Storch, a lawmaker with the far-right Alternative for Germany party, was blocked from Facebook and Twitter for disparaging comments against Muslims.
+  • Alt-right blogger Chuck Johnson was banned by Twitter for asking for donations to “take out” a political activist.
+  • Roger Stone, a right-wing political operative, was banned by Twitter for apparent threats against CNN hosts.
+  • Facebook banned the violent right-wing group Proud Boys.
+  • Facebook removed a misleading video about immigrants produced by Donald Trump’s political team.
+
+Note that all these voices are tolerated in other media because the United States does not ban hate speech, and political speech is considered to command an especially high level of protection.
+
+Sexually charged content. Between July and September of 2018 YouTube took down more than 200,000 videos that violated nudity or “adult content standards”; between January and June of 2018 Twitter took action on 21,000 accounts for violating its child sexual exploitation policy; and during the third quarter of 2018 Facebook removed more than 8.7 million pictures containing child nudity.
+
+Specific examples include:
+
+  • Actress Chelsea Handler’s nude pictures were removed from Instagram, but not Twitter.
+  • Mother Jordan-Lee Jones had a picture of her naked daughter playing on the beach removed from Instagram.
+  • Provocateur Martin Shkreli was permanently suspended from Twitter for harassing a female journalist.
+  • Rapper R. Kelly’s music was removed from Spotify and Apple as a result of his sexual abuse charges.
+  • Actress Rose McGowan was temporarily suspended from Twitter after she repeatedly tweeted about the producer Harvey Weinstein’s alleged sexual misconduct, including toward her. Twitter explained that McGowan’s account had violated its privacy policy because one of her tweets included a private phone number.
+
+Fake news. After the 2016 US elections and in the run-up to the 2018 midterm elections, several social media companies made a concerted effort to prevent the dissemination of false information on their platforms. As a result, the following actions were taken:
+
+Troubled results
+
+No one seems satisfied with the current state of affairs. Republicans complain that tech companies’ censorship practices reflect a liberal bias, as many more right-wing posts are removed than left-leaning ones. Senator Ted Cruz (R-TX) warned Facebook’s chief executive, Mark Zuckerberg, during a 2018 congressional hearing that his company would lose protections provided by the Communications Decency Act if its moderators revealed political bias.
+
+Breitbart News claims that “YouTube is purging right-wing and independent commentators in the wake of the Parkland High shooting while admitting that it is mistakenly banning conservatives,” and runs headlines such as “Facebook Censors Pro-Trump Page as Company Denies Censorship Before Congress.” President Trump tweeted “Social Media is totally discriminating against Republican/Conservative voices. Speaking loudly and clearly for the Trump administration, we won’t let that happen. They are closing down the opinions of many people on the RIGHT, while at the same time doing nothing to others.”
+<USER>

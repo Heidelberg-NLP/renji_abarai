@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7VznaM2B9dxBf2jJYgMY5XsqDMVE4",
+  "object": "chat.completion",
+  "created": 1687860078,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The debated topic is whether high school students have too much homework. The pros include that homework improves student achievement, reinforces learning, and teaches time management skills. The cons include that it can be harmful, disadvantages low-income students, and there is a lack of evidence that homework helps younger children. Additional arguments against homework include that it discourages creative endeavors, encourages sedentary lifestyles, and is often too time-consuming for students to develop important life skills. On the other hand, arguments for homework suggest that it allows parents to be involved with their child's learning, reduces screen time, and creates better communication networks. However, research suggests that excessive homework can lead to student stress, lack of sleep, and an inability to focus in school. Arguments for homework suggest that it is a form of self-regulated learning, with students taking responsibility for managing their own behavior and academic progress. Ultimately, the debate centers around finding a balance between the benefits and drawbacks of homework in terms of student achievement, academic progress, and overall well-being. \n\nWorks Cited:\n- Bembenutty, H. (2009). Self-regulation of learning with and without homework: Relations to self-efficacy, interest, and effort. Journal of Educational Psychology, 101(3), 647-662.\n- Bempechat, J. (2004). The homework experience: Perceptions of low-income youth. Journal of Advanced Academics, 16(2), 220-248.\n- Corno, L. (2000). Looking at homework differently. The Elementary School Journal, 100(5), 529-548.\n- Lexile Measure. (2012). \"Do students get too much homework?\" Reading Plus. \n- ProCon. (September, 2018). \"Is homework beneficial? - Top 3 pros and cons.\" ProCon.org. \n- Ramdass, D., & Zimmerman, B. J. (2011). Developing self-regulation skills: The important role of homework. Journal of Advanced Academics, 22(2), 194-218.\n- Sandra Levy. (April 11, 2017) \"Is Too Much Homework Bad for Kids' Health?\" Healthline. \n- Trautwein, U., & K\u00f6ller, O. (2003). The relationship between homework and achievement\u2014still much of a mystery. Educational Psychology Review, 15(2), 115-145.\n- Vittana. (2019). \"20 Pros and Cons of Homework.\" Vittana.org. \n- Wendy J. Ponte. (2012). \"Excessive Homework Strains Family Life.\" Do Students Have Too Much Homework?, edited by Judeen Bartos, Greenhaven Press. Opposing Viewpoints in Context."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1966,
+    "completion_tokens": 566,
+    "total_tokens": 2532
+  }
+}

@@ -1,0 +1,113 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: should government allow illegal immigrant become citizen
+Text: Last updated on: 8/31/2017 | Author: ProCon.org
+
+Should the Government Allow Immigrants Who Are Here Illegally to Become US Citizens?
+
+General Reference (not clearly pro or con)
+
+[Editor’s note: “Path to citizenship” (sometimes called “amnesty”) refers to allowing undocumented immigrants to become citizens via a process that may include additional requirements (such as fees, background checks, or additional waiting times) to the naturalization process for documented immigrants. The term “legalization” refers to a process by which undocumented immigrants would be allowed to remain in the country legally but would not be allowed to become citizens or receive the same rights granted to US citizens.]
+
+The Department of Homeland Security (DHS), in a Feb. 2011 release, “Estimates of the Unauthorized Immigrant Population Residing in the United States: January 2010,” available at dhs.gov, stated:
+
+“The unauthorized resident immigrant population is defined as all foreign-born non-citizens who are not legal residents. Most unauthorized residents either entered the United States without inspection or were admitted temporarily and stayed past the date they were required to leave.”
+
+Feb. 2011 - US Department of Homeland Security
+
+HG.org, an online law and government information site, in an article, “Amnesty Law,” accessed on Mar. 10, 2017, available at hg.org, stated:
+
+“Amnesty for illegal immigrants is defined as a governmental pardon for violating policies related to immigration. Immigration amnesty would include the federal government forgiving individuals for using false documentation such as social security numbers, identification cards, and driver’s licenses, in order to gain employment in the U.S. and continue to remain in the country. Amnesty would allow illegal immigrants or undocumented aliens to gain permanent residency in the United States.”
+
+Mar. 10, 2017 - HG.org
+
+Matthew Spalding, PhD, Director of the B. Kenneth Simon Center for American Studies at The Heritage Foundation, in a June 25, 2007 Heritage Foundation essay entitled “Undeniably Amnesty: The Cornerstone of the Senate’s Immigration Proposal,” wrote:
+
+“Amnesty, from the same Greek root as ‘amnesia,’ forgives past crimes and removes them from the record for future purposes. In the context of immigration, amnesty is commonly defined as granting legal status to a group of individuals unlawfully present in a country. Amnesty provides a simple, powerful, and undeniable benefit to the recipient: It overlooks the alien’s illegal entry and ongoing illegal presence and creates a new legal status that allows the recipient to live and work in the country. The textbook example of such an amnesty is the Immigration Reform and Control Act of 1986. The act’s core provision gave amnesty to those who could establish that they had resided illegally in the United States continuously for five years by granting them temporary resident status, which in 18 months was adjustable to permanent residency, which led to citizenship five years later.”
+
+June 25, 2007 - Matthew Spalding, PhD
+
+The Center for Media and Democracy, in a Aug. 10, 2008 article, “Illegal Immigration US,” available at sourcewatch.org, stated:
+
+“Illegal immigration (also referred to unauthorized or undocumented immigrants) refers to the migration of people across national borders in a way that violates the immigration laws of the destined country.”
+
+Aug. 10, 2008 - Center for Media and Democracy
+
+Francine Kiefer, MFA, Staff writer and Congressional Correspondent for The Christian Science Monitor, in a Jan. 21, 2014 article, “Immigration Reform 101: How Is ‘Legal Status’ Different from Citizenship?,” available on the Christian Science Monitor website, stated:
+
+“Gaining legal status would likely mean three things for people now living in the US illegally… First, they would no longer be subject to deportation solely because they’re in the country illegally, as long as they are law abiding in other ways. Second, they would be authorized to work. Third, they would have the ability to travel in and out of the United States. At least 60 percent of the illegal population has been in the US for more than 10 years… and are unable to return to their home countries to visit family or for other reasons…
+
+[A] path to citizenship for illegal immigrants… [means that as] naturalized citizens, they would be eligible to receive government benefits, such as unemployment insurance and Social Security. They could vote. And they would be eligible for special immigration privileges, such as being able to bring family members into the country. If they commit a crime, they can’t be deported.
+
+These privileges of citizenship would not apply to people with legal status.”
+
+Jan. 21, 2014 - Francine Kiefer, MFA
+
+Jacqueline Bhabha, JD, Executive Director of the Harvard University Committee on Human Rights Studies, in a June 17, 2007 National Public Radio “Weekend Edition Sunday” interview entitled “Immigration or Amnesty?,” stated [as transcribed by ProCon.org]:
+
+“Amnesty is an act which erases all previous legal remembrance, so it is the situation where you are already wiping the slate clean. The term is loaded because it is used by different parties in debates to signal a particular position so… in the current immigration debate for example, it is used to suggest a sort of forgiving of law-breaking. It is used in a loaded way to suggest that we are meant to be a law-abiding society, but we are not really playing by our own rules.”
+
+June 17, 2007 - Jacqueline Bhabha, JD
+
+Demetrios G. Papademetriou, PhD, Director of the Migration Policy Institute (MPI), in a Sep. 1, 2005 Migration Policy Institute essay entitled “The Global Struggle with Illegal Migration: No End in Sight,” offered the following explanation:
+
+“Illegal immigration takes several forms, four of which are the most common:
+
+1. Undocumented/unauthorized entrants: These are nationals of one state who enter another state clandestinely. Most such entrants cross land borders, but sea routes are also employed regularly, and wherever inspection regimes are permeable, so are air routes. In all instances, the entrant manages to avoid detection and hence, inspection…
+
+2. Individuals who are inspected upon entry into another state, but gain admission by using fraudulent documents: The fraud in question may involve the person’s identity and/or the documentation in support of admission. A variant of this class of entries involves the making of fraudulent asylum claims where issues of identity, documentation, and the narrative in support of the asylum claim may be falsified.
+
+3. Violators of the duration of a visa: These include individuals who enter another state properly but ‘willfully’ overstay their period of legal stay, thus lapsing into irregular status.
+
+4. Violators of the terms and conditions of a visa: Nationals of one state who enter another state with the proper documents and procedures, but at some point violate the terms of their visa. The most frequent such violation is the acceptance of employment. In a nearly institutionalized variant of such violation, language schools in some countries, such as Japan, have been notorious for admitting students who actually spend their time working. Another variant of this class of violation is when persons with special visa privileges — such as holders of ‘border crosser visas’ that allow border residents from an adjacent country to reside and be employed in the other country within strictly prescribed time and geographic parameters — systematically abuse these parameters.”
+
+Sep. 1, 2005 - Demetrios Papademetriou, PhD
+
+The American Friends Service Committee, a religious social justice advocacy group, in a report entitled “‘Legalization’ or ‘Amnesty’? Understanding the Debate – What’s the Difference Between Comprehensive Immigration Reform, Legalization, and Amnesty?,” (accessed Sep. 26, 2007) from its website, explained:
+
+“Most people — immigrants, advocates, and policy makers — refer to the measures adopted in 1986 as an ‘amnesty’… In the years since the passage of The Immigration Reform and Control Act of 1986 (IRCA), the word ‘amnesty’ has become a political hot potato — tossed around by proponents and opponents of the concept in order to label the other side.
+
+Immigrants and advocates who support amnesty are of two minds about the term ‘amnesty.’ Some say that ‘amnesty’ means extending LPR [legal permanent residency status] to undocumented immigrants… In addition, it is a term that immigrant communities understand, especially the Spanish-speaking community with the translation ‘amnistía.’ Within the immigrants’ rights community, others argue that, although they also support granting LPR status to undocumented immigrants, legislators in Congress are unwilling to even begin a conversation if the term ‘amnesty’ is used. Therefore, they prefer the term ‘legalization.’ Some would also say that there is a substantive difference between the concepts of ‘legalization’ and ‘amnesty,’ in that ‘legalization’ would include a more stringent application process or other provisions, including measures to regulate future flows of migration. At the same time, however, others would argue that the concepts are exactly the same; the difference is simply the term. Proponents of the term ‘legalization’ argue that ‘amnesty’ implies ‘forgiveness’ for a ‘crime.’ Immigration, they believe, should not be seen as a crime. Proponents of the term ‘amnesty’ say that no human being is illegal, and so they do not need to ask for ‘legalization.’ ‘Amnesty,’ they believe, is the more more appropriate term, because it asks forgiveness for breaking a law, albeit an unjust law. Amnesty International, for example, has been using the term for years, but it does not cast political prisoners in a negative light. And so, the debate continues.”
+
+Sep. 26, 2007 - American Friends Service Committee (AFSC)
+
+PRO (yes)
+
+Pro
+<USER>

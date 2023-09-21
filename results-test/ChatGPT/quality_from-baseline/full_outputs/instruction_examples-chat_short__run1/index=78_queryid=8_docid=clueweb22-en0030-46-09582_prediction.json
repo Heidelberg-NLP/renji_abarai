@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7Vz3p0GFBxdMNOFt43Y0AyRYs3Czf",
+  "object": "chat.completion",
+  "created": 1687857241,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm sorry, but there is no clear rhetorical argument quality present in this text. It appears to be an essay or article discussing both sides of the abortion debate."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2495,
+    "completion_tokens": 33,
+    "total_tokens": 2528
+  }
+}

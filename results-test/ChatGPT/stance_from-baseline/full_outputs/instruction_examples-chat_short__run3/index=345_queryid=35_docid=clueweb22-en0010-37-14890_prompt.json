@@ -1,0 +1,121 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Do violent video games contribute to youth violence?
+Text: Do Violent Video Games Contribute to Murder? | Psychology Today
+Skip to main content
+
+Verified by Psychology Today
+
+Do Violent Video Games Contribute to Murder?
+
+Psychologists suggest some violent video games increase aggression.
+
+Various UK newspapers report that the pupil accused of stabbing teacher Ann Maguire to death is a fan of a violent video game promoted with the catchphrase "prepare to die".
+
+Ann Maguire was a 61-year-old teacher who was stabbed to death in the UK while teaching a Spanish lesson on 28 April 2014. The perpetrator was 15 years old when he committed the murder, and was jailed for life on 3 November 2014.
+
+Raj Persaud
+Source: Raj Persaud
+
+The accused apparently relished 'Dark Souls 2', in which a cursed character uses medieval weapons to kill. Police confirm that the suspect's online activities were investigated. The prospect of future legal regulation of video games was raised by an announcement from 10 Downing Street: 'to do everything possible to prevent a repeat of the murder of Ann Maguire'.
+
+Regulation or restriction of video games might be electorally popular with middle-aged voters who probably, reflexively, disapprove of youth. And the young tend not to vote.
+
+Psychologist Tobias Greitemeyer from the University of Innsbruck, Austria, one of the world's leading authorities on the link between violent video games and real world aggression, has just published results from a new study entitled, 'Intense acts of violence during video game play make daily life aggression appear innocuous: a new mechanism'.
+
+The research published in the 'Journal of Experimental Social Psychology', was inspired by a paradox - players usually deny that violent computer games make them aggressive, yet Greitemeyer points out that with aggressive gaming, the most recent comprehensive review of past psychological academic research suggests links with hostile thoughts, mood and behaviour.
+
+Many psychologists believe vicious play dehumanises adversaries and desensitises players to savagery. But how much is any effect found down to those who were antagonistic before they started playing, being drawn to intimidating amusements?
+
+In many violent video games, Greitemeyer points out, players use weapons such as guns or missiles to slay as many victims as possible. The psychologist argues that after causing such serious mayhem during game play, real life events such as shouting at, or shoving others, might be perceived as relatively non-aggressive. In contrast, those who don't encounter violent video games are more likely to perceive daily life aggression as much more hostile.
+
+Raj Persaud
+Source: Raj Persaud
+
+We usually restrain ourselves from yielding to savage impulses. However, when such desires are seen as relatively harmless, the impulse is less likely to be squelched. For instance, a slap in a real-life dispute might appear innocuous compared to homicide (during video game play), and so you might inhibit less the urge to punch in real life.
+
+article continues after advertisement
+
+This comparison theory suggests that performing intense violent acts during video game play leads to lowered appreciation of the nastiness of subsequent real-world behaviour. This biased perception in turn increases the possibility of aggression.
+
+Greitemeyer's experiments found that after performing intense acts of violence during video game play, one's own daily life aggressive behaviour appears relatively harmless.
+
+But would playing violent games render you more aggressive to others in the real world? How to create the ethical opportunity to express hostility in the psychology laboratory was solved by seeing how much hot chilli sauce game players subsequently administered to another person.
+
+Participants played a randomized assigned violent (Wolfenstein) or neutral (Tetris) video game for 15 minutes, then were asked to administer hot chilli sauce, after being told that sauces would be tested in context of another marketing study, by individuals who didn't like hot spices.
+
+Gamers were then shown six bottles containing between 5ml and 100ml of the hot chilli sauce, being asked to administer one. They were further told that tasters would have to consume all, and that they would never learn who administered what.
+
+Participants who played the belligerent game were more aggressive with the chilli they administered for others to consume, compared with those in the neutral condition.
+
+article continues after advertisement
+
+Tobias Greitemeyer concludes that his experiments reveal acts such as taking others' things by force, or insults, are perceived as less aggressive after playing a violent video game. This biased perception of what counts as aggressive in turn could account for increased aggressive behaviour after violent video game play.
+
+But before video games are condemned out of hand, it's important to note that psychologists find the impact of games differs dramatically depending on the kind of game, and how it's played.
+
+Another new study entitled, 'Effects of cooperative gaming and avatar customization on subsequent spontaneous helping behavior' found that participants who cooperated in that game play mode, picked up signiﬁcantly more pens spilled by the confederate afterwards, than those who had competed.
+
+The authors of the study, Igor Dolgov, William Graves, Matthew Nearents, Jeremy Schwark, and Brooks Volkman, also found sometimes a greater positive effect for those who played using customized or generic avatars (digital representations of the players in the game environment).
+
+The authors based at New Mexico State University, point out that previous research has found avatar customization ampliﬁes the negativity to others associated with playing aggressive video games. Other psychologists have speculated that avatar customisation and similar virtual reality gaming experiences could be leading to the emergence of 'virtual selves'. Gamers may be experimenting with becoming contrasting personalities to their real lives. We don't yet know the potential long term impact of this on behaviour.
+
+Raj Persaud
+Source: Raj Persaud
+
+However, as Igor Dolgov, Brooks Volkman and colleagues point out in their study, the Entertainment Retailers Association UK report for 2012 shows that video game titles accounted for 53% of online media sales and nearly 40% of the total media market (rivaling video sales e.g., DVD, Blue-ray, digital downloads for the ﬁrst time). And they also point out that nearly 90% of children and teens play video games regularly, so these amusements could yet have massive impacts on the future of behaviour.
+
+article continues after advertisement
+
+The authors believe that their findings and others suggest that game structure, particularly whether a game involves cooperation, has greater implications for future behaviour than game content. They conclude the worldwide emergence of multi-player gaming may even have unexpected positive pro-social beneﬁts.
+
+Tobias Greitemeyer points out that ultraviolent video games depictions of human injury and death are becoming ever more realistic. Daily life aggression might appear even more innocuous compared to what is experienced in these newer games. The effects of ultraviolent video games on aggressive behaviour may therefore be even more pronounced.
+
+Follow Dr Raj Persaud on Twitter: www.twitter.com/@DrRajPersaud
+
+Raj Persaud and Peter Bruggen are joint podcast editors for the Royal College of Psychiatrists and also now have a free app on iTunes and Google Play store entitled ‘Raj Persaud in conversation’, which includes a lot of free information on the latest research findings in mental health, plus interviews with top experts from around the world.
+
+Download it free from these links:
+
+https://play.google.com/store/apps/details?id=com.rajpersaud.android.ra…
+
+https://itunes.apple.com/us/app/dr-raj-persaud-in-conversation/id927466…
+
+advertisement
+<USER>

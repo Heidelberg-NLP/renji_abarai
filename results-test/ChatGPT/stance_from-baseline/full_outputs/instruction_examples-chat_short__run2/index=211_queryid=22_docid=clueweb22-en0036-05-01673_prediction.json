@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7W2aEDEn5uEaI7Q8S1k1jjRu01JYw",
+  "object": "chat.completion",
+  "created": 1687870782,
+  "model": "gpt-3.5-turbo-0301",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "The text does not provide a clear stance, it is a general reference to archived articles. Therefore, it is \"none\"."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2784,
+    "completion_tokens": 25,
+    "total_tokens": 2809
+  }
+}

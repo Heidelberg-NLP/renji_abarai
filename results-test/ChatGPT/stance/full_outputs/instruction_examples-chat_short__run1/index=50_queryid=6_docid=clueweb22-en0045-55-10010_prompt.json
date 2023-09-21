@@ -1,0 +1,104 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: college education worth
+Text: Is College Education Worth the Cost? | Edvisors
+Skip Navigation
+School Search Form
+Find Loans
+After Navigation
+Home Advice On Planning for College Benefits of College Is College Education Worth the Cost?
+
+Is College Education Worth the Cost?
+
+Although there are contradictory claims about whether college is worth the cost, a college education is one of the most reliable paths to financial success for students who graduate. The debate is often divided along political lines, perhaps, due in part to the voting patterns of college graduates. But, there is clear evidence demonstrating a wage premium and lower unemployment rates for people who have graduated from college.
+
+ 
+
+ 
+
+Wage Premium for College Degrees
+
+Annual income rises with higher educational attainment. This chart shows mean annual earnings by educational attainment, based on data from the U.S. Census Bureau. College graduates have higher annual earnings. For example, people with at least a Bachelor’s degree have annual earnings that are double the earnings of people without a college degree.
+
+Mean Annual Earnings by Educational Attainment Chart
+
+Similar results have been demonstrated for lifetime earnings. A peer-reviewed Journal of Student Financial Aid (JSFA) paper by Mark Kantrowitz, The Financial Value of a Higher Education, demonstrated that Bachelor’s degree recipients earn $1.2 million more over a typical work-life than those with only a high school diploma. This lifetime wage premium is conservatively worth about $520,000 on a net present value basis, assuming a 4.812% discount rate. The Federal Reserve Bank of San Francisco reported a similar but more recent result, demonstrating that "the average college graduate earns over $800,000 more than the average high school graduate by retirement age" on a net present value basis, assuming a 6.67% discount rate. An article by David H. Autor in the journal Science, Skills, education, and the rise of earnings inequality among the "other 99 percent," reports that the lifetime earnings premium has been growing over the last three decades.
+
+As noted in a paper from the Brookings Institution, a college education is one of the best investments a student can make, with a better return on investment and more reliable returns than most other investments. The annual return on investment is between 10% and 20%, not just for the student, but also for the federal government. The federal income tax paid by a college graduate is more than double the federal income tax paid by someone with just a high school diploma.
+
+College may be expensive, but not going to college is even more expensive. Not only has the earnings premium of having a college degree continued to increase, but the average earnings of people without a college degree has been decreasing, according to a report from Pew Research (PDF).
+
+Lower Unemployment Rates for College Graduates
+
+College graduates have lower unemployment rates, and the unemployment rates decrease with higher educational attainment. This chart shows unemployment rates by educational attainment, based on data from the Bureau of Labor Statistics (BLS).
+
+Unemployment Rates by Educational Attainment Chart
+
+College graduates are more likely to find jobs, even during an economic downturn.
+
+Nuances
+
+There are, however, a few nuances. Most of the data presented above is for students who graduate from college. Students who go to college but do not graduate may not get as much of an earnings and employment benefit. For example, undergraduate students who drop out are four times more likely to default on federal student loans (16.9% vs. 3.9%) and account for almost two-thirds of defaults (62.9% of defaults dropped out of college, 28.2% graduated within 6 years and 8.9% were still enrolled after 6 years), based on data from the 2009 follow-up to the 2003-04 Beginning Postsecondary Students longitudinal study (BPS:04/09).
+
+The results are also influenced by academic major, gender and race. U.S. Census Bureau data, as analyzed by the Center for Education and the Workforce at Georgetown University, demonstrates that students who graduate with degrees in science, technology, engineering and mathematics (STEM) earn more than students who graduate with degrees in the humanities. A Bachelor's degree in nursing pays better than a degree in underwater basket-weaving. Payscale.com's College ROI Report similarly demonstrates a lifetime wage premium for college graduates with degrees in STEM. U.S. Census Bureau data also demonstrate that female college graduates earn about two-thirds as much as male college graduates and that minority college graduates earn about four-fifths as much as white college graduates. The College Board report, Education Pays, provides additional data about the financial benefits of a college degree by gender and race.
+
+The financial benefits of a college education are also influenced by the type of college and the amount of educational debt. Students who graduate from one of the most elite private non-profit colleges have the greatest dollar return on investment, according to Payscale.com. But, students who graduate from an in-state public college have the greatest rate of return on investment because the lifetime earnings are only slightly lower than at the elite private non-profit colleges while the cost is much lower.
+
+It is important to keep student loan debt in sync with expected annual income after graduation. Education debt may be good debt, because it is an investment in your future, but too much of a good thing can hurt you. As debt at graduation rises, the financial benefit of a college education may not yield as much of an advantage. This chart shows that debt at graduation is growing, and growing faster than net price as more of the burden of paying for college is shifted from the federal and state governments to students and their families.
+
+Growth in Net Price and Student Debt Chart
+
+This chart shows that students who graduate from higher-cost colleges are more likely to graduate with student loan debt and more of it. Each $10,000 increase in college costs corresponds to about a $3,000 increase in debt at graduation. Over any 17-year period, total college costs will triple and the net price will more than double.
+
+Annual Cost of Attendance vs Debt at Graduation Chart
+
+The age of the college student also matters. A college degree does not yield as much of a wage premium for people who go to college when they are older, because there is a shorter time horizon to repay student loan debt and benefit from the increased wages. Undergraduate students who are close to retirement age are more likely to default on their federal student loans than traditional-age college students. Older students should borrow no more than they can afford to repay in ten years or by retirement, whichever comes first.
+
+Arguments that there is an oversupply of college graduates are based on a specious analysis of the number of college graduates employed in occupations that supposedly do not require a college degree, such as taxi drivers and janitors with Bachelor’s degrees. This analysis fails to consider that during an economic downturn, people who have more education take jobs away from people who have less education, and some of these jobs require a college degree because they involve management duties or the details of the position. Getting a job as a janitor at a nuclear power plant, for example, probably requires more education than a janitor at a secondary school. Even among the jobs that do not require a college degree, people who have a college degree earn more than people who do not have a college degree.
+
+Email This Article
+
+Related Content
+
+facebook sharing button
+twitter sharing button
+email sharing button
+arrow_left sharing button
+arrow_right sharing button
+<USER>

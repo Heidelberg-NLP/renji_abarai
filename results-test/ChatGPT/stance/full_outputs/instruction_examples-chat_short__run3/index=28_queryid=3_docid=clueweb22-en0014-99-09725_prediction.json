@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C69XPa7euWyb3i7FMUazLCGL4SBt",
+  "object": "chat.completion",
+  "created": 1683117943,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 1925,
+    "completion_tokens": 41,
+    "total_tokens": 1966
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "There seems to be mixed opinions in the text regarding whether insider trading should be allowed or not, but overall there seems to be a pro stance towards insider trading. Therefore, my label would be \"pro\"."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

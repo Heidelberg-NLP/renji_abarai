@@ -1,0 +1,68 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should gay marriage be legal?
+Text: This article exists as part of the online archive for HuffPost Canada, which closed in 2021.
+
+David Sedaris: Gay Marriage Should Be Legal, But Gay People Shouldn't Marry (VIDEO)
+
+The bestselling author and contributor to "This American Life," who has written extensively about what it was like to grow up as a gay person in North Carolina, shared his surprising reason for not wanting gay people to tie the knot on "George Stroumboulopoulos Tonight" last week.
+
+"See, I wish that gay marriage would be legal everywhere, but that no gay people would act on it. because, look. nobody wants to go to anybody's wedding," Sedaris said. "Nobody wants to get on a plane, go halfway across the country, and wear clothes that they don't feel comfortable in, and choose between the beef and the chicken, and sit in a loud room where a horrible band is playing way too loud, and they're getting their picture taken ... nobody wants that."
+
+As the summer wedding season draws to a close, with its myriad expenses and demands on time, we can see where he's coming from.
+
+Sedaris was on the show to promote his new book "Let’s Explore Diabetes With Owls," another collection of the satirist's trademark essays (you can see the full interview here).
+
+One piece in the new book, highlighted in The New York Times review, features a monologue from a straight man who is outraged about New York State legalizing gay marriage. He's so mad he starts killing his own offspring, with a ridiculous explanation.
+
+“The high jinks in New York made a sham of my marriage, so it logically made the fruits of that marriage meaningless as well,” the fictional man says about shooting his daughter.
+
+The man subsequently ends up in jail with an undocumented Hispanic cellmate, and the monologue ends with an unforgettable line: “I’m here to tell you that, as long as you keep your eyes shut, it’s really not that bad.”
+
+Sedaris has lived in France and the U.K., where gay marriage is legal, but has yet to wed his partner Hugh Hamrick. Sedaris told The Daily Beast in 2008 that they are the type of couple that lives together but will never marry, while joking he would do anything to save money.
+
+No better way to do that than to skip the wedding.
+
+"George Stroumboulopoulos Tonight" airs weeknights at 7 p.m. and 11:30 p.m. on CBC Television. You can follow George on the web, Twitter and Facebook.
+
+Popular in the Community
+
+Suggest a correction
+This article exists as part of the online archive for HuffPost Canada. Certain site features have been disabled. If you have questions or concerns, please check our FAQ or contact support@huffpost.com.
+<USER>

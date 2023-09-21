@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7AJVpHz9YPcN4NfCjtT5p3BBt43eZ",
+  "object": "chat.completion",
+  "created": 1682692641,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 778,
+    "completion_tokens": 22,
+    "total_tokens": 800
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This text cannot be labeled as it only provides the abstract for an article and does not present any rhetorical argument."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

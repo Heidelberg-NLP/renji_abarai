@@ -1,0 +1,91 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: electronic voting machine improve voting process
+Text: Electronic voting machine using RFID
+Successfully reported this slideshow.
+
+Electronic voting machine using RFID
+
+17
+
+Share
+
+Loading in …3
+×
+1 of 18
+8
+
+More Related Content
+
+You Might Also Like
+
+Related Books
+
+Free with a 30 day trial from Scribd
+
+See all
+
+Related Audiobooks
+
+Free with a 30 day trial from Scribd
+
+See all
+
+Electronic voting machine using RFID
+
+  1. 1. Electronic Voting Machine USING RFID
+  2. 2. Reason for choosing RFID in voting….
+  3. 3. Conformation unit (Buzzer) Voting Power Control Unit Display Unit Voting Unit Candidate A Candidate B Candidate C Result Candidate D
+  4. 4. Power supply unit: 230~ V 230 to 19(~) Volts Step down transformer IC 780X (x=5)
+  5. 5. Of our Project……  RFID Transponder and Reader Module  At mega 16 Micro controller
+  6. 6. RFID: Radio Frequency Identification Parts of RFID module:  Transponder  Reader
+  7. 7. RFID Tag or Transponder:
+  8. 8. RFID Reader:
+  9. 9. Overall working function of RFID:
+  10. 10. In This Project Atmega 16
+  11. 11. Key features of Atmega 16 µc:  • • High-performance, Low-power AVR 8-bit Microcontroller Advanced RISC Architecture Up to 6 MIPS Throughput at 16MHz  • • Nonvolatile Program and Data Memories 16k Bytes of In-System Self-Programmable Flash 512K Bytes EEPROM  • • • • Peripheral Features On-chip Analog Comparator Programmable Serial USART 8-channel, 10-bit ADC Byte-oriented Two-wire Serial Interface  • • • Special Microcontroller Features Internal Calibrated RC Oscillator External and Internal Interrupt Sources Six Sleep Modes: Idle, ADC Noise Reduction, Power-save, Power-down, Standby, and Extended Standby
+  12. 12. Schematic Diagram
+  13. 13. Communication Protocol: IC Max232 To convert the TTL/CMOS logic levels to RS232 logic levels during serial communication of microcontrollers with PC PC works on RS232 standards (-25 V to + 25V). The controller operates at TTL logic level (0-5V) • The intermediate link is provided through MAX232. • It is a dual driver/receiver that includes a capacitive voltage generator to supply RS232 voltage levels from a single 5V supply.
+  14. 14. Serial communication:
+  15. 15. Binary logic levels:
+  16. 16. Future Scope Applications: It can be used in taking group decisions where voting is confidential. It can be used in companies, industries, Schools, Colleges or any Private or Government Sectors. It can be used for different purposes not only for voting system. Advantages: Tampering is not possible. Good security can be achieved by using this technology. Process for voting would be very easy.
+  17. 17. Disadvantages: • If Micro controller is damaged, then it’ll be difficult to re install, program and solder the part. • There must be scrutiny of the persons because RFID card is transferable and there can be a chance for a person to come with other person’s card. • Extreme care must be taken to protect the entire circuit/PCB from getting damaged. Future scope: • A timer could be included, which could automatically end the voting after specified duration of time. • Biometric verification of voters, so that automatically it can be insured that one person is voting only onc • It can be made more interactive by adding sound effect (speech) to it. • EEPROM can be used to store the data permanently. • If we make more than one EVM, each to be used at all different locations and the final result is the addition of result of all, we could think of connecting them to communicate with each other and final result can be shown on one of the LCD. • Touch can be implemented in place of switches.
+
+×
+<USER>

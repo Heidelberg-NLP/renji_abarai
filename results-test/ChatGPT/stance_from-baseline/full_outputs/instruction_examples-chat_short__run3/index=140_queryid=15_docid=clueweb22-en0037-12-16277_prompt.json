@@ -1,0 +1,127 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should animals be used for scientific or commercial testing?
+Text: Last updated on: 4/7/2017 | Author: ProCon.org
+
+Pro & Con Quotes: Should Animals Be Used for Scientific or Commercial Testing?
+
+PRO (yes)
+
+Pro 1
+
+Tara Rabin, Public Affairs Specialist at the Food and Drug Administration, as quoted in a Sep. 10, 2019 article, “E.P.A. Says It Will Drastically Reduce Animal Testing,” by Mihir Zaveri, Mariel Padilla and Jaclyn Peiser, available at nytimes.com, stated,
+
+“While the F.D.A. is committed to doing all that it can to reduce the reliance on animal-based studies, there are still many areas where animal research is necessary. Without the use of animals, it would be impossible to gain some of the important knowledge needed to prevent human and animal suffering for many life-threatening diseases.”
+
+Sep. 10, 2019 - Tara Rabin
+
+Pro 2
+
+Mieke Louwe, PhD, Postdoctoral Researcher at the Research Institute of Internal Medicine an the K.G. Jebsen Inflammation Research Centre at the Oslo University Hospital at Oslo University, stated the following in an Apr. 16, 2016 article “What You Should Know about Animal Research,” available at the Science Nordic website:
+
+“Unfortunately, however, not all animal research can be replaced by animal free experiments.
+
+One reason is that there are no alternative methods that can mimic the whole human body. For instance, studying how cancer spreads from one part of the body to another is impossible with current alternatives. Actually, to study any process that involves more than one organ requires the use of an animal, as the interaction that takes place between different organs is very complex. Up till now it is impossible to replicate this in a cell culture dish…
+
+[T]here’s no doubt that the work to reduce the use of animals in research is something that needs to be further addressed, and hopefully we will be able to find adequate alternatives for all kinds of research. But until we reach that stage, medical progress is not possible without exploiting animals.”
+
+Apr. 16, 2016 - Mieke Louwe, PhD
+
+Pro 3
+
+Juan Carlos Marvizón, PhD, Adjunct Associate Professor for CURE: Digestive Diseases Research Center at the University of California at Los Angeles (UCLA), stated the following in a Jan. 5, 2016 article “Can Animal Research Be Applied to Humans,” available at the Speaking of Research website:
+
+“Physiology is similar enough between humans and the rest of mammals to make it possible to translate discoveries from animals to humans. Furthermore, science has developed the right strategies to investigate human diseases in animals and use the findings to develop medications that work in humans (and in animals as well, in the case of veterinary medicine)…Not everything is smooth sailing, there are some big obstacles in translating discoveries made in animals to humans. Nobody said that science was easy. However, giving up animal research following the advice of animal rights ideologues would the most foolhardy thing to do. The ultimate proof that animal research is able to produce cures for human diseases.”
+
+Jan. 5, 2016 - Juan Carlos Marvizón, PhD
+
+Pro 4
+
+The Royal Society of Biology stated the following in their publication “Animal Research: The Use of Animals in Research,” available at rsb.org.uk (accessed Mar. 7, 2017):
+
+“The Royal Society of Biology supports the use of animals in research when properly regulated and when no alternatives are available. We actively support progress towards a reduction in the use of animals by refining experiments and developing new ways to minimise the use of and replace animals wherever possible – often referred to as the 3Rs.
+
+Research using animals has directly contributed to medical and veterinary benefits including development of vaccines, antibiotics, and pioneering medical procedures that save and improve the quality of many human and animal lives. It has played a vital role in the major medical advances of the past century. It will continue to be necessary for some time as we search for treatments for life-threatening conditions such as cancer, Alzheimer’s and Parkinson’s diseases, AIDS, trauma and many severe infectious and inherited diseases…
+
+[T]here are groups and individuals that wish to stop animal research completely, claiming that it is unnecessary and brings no benefit. However, as set out above, this is not the case.”
+
+Mar. 7, 2017 - Royal Society of Biology (RSB)
+
+Pro 5
+
+Dario L. Ringach, PhD, MSc, Professor of Neurobiology and Psychology at the University of California at Los Angeles, stated in his article titled “The Use of Nonhuman Animals in Biomedical Research,” published in the Oct. 2011 issue of the American Journal of the Medical Sciences:
+
+“The contributions of animal research to medical science and human health are undeniable… When the majority of scientists see the work as scientifically justified, and so do the many professional medical and scientific organizations, the expert views cannot be simply dismissed based on wild claims of ulterior motives, self-interest and conspiracy theories.
+
+Why is the use of animals in scientific experimentation morally permissible? In my view, it is because the moral status of animals is not equal to that of humans and because opting out of the research condemns our patients (both animal and human) to suffer and die of disease. Stopping the research would be, as Darwin correctly judged, a crime against humanity. I have come to appreciate the compassion animal activists have toward animals. Paradoxically, this compassion does not seem to extent to human patients. Hopefully, animal activists will come to accept that our work is driven similarly by an honest attempt at advancing knowledge and alleviating suffering and disease in the world.”
+
+Oct. 2011 - Dario Ringach, PhD, MSc
+
+Pro 6
+
+William T. Talman, MD, Professor of Neurology and Neuroscience at the University of Iowa, stated in his Dec. 7, 2012 Huffington Post article titled “Don’t Have the Wool Pulled over Your Eyes”:
+
+“[C]onsider that over the past 40 years only one Nobel Prize in Physiology or Medicine did not depend on animal research for the fundamental discoveries that led to the prize… A quick look at the list of Nobel Prizes in Physiology or Medicine will give you an idea not only of the vital role played by animals in biomedical research, but also the impact that research has had on humankind…
+
+Sometimes those who seek to outlaw use of animals in research argue that testing new treatments should be done on humans, not animals. Really! Are they ready to volunteer? Even if they were, or even if some were coerced to do so (say prisoners or terminally ill patients), would we really want to move our society in that direction?…
+
+Do not think that the only value coming from studies utilizing animals is development of cures or testing of potential cures. In fact, studying living creatures gives the scientist an opportunity to learn how living systems work. The new knowledge often expands our understanding of human physiology…
+
+It is important to realize that studies in animals are not just done for, and do not just lead to, treatments in humans. Indeed, treatments for other animals also arise from such studies. Consider, for example, that paralyzed dogs have regained their ability to walk as a result of research conducted in rodents and dogs.”
+
+Dec. 7, 2012 - William T. Talman, MD
+
+Pro 7
+
+The Foundation for Biomedical Research (FBR) stated in its article titled “Benefits of Biomedical Research,” available on the FBR website (accessed Oct. 24, 2013):
+
+“From the discovery of antibiotics, analgesics, anti-depressants, and anesthetics, to the successful development of organ transplants, bypass surgery, heart catheterization, and joint replacement, practically every present-day protocol for the prevention, control, and cure of disease is based on knowledge attained through research with laboratory animals…
+
+Animal research has also paid incalculable benefits to animals. It has resulted in many remarkable lifesaving and life-extending treatments for cats, dogs, farm animals, wildlife, and endangered species. Pacemakers, artificial joints, organ transplants, and freedom from arthritic pain are just a few of the breakthroughs made in veterinary medicine thanks to animal research. Dogs, cats, sheep, and cattle are also living longer and healthier lives thanks to vaccines for rabies, distemper, parvo virus, hepatitis, anthrax, tetanus, and feline leukemia. New treatments for glaucoma, heart disease, cancer, hip dysplasia, and traumatic injuries are saving, extending, and enhancing the lives of beloved pets while advanced reproductive techniques are helping to preserve and protect threatened and endangered species.”
+
+Oct. 24, 2013 - Foundation for Biomedical Research (FBR)
+
+Pro 8
+
+Laurie Pycroft, founder of Pro-Test (UK), stated in a June 2011 debate titled “Is Animal Testing Necessary to Advance Medical Research?,” posted on the New Internationalist website:
+
+“Without the ability to use animals in their research, scientists’ efforts would be massively hampered, not only in the direct development of new treatments, but also in the fundamental research which underpins all biomedical knowledge. For example, it was Alan Lloyd Hodgkin and Andrew Huxley’s work on the nerves of squid that elucidated the basis of nervous transmission; and it was John C Eccles’ work on cats’ spinal cords that first incontrovertibly demonstrated the nature of the synapse, earning him a share of the 1963 Nobel in Physiology, along with Hodgkin and Huxley. Without their work on animals, we would know far less about the workings of our own nervous systems and how to treat them…
+
+[R]esearchers have devised many routes of minimizing inter-species variation, such as the use of transgenic animals – genetically altered to replicate human physiology more closely. This has additional benefits, including shorter generation-span, allowing scientists to perform experiments which simply would not be possible using humans (even ignoring ethical concerns)…
+<USER>

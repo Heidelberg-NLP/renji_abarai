@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7C2Zb91Ox7qp0RPcCGNp7mzWbJq5Z",
+  "object": "chat.completion",
+  "created": 1683104183,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 2650,
+    "completion_tokens": 122,
+    "total_tokens": 2772
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "This document appears to be the Insider Trading Policy of a company. It provides an introduction on the securities laws and penalties for violations and the definitions of material nonpublic information. It lists requirements applicable to everyone, including the prohibition on trading securities while aware of material non-public information. There are further details on the prohibitions that may apply to certain types of trades, including stock options exercises, restricted stock vesting, and stock purchases under the dividend reinvestment plan. The policy is designed to prevent insider trading by directors, officers, associates and consultants of the company and ensures the highest level of integrity and ethical standards."
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

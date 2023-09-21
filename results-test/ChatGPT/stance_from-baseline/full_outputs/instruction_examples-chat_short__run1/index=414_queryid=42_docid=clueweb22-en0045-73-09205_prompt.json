@@ -1,0 +1,137 @@
+<USER>
+Given a query, your task is to predict the stance of a given text. You can give one of the following four labels:
+pro: The text provides overall strong pro argumentation towards the topic in the query. 
+con: The text provides overall strong con argumentation towards the topic in the query. 
+neutral: The text contains both pro and con arguments, such that overall the stance can be considered as neutral. 
+none: The text does not contain arguments or opinions towards the topic in the query, does not take the stance, and mostly contains factual information.
+
+You should return one of the four labels: "pro", "con", "neutral" and "none".
+
+
+Query: Do animals have rights?
+Text: Animal testing and the subjugation of animals undermines a fundamental scientific reality; that humans and animals are kin. With humans and Chimpanzees sharing 99.4% of their genetic code, and humans and mice sharing 99% of their genetic code, it is important to recognize that humans are, on a scientific basis, the kin of animals. The testing of animals undermines this scientific understanding by subjugating animals. This is harmful to broader scientific progression in society.
+<USER>
+<CHAT>
+pro
+<CHAT>
+<USER>
+Query: Should the UNO become a world government?
+Text: So I was wondering about how the world would look if we were to have a one world government. The world would have just one government with complete control over all nations. There wouldn't need to be countries as we would have only one flag. We would all live together as one which increases welfare. However, on the other hand, a mismanaged world government can lead to global poverty. 
+<USER>
+<CHAT>
+neutral
+<CHAT>
+<USER>
+Query: Should abortion be illegal?
+Text: Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. An abortion that occurs without intervention is known as a miscarriage or "spontaneous abortion"; these occur in approximately 30% to 40% of all pregnancies. When deliberate steps are taken to end a pregnancy, it is called an induced abortion, or less frequently "induced miscarriage". The unmodified word abortion generally refers to an induced abortion. The reasons why women have abortions are diverse and vary across the world.Reasons include maternal health, an inability to afford a child, domestic violence, lack of support, feeling they are too young, wishing to complete education or advance a career, and not being able or willing to raise a child conceived as a result of rape or incest.
+<USER>
+<CHAT>
+none
+<CHAT>
+<USER>
+Query: Should suicide be a criminal offense?
+Text: Sentencing a criminal should not just be about punishing them for the magnitude of the result of the crime. Instead it should be about reformation and reintegrating the offender so that they can continue their life in future without engaging in any crime. Sentencing someone who attempted to commit suicide does not aid in reintegrating the person. Instead, the person should be given psychological aid. 
+<USER>
+<CHAT>
+con
+<CHAT>
+<USER>
+Query: Should fighting be allowed in hockey?
+Text: fighting in hockey
+
+During the 2016-2017 NHL season, there were 372 fights out of 1,230 games for an average of 0.3 fights per game. So, even if you have only been to a handful of NHL games, it is almost guaranteed that you have seen at least one fight!
+
+Since the introduction of Ice Hockey in 1917, fighting has been part of an NHL hockey game. In 1922, the league incorporated Rule 56 (now Rule 46) stating fighting as an “official part of the game.”
+
+Fast-forward to 2020, and the NHL is the only major sports league out of the big four in the United States (NHL, NBA, NFL, MLB), that, by rule, allows fighting.
+
+However, although it is allowed, it does not mean that Fighting in the NHL comes without consequence. In this article, we will dive into the NHL fighting rules, the pros and cons, along with what the current state, and future, look like for fighting in hockey!
+
+Keep yourself fully protected by checking out our website for a wide variety of hockey helmets and gloves!
+
+Why is Fighting Allowed in Hockey?
+
+Fighting is allowed in hockey because it adds another element to the game that almost all major sports leagues in the world do not have. As mentioned earlier, the NHL is the only major sports league in the United States where fighting is allowed, according to the rulebook.
+
+However, as of late, fans of the game have been questioning the motive behind it remaining in the game. There are good arguments both in favor of, and against, fighting in the NHL, which we will discuss in the next section.
+
+History of Fighting in the NHL
+
+Since the National Hockey League’s creation in 1917, fighting has been part of the game. It wasn’t until 1922 that an official rule was put into place stating that any player involved in a fight would receive a five-minute Major Penalty, instead of automatically being removed from the game completely.
+
+Because of the addition of the rule, fighting in hockey was relatively rare between the 1920s and 1960s. However, in the ’70s and ’80s, fighting in hockey increased 100%, resulting in at least one fight in every game! In the modern era (90’s to present) there is around one fight per three games. This number has declined due to the rapid increase in speed and technicality in today’s game.
+
+Arguments in Favor of Fighting in Hockey
+
+Fighting in Hockey has three main supporting arguments. They are:
+
+1. Accountability
+
+Fighting in hockey helps hold players accountable for certain actions, which usually results in decreased “retaliation-type” plays. For example, if a player from one team hits the other team’s star player, a player from the receiving team will usually send an enforcer out to fight the player who laid the initial hit. The player who laid the initial hit usually knows this is coming.
+
+The fight between the two teams usually settles things as it shows that it will happen if a team tries it again. As a result, fewer “cheap-shots” are taken.
+
+2. Entertainment Value
+
+It's no secret that people love to watch hockey fights. Many people might even go to hockey games solely just for the fights and big hits. This adds a layer of entertainment value to the game that no other major sports league has! There are segments on NHL and ESPN that specifically showcase these types of plays because it draws in a big crowd and attention.
+
+3. Tradition
+
+As mentioned earlier, Fighting in hockey is a concept that has been engraved in the game since the league’s creation. For almost 100 years, Rule 56 states that fighting is allowed in the game, with consequences, however. So, many fans believe that changing, or eliminating, a rule that has been intertwined in the game for 100 years would drastically change the game on many levels.
+
+Fighting in Hockey does have an unwritten code among players, however. It is said that the code essentially dictates who can fight and for what reason. For example, if a player hits a team’s superstar, it is expected of the player who laid the hit to not back down from the potential fight that is likely going to happen. Furthermore, this is also why we see less fighting during NHL Playoff games or NHL All-Star games. There is no rule that specifically says players have to fight less during these games. It is just something that is “agreed-upon” league-wide. If not adhered to, players usually pay the price for it via a fight(s).
+
+To conclude, fighting in hockey gives the game some edge, grit and personality to the game. It gives certain matchups that rivalry feeling that fans and analysts love to buy into.
+
+Arguments Against Fighting in Hockey
+
+It’s no secret that today’s game is faster, stronger, and more advanced than it's ever been. With that comes three main arguments as to why fighting in hockey should be better regulated or eliminated altogether. They are:
+
+1. Injuries
+
+Many believe that fighting in hockey is the cause of serious brain trauma, resulting in concussions, mental health problems, and death in some cases. Fighting in hockey can also potentially cause long-term health problems, like having to heavily rely on pain medication, for example.
+
+2. Bad Example
+
+Many people also believe that fighting in hockey also sets a bad example for young hockey players. While fighting is banned in youth hockey, younger players are easily impressionable and could potentially imitate the tactics used at the professional level. Potential injuries caused by these actions could be even more detrimental to players at this age since their brains are not yet fully developed.
+
+Youth players are constantly watching their favorite NHL players play, so many believe it is up to the NHL players and league to portray the safest game possible for them. Furthermore, youth players could see fighting as a way to resolve conflict, which, at that level, is not ideal.
+
+3. Glorifies Violence
+
+Going hand in hand with argument two is the argument that fighting in hockey helps create a culture that glorifies violence. Believes say that this is not ideal for all levels of hockey, but especially youth players who are still learning the game, that it teaches kids that the way to resolve conflicts on ice is with fighting. Furthermore, some believe that this could lead to participation in other forms of violence.
+
+Official NHL Fighting Rule (Rule 46)
+
+A fight shall be deemed to have occurred when at least one player punches or attempts to punch an opponent repeatedly, or when two players wrestle in such a manner as to make it difficult for the Linesmen to intervene and separate the combatants.
+
+The Referees are provided very wide latitude in the penalties with which they may impose under this rule. This is done intentionally to enable them to differentiate between the obvious degrees of responsibility of the participants either for starting the fighting or persisting in continuing the fighting. The discretion provided should be exercised realistically.
+
+Understanding the NHL Rule
+
+Prior to two players engaging in a hockey fight, it will usually start with an altercation to set it off, whether that be a hit on a team’s superstar, previous “bad blood” between two players, and so on. Additionally, players are not allowed to remove their helmets before the fight starts. Doing so results in a Minor Penalty plus an Unsportsmanlike Conduct Penalty.
+
+Once it is apparent that there will be a fight, the referee will stop play and let the two fight it out. The fight effectively ends once one, or both, of the players hit the ice.
+
+Following the fight, it is to the referees discretion to determine who was the Aggressor and who was the Instigator.
+
+Aggressor: The aggressor is the player who is the winner of the fight, determined by the referee.
+
+The aggressor will receive a Major Penalty and a Game-Misconduct Penalty.
+
+Instigator: The instigator is the player that initiates the fight between himself and another player, whether that be by charging an opposing player and throwing the first punch, or using verbal language to entice an opposing player.
+
+The result is a Minor Penalty, Major Penalty, and a Misconduct Penalty.
+
+The Current & Future State of Fighting in the NHL
+
+As alluded to earlier, we saw a huge spike of fighting in hockey in the 1980s through the mid-1990s. Since then, fighting has tapered off quite a bit. For that, there are a number of different reasons.
+
+The most obvious is how hockey in the NHL is played today. The game is the fastest, and more technical it’s ever been. Since the lockout year in 2005, the NHL wanted to make the game faster and more offensively-driven.
+
+This means that the Enforcer role (guys counted on to get in fights) has essentially been eliminated and replaced by players who are faster, quicker, have better shots, and so on.
+
+Another huge factor is player health and safety. While the game is faster and more skilled, in theory, that means less big hits and fights, but due to the increased pace, hits are arguably much more forceful.
+
+Going forward, fighting in hockey will always be part of the NHL. But the frequency of them could continue to decrease due to teams wanting to always have their most “skilled” guys on the ice as much as possible (instead of enforcers/fighters). These types of players are almost always not the guys you want getting into fights.
+<USER>
